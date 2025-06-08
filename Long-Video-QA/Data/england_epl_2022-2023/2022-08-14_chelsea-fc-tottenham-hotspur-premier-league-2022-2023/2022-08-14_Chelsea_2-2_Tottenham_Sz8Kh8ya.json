@@ -1,0 +1,814 @@
+{
+  "match_info": {
+    "timestamp": "2022-08-14 23:30:00",
+    "score": "2 - 2",
+    "home_team": "Chelsea",
+    "away_team": "Tottenham",
+    "home_formation": "3 - 4 - 2 - 1",
+    "away_formation": "3 - 4 - 2 - 1",
+    "venue": "Stamford Bridge (London)",
+    "capacity": "40 341",
+    "attendance": "39 946"
+  },
+  "referee_data": {
+    "short_name_country": "Taylor A. (Eng)",
+    "first_name": "Taylor",
+    "abbr_last_name": "A",
+    "country": "Eng",
+    "detected_name": "Anthony Taylor"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Tuchel T.",
+        "players_number": "",
+        "Full Name": "Thomas Tuchel",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "50,  (29.08.1973)",
+        "Market Value": "",
+        "unicode": "CQTUFgPk"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Alonso M.",
+        "players_number": "",
+        "Full Name": "Marcos Alonso",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (28.12.1990)",
+        "Market Value": "€2.9m",
+        "unicode": "MLHPrlrj"
+      },
+      {
+        "players_name": "Kovacic M.",
+        "players_number": "",
+        "Full Name": "Mateo Kovacic",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (06.05.1994)",
+        "Market Value": "€37.7m",
+        "unicode": "4f084TL7"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Cucurella M.",
+        "players_number": "32",
+        "Full Name": "Marc Cucurella",
+        "players_rating": 7.2,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (22.07.1998)",
+        "Market Value": "€24.5m",
+        "unicode": "QTynbZd3"
+      },
+      {
+        "players_name": "Havertz K.",
+        "players_number": "29",
+        "Full Name": "Kai Havertz",
+        "players_rating": 7.1,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (11.06.1999)",
+        "Market Value": "€53.0m",
+        "unicode": "rH8BZWiI"
+      },
+      {
+        "players_name": "James R.",
+        "players_number": "24",
+        "Full Name": "Reece James",
+        "players_rating": 7.6,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (08.12.1999)",
+        "Market Value": "€49.6m",
+        "unicode": "nLBC7ERa"
+      },
+      {
+        "players_name": "Jorginho (C)",
+        "players_number": "5",
+        "Full Name": "Jorginho",
+        "players_rating": 6.9,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (20.12.1991)",
+        "Market Value": "€14.3m",
+        "unicode": "t80QsVOt"
+      },
+      {
+        "players_name": "Kante N.",
+        "players_number": "7",
+        "Full Name": "N'Golo Kante",
+        "players_rating": 6.7,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (29.03.1991)",
+        "Market Value": "€10.1m",
+        "unicode": "IkmsHsOR"
+      },
+      {
+        "players_name": "Koulibaly K.",
+        "players_number": "26",
+        "Full Name": "Kalidou Koulibaly",
+        "players_rating": 7.7,
+        "Country": "Senegal",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (20.06.1991)",
+        "Market Value": "€10.9m",
+        "unicode": "hSKz7qT3"
+      },
+      {
+        "players_name": "Loftus-Cheek R.",
+        "players_number": "12",
+        "Full Name": "Ruben Loftus-Cheek",
+        "players_rating": 7.3,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (23.01.1996)",
+        "Market Value": "€24.5m",
+        "unicode": "6DpURWF8"
+      },
+      {
+        "players_name": "Mendy E. (G)",
+        "players_number": "16",
+        "Full Name": "Edouard Mendy",
+        "players_rating": 6.3,
+        "Country": "Senegal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (01.03.1992)",
+        "Market Value": "€9.5m",
+        "unicode": "8zpLkf6p"
+      },
+      {
+        "players_name": "Mount M.",
+        "players_number": "19",
+        "Full Name": "Mason Mount",
+        "players_rating": 7.2,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (10.01.1999)",
+        "Market Value": "€42.8m",
+        "unicode": "lOA8VKIK"
+      },
+      {
+        "players_name": "Silva T.",
+        "players_number": "6",
+        "Full Name": "Thiago Silva",
+        "players_rating": 6.8,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "39, (22.09.1984)",
+        "Market Value": "€2.0m",
+        "unicode": "xAsJbgXA"
+      },
+      {
+        "players_name": "Sterling R.",
+        "players_number": "17",
+        "Full Name": "Raheem Sterling",
+        "players_rating": 6.8,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (08.12.1994)",
+        "Market Value": "€44.0m",
+        "unicode": "pfm9avwi"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Azpilicueta C.",
+        "players_number": "28",
+        "Full Name": "Cesar Azpilicueta",
+        "players_rating": 6.2,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (28.08.1989)",
+        "Market Value": "€3.8m",
+        "unicode": "CMGUADgt"
+      },
+      {
+        "players_name": "Broja A.",
+        "players_number": "18",
+        "Full Name": "Armando Broja",
+        "players_rating": "",
+        "Country": "Albania",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (10.09.2001)",
+        "Market Value": "€25.4m",
+        "unicode": "0rnu9an9"
+      },
+      {
+        "players_name": "Gallagher C.",
+        "players_number": "23",
+        "Full Name": "Conor Gallagher",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (06.02.2000)",
+        "Market Value": "€39.9m",
+        "unicode": "dtbJO8B3"
+      },
+      {
+        "players_name": "Pulisic C.",
+        "players_number": "10",
+        "Full Name": "Christian Pulisic",
+        "players_rating": "",
+        "Country": "USA",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (18.09.1998)",
+        "Market Value": "€33.1m",
+        "unicode": "vTuaEfRq"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Arrizabalaga K. (G)",
+        "players_number": "1",
+        "Full Name": "Kepa Arrizabalaga",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "29, (03.10.1994)",
+        "Market Value": "€19.3m",
+        "unicode": "Yq2dyUwN"
+      },
+      {
+        "players_name": "Chalobah T.",
+        "players_number": "14",
+        "Full Name": "Trevoh Chalobah",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (05.07.1999)",
+        "Market Value": "€17.4m",
+        "unicode": "2N61AJte"
+      },
+      {
+        "players_name": "Chilwell B.",
+        "players_number": "21",
+        "Full Name": "Ben Chilwell",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (21.12.1996)",
+        "Market Value": "€29.4m",
+        "unicode": "txvuTaNB"
+      },
+      {
+        "players_name": "Hudson-Odoi C.",
+        "players_number": "20",
+        "Full Name": "Callum Hudson-Odoi",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (07.11.2000)",
+        "Market Value": "€11.4m",
+        "unicode": "dtU5eexQ"
+      },
+      {
+        "players_name": "Ziyech H.",
+        "players_number": "22",
+        "Full Name": "Hakim Ziyech",
+        "players_rating": "",
+        "Country": "Morocco",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (19.03.1993)",
+        "Market Value": "€11.9m",
+        "unicode": "2F0HARqq"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Conte A.",
+        "players_number": "",
+        "Full Name": "Antonio Conte",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "54,  (31.07.1969)",
+        "Market Value": "",
+        "unicode": "23vSAc12"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Lenglet C.",
+        "players_number": "",
+        "Full Name": "Clement Lenglet",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (17.06.1995)",
+        "Market Value": "€7.8m",
+        "unicode": "rH0mL7ws"
+      },
+      {
+        "players_name": "Skipp O.",
+        "players_number": "",
+        "Full Name": "Oliver Skipp",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (16.09.2000)",
+        "Market Value": "€13.8m",
+        "unicode": "KnBBxnVu"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Bentancur R.",
+        "players_number": "30",
+        "Full Name": "Rodrigo Bentancur",
+        "players_rating": 6.8,
+        "Country": "Uruguay",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (25.06.1997)",
+        "Market Value": "€34.7m",
+        "unicode": "nLRMnJtJ"
+      },
+      {
+        "players_name": "Davies B.",
+        "players_number": "33",
+        "Full Name": "Ben Davies",
+        "players_rating": 7.7,
+        "Country": "Wales",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (24.04.1993)",
+        "Market Value": "30.06.2025",
+        "unicode": "65AlIpKT"
+      },
+      {
+        "players_name": "Dier E.",
+        "players_number": "15",
+        "Full Name": "Eric Dier",
+        "players_rating": 7.2,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (15.01.1994)",
+        "Market Value": "€11.2m",
+        "unicode": "MXQtjBQt"
+      },
+      {
+        "players_name": "Emerson Royal",
+        "players_number": "12",
+        "Full Name": "Emerson Royal",
+        "players_rating": 6.6,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (14.01.1999)",
+        "Market Value": "€17.9m",
+        "unicode": "zBkSUAjf"
+      },
+      {
+        "players_name": "Hojbjerg P.",
+        "players_number": "5",
+        "Full Name": "Pierre-Emile Hojbjerg",
+        "players_rating": 8.1,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (05.08.1995)",
+        "Market Value": "€27.4m",
+        "unicode": "ITwS8wMo"
+      },
+      {
+        "players_name": "Kane H.",
+        "players_number": "10",
+        "Full Name": "Harry Kane",
+        "players_rating": 7.6,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (28.07.1993)",
+        "Market Value": "€113.9m",
+        "unicode": "v5HSlEAa"
+      },
+      {
+        "players_name": "Kulusevski D.",
+        "players_number": "21",
+        "Full Name": "Dejan Kulusevski",
+        "players_rating": 6.2,
+        "Country": "Sweden",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (25.04.2000)",
+        "Market Value": "€54.6m",
+        "unicode": "fXLqHCYi"
+      },
+      {
+        "players_name": "Lloris H. (G) (C)",
+        "players_number": "1",
+        "Full Name": "Hugo Lloris",
+        "players_rating": 6.3,
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (26.12.1986)",
+        "Market Value": "€1.5m",
+        "unicode": "dlT4erCr"
+      },
+      {
+        "players_name": "Romero C.",
+        "players_number": "17",
+        "Full Name": "Cristian Gabriel Romero",
+        "players_rating": 7.5,
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (27.04.1998)",
+        "Market Value": "€65.5m",
+        "unicode": "jBZTWXMn"
+      },
+      {
+        "players_name": "Sessegnon R.",
+        "players_number": "19",
+        "Full Name": "Ryan Sessegnon",
+        "players_rating": 6.4,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (18.05.2000)",
+        "Market Value": "€454k",
+        "unicode": "WOecsPmi"
+      },
+      {
+        "players_name": "Son Heung-Min",
+        "players_number": "7",
+        "Full Name": "Heung-Min Son",
+        "players_rating": 6.6,
+        "Country": "South Korea",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (08.07.1992)",
+        "Market Value": "€53.9m",
+        "unicode": "Mgg9oPeM"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Bissouma Y.",
+        "players_number": "38",
+        "Full Name": "Yves Bissouma",
+        "players_rating": 6.3,
+        "Country": "Mali",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (30.08.1996)",
+        "Market Value": "€29.8m",
+        "unicode": "CSdILBh7"
+      },
+      {
+        "players_name": "Lucas Moura",
+        "players_number": "27",
+        "Full Name": "Lucas Moura",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (13.08.1992)",
+        "Market Value": "€5.2m",
+        "unicode": "EcmXnnoo"
+      },
+      {
+        "players_name": "Perisic I.",
+        "players_number": "14",
+        "Full Name": "Ivan Perisic",
+        "players_rating": 7.0,
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (02.02.1989)",
+        "Market Value": "€4.1m",
+        "unicode": "4AbKyVr9"
+      },
+      {
+        "players_name": "Richarlison",
+        "players_number": "9",
+        "Full Name": "Richarlison",
+        "players_rating": 5.8,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (10.05.1997)",
+        "Market Value": "€33.3m",
+        "unicode": "K82Dz773"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Doherty M.",
+        "players_number": "2",
+        "Full Name": "Matt Doherty",
+        "players_rating": "",
+        "Country": "Ireland",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (16.01.1992)",
+        "Market Value": "€3.8m",
+        "unicode": "KC9KwhwI"
+      },
+      {
+        "players_name": "Forster F. (G)",
+        "players_number": "20",
+        "Full Name": "Fraser Forster",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (17.03.1988)",
+        "Market Value": "€1.1m",
+        "unicode": "SWLt6Trt"
+      },
+      {
+        "players_name": "Gil B.",
+        "players_number": "11",
+        "Full Name": "Bryan Gil",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (11.02.2001)",
+        "Market Value": "€14.8m",
+        "unicode": "xSXBYlvl"
+      },
+      {
+        "players_name": "Sanchez D.",
+        "players_number": "6",
+        "Full Name": "Davinson Sanchez",
+        "players_rating": "",
+        "Country": "Colombia",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (12.06.1996)",
+        "Market Value": "€15.7m",
+        "unicode": "dbPhv0VQ"
+      },
+      {
+        "players_name": "Tanganga J.",
+        "players_number": "25",
+        "Full Name": "Japhet Tanganga",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (31.03.1999)",
+        "Market Value": "€2.7m",
+        "unicode": "SC4ftpKU"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "18:57",
+      "comments_type": "corner",
+      "comments_text": "Marc Cucurella (Chelsea) will take the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the corner.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "18:47",
+      "comments_type": "goal",
+      "comments_text": "Marc Cucurella produces a cross from the resulting corner and finds Kalidou Koulibaly (Chelsea) inside the box. He pulls the trigger and scores, sending the ball inside the right post. What a brilliant finish. 1:0.",
+      "comments_text_anonymized": "[PLAYER] produces a cross from the resulting corner and finds [PLAYER] ([TEAM]) inside the box. He pulls the trigger and scores, sending the ball inside the right post. What a brilliant finish. 1:0.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "26:50",
+      "comments_type": "corner",
+      "comments_text": "Mason Mount (Chelsea) will deliver the ball into the penalty box from a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:30",
+      "comments_type": "corner",
+      "comments_text": "Mason Mount (Chelsea) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:47",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Reece James (Chelsea) was quite harsh and Anthony Taylor didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "42:03",
+      "comments_type": "corner",
+      "comments_text": "Chelsea have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:50",
+      "comments_type": "corner",
+      "comments_text": "The corner from Mason Mount (Chelsea) is hurriedly cleared.",
+      "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is hurriedly cleared.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:51",
+      "comments_type": "corner",
+      "comments_text": "Chelsea take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "09:10",
+      "comments_type": "corner",
+      "comments_text": "The resulting set piece from Chelsea is comfortably intercepted by one of the defending players.",
+      "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:55",
+      "comments_type": "corner",
+      "comments_text": "Chelsea failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:20",
+      "comments_type": "substitution",
+      "comments_text": "Here comes a substitution. Ryan Sessegnon is given a rest as he is replaced by Richarlison (Tottenham).",
+      "comments_text_anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM]).",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:31",
+      "comments_type": "yellow card",
+      "comments_text": "Edouard Mendy (Chelsea) obviously intended to delay the restart of play and the referee blows the whistle.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) obviously intended to delay the restart of play and the referee blows the whistle.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:25",
+      "comments_type": "yellow card",
+      "comments_text": "Edouard Mendy (Chelsea) receives a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a yellow card.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:29",
+      "comments_type": "corner",
+      "comments_text": "Tottenham have a chance to score from a corner kick, but the ball is cleared by a defender. The referee and one of his assistants signal for a corner kick to Tottenham.",
+      "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender. The referee and one of his assistants signal for a corner kick to [TEAM].",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:11",
+      "comments_type": "corner",
+      "comments_text": "Heung-Min Son (Tottenham) takes the resulting corner which is well defended.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:38",
+      "comments_type": "goal",
+      "comments_text": "Goal! Pierre-Emile Hojbjerg (Tottenham) collects a pass and without hesitation fires an unstoppable shot into the bottom left corner.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) collects a pass and without hesitation fires an unstoppable shot into the bottom left corner.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "24:10",
+      "comments_type": "yellow card",
+      "comments_text": "Antonio Conte is stunned as referee Anthony Taylor shows him a yellow card. What was that for?",
+      "comments_text_anonymized": "[PLAYER] is stunned as referee [REFEREE] shows him a yellow card. What was that for?",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:14",
+      "comments_type": "yellow card",
+      "comments_text": "Thomas Tuchel isn't happy on the touchline after referee Anthony Taylor shows him a yellow card.",
+      "comments_text_anonymized": "[PLAYER] isn't happy on the touchline after referee [REFEREE] shows him a yellow card.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:56",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Jorginho is replaced by Cesar Azpilicueta (Chelsea).",
+      "comments_text_anonymized": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:16",
+      "comments_type": "goal",
+      "comments_text": "Reece James (Chelsea) with a wonderful piece of finishing. He makes a yard for himself after a well-taken pass inside the box and nets into the middle of the goal.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) with a wonderful piece of finishing. He makes a yard for himself after a well-taken pass inside the box and nets into the middle of the goal.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:41",
+      "comments_type": "substitution",
+      "comments_text": "Antonio Conte prepares a substitution. Rodrigo Bentancur is replaced by Yves Bissouma (Tottenham).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:25",
+      "comments_type": "substitution",
+      "comments_text": "Heung-Min Son goes off the pitch and Ivan Perisic (Tottenham) comes on.",
+      "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:40",
+      "comments_type": "corner",
+      "comments_text": "Ivan Perisic (Tottenham) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:11",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Emerson Royal leaves the pitch and Lucas Moura (Tottenham) comes on.",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:42",
+      "comments_type": "substitution",
+      "comments_text": "Thomas Tuchel has decided to introduce fresh legs, with Christian Pulisic (Chelsea) replacing Raheem Sterling.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:16",
+      "comments_type": "substitution",
+      "comments_text": "Conor Gallagher (Chelsea) comes onto the pitch because N'Golo Kante simply cannot continue any longer after picking up an injury.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) comes onto the pitch because [PLAYER] simply cannot continue any longer after picking up an injury.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:58",
+      "comments_type": "yellow card",
+      "comments_text": "Kai Havertz (Chelsea) receives a yellow card for a nasty tackle.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a yellow card for a nasty tackle.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:44",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Kai Havertz walks off the pitch and Armando Broja (Chelsea) comes on as a substitute.",
+      "comments_text_anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute.",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "48:40",
+      "comments_type": "corner",
+      "comments_text": "The ball is out of play and the linesman points at the corner flag. Corner to Tottenham.",
+      "comments_text_anonymized": "The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "50:13",
+      "comments_type": "corner",
+      "comments_text": "Ivan Perisic (Tottenham) will try to find the head of one of his teammates from a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will try to find the head of one of his teammates from a corner kick.",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "50:13",
+      "comments_type": "goal",
+      "comments_text": "Harry Kane (Tottenham) meets the corner and displays his eye for goal as he coolly plants a header from close range into the bottom left corner. The score is 2:2.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) meets the corner and displays his eye for goal as he coolly plants a header from close range into the bottom left corner. The score is 2:2.",
+      "index": 30
+    },
+    {
+      "half": 2,
+      "time_stamp": "52:20",
+      "comments_type": "red card",
+      "comments_text": "Thomas Tuchel is stunned as referee Anthony Taylor shows him a RED CARD.",
+      "comments_text_anonymized": "[PLAYER] is stunned as referee [REFEREE] shows him a RED CARD.",
+      "index": 31
+    },
+    {
+      "half": 2,
+      "time_stamp": "52:57",
+      "comments_type": "red card",
+      "comments_text": "Referee Anthony Taylor has finally had enough of Antonio Conte and gives him a straight RED CARD!",
+      "comments_text_anonymized": "Referee [REFEREE] has finally had enough of [PLAYER] and gives him a straight RED CARD!",
+      "index": 32
+    }
+  ]
+}

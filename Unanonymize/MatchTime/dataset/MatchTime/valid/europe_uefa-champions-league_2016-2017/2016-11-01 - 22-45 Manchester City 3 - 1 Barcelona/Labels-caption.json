@@ -1,0 +1,1873 @@
+{
+    "timestamp": "1478029500",
+    "score": "3 - 1",
+    "round": "4",
+    "teams": [
+        "Manchester City",
+        "Barcelona"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-1-4-1",
+            "players": [
+                {
+                    "hash": "vw8ZV7HC",
+                    "name": "Aguero S.",
+                    "captain": "",
+                    "detail_link": "/player/aguero-sergio/vw8ZV7HC/",
+                    "short_name": "Aguero",
+                    "shirt_number": "10",
+                    "country": "Argentina",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "74' Gundogan I. (Aguero S.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Sergio Aguero"
+                },
+                {
+                    "hash": "h2HdUznS",
+                    "name": "Caballero W.",
+                    "captain": "",
+                    "detail_link": "/player/caballero-wilfredo/h2HdUznS/",
+                    "short_name": "Caballero",
+                    "shirt_number": "13",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Wilfredo Caballero"
+                },
+                {
+                    "hash": "MsPs6OI5",
+                    "name": "De Bruyne K.",
+                    "captain": "",
+                    "detail_link": "/player/de-bruyne-kevin/MsPs6OI5/",
+                    "short_name": "De Bruyne",
+                    "shirt_number": "17",
+                    "country": "Belgium",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "51' De Bruyne K.",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "89'",
+                            "description": "Nolito",
+                            "linked_player_hash": "lvhwvWN7"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Kevin De Bruyne"
+                },
+                {
+                    "hash": "2JwK7ZfJ",
+                    "name": "Fernandinho",
+                    "captain": "",
+                    "detail_link": "/player/fernandinho/2JwK7ZfJ/",
+                    "short_name": "Fernandinho",
+                    "shirt_number": "25",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "60'",
+                            "description": "Fernando",
+                            "linked_player_hash": "rJlzoALP"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Fernandinho"
+                },
+                {
+                    "hash": "hCQ7jhL3",
+                    "name": "Gundogan I.",
+                    "captain": "",
+                    "detail_link": "/player/gundogan-ilkay/hCQ7jhL3/",
+                    "short_name": "Gundogan",
+                    "shirt_number": "8",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "39' Gundogan I. (Sterling R.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "3",
+                            "time": "74' Gundogan I. (Aguero S.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Ilkay Gundogan"
+                },
+                {
+                    "hash": "2XhnQxcG",
+                    "name": "Kolarov A.",
+                    "captain": "",
+                    "detail_link": "/player/kolarov-aleksandar/2XhnQxcG/",
+                    "short_name": "Kolarov",
+                    "shirt_number": "11",
+                    "country": "Serbia",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "60' Kolarov A. (Elbowing)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Aleksandar Kolarov"
+                },
+                {
+                    "hash": "KSBVnX8R",
+                    "name": "Otamendi N.",
+                    "captain": "",
+                    "detail_link": "/player/otamendi-nicolas/KSBVnX8R/",
+                    "short_name": "Otamendi",
+                    "shirt_number": "30",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Nicolas Otamendi"
+                },
+                {
+                    "hash": "AstVKVP2",
+                    "name": "Silva D.",
+                    "captain": "",
+                    "detail_link": "/player/silva-david/AstVKVP2/",
+                    "short_name": "Silva",
+                    "shirt_number": "21",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "David Silva"
+                },
+                {
+                    "hash": "pfm9avwi",
+                    "name": "Sterling R.",
+                    "captain": "",
+                    "detail_link": "/player/sterling-raheem/pfm9avwi/",
+                    "short_name": "Sterling",
+                    "shirt_number": "7",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "11' Sterling R. (Diving)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "39' Gundogan I. (Sterling R.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "71'",
+                            "description": "Navas J.",
+                            "linked_player_hash": "hWt5ZIrn"
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Raheem Sterling"
+                },
+                {
+                    "hash": "SlLxn4xl",
+                    "name": "Stones J.",
+                    "captain": "",
+                    "detail_link": "/player/stones-john/SlLxn4xl/",
+                    "short_name": "Stones",
+                    "shirt_number": "24",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "John Stones"
+                },
+                {
+                    "hash": "0WS52psG",
+                    "name": "Zabaleta P.",
+                    "captain": "(C)",
+                    "detail_link": "/player/zabaleta-pablo/0WS52psG/",
+                    "short_name": "Zabaleta",
+                    "shirt_number": "5",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Pablo Zabaleta"
+                },
+                {
+                    "hash": "xIJOMggd",
+                    "name": "Clichy G.",
+                    "captain": "",
+                    "detail_link": "/player/clichy-gael/xIJOMggd/",
+                    "short_name": "Clichy",
+                    "shirt_number": "22",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Gael Clichy"
+                },
+                {
+                    "hash": "rJlzoALP",
+                    "name": "Fernando",
+                    "captain": "",
+                    "detail_link": "/player/fernando/rJlzoALP/",
+                    "short_name": "Fernando",
+                    "shirt_number": "6",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "60'",
+                            "description": "Fernandinho",
+                            "linked_player_hash": "2JwK7ZfJ"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Fernando"
+                },
+                {
+                    "hash": "zaREt4aJ",
+                    "name": "Gunn A.",
+                    "captain": "",
+                    "detail_link": "/player/gunn-angus/zaREt4aJ/",
+                    "short_name": "Gunn",
+                    "shirt_number": "54",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Angus Gunn"
+                },
+                {
+                    "hash": "dIaES012",
+                    "name": "Iheanacho K.",
+                    "captain": "",
+                    "detail_link": "/player/iheanacho-kelechi/dIaES012/",
+                    "short_name": "Iheanacho",
+                    "shirt_number": "72",
+                    "country": "Nigeria",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Kelechi Iheanacho"
+                },
+                {
+                    "hash": "K6A2elS9",
+                    "name": "Kompany V.",
+                    "captain": "",
+                    "detail_link": "/player/kompany-vincent/K6A2elS9/",
+                    "short_name": "Kompany",
+                    "shirt_number": "4",
+                    "country": "Belgium",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Vincent Kompany"
+                },
+                {
+                    "hash": "hWt5ZIrn",
+                    "name": "Navas J.",
+                    "captain": "",
+                    "detail_link": "/player/navas-jesus/hWt5ZIrn/",
+                    "short_name": "Navas",
+                    "shirt_number": "15",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "71'",
+                            "description": "Sterling R.",
+                            "linked_player_hash": "pfm9avwi"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jesus Navas"
+                },
+                {
+                    "hash": "lvhwvWN7",
+                    "name": "Nolito",
+                    "captain": "",
+                    "detail_link": "/player/nolito/lvhwvWN7/",
+                    "short_name": "Nolito",
+                    "shirt_number": "9",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "89'",
+                            "description": "De Bruyne K.",
+                            "linked_player_hash": "MsPs6OI5"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Nolito"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "hxNijWrJ",
+                    "name": "Guardiola P.",
+                    "captain": "",
+                    "detail_link": "/player/guardiola-pep/hxNijWrJ/",
+                    "short_name": "Guardiola P.",
+                    "shirt_number": "",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Pep Guardiola"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-3-3",
+            "players": [
+                {
+                    "hash": "CU4pL3ue",
+                    "name": "Busquets S.",
+                    "captain": "",
+                    "detail_link": "/player/busquets-sergio/CU4pL3ue/",
+                    "short_name": "Busquets",
+                    "shirt_number": "5",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "74' Busquets S. (Unsportsmanlike conduct)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Sergio Busquets"
+                },
+                {
+                    "hash": "v9Ux4sua",
+                    "name": "Digne L.",
+                    "captain": "",
+                    "detail_link": "/player/digne-lucas/v9Ux4sua/",
+                    "short_name": "Digne",
+                    "shirt_number": "19",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Lucas Digne"
+                },
+                {
+                    "hash": "dIFDILve",
+                    "name": "Gomes A.",
+                    "captain": "",
+                    "detail_link": "/player/gomes-andre/dIFDILve/",
+                    "short_name": "Gomes",
+                    "shirt_number": "21",
+                    "country": "Portugal",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "76'",
+                            "description": "Rafinha",
+                            "linked_player_hash": "8jE1xUrf"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Andre Gomes"
+                },
+                {
+                    "hash": "ns2Bmt54",
+                    "name": "Mascherano J.",
+                    "captain": "",
+                    "detail_link": "/player/mascherano-javier/ns2Bmt54/",
+                    "short_name": "Mascherano",
+                    "shirt_number": "14",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Javier Mascherano"
+                },
+                {
+                    "hash": "vgOOdZbd",
+                    "name": "Messi L.",
+                    "captain": "(C)",
+                    "detail_link": "/player/messi-lionel/vgOOdZbd/",
+                    "short_name": "Messi",
+                    "shirt_number": "10",
+                    "country": "Argentina",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "21' Messi L. (Neymar)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Lionel Messi"
+                },
+                {
+                    "hash": "jNOPwl3h",
+                    "name": "Neymar",
+                    "captain": "",
+                    "detail_link": "/player/neymar/jNOPwl3h/",
+                    "short_name": "Neymar",
+                    "shirt_number": "11",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "21' Messi L. (Neymar)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "29' Neymar (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Neymar"
+                },
+                {
+                    "hash": "pC6dfyG5",
+                    "name": "Rakitic I.",
+                    "captain": "",
+                    "detail_link": "/player/rakitic-ivan/pC6dfyG5/",
+                    "short_name": "Rakitic",
+                    "shirt_number": "4",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "20' Rakitic I. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "61'",
+                            "description": "Turan A.",
+                            "linked_player_hash": "K0HKnqmK"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Ivan Rakitic"
+                },
+                {
+                    "hash": "W2R804U4",
+                    "name": "Roberto S.",
+                    "captain": "",
+                    "detail_link": "/player/roberto-sergi/W2R804U4/",
+                    "short_name": "Roberto",
+                    "shirt_number": "20",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Sergi Roberto"
+                },
+                {
+                    "hash": "dUShzrBp",
+                    "name": "Suarez L.",
+                    "captain": "",
+                    "detail_link": "/player/suarez-luis/dUShzrBp/",
+                    "short_name": "Suarez",
+                    "shirt_number": "9",
+                    "country": "Uruguay",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Luis Suarez"
+                },
+                {
+                    "hash": "byxc46yl",
+                    "name": "ter Stegen M.",
+                    "captain": "",
+                    "detail_link": "/player/ter-stegen-marc-andre/byxc46yl/",
+                    "short_name": "ter Stegen",
+                    "shirt_number": "1",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Marc-Andre ter Stegen"
+                },
+                {
+                    "hash": "zsH7aMfI",
+                    "name": "Umtiti S.",
+                    "captain": "",
+                    "detail_link": "/player/umtiti-samuel/zsH7aMfI/",
+                    "short_name": "Umtiti",
+                    "shirt_number": "23",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Samuel Umtiti"
+                },
+                {
+                    "hash": "Ey0zWJG1",
+                    "name": "Alcacer P.",
+                    "captain": "",
+                    "detail_link": "/player/alcacer-paco/Ey0zWJG1/",
+                    "short_name": "Alcacer",
+                    "shirt_number": "17",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Paco Alcacer"
+                },
+                {
+                    "hash": "25zBQ1q4",
+                    "name": "Cillessen J.",
+                    "captain": "",
+                    "detail_link": "/player/cillessen-jasper/25zBQ1q4/",
+                    "short_name": "Cillessen",
+                    "shirt_number": "13",
+                    "country": "Netherlands",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jasper Cillessen"
+                },
+                {
+                    "hash": "0CDZUPof",
+                    "name": "Marlon",
+                    "captain": "",
+                    "detail_link": "/player/marlon/0CDZUPof/",
+                    "short_name": "Marlon",
+                    "shirt_number": "33",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marlon"
+                },
+                {
+                    "hash": "fcX14H9H",
+                    "name": "Nili F.",
+                    "captain": "",
+                    "detail_link": "/player/nili-francisco/fcX14H9H/",
+                    "short_name": "Nili",
+                    "shirt_number": "32",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Francisco Nili"
+                },
+                {
+                    "hash": "8jE1xUrf",
+                    "name": "Rafinha",
+                    "captain": "",
+                    "detail_link": "/player/rafinha/8jE1xUrf/",
+                    "short_name": "Rafinha",
+                    "shirt_number": "12",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "76'",
+                            "description": "Gomes A.",
+                            "linked_player_hash": "dIFDILve"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Rafinha"
+                },
+                {
+                    "hash": "xWwucZ71",
+                    "name": "Suarez D.",
+                    "captain": "",
+                    "detail_link": "/player/suarez-denis/xWwucZ71/",
+                    "short_name": "Suarez",
+                    "shirt_number": "6",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Denis Suarez"
+                },
+                {
+                    "hash": "K0HKnqmK",
+                    "name": "Turan A.",
+                    "captain": "",
+                    "detail_link": "/player/turan-arda/K0HKnqmK/",
+                    "short_name": "Turan",
+                    "shirt_number": "7",
+                    "country": "Turkey",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "61'",
+                            "description": "Rakitic I.",
+                            "linked_player_hash": "pC6dfyG5"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Arda Turan"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "8MdrBIUb",
+                    "name": "Enrique L.",
+                    "captain": "",
+                    "detail_link": "/player/enrique-luis/8MdrBIUb/",
+                    "short_name": "Enrique L.",
+                    "shirt_number": "",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Luis Enrique"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Kassai V."
+    ],
+    "venue": [
+        "Etihad Stadium (Manchester)"
+    ],
+    "attendance": [
+        "53 340"
+    ],
+    "referee_matched": [
+        "Viktor Kassai"
+    ],
+    "referee_found": [
+        "Viktor Kassai"
+    ],
+    "coach_matched": [
+        "Pep Guardiola"
+    ],
+    "gameHomeTeam": "Manchester City",
+    "home": {
+        "name": "Manchester City",
+        "detail_link": "/team/manchester-city/Wtn9Stg0",
+        "hash": "Wtn9Stg0",
+        "names": [
+            "Manchester City",
+            "Manchester City (Eng)",
+            "manchester city"
+        ]
+    },
+    "gameAwayTeam": "Barcelona",
+    "away": {
+        "name": "Barcelona",
+        "detail_link": "/team/barcelona/SKbpVP5K",
+        "hash": "SKbpVP5K",
+        "names": [
+            "Barcelona",
+            "barcelona"
+        ]
+    },
+    "gameDate": "01/11/2016 - 20:45",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "We have seen a great game today, let's hope the players will be able to maintain these high levels of play in order to keep fans entertained in future games. The home side dominated this game. The home players pressed a lot which put the away team in difficult situations, but they still played their possession football.",
+            "identified": "We have seen a great game today, let's hope the players will be able to maintain these high levels of play in order to keep fans entertained in future games. The home side dominated this game. The home players pressed a lot which put the away team in difficult situations, but they still played their possession football.",
+            "anonymized": "We have seen a great game today, let's hope the players will be able to maintain these high levels of play in order to keep fans entertained in future games. The home side dominated this game. The home players pressed a lot which put the away team in difficult situations, but they still played their possession football.",
+            "visibility": "shown",
+            "position": "2939000",
+            "event_aligned_gameTime": "2 - 48:59",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 48:05",
+            "label": "whistle",
+            "description": "That's the end of the match.",
+            "identified": "That's the end of the match.",
+            "anonymized": "That's the end of the match.",
+            "visibility": "shown",
+            "position": "2885000",
+            "event_aligned_gameTime": "2 - 48:05",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 46:47",
+            "label": "corner",
+            "description": "David Silva (Manchester City) works the corner short.",
+            "identified": "[PLAYER_AstVKVP2] ([TEAM_]) works the corner short.",
+            "anonymized": "[PLAYER] ([TEAM]) works the corner short.",
+            "visibility": "shown",
+            "position": "2807000",
+            "event_aligned_gameTime": "2 - 46:47",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 46:32",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) races towards goal but the defender gets back well to make a challenge. Manchester City force their opponents to concede a corner.",
+            "identified": "[PLAYER_vw8ZV7HC] ([TEAM_]) races towards goal but the defender gets back well to make a challenge. [TEAM_] force their opponents to concede a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. [TEAM] force their opponents to concede a corner.",
+            "visibility": "shown",
+            "position": "2792000",
+            "event_aligned_gameTime": "2 - 46:32",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 45:31",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) finds himself some space around the penalty spot and leaps high to meet the free kick. He tries to put his header into the middle of the goal, but Wilfredo Caballero keeps it out.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) finds himself some space around the penalty spot and leaps high to meet the free kick. He tries to put his header into the middle of the goal, but [PLAYER_h2HdUznS] keeps it out.",
+            "anonymized": "[PLAYER] ([TEAM]) finds himself some space around the penalty spot and leaps high to meet the free kick. He tries to put his header into the middle of the goal, but [PLAYER] keeps it out.",
+            "visibility": "shown",
+            "position": "2731000",
+            "event_aligned_gameTime": "2 - 44:30",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "3 additional min. will be played.",
+            "identified": "3 additional min. will be played.",
+            "anonymized": "3 additional min. will be played.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 44:59",
+            "label": "",
+            "description": "Jesus Navas (Manchester City) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Barcelona win a free kick. It's a promising situation for a direct shot.",
+            "identified": "[PLAYER_hWt5ZIrn] ([TEAM_]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. [TEAM_] win a free kick. It's a promising situation for a direct shot.",
+            "anonymized": "[PLAYER] ([TEAM]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. [TEAM] win a free kick. It's a promising situation for a direct shot.",
+            "visibility": "shown",
+            "position": "2699000",
+            "event_aligned_gameTime": "2 - 44:50",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 44:44",
+            "label": "",
+            "description": "Fernando (Manchester City) is penalised for holding. Viktor Kassai signals a set piece.",
+            "identified": "[PLAYER_rJlzoALP] ([TEAM_]) is penalised for holding. [REFEREE] signals a set piece.",
+            "anonymized": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece.",
+            "visibility": "shown",
+            "position": "2684000",
+            "event_aligned_gameTime": "2 - 44:40",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 44:11",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) latched on to a cross on the edge of the box, but his strike isn't accurate at all and the ball goes way wide of the left post.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) latched on to a cross on the edge of the box, but his strike isn't accurate at all and the ball goes way wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) latched on to a cross on the edge of the box, but his strike isn't accurate at all and the ball goes way wide of the left post.",
+            "visibility": "shown",
+            "position": "2651000",
+            "event_aligned_gameTime": "2 - 44:00",
+            "contrastive_aligned_gameTime": "2 - 43:52"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 43:21",
+            "label": "substitution",
+            "description": "The game has come to an end for Kevin De Bruyne. He has contributed as much as he could today. He will be replaced by the fresh legs of Nolito (Manchester City).",
+            "identified": "The game has come to an end for [PLAYER_MsPs6OI5]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER_lvhwvWN7] ([TEAM_]).",
+            "anonymized": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2601000",
+            "event_aligned_gameTime": "2 - 42:40",
+            "contrastive_aligned_gameTime": "2 - 42:54"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:56",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) sends in a pass which fails to reach any of his teammates.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) sends in a pass which fails to reach any of his teammates.",
+            "anonymized": "[PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates.",
+            "visibility": "shown",
+            "position": "2576000",
+            "event_aligned_gameTime": "2 - 42:40",
+            "contrastive_aligned_gameTime": "2 - 41:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:14",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) is caught offside!",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) is caught offside!",
+            "anonymized": "[PLAYER] ([TEAM]) is caught offside!",
+            "visibility": "shown",
+            "position": "2474000",
+            "event_aligned_gameTime": "2 - 41:10",
+            "contrastive_aligned_gameTime": "2 - 40:47"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:51",
+            "label": "corner",
+            "description": "Neymar (Barcelona) launches an inaccurate corner kick into the penalty area.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) launches an inaccurate corner kick into the penalty area.",
+            "anonymized": "[PLAYER] ([TEAM]) launches an inaccurate corner kick into the penalty area.",
+            "visibility": "shown",
+            "position": "2271000",
+            "event_aligned_gameTime": "2 - 37:30",
+            "contrastive_aligned_gameTime": "2 - 37:20"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:37",
+            "label": "corner",
+            "description": "Neymar (Barcelona) floats the ball in from the corner but it's intercepted. Barcelona have been awarded a corner kick.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) floats the ball in from the corner but it's intercepted. [TEAM_] have been awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted. [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "2257000",
+            "event_aligned_gameTime": "2 - 37:30",
+            "contrastive_aligned_gameTime": "2 - 37:53"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:17",
+            "label": "corner",
+            "description": "Neymar (Barcelona) swings in a cross from the corner, but Wilfredo Caballero reads it well and gathers the ball. Barcelona will have a chance to score from a corner kick.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) swings in a cross from the corner, but [PLAYER_h2HdUznS] reads it well and gathers the ball. [TEAM_] will have a chance to score from a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) swings in a cross from the corner, but [PLAYER] reads it well and gathers the ball. [TEAM] will have a chance to score from a corner kick.",
+            "visibility": "shown",
+            "position": "2237000",
+            "event_aligned_gameTime": "2 - 36:30",
+            "contrastive_aligned_gameTime": "2 - 37:25"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:51",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) unleashes a shot from a mid-range free kick that crashes into the defensive wall. The opposition's goalkeeper set it up perfectly. The ball is out of play and the linesman points at the corner flag. Corner to Barcelona.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) unleashes a shot from a mid-range free kick that crashes into the defensive wall. The opposition's goalkeeper set it up perfectly. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a shot from a mid-range free kick that crashes into the defensive wall. The opposition's goalkeeper set it up perfectly. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+            "visibility": "shown",
+            "position": "2211000",
+            "event_aligned_gameTime": "2 - 36:30",
+            "contrastive_aligned_gameTime": "2 - 37:08"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 35:43",
+            "label": "",
+            "description": "Nicolas Otamendi (Manchester City) commits a rough challenge and Viktor Kassai blows his whistle for a foul. Barcelona have a free kick from a promising distance.",
+            "identified": "[PLAYER_KSBVnX8R] ([TEAM_]) commits a rough challenge and [REFEREE] blows his whistle for a foul. [TEAM_] have a free kick from a promising distance.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for a foul. [TEAM] have a free kick from a promising distance.",
+            "visibility": "shown",
+            "position": "2143000",
+            "event_aligned_gameTime": "2 - 35:40",
+            "contrastive_aligned_gameTime": "2 - 35:43"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 34:37",
+            "label": "",
+            "description": "Chance! Sergio Aguero (Manchester City) comes within inches of scoring after picking up a pass from David Silva, but his shot from inside the box flashes inches wide of the left post.",
+            "identified": "Chance! [PLAYER_vw8ZV7HC] ([TEAM_]) comes within inches of scoring after picking up a pass from [PLAYER_AstVKVP2], but his shot from inside the box flashes inches wide of the left post.",
+            "anonymized": "Chance! [PLAYER] ([TEAM]) comes within inches of scoring after picking up a pass from [PLAYER], but his shot from inside the box flashes inches wide of the left post.",
+            "visibility": "shown",
+            "position": "2077000",
+            "event_aligned_gameTime": "2 - 34:30",
+            "contrastive_aligned_gameTime": "2 - 34:32"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:24",
+            "label": "funfact",
+            "description": "We can have a look at the statistics now, particularly the total attempts \u2013 13:8.",
+            "identified": "We can have a look at the statistics now, particularly the total attempts \u2013 13:8.",
+            "anonymized": "We can have a look at the statistics now, particularly the total attempts \u2013 13:8.",
+            "visibility": "shown",
+            "position": "2004000",
+            "event_aligned_gameTime": "2 - 33:20",
+            "contrastive_aligned_gameTime": "2 - 33:54"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:32",
+            "label": "",
+            "description": "Neymar (Barcelona) almost finds himself in a very promising position, but he is flagged offside by the linesman.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) almost finds himself in a very promising position, but he is flagged offside by the linesman.",
+            "anonymized": "[PLAYER] ([TEAM]) almost finds himself in a very promising position, but he is flagged offside by the linesman.",
+            "visibility": "shown",
+            "position": "1952000",
+            "event_aligned_gameTime": "2 - 32:30",
+            "contrastive_aligned_gameTime": "2 - 31:59"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 31:00",
+            "label": "substitution",
+            "description": "Substitution. Rafinha (Barcelona) receives a signal from the referee and is now allowed to enter the pitch as Andre Gomes walks off.",
+            "identified": "Substitution. [PLAYER_8jE1xUrf] ([TEAM_]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER_dIFDILve] walks off.",
+            "anonymized": "Substitution. [PLAYER] ([TEAM]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER] walks off.",
+            "visibility": "shown",
+            "position": "1860000",
+            "event_aligned_gameTime": "2 - 30:50",
+            "contrastive_aligned_gameTime": "2 - 30:45"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 28:55",
+            "label": "y-card",
+            "description": "Sergio Busquets (Barcelona) attempts to discuss the decision with Viktor Kassai, but he soon realises that it's not the right thing to do as he sees the yellow.",
+            "identified": "[PLAYER_CU4pL3ue] ([TEAM_]) attempts to discuss the decision with [REFEREE], but he soon realises that it's not the right thing to do as he sees the yellow.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to discuss the decision with [REFEREE], but he soon realises that it's not the right thing to do as he sees the yellow.",
+            "visibility": "shown",
+            "position": "1735000",
+            "event_aligned_gameTime": "2 - 28:55",
+            "contrastive_aligned_gameTime": "2 - 28:19"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 28:53",
+            "label": "soccer-ball",
+            "description": "It's a goal! Sergio Aguero plays the ball to the feet of Ilkay Gundogan (Manchester City), who hits a tremendous first-time shot into the middle of the net. The goalkeeper was unable to keep it out. 3:1.",
+            "identified": "It's a goal! [PLAYER_vw8ZV7HC] plays the ball to the feet of [PLAYER_hCQ7jhL3] ([TEAM_]), who hits a tremendous first-time shot into the middle of the net. The goalkeeper was unable to keep it out. 3:1.",
+            "anonymized": "It's a goal! [PLAYER] plays the ball to the feet of [PLAYER] ([TEAM]), who hits a tremendous first-time shot into the middle of the net. The goalkeeper was unable to keep it out. 3:1.",
+            "visibility": "shown",
+            "position": "1733000",
+            "event_aligned_gameTime": "2 - 28:20",
+            "contrastive_aligned_gameTime": "2 - 28:18"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:20",
+            "label": "corner",
+            "description": "The corner from Neymar (Barcelona) is intercepted by Wilfredo Caballero.",
+            "identified": "The corner from [PLAYER_jNOPwl3h] ([TEAM_]) is intercepted by [PLAYER_h2HdUznS].",
+            "anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by [PLAYER].",
+            "visibility": "shown",
+            "position": "1700000",
+            "event_aligned_gameTime": "2 - 28:20",
+            "contrastive_aligned_gameTime": "2 - 28:46"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:55",
+            "label": "",
+            "description": "Lucas Digne (Barcelona) is unable to control an accurate defence-splitting pass properly and one of the defending players reacts well to rob him of the ball. Barcelona force a corner. They send men into the box.",
+            "identified": "[PLAYER_v9Ux4sua] ([TEAM_]) is unable to control an accurate defence-splitting pass properly and one of the defending players reacts well to rob him of the ball. [TEAM_] force a corner. They send men into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) is unable to control an accurate defence-splitting pass properly and one of the defending players reacts well to rob him of the ball. [TEAM] force a corner. They send men into the box.",
+            "visibility": "shown",
+            "position": "1675000",
+            "event_aligned_gameTime": "2 - 27:30",
+            "contrastive_aligned_gameTime": "2 - 26:57"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 26:46",
+            "label": "",
+            "description": "Pablo Zabaleta (Manchester City) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "identified": "[PLAYER_0WS52psG] ([TEAM_]) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "visibility": "shown",
+            "position": "1606000",
+            "event_aligned_gameTime": "2 - 26:40",
+            "contrastive_aligned_gameTime": "2 - 26:42"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 25:21",
+            "label": "substitution",
+            "description": "Here is a change. Raheem Sterling is going off and Pep Guardiola gives the last tactical orders to Jesus Navas (Manchester City).",
+            "identified": "Here is a change. [PLAYER_pfm9avwi] is going off and [COACH_hxNijWrJ] gives the last tactical orders to [PLAYER_hWt5ZIrn] ([TEAM_]).",
+            "anonymized": "Here is a change. [PLAYER] is going off and [COACH] gives the last tactical orders to [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1521000",
+            "event_aligned_gameTime": "2 - 24:40",
+            "contrastive_aligned_gameTime": "2 - 24:30"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 24:31",
+            "label": "",
+            "description": "An opponent rises to his feet after being downed by Pablo Zabaleta (Manchester City). Viktor Kassai saw the sliding tackle and blows for a foul.",
+            "identified": "An opponent rises to his feet after being downed by [PLAYER_0WS52psG] ([TEAM_]). [REFEREE] saw the sliding tackle and blows for a foul.",
+            "anonymized": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [REFEREE] saw the sliding tackle and blows for a foul.",
+            "visibility": "shown",
+            "position": "1471000",
+            "event_aligned_gameTime": "2 - 24:20",
+            "contrastive_aligned_gameTime": "2 - 23:51"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 22:30",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) is offside and the linesman raises his flag.",
+            "identified": "[PLAYER_pfm9avwi] ([TEAM_]) is offside and the linesman raises his flag.",
+            "anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag.",
+            "visibility": "shown",
+            "position": "1350000",
+            "event_aligned_gameTime": "2 - 22:10",
+            "contrastive_aligned_gameTime": "2 - 23:01"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:42",
+            "label": "",
+            "description": "Ilkay Gundogan plays a lovely pass into David Silva (Manchester City), but he can't find the target. His strike from inside the box goes narrowly wide of the left post.",
+            "identified": "[PLAYER_hCQ7jhL3] plays a lovely pass into [PLAYER_AstVKVP2] ([TEAM_]), but he can't find the target. His strike from inside the box goes narrowly wide of the left post.",
+            "anonymized": "[PLAYER] plays a lovely pass into [PLAYER] ([TEAM]), but he can't find the target. His strike from inside the box goes narrowly wide of the left post.",
+            "visibility": "shown",
+            "position": "1302000",
+            "event_aligned_gameTime": "2 - 21:30",
+            "contrastive_aligned_gameTime": "2 - 22:03"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 20:35",
+            "label": "",
+            "description": "What a chance that is! Kevin De Bruyne (Manchester City) wastes a huge opportunity as he receives a beautiful pass on the edge of the box and fires towards the net. Unfortunately for him, he only hits the right post!",
+            "identified": "What a chance that is! [PLAYER_MsPs6OI5] ([TEAM_]) wastes a huge opportunity as he receives a beautiful pass on the edge of the box and fires towards the net. Unfortunately for him, he only hits the right post!",
+            "anonymized": "What a chance that is! [PLAYER] ([TEAM]) wastes a huge opportunity as he receives a beautiful pass on the edge of the box and fires towards the net. Unfortunately for him, he only hits the right post!",
+            "visibility": "shown",
+            "position": "1235000",
+            "event_aligned_gameTime": "2 - 20:30",
+            "contrastive_aligned_gameTime": "2 - 20:07"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 19:27",
+            "label": "",
+            "description": "Andre Gomes (Barcelona) latches on to a sweet pass on the edge of the box and unleashes a brilliant shot towards the goal, but he hits the crossbar!",
+            "identified": "[PLAYER_dIFDILve] ([TEAM_]) latches on to a sweet pass on the edge of the box and unleashes a brilliant shot towards the goal, but he hits the crossbar!",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a sweet pass on the edge of the box and unleashes a brilliant shot towards the goal, but he hits the crossbar!",
+            "visibility": "shown",
+            "position": "1167000",
+            "event_aligned_gameTime": "2 - 19:30",
+            "contrastive_aligned_gameTime": "2 - 19:23"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:20",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) takes a short corner kick.",
+            "identified": "[PLAYER_MsPs6OI5] ([TEAM_]) takes a short corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a short corner kick.",
+            "visibility": "shown",
+            "position": "1100000",
+            "event_aligned_gameTime": "2 - 18:20",
+            "contrastive_aligned_gameTime": "2 - 18:14"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:08",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. The ball is out of play and Manchester City manage to earn a corner.",
+            "identified": "[PLAYER_vw8ZV7HC] ([TEAM_]) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. The ball is out of play and [TEAM_] manage to earn a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. The ball is out of play and [TEAM] manage to earn a corner.",
+            "visibility": "shown",
+            "position": "1088000",
+            "event_aligned_gameTime": "2 - 18:00",
+            "contrastive_aligned_gameTime": "2 - 18:23"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:05",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) breaks past challenges inside the box, but puts too much pace on his pass to Kevin De Bruyne.",
+            "identified": "[PLAYER_2XhnQxcG] ([TEAM_]) breaks past challenges inside the box, but puts too much pace on his pass to [PLAYER_MsPs6OI5].",
+            "anonymized": "[PLAYER] ([TEAM]) breaks past challenges inside the box, but puts too much pace on his pass to [PLAYER].",
+            "visibility": "shown",
+            "position": "1085000",
+            "event_aligned_gameTime": "2 - 18:00",
+            "contrastive_aligned_gameTime": "2 - 17:30"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 15:35",
+            "label": "substitution",
+            "description": "Substitution. Ivan Rakitic will be replaced by Arda Turan (Barcelona).",
+            "identified": "Substitution. [PLAYER_pC6dfyG5] will be replaced by [PLAYER_K0HKnqmK] ([TEAM_]).",
+            "anonymized": "Substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "935000",
+            "event_aligned_gameTime": "2 - 15:50",
+            "contrastive_aligned_gameTime": "2 - 15:17"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:19",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "visibility": "shown",
+            "position": "919000",
+            "event_aligned_gameTime": "2 - 15:10",
+            "contrastive_aligned_gameTime": "2 - 15:03"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 14:37",
+            "label": "substitution",
+            "description": "Fernandinho is substituted due to injury. Pep Guardiola gives a chance to Fernando (Manchester City).",
+            "identified": "[PLAYER_2JwK7ZfJ] is substituted due to injury. [COACH_hxNijWrJ] gives a chance to [PLAYER_rJlzoALP] ([TEAM_]).",
+            "anonymized": "[PLAYER] is substituted due to injury. [COACH] gives a chance to [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "877000",
+            "event_aligned_gameTime": "2 - 14:30",
+            "contrastive_aligned_gameTime": "2 - 14:37"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 14:16",
+            "label": "y-card",
+            "description": "Aleksandar Kolarov (Manchester City) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision.",
+            "identified": "[PLAYER_2XhnQxcG] ([TEAM_]) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision.",
+            "anonymized": "[PLAYER] ([TEAM]) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision.",
+            "visibility": "shown",
+            "position": "856000",
+            "event_aligned_gameTime": "2 - 14:10",
+            "contrastive_aligned_gameTime": "2 - 13:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 12:55",
+            "label": "",
+            "description": "A clumsy foul by Sergio Busquets (Barcelona) and Viktor Kassai blows his whistle.",
+            "identified": "A clumsy foul by [PLAYER_CU4pL3ue] ([TEAM_]) and [REFEREE] blows his whistle.",
+            "anonymized": "A clumsy foul by [PLAYER] ([TEAM]) and [REFEREE] blows his whistle.",
+            "visibility": "shown",
+            "position": "775000",
+            "event_aligned_gameTime": "2 - 12:30",
+            "contrastive_aligned_gameTime": "2 - 13:01"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:22",
+            "label": "",
+            "description": "David Silva (Manchester City) will take the free kick. Sergio Aguero (Manchester City) launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the left post.",
+            "identified": "[PLAYER_AstVKVP2] ([TEAM_]) will take the free kick. [PLAYER_vw8ZV7HC] ([TEAM_]) launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) will take the free kick. [PLAYER] ([TEAM]) launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the left post.",
+            "visibility": "shown",
+            "position": "682000",
+            "event_aligned_gameTime": "2 - 11:20",
+            "contrastive_aligned_gameTime": "2 - 11:31"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:56",
+            "label": "",
+            "description": "Sergio Busquets (Barcelona) is penalised after knocking an opponent down. Manchester City have a free kick.",
+            "identified": "[PLAYER_CU4pL3ue] ([TEAM_]) is penalised after knocking an opponent down. [TEAM_] have a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) is penalised after knocking an opponent down. [TEAM] have a free kick.",
+            "visibility": "shown",
+            "position": "656000",
+            "event_aligned_gameTime": "2 - 10:50",
+            "contrastive_aligned_gameTime": "2 - 10:52"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:28",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) fails to pick a body out in the box with an over-hit chip pass.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) fails to pick a body out in the box with an over-hit chip pass.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass.",
+            "visibility": "shown",
+            "position": "628000",
+            "event_aligned_gameTime": "2 - 10:10",
+            "contrastive_aligned_gameTime": "2 - 09:56"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:45",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) gives away a foul for a clumsy challenge. Referee Viktor Kassai saw the whole situation.",
+            "identified": "[PLAYER_2XhnQxcG] ([TEAM_]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation.",
+            "anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation.",
+            "visibility": "shown",
+            "position": "585000",
+            "event_aligned_gameTime": "2 - 09:20",
+            "contrastive_aligned_gameTime": "2 - 08:21"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:07",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) clips a neat ball into the box in the direction of Nicolas Otamendi, but he can't get on the end of the pass.",
+            "identified": "[PLAYER_pfm9avwi] ([TEAM_]) clips a neat ball into the box in the direction of [PLAYER_KSBVnX8R], but he can't get on the end of the pass.",
+            "anonymized": "[PLAYER] ([TEAM]) clips a neat ball into the box in the direction of [PLAYER], but he can't get on the end of the pass.",
+            "visibility": "shown",
+            "position": "487000",
+            "event_aligned_gameTime": "2 - 08:00",
+            "contrastive_aligned_gameTime": "2 - 08:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:44",
+            "label": "corner",
+            "description": "David Silva (Manchester City) quickly takes the corner kick with a short pass.",
+            "identified": "[PLAYER_AstVKVP2] ([TEAM_]) quickly takes the corner kick with a short pass.",
+            "anonymized": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass.",
+            "visibility": "shown",
+            "position": "464000",
+            "event_aligned_gameTime": "2 - 07:40",
+            "contrastive_aligned_gameTime": "2 - 07:38"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:20",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) sends over a free kick from long range but the defence is alert. The referee signals a corner kick to Manchester City.",
+            "identified": "[PLAYER_MsPs6OI5] ([TEAM_]) sends over a free kick from long range but the defence is alert. The referee signals a corner kick to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) sends over a free kick from long range but the defence is alert. The referee signals a corner kick to [TEAM].",
+            "visibility": "shown",
+            "position": "440000",
+            "event_aligned_gameTime": "2 - 07:20",
+            "contrastive_aligned_gameTime": "2 - 06:54"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:04",
+            "label": "",
+            "description": "The game is interrupted, a clear handball by Lucas Digne (Barcelona).",
+            "identified": "The game is interrupted, a clear handball by [PLAYER_v9Ux4sua] ([TEAM_]).",
+            "anonymized": "The game is interrupted, a clear handball by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "424000",
+            "event_aligned_gameTime": "2 - 06:30",
+            "contrastive_aligned_gameTime": "2 - 07:15"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 05:29",
+            "label": "soccer-ball",
+            "description": "Kevin De Bruyne (Manchester City) produced a howitzer of a shot from about 20 metres straight into the roof of the net. The goalkeeper didn\u2019t expect such a great free kick.",
+            "identified": "[PLAYER_MsPs6OI5] ([TEAM_]) produced a howitzer of a shot from about 20 metres straight into the roof of the net. The goalkeeper didn\u2019t expect such a great free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) produced a howitzer of a shot from about 20 metres straight into the roof of the net. The goalkeeper didn\u2019t expect such a great free kick.",
+            "visibility": "shown",
+            "position": "329000",
+            "event_aligned_gameTime": "2 - 05:20",
+            "contrastive_aligned_gameTime": "2 - 04:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 04:15",
+            "label": "",
+            "description": "Viktor Kassai blows his whistle for a foul after Sergio Busquets (Barcelona) hacks down one of his opponents. Manchester City are awarded a free kick from a dangerous position.",
+            "identified": "[REFEREE] blows his whistle for a foul after [PLAYER_CU4pL3ue] ([TEAM_]) hacks down one of his opponents. [TEAM_] are awarded a free kick from a dangerous position.",
+            "anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents. [TEAM] are awarded a free kick from a dangerous position.",
+            "visibility": "shown",
+            "position": "255000",
+            "event_aligned_gameTime": "2 - 04:00",
+            "contrastive_aligned_gameTime": "2 - 04:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:46",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) puts a cross into the box from the free kick, but the defender gets there first.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) puts a cross into the box from the free kick, but the defender gets there first.",
+            "anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick, but the defender gets there first.",
+            "visibility": "shown",
+            "position": "226000",
+            "event_aligned_gameTime": "2 - 03:40",
+            "contrastive_aligned_gameTime": "2 - 04:08"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:07",
+            "label": "",
+            "description": "Nicolas Otamendi (Manchester City) was trying to get to the ball but clattered into the legs of the opponent as well. Viktor Kassai blows his whistle for an infringement. Barcelona are given an advantage. They have a free kick.",
+            "identified": "[PLAYER_KSBVnX8R] ([TEAM_]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement. [TEAM_] are given an advantage. They have a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement. [TEAM] are given an advantage. They have a free kick.",
+            "visibility": "shown",
+            "position": "187000",
+            "event_aligned_gameTime": "2 - 03:07",
+            "contrastive_aligned_gameTime": "2 - 03:15"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:03",
+            "label": "",
+            "description": "An accurate pass to the edge of the box is well taken by Sergio Aguero (Manchester City), whose instinctive shot towards goal flashes inches wide of the right post.",
+            "identified": "An accurate pass to the edge of the box is well taken by [PLAYER_vw8ZV7HC] ([TEAM_]), whose instinctive shot towards goal flashes inches wide of the right post.",
+            "anonymized": "An accurate pass to the edge of the box is well taken by [PLAYER] ([TEAM]), whose instinctive shot towards goal flashes inches wide of the right post.",
+            "visibility": "shown",
+            "position": "123000",
+            "event_aligned_gameTime": "2 - 01:50",
+            "contrastive_aligned_gameTime": "2 - 02:14"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 01:26",
+            "label": "",
+            "description": "CHANCE! Sergio Aguero finds Raheem Sterling (Manchester City) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the right post!",
+            "identified": "CHANCE! [PLAYER_vw8ZV7HC] finds [PLAYER_pfm9avwi] ([TEAM_]) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the right post!",
+            "anonymized": "CHANCE! [PLAYER] finds [PLAYER] ([TEAM]) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the right post!",
+            "visibility": "shown",
+            "position": "86000",
+            "event_aligned_gameTime": "2 - 01:10",
+            "contrastive_aligned_gameTime": "2 - 02:00"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "identified": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "Not the best game in the world so far but certainly not the worst either. Chances have been few. There wasn't any evident superiority by either side during the first half. The home side is creating their opportunities using lightning-fast counter-attacks. The tactic of the away side is slow build-up play.",
+            "identified": "Not the best game in the world so far but certainly not the worst either. Chances have been few. There wasn't any evident superiority by either side during the first half. The home side is creating their opportunities using lightning-fast counter-attacks. The tactic of the away side is slow build-up play.",
+            "anonymized": "Not the best game in the world so far but certainly not the worst either. Chances have been few. There wasn't any evident superiority by either side during the first half. The home side is creating their opportunities using lightning-fast counter-attacks. The tactic of the away side is slow build-up play.",
+            "visibility": "shown",
+            "position": "2759000",
+            "event_aligned_gameTime": "1 - 44:55",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 45:08",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished.",
+            "identified": "The first half of today's match has just finished.",
+            "anonymized": "The first half of today's match has just finished.",
+            "visibility": "shown",
+            "position": "2708000",
+            "event_aligned_gameTime": "1 - 45:08",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:02",
+            "label": "",
+            "description": "David Silva (Manchester City) whips in the resulting set piece but it's cleared.",
+            "identified": "[PLAYER_AstVKVP2] ([TEAM_]) whips in the resulting set piece but it's cleared.",
+            "anonymized": "[PLAYER] ([TEAM]) whips in the resulting set piece but it's cleared.",
+            "visibility": "shown",
+            "position": "2702000",
+            "event_aligned_gameTime": "1 - 44:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 44:34",
+            "label": "",
+            "description": "Viktor Kassai has a clear sight and sees a foul from Ivan Rakitic (Barcelona). A free kick is awarded to Manchester City.",
+            "identified": "[REFEREE] has a clear sight and sees a foul from [PLAYER_pC6dfyG5] ([TEAM_]). A free kick is awarded to [TEAM_].",
+            "anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM]). A free kick is awarded to [TEAM].",
+            "visibility": "shown",
+            "position": "2674000",
+            "event_aligned_gameTime": "1 - 44:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:51",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by David Silva (Manchester City).",
+            "identified": "This corner kick is taken with a short pass by [PLAYER_AstVKVP2] ([TEAM_]).",
+            "anonymized": "This corner kick is taken with a short pass by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2631000",
+            "event_aligned_gameTime": "1 - 43:50",
+            "contrastive_aligned_gameTime": "1 - 43:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:41",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Pablo Zabaleta (Manchester City). The referee points to the corner flag. It's a corner to Manchester City.",
+            "identified": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER_0WS52psG] ([TEAM_]). The referee points to the corner flag. It's a corner to [TEAM_].",
+            "anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]). The referee points to the corner flag. It's a corner to [TEAM].",
+            "visibility": "shown",
+            "position": "2621000",
+            "event_aligned_gameTime": "1 - 43:40",
+            "contrastive_aligned_gameTime": "1 - 44:17"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:56",
+            "label": "",
+            "description": "David Silva (Manchester City) fails to send a pass into the box as his effort is cut out.",
+            "identified": "[PLAYER_AstVKVP2] ([TEAM_]) fails to send a pass into the box as his effort is cut out.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out.",
+            "visibility": "shown",
+            "position": "2576000",
+            "event_aligned_gameTime": "1 - 42:40",
+            "contrastive_aligned_gameTime": "1 - 42:18"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:17",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "visibility": "shown",
+            "position": "2537000",
+            "event_aligned_gameTime": "1 - 42:10",
+            "contrastive_aligned_gameTime": "1 - 43:01"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 40:55",
+            "label": "",
+            "description": "David Silva slides a brilliant pass into Fernandinho (Manchester City), but his shot from inside the box goes a whisker wide of the right post.",
+            "identified": "[PLAYER_AstVKVP2] slides a brilliant pass into [PLAYER_2JwK7ZfJ] ([TEAM_]), but his shot from inside the box goes a whisker wide of the right post.",
+            "anonymized": "[PLAYER] slides a brilliant pass into [PLAYER] ([TEAM]), but his shot from inside the box goes a whisker wide of the right post.",
+            "visibility": "shown",
+            "position": "2455000",
+            "event_aligned_gameTime": "1 - 40:55",
+            "contrastive_aligned_gameTime": "1 - 40:54"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 38:58",
+            "label": "soccer-ball",
+            "description": "Goal! Ilkay Gundogan (Manchester City) scores after an assist by Raheem Sterling that allowed him to tap in the ball into an empty net. The score is 1:1.",
+            "identified": "Goal! [PLAYER_hCQ7jhL3] ([TEAM_]) scores after an assist by [PLAYER_pfm9avwi] that allowed him to tap in the ball into an empty net. The score is 1:1.",
+            "anonymized": "Goal! [PLAYER] ([TEAM]) scores after an assist by [PLAYER] that allowed him to tap in the ball into an empty net. The score is 1:1.",
+            "visibility": "shown",
+            "position": "2338000",
+            "event_aligned_gameTime": "1 - 38:50",
+            "contrastive_aligned_gameTime": "1 - 38:49"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:56",
+            "label": "corner",
+            "description": "Neymar (Barcelona) works the corner short instead of sending the ball into the penalty area.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) works the corner short instead of sending the ball into the penalty area.",
+            "anonymized": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area.",
+            "visibility": "shown",
+            "position": "2276000",
+            "event_aligned_gameTime": "1 - 37:30",
+            "contrastive_aligned_gameTime": "1 - 37:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:32",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The referee blows his whistle, Barcelona are awarded a corner kick.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The referee blows his whistle, [TEAM_] are awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "2252000",
+            "event_aligned_gameTime": "1 - 37:30",
+            "contrastive_aligned_gameTime": "1 - 37:23"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:13",
+            "label": "corner",
+            "description": "The resulting corner from Neymar (Barcelona) is cleared by the opposition's defence.",
+            "identified": "The resulting corner from [PLAYER_jNOPwl3h] ([TEAM_]) is cleared by the opposition's defence.",
+            "anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence.",
+            "visibility": "shown",
+            "position": "2233000",
+            "event_aligned_gameTime": "1 - 37:10",
+            "contrastive_aligned_gameTime": "1 - 36:58"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 36:56",
+            "label": "",
+            "description": "Andre Gomes (Barcelona) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Now Barcelona have a corner.",
+            "identified": "[PLAYER_dIFDILve] ([TEAM_]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Now [TEAM_] have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Now [TEAM] have a corner.",
+            "visibility": "shown",
+            "position": "2216000",
+            "event_aligned_gameTime": "1 - 36:50",
+            "contrastive_aligned_gameTime": "1 - 37:31"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:28",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) gets on the end of a pass on the edge of the box but his shot is blocked.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) gets on the end of a pass on the edge of the box but his shot is blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass on the edge of the box but his shot is blocked.",
+            "visibility": "shown",
+            "position": "2128000",
+            "event_aligned_gameTime": "1 - 35:10",
+            "contrastive_aligned_gameTime": "1 - 35:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:54",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) meets a cross from Lionel Messi, but he cannot keep his header on target. It goes well wide of the right post.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) meets a cross from [PLAYER_vgOOdZbd], but he cannot keep his header on target. It goes well wide of the right post.",
+            "anonymized": "[PLAYER] ([TEAM]) meets a cross from [PLAYER], but he cannot keep his header on target. It goes well wide of the right post.",
+            "visibility": "shown",
+            "position": "2094000",
+            "event_aligned_gameTime": "1 - 34:30",
+            "contrastive_aligned_gameTime": "1 - 35:07"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:28",
+            "label": "",
+            "description": "Andre Gomes (Barcelona) receives the ball from the set piece on the edge of the box, but fails to score because his shot is blocked.",
+            "identified": "[PLAYER_dIFDILve] ([TEAM_]) receives the ball from the set piece on the edge of the box, but fails to score because his shot is blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) receives the ball from the set piece on the edge of the box, but fails to score because his shot is blocked.",
+            "visibility": "shown",
+            "position": "2068000",
+            "event_aligned_gameTime": "1 - 33:30",
+            "contrastive_aligned_gameTime": "1 - 34:15"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:59",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) is going to send the ball in from the free kick.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) is going to send the ball in from the free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) is going to send the ball in from the free kick.",
+            "visibility": "shown",
+            "position": "2039000",
+            "event_aligned_gameTime": "1 - 33:50",
+            "contrastive_aligned_gameTime": "1 - 34:21"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:32",
+            "label": "",
+            "description": "Nicolas Otamendi (Manchester City) trips an opposition player and Viktor Kassai signals a foul. A free kick has been awarded to Barcelona.",
+            "identified": "[PLAYER_KSBVnX8R] ([TEAM_]) trips an opposition player and [REFEREE] signals a foul. A free kick has been awarded to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul. A free kick has been awarded to [TEAM].",
+            "visibility": "shown",
+            "position": "2012000",
+            "event_aligned_gameTime": "1 - 33:00",
+            "contrastive_aligned_gameTime": "1 - 32:04"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:14",
+            "label": "",
+            "description": "The ball is cleared after Neymar (Barcelona) attempted to dribble past an opposing player.",
+            "identified": "The ball is cleared after [PLAYER_jNOPwl3h] ([TEAM_]) attempted to dribble past an opposing player.",
+            "anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player.",
+            "visibility": "shown",
+            "position": "1994000",
+            "event_aligned_gameTime": "1 - 33:10",
+            "contrastive_aligned_gameTime": "1 - 33:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:00",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) crosses the ball from the free kick, but it goes out of play.",
+            "identified": "[PLAYER_MsPs6OI5] ([TEAM_]) crosses the ball from the free kick, but it goes out of play.",
+            "anonymized": "[PLAYER] ([TEAM]) crosses the ball from the free kick, but it goes out of play.",
+            "visibility": "shown",
+            "position": "1920000",
+            "event_aligned_gameTime": "1 - 31:50",
+            "contrastive_aligned_gameTime": "1 - 31:20"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 31:27",
+            "label": "",
+            "description": "Rough tackle by Luis Suarez (Barcelona). The referee blows his whistle for a foul. That's a free kick to Manchester City.",
+            "identified": "Rough tackle by [PLAYER_xWwucZ71] ([TEAM_]). The referee blows his whistle for a foul. That's a free kick to [TEAM_].",
+            "anonymized": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul. That's a free kick to [TEAM].",
+            "visibility": "shown",
+            "position": "1887000",
+            "event_aligned_gameTime": "1 - 31:30",
+            "contrastive_aligned_gameTime": "1 - 31:26"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:57",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) was too fierce in his attempt to get the ball from his opponent and Viktor Kassai blows for a foul.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul.",
+            "visibility": "shown",
+            "position": "1857000",
+            "event_aligned_gameTime": "1 - 30:50",
+            "contrastive_aligned_gameTime": "1 - 31:06"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 28:29",
+            "label": "y-card",
+            "description": "Neymar (Barcelona) makes an awful challenge on his opponent and can count himself very lucky that the referee didn't issue a red card.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) makes an awful challenge on his opponent and can count himself very lucky that the referee didn't issue a red card.",
+            "anonymized": "[PLAYER] ([TEAM]) makes an awful challenge on his opponent and can count himself very lucky that the referee didn't issue a red card.",
+            "visibility": "shown",
+            "position": "1709000",
+            "event_aligned_gameTime": "1 - 27:50",
+            "contrastive_aligned_gameTime": "1 - 28:15"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:11",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner with a short pass.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) takes the corner with a short pass.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner with a short pass.",
+            "visibility": "shown",
+            "position": "1691000",
+            "event_aligned_gameTime": "1 - 27:50",
+            "contrastive_aligned_gameTime": "1 - 28:01"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 27:28",
+            "label": "",
+            "description": "Neymar (Barcelona) zig-zags his way into the box and directs a shot into the top left corner, but the goalkeeper pulls off a miraculous stop. The ball is out of play. Barcelona win a corner kick.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) zig-zags his way into the box and directs a shot into the top left corner, but the goalkeeper pulls off a miraculous stop. The ball is out of play. [TEAM_] win a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) zig-zags his way into the box and directs a shot into the top left corner, but the goalkeeper pulls off a miraculous stop. The ball is out of play. [TEAM] win a corner kick.",
+            "visibility": "shown",
+            "position": "1648000",
+            "event_aligned_gameTime": "1 - 27:20",
+            "contrastive_aligned_gameTime": "1 - 27:20"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:55",
+            "label": "",
+            "description": "Samuel Umtiti (Barcelona) brings his opponent down. Viktor Kassai has a clear sight of it and blows his whistle for a foul.",
+            "identified": "[PLAYER_zsH7aMfI] ([TEAM_]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "1615000",
+            "event_aligned_gameTime": "1 - 26:30",
+            "contrastive_aligned_gameTime": "1 - 26:33"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:07",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) plays a through ball but overhits it.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) plays a through ball but overhits it.",
+            "anonymized": "[PLAYER] ([TEAM]) plays a through ball but overhits it.",
+            "visibility": "shown",
+            "position": "1567000",
+            "event_aligned_gameTime": "1 - 26:00",
+            "contrastive_aligned_gameTime": "1 - 25:52"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:46",
+            "label": "",
+            "description": "Chance! Ilkay Gundogan (Manchester City) gets to the rebound on the edge of the box and smashes the ball towards goal, but Marc-Andre ter Stegen is alert and makes a great save to deny him.",
+            "identified": "Chance! [PLAYER_hCQ7jhL3] ([TEAM_]) gets to the rebound on the edge of the box and smashes the ball towards goal, but [PLAYER_byxc46yl] is alert and makes a great save to deny him.",
+            "anonymized": "Chance! [PLAYER] ([TEAM]) gets to the rebound on the edge of the box and smashes the ball towards goal, but [PLAYER] is alert and makes a great save to deny him.",
+            "visibility": "shown",
+            "position": "1426000",
+            "event_aligned_gameTime": "1 - 23:50",
+            "contrastive_aligned_gameTime": "1 - 23:23"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:31",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) connects with a pass but sees his shot from the edge of the box blocked.",
+            "identified": "[PLAYER_pfm9avwi] ([TEAM_]) connects with a pass but sees his shot from the edge of the box blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) connects with a pass but sees his shot from the edge of the box blocked.",
+            "visibility": "shown",
+            "position": "1411000",
+            "event_aligned_gameTime": "1 - 23:30",
+            "contrastive_aligned_gameTime": "1 - 23:20"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:56",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Kevin De Bruyne (Manchester City) takes it short.",
+            "identified": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER_MsPs6OI5] ([TEAM_]) takes it short.",
+            "anonymized": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short.",
+            "visibility": "shown",
+            "position": "1376000",
+            "event_aligned_gameTime": "1 - 22:50",
+            "contrastive_aligned_gameTime": "1 - 22:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:37",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) sends a pass into the box, but his attempt is thwarted and cleared. The referee points to the corner flag and Manchester City will take a corner.",
+            "identified": "[PLAYER_vw8ZV7HC] ([TEAM_]) sends a pass into the box, but his attempt is thwarted and cleared. The referee points to the corner flag and [TEAM_] will take a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The referee points to the corner flag and [TEAM] will take a corner.",
+            "visibility": "shown",
+            "position": "1357000",
+            "event_aligned_gameTime": "1 - 22:37",
+            "contrastive_aligned_gameTime": "1 - 23:21"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 20:58",
+            "label": "soccer-ball",
+            "description": "Goal! Neymar plays a pass to the feet of Lionel Messi (Barcelona), and he shoots into the bottom left corner from inside the box. It's 0:1.",
+            "identified": "Goal! [PLAYER_jNOPwl3h] plays a pass to the feet of [PLAYER_vgOOdZbd] ([TEAM_]), and he shoots into the bottom left corner from inside the box. It's 0:1.",
+            "anonymized": "Goal! [PLAYER] plays a pass to the feet of [PLAYER] ([TEAM]), and he shoots into the bottom left corner from inside the box. It's 0:1.",
+            "visibility": "shown",
+            "position": "1258000",
+            "event_aligned_gameTime": "1 - 20:50",
+            "contrastive_aligned_gameTime": "1 - 20:39"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 20:24",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "identified": "[PLAYER_vw8ZV7HC] ([TEAM_]) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "anonymized": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "visibility": "shown",
+            "position": "1224000",
+            "event_aligned_gameTime": "1 - 20:10",
+            "contrastive_aligned_gameTime": "1 - 20:22"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 19:47",
+            "label": "y-card",
+            "description": "Ivan Rakitic (Barcelona) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Viktor Kassai didn't think twice about pulling it out of his pocket.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket.",
+            "anonymized": "[PLAYER] ([TEAM]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket.",
+            "visibility": "shown",
+            "position": "1187000",
+            "event_aligned_gameTime": "1 - 19:30",
+            "contrastive_aligned_gameTime": "1 - 19:43"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:50",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) makes an overly-aggressive challenge and Viktor Kassai blows his whistle for a foul.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "1130000",
+            "event_aligned_gameTime": "1 - 18:40",
+            "contrastive_aligned_gameTime": "1 - 18:40"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 16:34",
+            "label": "",
+            "description": "A pass from Raheem Sterling (Manchester City) is intercepted by Marc-Andre ter Stegen and the move breaks down.",
+            "identified": "A pass from [PLAYER_pfm9avwi] ([TEAM_]) is intercepted by [PLAYER_byxc46yl] and the move breaks down.",
+            "anonymized": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down.",
+            "visibility": "shown",
+            "position": "994000",
+            "event_aligned_gameTime": "1 - 16:30",
+            "contrastive_aligned_gameTime": "1 - 17:09"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:19",
+            "label": "",
+            "description": "David Silva (Manchester City) floats the free kick into the box, but it's easily cleared by the first man.",
+            "identified": "[PLAYER_AstVKVP2] ([TEAM_]) floats the free kick into the box, but it's easily cleared by the first man.",
+            "anonymized": "[PLAYER] ([TEAM]) floats the free kick into the box, but it's easily cleared by the first man.",
+            "visibility": "shown",
+            "position": "859000",
+            "event_aligned_gameTime": "1 - 14:10",
+            "contrastive_aligned_gameTime": "1 - 13:38"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:52",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again. A free kick has been awarded to Manchester City.",
+            "identified": "[PLAYER_ns2Bmt54] ([TEAM_]) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again. A free kick has been awarded to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again. A free kick has been awarded to [TEAM].",
+            "visibility": "shown",
+            "position": "832000",
+            "event_aligned_gameTime": "1 - 13:30",
+            "contrastive_aligned_gameTime": "1 - 13:34"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 12:04",
+            "label": "",
+            "description": "Viktor Kassai blows his whistle and signals a foul after Pablo Zabaleta (Manchester City) brought his opponent down.",
+            "identified": "[REFEREE] blows his whistle and signals a foul after [PLAYER_0WS52psG] ([TEAM_]) brought his opponent down.",
+            "anonymized": "[REFEREE] blows his whistle and signals a foul after [PLAYER] ([TEAM]) brought his opponent down.",
+            "visibility": "shown",
+            "position": "724000",
+            "event_aligned_gameTime": "1 - 12:00",
+            "contrastive_aligned_gameTime": "1 - 11:26"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 10:30",
+            "label": "y-card",
+            "description": "The whistle blows and Raheem Sterling (Manchester City) is booked for an infringement.",
+            "identified": "The whistle blows and [PLAYER_pfm9avwi] ([TEAM_]) is booked for an infringement.",
+            "anonymized": "The whistle blows and [PLAYER] ([TEAM]) is booked for an infringement.",
+            "visibility": "shown",
+            "position": "630000",
+            "event_aligned_gameTime": "1 - 10:30",
+            "contrastive_aligned_gameTime": "1 - 10:20"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:29",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) went to the ground quite willingly.",
+            "identified": "[PLAYER_pfm9avwi] ([TEAM_]) went to the ground quite willingly.",
+            "anonymized": "[PLAYER] ([TEAM]) went to the ground quite willingly.",
+            "visibility": "shown",
+            "position": "629000",
+            "event_aligned_gameTime": "1 - 10:30",
+            "contrastive_aligned_gameTime": "1 - 10:46"
+        }
+    ]
+}

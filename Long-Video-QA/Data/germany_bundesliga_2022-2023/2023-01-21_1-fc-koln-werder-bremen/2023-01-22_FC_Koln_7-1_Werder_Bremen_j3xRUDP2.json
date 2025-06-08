@@ -1,0 +1,781 @@
+{
+  "match_info": {
+    "timestamp": "2023-01-22 01:30:00",
+    "score": "7 - 1",
+    "home_team": "FC Koln",
+    "away_team": "Werder Bremen",
+    "home_formation": "4 - 2 - 3 - 1",
+    "away_formation": "3 - 3 - 2 - 2",
+    "venue": "RheinEnergieStadion (Cologne)",
+    "capacity": "50 000",
+    "attendance": "50 000"
+  },
+  "referee_data": {
+    "short_name_country": "Schroder R. (Ger)",
+    "first_name": "Schroder",
+    "abbr_last_name": "R",
+    "country": "Ger",
+    "detected_name": "Referee Robert Schroder"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Baumgart S.",
+        "players_number": "",
+        "Full Name": "Steffen Baumgart",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "52,  (05.01.1972)",
+        "Market Value": "",
+        "unicode": "EDRZkDzS"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Andersson S.",
+        "players_number": "",
+        "Full Name": "Sebastian Andersson",
+        "players_rating": "",
+        "Country": "Sweden",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (15.07.1991)",
+        "Market Value": "",
+        "unicode": "nZthUBOL"
+      },
+      {
+        "players_name": "Dietz F.",
+        "players_number": "",
+        "Full Name": "Florian Dietz",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (03.08.1998)",
+        "Market Value": "€715k",
+        "unicode": "ET08RjhJ"
+      },
+      {
+        "players_name": "Kilian L.",
+        "players_number": "",
+        "Full Name": "Luca Kilian",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (01.09.1999)",
+        "Market Value": "€2.3m",
+        "unicode": "4tInh2OE"
+      },
+      {
+        "players_name": "Limnios D.",
+        "players_number": "",
+        "Full Name": "Dimitrios Limnios",
+        "players_rating": "",
+        "Country": "Greece",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (27.05.1998)",
+        "Market Value": "€817k",
+        "unicode": "fF8VtkpU"
+      },
+      {
+        "players_name": "Pedersen K.",
+        "players_number": "",
+        "Full Name": "Kristian Pedersen",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (04.08.1994)",
+        "Market Value": "€979k",
+        "unicode": "QuxhOIST"
+      },
+      {
+        "players_name": "Thielmann J.",
+        "players_number": "",
+        "Full Name": "Jan Thielmann",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (26.05.2002)",
+        "Market Value": "€6.1m",
+        "unicode": "Sb7k5TPr"
+      },
+      {
+        "players_name": "Uth M.",
+        "players_number": "",
+        "Full Name": "Mark Uth",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (24.08.1991)",
+        "Market Value": "€1.3m",
+        "unicode": "CzbQqKcT"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Chabot J.",
+        "players_number": "24",
+        "Full Name": "Jeff Chabot",
+        "players_rating": 7.2,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (12.02.1998)",
+        "Market Value": "€9.1m",
+        "unicode": "f1kf4eiH"
+      },
+      {
+        "players_name": "Hector J. (C)",
+        "players_number": "14",
+        "Full Name": "Jonas Hector",
+        "players_rating": 7.5,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (27.05.1990)",
+        "Market Value": "",
+        "unicode": "CzoWAGbG"
+      },
+      {
+        "players_name": "Hubers T.",
+        "players_number": "4",
+        "Full Name": "Timo Hubers",
+        "players_rating": 6.8,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (20.07.1996)",
+        "Market Value": "€7.4m",
+        "unicode": "QPixSkoq"
+      },
+      {
+        "players_name": "Huseinbasic D.",
+        "players_number": "8",
+        "Full Name": "Denis Huseinbasic",
+        "players_rating": 7.0,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (03.07.2001)",
+        "Market Value": "€4.0m",
+        "unicode": "G2QyHRP1"
+      },
+      {
+        "players_name": "Kainz F.",
+        "players_number": "11",
+        "Full Name": "Florian Kainz",
+        "players_rating": 7.1,
+        "Country": "Austria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (24.10.1992)",
+        "Market Value": "€4.9m",
+        "unicode": "lnzM1Dxj"
+      },
+      {
+        "players_name": "Maina L.",
+        "players_number": "37",
+        "Full Name": "Linton Maina",
+        "players_rating": 8.3,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (23.06.1999)",
+        "Market Value": "€5.6m",
+        "unicode": "EsYIPmhj"
+      },
+      {
+        "players_name": "Martel E.",
+        "players_number": "6",
+        "Full Name": "Eric Martel",
+        "players_rating": 7.1,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (29.04.2002)",
+        "Market Value": "€8.6m",
+        "unicode": "pOwJWWP0"
+      },
+      {
+        "players_name": "Schmitz B.",
+        "players_number": "2",
+        "Full Name": "Benno Schmitz",
+        "players_rating": 6.5,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (17.11.1994)",
+        "Market Value": "€1.9m",
+        "unicode": "lMaNQ6VN"
+      },
+      {
+        "players_name": "Schwabe M. (G)",
+        "players_number": "20",
+        "Full Name": "Marvin Schwabe",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (25.04.1995)",
+        "Market Value": "€6.8m",
+        "unicode": "CALFTMyI"
+      },
+      {
+        "players_name": "Skhiri E.",
+        "players_number": "28",
+        "Full Name": "Ellyes Skhiri",
+        "players_rating": 9.1,
+        "Country": "Tunisia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (10.05.1995)",
+        "Market Value": "€13.1m",
+        "unicode": "UawLDteR"
+      },
+      {
+        "players_name": "Tigges S.",
+        "players_number": "21",
+        "Full Name": "Steffen Tigges",
+        "players_rating": 8.6,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (31.07.1998)",
+        "Market Value": "€1.8m",
+        "unicode": "29mHF4BE"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Diehl J.",
+        "players_number": "49",
+        "Full Name": "Justin Diehl",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "19, (27.11.2004)",
+        "Market Value": "€922k",
+        "unicode": "tSVfwjYd"
+      },
+      {
+        "players_name": "Lemperle T.",
+        "players_number": "25",
+        "Full Name": "Tim Lemperle",
+        "players_rating": 6.2,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (05.02.2002)",
+        "Market Value": "€1.8m",
+        "unicode": "OYG8XB8m"
+      },
+      {
+        "players_name": "Ljubicic D.",
+        "players_number": "7",
+        "Full Name": "Dejan Ljubicic",
+        "players_rating": 6.3,
+        "Country": "Austria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (08.10.1997)",
+        "Market Value": "€9.4m",
+        "unicode": "j5EdhX7Q"
+      },
+      {
+        "players_name": "Olesen M.",
+        "players_number": "47",
+        "Full Name": "Mathias Olesen",
+        "players_rating": 6.3,
+        "Country": "Luxembourg",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (21.03.2001)",
+        "Market Value": "€1.1m",
+        "unicode": "nmOIHA5M"
+      },
+      {
+        "players_name": "Selke D.",
+        "players_number": "27",
+        "Full Name": "Davie Selke",
+        "players_rating": 6.2,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (20.01.1995)",
+        "Market Value": "€3.3m",
+        "unicode": "E7JLI2DO"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Adamyan S.",
+        "players_number": "23",
+        "Full Name": "Sargis Adamyan",
+        "players_rating": "",
+        "Country": "Armenia",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (23.05.1993)",
+        "Market Value": "€635k",
+        "unicode": "6JByionA"
+      },
+      {
+        "players_name": "Horn T. (G)",
+        "players_number": "1",
+        "Full Name": "Timo Horn",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "30, (12.05.1993)",
+        "Market Value": "30.06.2024",
+        "unicode": "SIMkMwB8"
+      },
+      {
+        "players_name": "Schindler K.",
+        "players_number": "17",
+        "Full Name": "Kingsley Schindler",
+        "players_rating": "",
+        "Country": "Ghana",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (12.07.1993)",
+        "Market Value": "€726k",
+        "unicode": "ttnSMONL"
+      },
+      {
+        "players_name": "Soldo N.",
+        "players_number": "5",
+        "Full Name": "Nikola Soldo",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (25.01.2001)",
+        "Market Value": "€1.4m",
+        "unicode": "hSVaEFQH"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Werner O.",
+        "players_number": "",
+        "Full Name": "Ole Werner",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "35,  (04.05.1988)",
+        "Market Value": "",
+        "unicode": "4fuCGs9P"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Agu F.",
+        "players_number": "",
+        "Full Name": "Felix Agu",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (27.09.1999)",
+        "Market Value": "€536k",
+        "unicode": "bDdYUcr2"
+      },
+      {
+        "players_name": "Schmid R.",
+        "players_number": "",
+        "Full Name": "Romano Schmid",
+        "players_rating": "",
+        "Country": "Austria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (27.01.2000)",
+        "Market Value": "€6.1m",
+        "unicode": "lGA7E78J"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Bittencourt L.",
+        "players_number": "10",
+        "Full Name": "Leonardo Bittencourt",
+        "players_rating": 5.7,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (19.12.1993)",
+        "Market Value": "€2.4m",
+        "unicode": "UNvXGPqn"
+      },
+      {
+        "players_name": "Ducksch M.",
+        "players_number": "7",
+        "Full Name": "Marvin Ducksch",
+        "players_rating": 6.7,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (07.03.1994)",
+        "Market Value": "€8.7m",
+        "unicode": "8McNJcKC"
+      },
+      {
+        "players_name": "Friedl M. (C)",
+        "players_number": "32",
+        "Full Name": "Marco Friedl",
+        "players_rating": 6.0,
+        "Country": "Austria",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (16.03.1998)",
+        "Market Value": "€5.4m",
+        "unicode": "jacFHyR9"
+      },
+      {
+        "players_name": "Fullkrug N.",
+        "players_number": "11",
+        "Full Name": "Niclas Fullkrug",
+        "players_rating": 6.8,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (09.02.1993)",
+        "Market Value": "€13.1m",
+        "unicode": "zBydyE1a"
+      },
+      {
+        "players_name": "Gross C.",
+        "players_number": "36",
+        "Full Name": "Christian Gross",
+        "players_rating": 6.1,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (08.02.1989)",
+        "Market Value": "€272k",
+        "unicode": "I3mScwSS"
+      },
+      {
+        "players_name": "Gruev I.",
+        "players_number": "28",
+        "Full Name": "Ilia Gruev",
+        "players_rating": 6.1,
+        "Country": "Bulgaria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (06.05.2000)",
+        "Market Value": "€3.7m",
+        "unicode": "t8KQ8OzE"
+      },
+      {
+        "players_name": "Jung A.",
+        "players_number": "3",
+        "Full Name": "Anthony Jung",
+        "players_rating": 5.8,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (03.11.1991)",
+        "Market Value": "€950k",
+        "unicode": "xjjdBYsc"
+      },
+      {
+        "players_name": "Pavlenka J. (G)",
+        "players_number": "1",
+        "Full Name": "Jiri Pavlenka",
+        "players_rating": 4.5,
+        "Country": "Czech Republic",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (14.04.1992)",
+        "Market Value": "€1.9m",
+        "unicode": "8xDMHcq9"
+      },
+      {
+        "players_name": "Stark N.",
+        "players_number": "4",
+        "Full Name": "Niklas Stark",
+        "players_rating": 5.5,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (14.04.1995)",
+        "Market Value": "€5.4m",
+        "unicode": "xQzNNXkj"
+      },
+      {
+        "players_name": "Veljkovic M.",
+        "players_number": "13",
+        "Full Name": "Milos Veljkovic",
+        "players_rating": 6.2,
+        "Country": "Serbia",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (26.09.1995)",
+        "Market Value": "€4.2m",
+        "unicode": "E7uclPCf"
+      },
+      {
+        "players_name": "Weiser M.",
+        "players_number": "8",
+        "Full Name": "Mitchell Weiser",
+        "players_rating": 6.2,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (21.04.1994)",
+        "Market Value": "€6.0m",
+        "unicode": "tYnkajw9"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Buchanan L.",
+        "players_number": "26",
+        "Full Name": "Lee Buchanan",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (07.03.2001)",
+        "Market Value": "€1.9m",
+        "unicode": "UL22DvvM"
+      },
+      {
+        "players_name": "Dinkci E.",
+        "players_number": "21",
+        "Full Name": "Eren Dinkci",
+        "players_rating": 5.8,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (13.12.2001)",
+        "Market Value": "€5.5m",
+        "unicode": "tATOM8P9"
+      },
+      {
+        "players_name": "Pieper A.",
+        "players_number": "5",
+        "Full Name": "Amos Pieper",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (17.01.1998)",
+        "Market Value": "€4.8m",
+        "unicode": "4pESGQSm"
+      },
+      {
+        "players_name": "Schmidt N.",
+        "players_number": "22",
+        "Full Name": "Niklas Schmidt",
+        "players_rating": 6.4,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (01.03.1998)",
+        "Market Value": "€2.9m",
+        "unicode": "IPBGPtwU"
+      },
+      {
+        "players_name": "Stage J.",
+        "players_number": "6",
+        "Full Name": "Jens Stage",
+        "players_rating": 6.3,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (08.11.1996)",
+        "Market Value": "€5.8m",
+        "unicode": "jJ1sdqU7"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Burke O.",
+        "players_number": "9",
+        "Full Name": "Oliver Burke",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (07.04.1997)",
+        "Market Value": "€1.8m",
+        "unicode": "lbqsZvEf"
+      },
+      {
+        "players_name": "Chiarodia F. C.",
+        "players_number": "39",
+        "Full Name": "Fabio Cristian Chiarodia",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "18, (05.06.2005)",
+        "Market Value": "€1.8m",
+        "unicode": "G8pNcC0K"
+      },
+      {
+        "players_name": "Mbom J. M.",
+        "players_number": "34",
+        "Full Name": "Jean Manuel Mbom",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (24.02.2000)",
+        "Market Value": "€655k",
+        "unicode": "pft0EPz2"
+      },
+      {
+        "players_name": "Zetterer M. (G)",
+        "players_number": "30",
+        "Full Name": "Michael Zetterer",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (12.07.1995)",
+        "Market Value": "€979k",
+        "unicode": "ATsadFmo"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "08:15",
+      "comments_type": "goal",
+      "comments_text": "Goal - 1:0! Ellyes Skhiri tees up Linton Maina (1. FC Koln) inside the box and he rolls the ball into the bottom left corner and past Jiri Pavlenka.",
+      "comments_text_anonymized": "Goal - 1:0! [PLAYER] tees up [PLAYER] ([TEAM]) inside the box and he rolls the ball into the bottom left corner and past [PLAYER].",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:57",
+      "comments_type": "goal",
+      "comments_text": "Fantastic team goal! Steffen Tigges (1. FC Koln) was set free in the area by Florian Kainz and made no mistake with a lovely finish into the left side of the net. 2:0.",
+      "comments_text_anonymized": "Fantastic team goal! [PLAYER] ([TEAM]) was set free in the area by [PLAYER] and made no mistake with a lovely finish into the left side of the net. 2:0.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "20:16",
+      "comments_type": "goal",
+      "comments_text": "Sensational goal, a once in a lifetime shot. Steffen Tigges (1. FC Koln) spots the goalkeeper off his line and decides to shoot from 45 metres out. The keeper tries desperately to stop the ball but it hits the back of the net.",
+      "comments_text_anonymized": "Sensational goal, a once in a lifetime shot. [PLAYER] ([TEAM]) spots the goalkeeper off his line and decides to shoot from 45 metres out. The keeper tries desperately to stop the ball but it hits the back of the net.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "29:31",
+      "comments_type": "goal",
+      "comments_text": "Goal! A terrific long pass from Linton Maina picks out an unmarked Ellyes Skhiri (1. FC Koln) inside the box. He has time and space to pick his spot and slams the ball into the bottom right corner. 4:0.",
+      "comments_text_anonymized": "Goal! A terrific long pass from [PLAYER] picks out an unmarked [PLAYER] ([TEAM]) inside the box. He has time and space to pick his spot and slams the ball into the bottom right corner. 4:0.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:16",
+      "comments_type": "goal",
+      "comments_text": "GOAL! Superb work from Steffen Tigges, who plays a vital role in the build-up. He squares it to Denis Huseinbasic (1. FC Koln), who beats Jiri Pavlenka with a brilliant shot into the bottom right corner. 5:0.",
+      "comments_text_anonymized": "GOAL! Superb work from [PLAYER], who plays a vital role in the build-up. He squares it to [PLAYER] ([TEAM]), who beats [PLAYER] with a brilliant shot into the bottom right corner. 5:0.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "37:02",
+      "comments_type": "corner",
+      "comments_text": "Marvin Ducksch (Werder Bremen) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "37:09",
+      "comments_type": "goal",
+      "comments_text": "Goal! Marvin Ducksch launched the corner kick and superbly found the head of Niclas Fullkrug (Werder Bremen), whose accurate effort from near the penalty spot went straight into the bottom right corner. It's 5:1.",
+      "comments_text_anonymized": "Goal! [PLAYER] launched the corner kick and superbly found the head of [PLAYER] ([TEAM]), whose accurate effort from near the penalty spot went straight into the bottom right corner. It's 5:1.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:15",
+      "comments_type": "corner",
+      "comments_text": "Marvin Ducksch (Werder Bremen) prepares to take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) prepares to take a corner kick.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:20",
+      "comments_type": "substitution",
+      "comments_text": "Half-time substitution. Marvin Ducksch (Werder Bremen) is replaced by Eren Dinkci.",
+      "comments_text_anonymized": "Half-time substitution. [PLAYER] ([TEAM]) is replaced by [PLAYER].",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:20",
+      "comments_type": "substitution",
+      "comments_text": "The need to improve in the second half has brought about a change. Christian Gross (Werder Bremen) comes off for Niklas Schmidt.",
+      "comments_text_anonymized": "The need to improve in the second half has brought about a change. [PLAYER] ([TEAM]) comes off for [PLAYER].",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:32",
+      "comments_type": "goal",
+      "comments_text": "What a goal that is! Linton Maina sends a brilliant cross into the box and Ellyes Skhiri (1. FC Koln) scores a stunning bicycle kick goal! Wow, take a bow gentlemen. 6:1.",
+      "comments_text_anonymized": "What a goal that is! [PLAYER] sends a brilliant cross into the box and [PLAYER] ([TEAM]) scores a stunning bicycle kick goal! Wow, take a bow gentlemen. 6:1.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:37",
+      "comments_type": "substitution",
+      "comments_text": "Steffen Baumgart decides to make a substitution. Steffen Tigges will be replaced by Davie Selke (1. FC Koln).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:37",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals that it is time for a substitution and Mathias Olesen (1. FC Koln) will replace Denis Huseinbasic.",
+      "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) will replace [PLAYER].",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:34",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Dejan Ljubicic (1. FC Koln) replaces Florian Kainz.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "14:59",
+      "comments_type": "substitution",
+      "comments_text": "Today's match ends for Niklas Stark who will be replaced by Amos Pieper (Werder Bremen).",
+      "comments_text_anonymized": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM]).",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:37",
+      "comments_type": "substitution",
+      "comments_text": "Ole Werner prepares a substitution. Leonardo Bittencourt is replaced by Jens Stage (Werder Bremen).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:00",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Ellyes Skhiri walks off the pitch and Tim Lemperle (1. FC Koln) comes on as a substitute.",
+      "comments_text_anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "24:59",
+      "comments_type": "corner",
+      "comments_text": "Jiri Pavlenka comes off his line to intercept the corner from Linton Maina (1. FC Koln).",
+      "comments_text_anonymized": "[PLAYER] comes off his line to intercept the corner from [PLAYER] ([TEAM]).",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:49",
+      "comments_type": "goal",
+      "comments_text": "An unfortunate own goal is conceded by Marco Friedl (Werder Bremen), who attempted to block the ball after a cross, but instead he sends it into the top left corner of his own goal.",
+      "comments_text_anonymized": "An unfortunate own goal is conceded by [PLAYER] ([TEAM]), who attempted to block the ball after a cross, but instead he sends it into the top left corner of his own goal.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:18",
+      "comments_type": "substitution",
+      "comments_text": "Here comes a substitution. Linton Maina is given a rest as he is replaced by Justin Diehl (1. FC Koln).",
+      "comments_text_anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM]).",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:15",
+      "comments_type": "corner",
+      "comments_text": "FC Koln have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:58",
+      "comments_type": "substitution",
+      "comments_text": "The substitution has been made. Lee Buchanan (Werder Bremen) has replaced Anthony Jung.",
+      "comments_text_anonymized": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER].",
+      "index": 21
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Per Mertesacker",
+      "B. Granit Xhaka",
+      "C. Opponent Player 1",
+      "D. None"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 1,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player has taken the most corners so far?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. No player",
+      "C. Player from opponent team",
+      "D. Multiple players"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. No player",
+      "C. Player from opponent team",
+      "D. Multiple players"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 0,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

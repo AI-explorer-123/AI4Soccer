@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Which player is most likely to be involved in the next yellow card after Jack Wilshere's booking?",
+    "choices": [
+      "A. Jack Wilshere",
+      "B. Cesc Fabregas",
+      "C. Anthony Taylor",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      10
+    ],
+    "current_event_index": 8,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player has taken the most corners in the first half up to event index 0?",
+    "choices": [
+      "A. Cesc Fabregas",
+      "B. Mesut Ozil",
+      "C. Victor Moses",
+      "D. Unknown"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card after Jack Wilshere's booking?",
+    "choices": [
+      "A. Arsenal",
+      "B. Chelsea",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      10
+    ],
+    "current_event_index": 8,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to event index 0?",
+    "choices": [
+      "A. Chelsea",
+      "B. Arsenal",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "corner"
+  }
+]

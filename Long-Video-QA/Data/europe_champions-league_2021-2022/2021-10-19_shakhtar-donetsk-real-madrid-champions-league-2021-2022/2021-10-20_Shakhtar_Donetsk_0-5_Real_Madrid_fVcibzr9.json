@@ -1,0 +1,879 @@
+{
+  "match_info": {
+    "timestamp": "2021-10-20 03:00:00",
+    "score": "0 - 5",
+    "home_team": "Shakhtar Donetsk",
+    "away_team": "Real Madrid",
+    "home_formation": "4 - 2 - 3 - 1",
+    "away_formation": "4 - 3 - 3",
+    "venue": "NSC Olimpiyskiy Stadium (Kyiv)",
+    "capacity": "70 050",
+    "attendance": "34 037"
+  },
+  "referee_data": {
+    "short_name_country": "Jovanovic S. (Srb)",
+    "first_name": "Jovanovic",
+    "abbr_last_name": "S",
+    "country": "Srb",
+    "detected_name": "Srdjan Jovanovic"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Ancelotti C.",
+        "players_number": "",
+        "Full Name": "Carlo Ancelotti",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "64,  (10.06.1959)",
+        "Market Value": "",
+        "unicode": "nZQG5IgJ"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Bale G.",
+        "players_number": "",
+        "Full Name": "Gareth Bale",
+        "players_rating": "",
+        "Country": "Wales",
+        "Role": "Forward",
+        "Age and Birthdate": "34, (16.07.1989)",
+        "Market Value": "",
+        "unicode": "4SPjLLiR"
+      },
+      {
+        "players_name": "Carvajal D.",
+        "players_number": "",
+        "Full Name": "Daniel Carvajal",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (11.01.1992)",
+        "Market Value": "€12.1m",
+        "unicode": "rZh5FTHE"
+      },
+      {
+        "players_name": "Ceballos D.",
+        "players_number": "",
+        "Full Name": "Dani Ceballos",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (07.08.1996)",
+        "Market Value": "€8.7m",
+        "unicode": "zPYmze7F"
+      },
+      {
+        "players_name": "Hazard E.",
+        "players_number": "",
+        "Full Name": "Eden Hazard",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (07.01.1991)",
+        "Market Value": "",
+        "unicode": "QH2of5sJ"
+      },
+      {
+        "players_name": "Isco",
+        "players_number": "",
+        "Full Name": "Isco",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (21.04.1992)",
+        "Market Value": "€8.2m",
+        "unicode": "ULLmpdEb"
+      },
+      {
+        "players_name": "Jovic L.",
+        "players_number": "",
+        "Full Name": "Luka Jovic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (23.12.1997)",
+        "Market Value": "€4.6m",
+        "unicode": "viIS0FT7"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Alaba D.",
+        "players_number": "4",
+        "Full Name": "David Alaba",
+        "players_rating": 6.9,
+        "Country": "Austria",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (24.06.1992)",
+        "Market Value": "€30.0m",
+        "unicode": "hKx3nCTp"
+      },
+      {
+        "players_name": "Benzema K. (C)",
+        "players_number": "9",
+        "Full Name": "Karim Benzema",
+        "players_rating": 9.0,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (19.12.1987)",
+        "Market Value": "€15.9m",
+        "unicode": "tpV0VX0S"
+      },
+      {
+        "players_name": "Casemiro",
+        "players_number": "14",
+        "Full Name": "Casemiro",
+        "players_rating": 7.1,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (23.02.1992)",
+        "Market Value": "€30.4m",
+        "unicode": "Ukeq3c0b"
+      },
+      {
+        "players_name": "Courtois T. (G)",
+        "players_number": "1",
+        "Full Name": "Thibaut Courtois",
+        "players_rating": 7.5,
+        "Country": "Belgium",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (11.05.1992)",
+        "Market Value": "€35.7m",
+        "unicode": "MVExOq3n"
+      },
+      {
+        "players_name": "Kroos T.",
+        "players_number": "8",
+        "Full Name": "Toni Kroos",
+        "players_rating": 7.4,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (04.01.1990)",
+        "Market Value": "€14.3m",
+        "unicode": "CloE7jjr"
+      },
+      {
+        "players_name": "Lucas",
+        "players_number": "17",
+        "Full Name": "Lucas Vazquez",
+        "players_rating": 7.5,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (01.07.1991)",
+        "Market Value": "€5.0m",
+        "unicode": "pEjBDsSH"
+      },
+      {
+        "players_name": "Mendy F.",
+        "players_number": "23",
+        "Full Name": "Ferland Mendy",
+        "players_rating": 7.0,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (08.06.1995)",
+        "Market Value": "€19.3m",
+        "unicode": "KnytnSKl"
+      },
+      {
+        "players_name": "Militao E.",
+        "players_number": "3",
+        "Full Name": "Eder Militao",
+        "players_rating": 7.6,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (18.01.1998)",
+        "Market Value": "€67.5m",
+        "unicode": "zX2Rm9YG"
+      },
+      {
+        "players_name": "Modric L.",
+        "players_number": "10",
+        "Full Name": "Luka Modric",
+        "players_rating": 7.8,
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "38, (09.09.1985)",
+        "Market Value": "€10.5m",
+        "unicode": "bZWyoJnA"
+      },
+      {
+        "players_name": "Rodrygo",
+        "players_number": "21",
+        "Full Name": "Rodrygo",
+        "players_rating": 7.9,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (09.01.2001)",
+        "Market Value": "€103.5m",
+        "unicode": "zPUyR5Up"
+      },
+      {
+        "players_name": "Vinicius Junior",
+        "players_number": "20",
+        "Full Name": "Vinicius Junior",
+        "players_rating": 9.3,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (12.07.2000)",
+        "Market Value": "€163.8m",
+        "unicode": "CbwQ4Mws"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Asensio M.",
+        "players_number": "11",
+        "Full Name": "Marco Asensio",
+        "players_rating": 7.1,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (21.01.1996)",
+        "Market Value": "€19.3m",
+        "unicode": "GQMMQo6m"
+      },
+      {
+        "players_name": "Camavinga E.",
+        "players_number": "25",
+        "Full Name": "Eduardo Camavinga",
+        "players_rating": 6.4,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (10.11.2002)",
+        "Market Value": "€90.6m",
+        "unicode": "6ekYsPfO"
+      },
+      {
+        "players_name": "Marcelo",
+        "players_number": "12",
+        "Full Name": "Marcelo",
+        "players_rating": 6.5,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (12.05.1988)",
+        "Market Value": "€1.4m",
+        "unicode": "zmAm2AEH"
+      },
+      {
+        "players_name": "Vallejo J.",
+        "players_number": "5",
+        "Full Name": "Jesus Vallejo",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (05.01.1997)",
+        "Market Value": "€1.3m",
+        "unicode": "WSRdoQ7I"
+      },
+      {
+        "players_name": "Valverde F.",
+        "players_number": "15",
+        "Full Name": "Federico Valverde",
+        "players_rating": 6.3,
+        "Country": "Uruguay",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (22.07.1998)",
+        "Market Value": "€105.0m",
+        "unicode": "nscfER6B"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Blanco A.",
+        "players_number": "27",
+        "Full Name": "Antonio Blanco",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (23.07.2000)",
+        "Market Value": "€4.7m",
+        "unicode": "MTG8l3Dq"
+      },
+      {
+        "players_name": "Diaz M.",
+        "players_number": "24",
+        "Full Name": "Mariano Diaz",
+        "players_rating": "",
+        "Country": "Dominican Republic",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (01.08.1993)",
+        "Market Value": "€1.8m",
+        "unicode": "OQ6UIbu1"
+      },
+      {
+        "players_name": "Fernandez N.",
+        "players_number": "6",
+        "Full Name": "Nacho Fernandez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (18.01.1990)",
+        "Market Value": "€4.9m",
+        "unicode": "8Wp8ZCLG"
+      },
+      {
+        "players_name": "Gutierrez M.",
+        "players_number": "35",
+        "Full Name": "Miguel Gutierrez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (27.07.2001)",
+        "Market Value": "€19.6m",
+        "unicode": "z9xliwUd"
+      },
+      {
+        "players_name": "Lopez L. (G)",
+        "players_number": "26",
+        "Full Name": "Luis Lopez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "22, (08.05.2001)",
+        "Market Value": "€281k",
+        "unicode": "v5HKEYQm"
+      },
+      {
+        "players_name": "Lunin A. (G)",
+        "players_number": "13",
+        "Full Name": "Andriy Lunin",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "24, (11.02.1999)",
+        "Market Value": "€8.1m",
+        "unicode": "0S7ye9jr"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "De Zerbi R.",
+        "players_number": "",
+        "Full Name": "Roberto De Zerbi",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "44,  (06.06.1979)",
+        "Market Value": "",
+        "unicode": "pYizckpN"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Junior Moraes",
+        "players_number": "",
+        "Full Name": "Junior Moraes",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (04.04.1987)",
+        "Market Value": "€357k",
+        "unicode": "UebEvNot"
+      },
+      {
+        "players_name": "Konoplyanka E.",
+        "players_number": "",
+        "Full Name": "Evgen Konoplyanka",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "€234k, (29.09.1989)",
+        "Market Value": "30.06.2025",
+        "unicode": "ARB3rdQn"
+      },
+      {
+        "players_name": "Matviienko M.",
+        "players_number": "",
+        "Full Name": "Mykola Matviienko",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (02.05.1996)",
+        "Market Value": "€19.3m",
+        "unicode": "fgouJZ4R"
+      },
+      {
+        "players_name": "Traore L.",
+        "players_number": "",
+        "Full Name": "Lassina Traore",
+        "players_rating": "",
+        "Country": "Burkina Faso",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (12.01.2001)",
+        "Market Value": "€5.5m",
+        "unicode": "vg3gxMqc"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Alan Patrick",
+        "players_number": "21",
+        "Full Name": "Alan Patrick",
+        "players_rating": 6.3,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (13.05.1991)",
+        "Market Value": "€4.1m",
+        "unicode": "E5i09mNA"
+      },
+      {
+        "players_name": "Dodo",
+        "players_number": "2",
+        "Full Name": "Dodo",
+        "players_rating": 5.7,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (17.11.1998)",
+        "Market Value": "€19.6m",
+        "unicode": "6qJwoGCI"
+      },
+      {
+        "players_name": "Fernando",
+        "players_number": "99",
+        "Full Name": "Fernando",
+        "players_rating": 6.7,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (01.03.1999)",
+        "Market Value": "€6.0m",
+        "unicode": "ATVPtoVa"
+      },
+      {
+        "players_name": "Ismaily",
+        "players_number": "31",
+        "Full Name": "Ismaily",
+        "players_rating": 6.1,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (11.01.1990)",
+        "Market Value": "€2.0m",
+        "unicode": "neNU9A9F"
+      },
+      {
+        "players_name": "Kryvtsov S. (C)",
+        "players_number": "4",
+        "Full Name": "Sergiy Kryvtsov",
+        "players_rating": 5.7,
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (15.03.1991)",
+        "Market Value": "€1.9m",
+        "unicode": "ARaUcfV8"
+      },
+      {
+        "players_name": "Marlon Santos",
+        "players_number": "5",
+        "Full Name": "Marlon Santos",
+        "players_rating": 6.2,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (07.09.1995)",
+        "Market Value": "€4.6m",
+        "unicode": "0CDZUPof"
+      },
+      {
+        "players_name": "Maycon",
+        "players_number": "7",
+        "Full Name": "Maycon",
+        "players_rating": 6.3,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (15.07.1997)",
+        "Market Value": "€4.7m",
+        "unicode": "v1k0dvtt"
+      },
+      {
+        "players_name": "Pedrinho",
+        "players_number": "38",
+        "Full Name": "Pedrinho",
+        "players_rating": 6.6,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (13.04.1998)",
+        "Market Value": "€6.7m",
+        "unicode": "QHsZiZRo"
+      },
+      {
+        "players_name": "Solomon M.",
+        "players_number": "19",
+        "Full Name": "Manor Solomon",
+        "players_rating": 6.3,
+        "Country": "Israel",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (24.07.1999)",
+        "Market Value": "€18.1m",
+        "unicode": "v5LRVtuB"
+      },
+      {
+        "players_name": "Tete",
+        "players_number": "14",
+        "Full Name": "Tete",
+        "players_rating": 6.3,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (15.02.2000)",
+        "Market Value": "€19.0m",
+        "unicode": "xp1IBUz8"
+      },
+      {
+        "players_name": "Trubin A. (G)",
+        "players_number": "81",
+        "Full Name": "Anatoliy Trubin",
+        "players_rating": 6.4,
+        "Country": "Ukraine",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "22, (01.08.2001)",
+        "Market Value": "€24.1m",
+        "unicode": "QqMFk0jg"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Kornienko V.",
+        "players_number": "44",
+        "Full Name": "Viktor Kornienko",
+        "players_rating": 6.2,
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (14.02.1999)",
+        "Market Value": "",
+        "unicode": "UNZ6mSoh"
+      },
+      {
+        "players_name": "Marcos Antonio",
+        "players_number": "8",
+        "Full Name": "Marcos Antonio",
+        "players_rating": 6.0,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (13.06.2000)",
+        "Market Value": "€6.4m",
+        "unicode": "viCy5nTJ"
+      },
+      {
+        "players_name": "Marlos",
+        "players_number": "11",
+        "Full Name": "Marlos",
+        "players_rating": 6.1,
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (07.06.1988)",
+        "Market Value": "",
+        "unicode": "EJyMBfQp"
+      },
+      {
+        "players_name": "Mudryk M.",
+        "players_number": "20",
+        "Full Name": "Mykhailo Mudryk",
+        "players_rating": 5.8,
+        "Country": "Ukraine",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (05.01.2001)",
+        "Market Value": "€39.1m",
+        "unicode": "W03dbPp4"
+      },
+      {
+        "players_name": "Stepanenko T.",
+        "players_number": "6",
+        "Full Name": "Taras Stepanenko",
+        "players_rating": 6.1,
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (08.08.1989)",
+        "Market Value": "€2.9m",
+        "unicode": "pCEPykLa"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Bondar V.",
+        "players_number": "77",
+        "Full Name": "Valeriy Bondar",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (27.02.1999)",
+        "Market Value": "€4.7m",
+        "unicode": "ryVmfT5l"
+      },
+      {
+        "players_name": "Dentinho",
+        "players_number": "9",
+        "Full Name": "Dentinho",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (19.01.1989)",
+        "Market Value": "",
+        "unicode": "jqCtWeZk"
+      },
+      {
+        "players_name": "Konoplya Y.",
+        "players_number": "26",
+        "Full Name": "Yukhym Konoplya",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (26.08.1999)",
+        "Market Value": "€3.8m",
+        "unicode": "K6LJlK5a"
+      },
+      {
+        "players_name": "Pyatov A. (G)",
+        "players_number": "30",
+        "Full Name": "Andrij Pyatov",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "39, (28.06.1984)",
+        "Market Value": "",
+        "unicode": "YiFKQr6n"
+      },
+      {
+        "players_name": "Sikan D.",
+        "players_number": "45",
+        "Full Name": "Danylo Sikan",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (16.04.2001)",
+        "Market Value": "€5.6m",
+        "unicode": "xSNs8yTf"
+      },
+      {
+        "players_name": "Sudakov G.",
+        "players_number": "25",
+        "Full Name": "Georgiy Sudakov",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (01.09.2002)",
+        "Market Value": "€17.9m",
+        "unicode": "vT9ev7SJ"
+      },
+      {
+        "players_name": "Vitao",
+        "players_number": "3",
+        "Full Name": "Vitao",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (02.02.2000)",
+        "Market Value": "€6.9m",
+        "unicode": "f5FY6IeA"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "13:08",
+      "comments_type": "corner",
+      "comments_text": "Toni Kroos (Real Madrid) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "14:20",
+      "comments_type": "corner",
+      "comments_text": "Toni Kroos (Real Madrid) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "18:46",
+      "comments_type": "corner",
+      "comments_text": "Toni Kroos (Real Madrid) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "36:56",
+      "comments_type": "goal",
+      "comments_text": "Bad communication between Sergiy Kryvtsov (Shakhtar) and the goalkeeper led to an own goal. Thumbs down. Well, let's see if he can correct his mistake with a strike into the opponent's goal.",
+      "comments_text_anonymized": "Bad communication between [PLAYER] ([TEAM]) and the goalkeeper led to an own goal. Thumbs down. Well, let's see if he can correct his mistake with a strike into the opponent's goal.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "41:20",
+      "comments_type": "corner",
+      "comments_text": "Toni Kroos (Real Madrid) is heading toward the corner flag to take the set piece.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "41:30",
+      "comments_type": "corner",
+      "comments_text": "Toni Kroos (Real Madrid) sends over a poor, overhit cross from the corner kick and the ball goes out of play.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends over a poor, overhit cross from the corner kick and the ball goes out of play.",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:10",
+      "comments_type": "substitution",
+      "comments_text": "The need to improve in the second half has brought about a change. Tete comes off for Marlos (Shakhtar).",
+      "comments_text_anonymized": "The need to improve in the second half has brought about a change. [PLAYER] comes off for [PLAYER] ([TEAM]).",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:10",
+      "comments_type": "substitution",
+      "comments_text": "There will be a change on the pitch for the second half. Roberto De Zerbi probably wasn't satisfied with the performance of Manor Solomon. He is replaced by Marcos Antonio (Shakhtar).",
+      "comments_text_anonymized": "There will be a change on the pitch for the second half. [PLAYER] probably wasn't satisfied with the performance of [PLAYER]. He is replaced by [PLAYER] ([TEAM]).",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "01:10",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Marcos Antonio (Shakhtar) was quite harsh and Srdjan Jovanovic didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "05:16",
+      "comments_type": "goal",
+      "comments_text": "Goal! A precise cut back on the goal line from Luka Modric finds Vinicius Junior (Real Madrid) right in front of goal, and he easily buries the ball into the bottom right corner. 0:2.",
+      "comments_text_anonymized": "Goal! A precise cut back on the goal line from [PLAYER] finds [PLAYER] ([TEAM]) right in front of goal, and he easily buries the ball into the bottom right corner. 0:2.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:44",
+      "comments_type": "goal",
+      "comments_text": "An amazing individual effort from Vinicius Junior (Real Madrid) ends with a strike from inside the penalty area. He sends the ball into the left side of the goal and makes it 0:3. Anatolii Trubin was helpless.",
+      "comments_text_anonymized": "An amazing individual effort from [PLAYER] ([TEAM]) ends with a strike from inside the penalty area. He sends the ball into the left side of the goal and makes it 0:3. Anatolii [PLAYER] was helpless.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:20",
+      "comments_type": "corner",
+      "comments_text": "There's an opportunity for Alan Patrick (Shakhtar) to deliver the ball into the box from a corner.",
+      "comments_text_anonymized": "There's an opportunity for [PLAYER] ([TEAM]) to deliver the ball into the box from a corner.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:38",
+      "comments_type": "corner",
+      "comments_text": "Alan Patrick (Shakhtar) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:42",
+      "comments_type": "goal",
+      "comments_text": "Goal! Vinicius Junior tees up Rodrygo (Real Madrid) inside the box, and he keeps his cool to find the top left corner. 0:4.",
+      "comments_text_anonymized": "Goal! [PLAYER] tees up [PLAYER] ([TEAM]) inside the box, and he keeps his cool to find the top left corner. 0:4.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:11",
+      "comments_type": "corner",
+      "comments_text": "Shakhtar Donetsk failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:27",
+      "comments_type": "substitution",
+      "comments_text": "The game has come to an end for Ferland Mendy. He has contributed as much as he could today. He will be replaced by the fresh legs of Marcelo (Real Madrid).",
+      "comments_text_anonymized": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM]).",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:53",
+      "comments_type": "substitution",
+      "comments_text": "The manager has decided to make a substitution and Fernando walks off the pitch to be replaced by Mykhailo Mudryk (Shakhtar).",
+      "comments_text_anonymized": "The manager has decided to make a substitution and [PLAYER] walks off the pitch to be replaced by [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:00",
+      "comments_type": "substitution",
+      "comments_text": "Roberto De Zerbi prepares a substitution. Ismaily is replaced by Viktor Korniienko (Shakhtar).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by Viktor Korniienko ([TEAM]).",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:47",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Toni Kroos departs the field of play to be replaced by Fede Valverde (Real Madrid).",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by Fede [PLAYER] ([TEAM]).",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:25",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Luka Modric walks off the pitch and Eduardo Camavinga (Real Madrid) comes on as a substitute.",
+      "comments_text_anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:19",
+      "comments_type": "substitution",
+      "comments_text": "Carlo Ancelotti has decided to substitute Rodrygo and he is replaced by Marco Asensio (Real Madrid).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:32",
+      "comments_type": "substitution",
+      "comments_text": "It's time for a substitution. That's the last involvement from Alan Patrick as he is replaced by Taras Stepanenko (Shakhtar).",
+      "comments_text_anonymized": "It's time for a substitution. That's the last involvement from [PLAYER] as he is replaced by [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:00",
+      "comments_type": "substitution",
+      "comments_text": "The substitution has been made. Jesus Vallejo (Real Madrid) has replaced Eder Militao.",
+      "comments_text_anonymized": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER].",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:21",
+      "comments_type": "corner",
+      "comments_text": "Lucas Vazquez (Real Madrid) decides to speed play up with a short corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:30",
+      "comments_type": "goal",
+      "comments_text": "Goal! Marco Asensio puts a cross into the box and finds Karim Benzema (Real Madrid), who latches on to it and strikes the ball inside the right post. He makes it 0:5.",
+      "comments_text_anonymized": "Goal! [PLAYER] puts a cross into the box and finds [PLAYER] ([TEAM]), who latches on to it and strikes the ball inside the right post. He makes it 0:5.",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "47:22",
+      "comments_type": "corner",
+      "comments_text": "A cross from a corner kick by Shakhtar Donetsk is too strong and the ball goes well out of play.",
+      "comments_text_anonymized": "A cross from a corner kick by [TEAM] is too strong and the ball goes well out of play.",
+      "index": 25
+    }
+  ]
+}

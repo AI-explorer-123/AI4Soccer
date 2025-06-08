@@ -1,0 +1,805 @@
+{
+  "match_info": {
+    "timestamp": "2020-10-18 03:00:00",
+    "score": "1 - 0",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_formation": "4 - 4 - 2",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Coliseum (Getafe)",
+    "capacity": "16 500",
+    "attendance": ""
+  },
+  "referee_data": {
+    "short_name_country": "Grado C. S. (Esp)",
+    "first_name": "Grado C.",
+    "abbr_last_name": "S",
+    "country": "Esp",
+    "detected_name": ""
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Koeman R.",
+        "players_number": "",
+        "Full Name": "Ronald Koeman",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "coach",
+        "Age and Birthdate": "60,  (21.03.1963)",
+        "Market Value": "",
+        "unicode": "vHeYAvb2"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Alba J.",
+        "players_number": "",
+        "Full Name": "Jordi Alba",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (21.03.1989)",
+        "Market Value": "€3.0m",
+        "unicode": "42SIX9sl"
+      },
+      {
+        "players_name": "Matheus Fernandes",
+        "players_number": "",
+        "Full Name": "Matheus Fernandes",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (30.06.1998)",
+        "Market Value": "€2.0m",
+        "unicode": "6HUilY58"
+      },
+      {
+        "players_name": "ter Stegen M.",
+        "players_number": "",
+        "Full Name": "Marc-Andre ter Stegen",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (30.04.1992)",
+        "Market Value": "€33.8m",
+        "unicode": "byxc46yl"
+      },
+      {
+        "players_name": "Umtiti S.",
+        "players_number": "",
+        "Full Name": "Samuel Umtiti",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (14.11.1993)",
+        "Market Value": "€2.9m",
+        "unicode": "zsH7aMfI"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Busquets S.",
+        "players_number": "5",
+        "Full Name": "Sergio Busquets",
+        "players_rating": 7.0,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (16.07.1988)",
+        "Market Value": "€2.9m",
+        "unicode": "CU4pL3ue"
+      },
+      {
+        "players_name": "de Jong F.",
+        "players_number": "21",
+        "Full Name": "Frenkie de Jong",
+        "players_rating": 7.0,
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (12.05.1997)",
+        "Market Value": "€80.6m",
+        "unicode": "A1F3rz9c"
+      },
+      {
+        "players_name": "Dembele O.",
+        "players_number": "11",
+        "Full Name": "Ousmane Dembele",
+        "players_rating": 6.5,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (15.05.1997)",
+        "Market Value": "€61.3m",
+        "unicode": "zsMC2Ec0"
+      },
+      {
+        "players_name": "Dest S.",
+        "players_number": "2",
+        "Full Name": "Sergino Dest",
+        "players_rating": 6.7,
+        "Country": "USA",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (03.11.2000)",
+        "Market Value": "€17.6m",
+        "unicode": "lOQwOgTR"
+      },
+      {
+        "players_name": "Griezmann A.",
+        "players_number": "7",
+        "Full Name": "Antoine Griezmann",
+        "players_rating": 6.3,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (21.03.1991)",
+        "Market Value": "€26.9m",
+        "unicode": "OxCa1jdT"
+      },
+      {
+        "players_name": "Lenglet C.",
+        "players_number": "15",
+        "Full Name": "Clement Lenglet",
+        "players_rating": 7.2,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (17.06.1995)",
+        "Market Value": "€7.8m",
+        "unicode": "rH0mL7ws"
+      },
+      {
+        "players_name": "Messi L. (C)",
+        "players_number": "10",
+        "Full Name": "Lionel Messi",
+        "players_rating": 7.2,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (24.06.1987)",
+        "Market Value": "€40.2m",
+        "unicode": "vgOOdZbd"
+      },
+      {
+        "players_name": "Neto (G)",
+        "players_number": "13",
+        "Full Name": "Neto",
+        "players_rating": 7.0,
+        "Country": "Brazil",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "34, (19.07.1989)",
+        "Market Value": "€2.5m",
+        "unicode": "dbGArTGd"
+      },
+      {
+        "players_name": "Pedri",
+        "players_number": "16",
+        "Full Name": "Pedri",
+        "players_rating": 6.8,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (25.11.2002)",
+        "Market Value": "€88.1m",
+        "unicode": "baBG8QuI"
+      },
+      {
+        "players_name": "Pique G.",
+        "players_number": "3",
+        "Full Name": "Gerard Pique",
+        "players_rating": 7.4,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (02.02.1987)",
+        "Market Value": "",
+        "unicode": "fRBrHCRh"
+      },
+      {
+        "players_name": "Roberto S.",
+        "players_number": "20",
+        "Full Name": "Sergi Roberto",
+        "players_rating": 6.9,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (07.02.1992)",
+        "Market Value": "€2.9m",
+        "unicode": "W2R804U4"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Braithwaite M.",
+        "players_number": "9",
+        "Full Name": "Martin Braithwaite",
+        "players_rating": 6.0,
+        "Country": "Denmark",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (05.06.1991)",
+        "Market Value": "€3.3m",
+        "unicode": "IsfUI7H4"
+      },
+      {
+        "players_name": "Coutinho",
+        "players_number": "14",
+        "Full Name": "Philippe Coutinho",
+        "players_rating": 6.2,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (12.06.1992)",
+        "Market Value": "€8.7m",
+        "unicode": "QP6r8H7O"
+      },
+      {
+        "players_name": "Fati A.",
+        "players_number": "22",
+        "Full Name": "Ansu Fati",
+        "players_rating": 6.4,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (31.10.2002)",
+        "Market Value": "€27.4m",
+        "unicode": "dUPVnxzP"
+      },
+      {
+        "players_name": "Puig R.",
+        "players_number": "12",
+        "Full Name": "Riqui Puig",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (13.08.1999)",
+        "Market Value": "€12.8m",
+        "unicode": "GxVEgL1o"
+      },
+      {
+        "players_name": "Trincao",
+        "players_number": "17",
+        "Full Name": "Trincao",
+        "players_rating": 6.2,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (29.12.1999)",
+        "Market Value": "€9.9m",
+        "unicode": "vmYemyQS"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Alena C.",
+        "players_number": "6",
+        "Full Name": "Carles Alena",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (05.01.1998)",
+        "Market Value": "€2.8m",
+        "unicode": "vP5uwPQf"
+      },
+      {
+        "players_name": "Araujo R.",
+        "players_number": "4",
+        "Full Name": "Ronald Araujo",
+        "players_rating": "",
+        "Country": "Uruguay",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (07.03.1999)",
+        "Market Value": "€67.5m",
+        "unicode": "M3sbJix9"
+      },
+      {
+        "players_name": "Firpo J.",
+        "players_number": "24",
+        "Full Name": "Junior Firpo",
+        "players_rating": "",
+        "Country": "Dominican Republic",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (22.08.1996)",
+        "Market Value": "€4.8m",
+        "unicode": "hhe17rb7"
+      },
+      {
+        "players_name": "Mingueza O.",
+        "players_number": "28",
+        "Full Name": "Oscar Mingueza",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (13.05.1999)",
+        "Market Value": "€5.7m",
+        "unicode": "YkHSwt2b"
+      },
+      {
+        "players_name": "Pena I. (G)",
+        "players_number": "26",
+        "Full Name": "Inaki Pena",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "24, (02.03.1999)",
+        "Market Value": "30.06.2026",
+        "unicode": "M1W3ZQSs"
+      },
+      {
+        "players_name": "Pjanic M.",
+        "players_number": "8",
+        "Full Name": "Miralem Pjanic",
+        "players_rating": "",
+        "Country": "Bosnia and Herzegovina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (02.04.1990)",
+        "Market Value": "€4.9m",
+        "unicode": "ObHi3HbL"
+      },
+      {
+        "players_name": "Tenas A. (G)",
+        "players_number": "36",
+        "Full Name": "Arnau Tenas",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "22, (30.05.2001)",
+        "Market Value": "€5.0m",
+        "unicode": "CnNoZhXr"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Bordalas Jimenez J.",
+        "players_number": "",
+        "Full Name": "Jose Bordalas Jimenez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "coach",
+        "Age and Birthdate": "59,  (05.03.1964)",
+        "Market Value": "",
+        "unicode": "4AuIPRuq"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Arambarri M.",
+        "players_number": "18",
+        "Full Name": "Mauro Arambarri",
+        "players_rating": 7.0,
+        "Country": "Uruguay",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (30.09.1995)",
+        "Market Value": "€5.5m",
+        "unicode": "zHQB5zMa"
+      },
+      {
+        "players_name": "Cabaco E.",
+        "players_number": "3",
+        "Full Name": "Erick Cabaco",
+        "players_rating": 6.4,
+        "Country": "Uruguay",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (19.04.1995)",
+        "Market Value": "€922k",
+        "unicode": "2yjtWUjg"
+      },
+      {
+        "players_name": "Cucho",
+        "players_number": "23",
+        "Full Name": "Cucho",
+        "players_rating": 7.1,
+        "Country": "Colombia",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (20.04.1999)",
+        "Market Value": "€14.0m",
+        "unicode": "65KF7LTO"
+      },
+      {
+        "players_name": "Cucurella M.",
+        "players_number": "15",
+        "Full Name": "Marc Cucurella",
+        "players_rating": 7.6,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (22.07.1998)",
+        "Market Value": "€24.5m",
+        "unicode": "QTynbZd3"
+      },
+      {
+        "players_name": "Djene (C)",
+        "players_number": "2",
+        "Full Name": "Djene",
+        "players_rating": 7.4,
+        "Country": "Togo",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (31.12.1991)",
+        "Market Value": "€3.7m",
+        "unicode": "xnvqJMC1"
+      },
+      {
+        "players_name": "Maksimovic N.",
+        "players_number": "20",
+        "Full Name": "Nemanja Maksimovic",
+        "players_rating": 6.8,
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (26.01.1995)",
+        "Market Value": "€5.6m",
+        "unicode": "vseNUZvO"
+      },
+      {
+        "players_name": "Mata J.",
+        "players_number": "7",
+        "Full Name": "Jaime Mata",
+        "players_rating": 7.0,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (24.10.1988)",
+        "Market Value": "€950k",
+        "unicode": "r92RZve6"
+      },
+      {
+        "players_name": "Nyom A.",
+        "players_number": "12",
+        "Full Name": "Allan Nyom",
+        "players_rating": 6.4,
+        "Country": "Cameroon",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (10.05.1988)",
+        "Market Value": "€772k",
+        "unicode": "2Hcye1sn"
+      },
+      {
+        "players_name": "Olivera M.",
+        "players_number": "17",
+        "Full Name": "Mathias Olivera",
+        "players_rating": 6.7,
+        "Country": "Uruguay",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (31.10.1997)",
+        "Market Value": "€16.7m",
+        "unicode": "bwAJqLBt"
+      },
+      {
+        "players_name": "Soria D. (G)",
+        "players_number": "13",
+        "Full Name": "David Soria",
+        "players_rating": 6.6,
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "30, (04.04.1993)",
+        "Market Value": "€7.8m",
+        "unicode": "2VpTGXlE"
+      },
+      {
+        "players_name": "Suarez D.",
+        "players_number": "22",
+        "Full Name": "Damian Suarez",
+        "players_rating": 7.2,
+        "Country": "Uruguay",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (27.04.1988)",
+        "Market Value": "€936k",
+        "unicode": "CWtLornr"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Mollejo V.",
+        "players_number": "26",
+        "Full Name": "Victor Mollejo",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (21.01.2001)",
+        "Market Value": "€2.8m",
+        "unicode": "MTbjYjJR"
+      },
+      {
+        "players_name": "Timor D.",
+        "players_number": "24",
+        "Full Name": "David Timor",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (17.10.1989)",
+        "Market Value": "€579k",
+        "unicode": "nTh80kX9"
+      },
+      {
+        "players_name": "Unal E.",
+        "players_number": "10",
+        "Full Name": "Enes Unal",
+        "players_rating": 6.2,
+        "Country": "Turkey",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (10.05.1997)",
+        "Market Value": "€24.5m",
+        "unicode": "C4hNaLoU"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Chema",
+        "players_number": "6",
+        "Full Name": "Chema",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (03.03.1992)",
+        "Market Value": " (Until: 30.06.2024)",
+        "unicode": "Kjc7Gst2"
+      },
+      {
+        "players_name": "Etxeita X.",
+        "players_number": "4",
+        "Full Name": "Xabier Etxeita",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (31.10.1987)",
+        "Market Value": "€277k",
+        "unicode": "WtMNdSJC"
+      },
+      {
+        "players_name": "Palaversa A.",
+        "players_number": "14",
+        "Full Name": "Ante Palaversa",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (06.04.2000)",
+        "Market Value": "€363k",
+        "unicode": "nXc9PAQE"
+      },
+      {
+        "players_name": "Portillo F.",
+        "players_number": "8",
+        "Full Name": "Francisco Portillo",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (13.06.1990)",
+        "Market Value": "€760k",
+        "unicode": "4O57dlJp"
+      },
+      {
+        "players_name": "Rodriguez A.",
+        "players_number": "9",
+        "Full Name": "Angel Rodriguez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (26.04.1987)",
+        "Market Value": "€461k",
+        "unicode": "MZYiJsf5"
+      },
+      {
+        "players_name": "Yanez R. (G)",
+        "players_number": "1",
+        "Full Name": "Ruben Yanez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "30, (12.10.1993)",
+        "Market Value": "€1.8m",
+        "unicode": "8pgzl3LK"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "10:11",
+      "comments_type": "corner",
+      "comments_text": "Mauro Arambarri (Getafe) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "23:10",
+      "comments_type": "yellow card",
+      "comments_text": "Gerard Pique (Barcelona) is cautioned by the referee for a foul that he committed a little earlier.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is cautioned by the referee for a foul that he committed a little earlier.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "26:49",
+      "comments_type": "yellow card",
+      "comments_text": "Jaime Mata (Getafe) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "27:27",
+      "comments_type": "yellow card",
+      "comments_text": "Erick Cabaco (Getafe) goes into the book for a horrible tackle. A yellow card is necessary in this case.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes into the book for a horrible tackle. A yellow card is necessary in this case.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:47",
+      "comments_type": "yellow card",
+      "comments_text": "Joseph Bordalás Jiménez is stunned as referee Cesar Soto Grado shows him a yellow card. What was that for?",
+      "comments_text_anonymized": "Joseph Bordalás Jiménez is stunned as referee Cesar Soto Grado shows him a yellow card. What was that for?",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "41:10",
+      "comments_type": "yellow card",
+      "comments_text": "Sergi Roberto (Barcelona) picked up a yellow card for saying too much to the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) picked up a yellow card for saying too much to the referee.",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:13",
+      "comments_type": "corner",
+      "comments_text": "Getafe take a short corner instead of sending the ball into the penalty area.",
+      "comments_text_anonymized": "[TEAM] take a short corner instead of sending the ball into the penalty area.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:29",
+      "comments_type": "corner",
+      "comments_text": "Getafe failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:30",
+      "comments_type": "penalty",
+      "comments_text": "Jaime Mata (Getafe) is going to take the penalty!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:38",
+      "comments_type": "goal",
+      "comments_text": "Goal! Jaime Mata (Getafe) wins the battle of wills and sends an unstoppable penalty past Neto into the bottom left corner.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into the bottom left corner.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:59",
+      "comments_type": "substitution",
+      "comments_text": "Ronald Koeman has decided to make a change. Anssumane Fati (Barcelona) replaces Ousmane Dembele.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. Anssumane [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:26",
+      "comments_type": "substitution",
+      "comments_text": "Pedri will be replaced by Philippe Coutinho (Barcelona).",
+      "comments_text_anonymized": "[PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:37",
+      "comments_type": "corner",
+      "comments_text": "David Soria comes off his line to intercept the corner from Lionel Messi (Barcelona).",
+      "comments_text_anonymized": "[PLAYER] comes off his line to intercept the corner from [PLAYER] ([TEAM]).",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "24:52",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Jaime Mata makes way for Enes Unal (Getafe).",
+      "comments_text_anonymized": "Substitution. [PLAYER] makes way for [PLAYER] ([TEAM]).",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:28",
+      "comments_type": "corner",
+      "comments_text": "A corner kick by Getafe is thwarted by the well prepared Neto (Barcelona).",
+      "comments_text_anonymized": "A corner kick by [TEAM] is thwarted by the well prepared [PLAYER] ([TEAM]).",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:47",
+      "comments_type": "yellow card",
+      "comments_text": "Cesar Soto Grado shows a yellow card to Allan Nyom (Getafe) for his blatant foul.",
+      "comments_text_anonymized": "Cesar Soto Grado shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:40",
+      "comments_type": "corner",
+      "comments_text": "Getafe take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:19",
+      "comments_type": "substitution",
+      "comments_text": "Here comes a substitution. Antoine Griezmann is given a rest as he is replaced by Trincao (Barcelona).",
+      "comments_text_anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM]).",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:15",
+      "comments_type": "substitution",
+      "comments_text": "Ronald Koeman prepares a substitution. Frenkie de Jong is replaced by Martin Braithwaite (Barcelona).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:53",
+      "comments_type": "corner",
+      "comments_text": "Getafe failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:26",
+      "comments_type": "corner",
+      "comments_text": "Getafe fail to threaten from the corner kick as the opposition's goalkeeper plucks the ball out of the air.",
+      "comments_text_anonymized": "[TEAM] fail to threaten from the corner kick as the opposition's goalkeeper plucks the ball out of the air.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:12",
+      "comments_type": "substitution",
+      "comments_text": "A substitution has been made. Sergi Roberto is replaced by Ricard Puig (Barcelona).",
+      "comments_text_anonymized": "A substitution has been made. [PLAYER] is replaced by Ricard [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:38",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Cucho is going off and Pepe Bordalas gives the last tactical orders to David Timor (Getafe).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and Pepe [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:40",
+      "comments_type": "corner",
+      "comments_text": "Martin Braithwaite (Barcelona) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. Barcelona have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:31",
+      "comments_type": "corner",
+      "comments_text": "Barcelona take a short corner kick.",
+      "comments_text_anonymized": "[TEAM] take a short corner kick.",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "47:54",
+      "comments_type": "yellow card",
+      "comments_text": "Mathias Olivera Miramontes (Getafe) is booked.",
+      "comments_text_anonymized": "[PLAYER] Miramontes ([TEAM]) is booked.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "50:07",
+      "comments_type": "substitution",
+      "comments_text": "That's the end of the game for Nemanja Maksimovic, who is replaced by Victor Mollejo (Getafe).",
+      "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM]).",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "51:25",
+      "comments_type": "yellow card",
+      "comments_text": "That will be a yellow card for one of the players. The one who gets booked is Sergino Dest (Barcelona).",
+      "comments_text_anonymized": "That will be a yellow card for one of the players. The one who gets booked is [PLAYER] ([TEAM]).",
+      "index": 27
+    }
+  ]
+}

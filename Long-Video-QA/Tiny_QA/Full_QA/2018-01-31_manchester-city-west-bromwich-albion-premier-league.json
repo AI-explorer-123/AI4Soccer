@@ -1,0 +1,608 @@
+[
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Fernandinho",
+      "B. Kevin De Bruyne",
+      "C. Sergio Aguero",
+      "D. Raheem Sterling"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals has Manchester City scored by the 18:55 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which Manchester City player scored the second goal?",
+    "choices": [
+      "A. Fernandinho",
+      "B. Kevin De Bruyne",
+      "C. Sergio Aguero",
+      "D. Raheem Sterling"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      3,
+      11
+    ],
+    "current_event_index": 11,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored by Manchester City by the 22:53 mark?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      3,
+      11
+    ],
+    "current_event_index": 11,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the third goal for Manchester City?",
+    "choices": [
+      "A. Fernandinho",
+      "B. Kevin De Bruyne",
+      "C. Sergio Aguero",
+      "D. Raheem Sterling"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      3,
+      11,
+      21
+    ],
+    "current_event_index": 21,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored by Manchester City by the end of the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      3,
+      11,
+      21
+    ],
+    "current_event_index": 21,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player scored the most goals in the match?",
+    "choices": [
+      "A. Fernandinho",
+      "B. Kevin De Bruyne",
+      "C. Sergio Aguero",
+      "D. All scored one goal"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      3,
+      11,
+      21
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals were scored in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      3,
+      11,
+      21
+    ],
+    "current_event_index": null,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored all the goals in the match?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      3,
+      11,
+      21
+    ],
+    "current_event_index": null,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be another goal after the 22:53 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      21
+    ],
+    "current_event_index": 11,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to score the next goal after the 22:53 mark?",
+    "choices": [
+      "A. Fernandinho",
+      "B. Kevin De Bruyne",
+      "C. Sergio Aguero",
+      "D. Raheem Sterling"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      21
+    ],
+    "current_event_index": 11,
+    "index": 10,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will Manchester City score another goal after the 22:53 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      21
+    ],
+    "current_event_index": 11,
+    "index": 11,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Manchester City",
+      "B. West Brom",
+      "C. Both teams have the same",
+      "D. No yellow cards yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last card?",
+    "choices": [
+      "A. David Silva",
+      "B. James McClean",
+      "C. Salomon Rondon",
+      "D. Matt Phillips"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      4,
+      12,
+      14,
+      18
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Manchester City",
+      "B. West Brom",
+      "C. Both teams have the same",
+      "D. No yellow cards"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      4,
+      12,
+      14,
+      18
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player was involved in the most yellow cards?",
+    "choices": [
+      "A. David Silva",
+      "B. James McClean",
+      "C. Salomon Rondon",
+      "D. Matt Phillips"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      4,
+      12,
+      14,
+      18
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      12,
+      14,
+      18
+    ],
+    "current_event_index": 4,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Manchester City",
+      "B. West Brom",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      12,
+      14,
+      18
+    ],
+    "current_event_index": 4,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. David Silva",
+      "B. James McClean",
+      "C. Salomon Rondon",
+      "D. Matt Phillips"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 4,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Manchester City",
+      "B. West Brom",
+      "C. Both teams have taken the same number",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. David Silva",
+      "B. Kevin De Bruyne",
+      "C. Sergio Aguero",
+      "D. James McClean"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 5",
+      "B. 7",
+      "C. 9",
+      "D. 10"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      6,
+      9,
+      10,
+      13,
+      17,
+      19,
+      20
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Manchester City",
+      "B. West Brom",
+      "C. Both teams had the same number",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      6,
+      9,
+      10,
+      13,
+      17,
+      19,
+      20
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. David Silva",
+      "B. Kevin De Bruyne",
+      "C. Sergio Aguero",
+      "D. James McClean"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      6,
+      9,
+      10,
+      13,
+      17,
+      19,
+      20
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      6,
+      9,
+      10,
+      13,
+      17,
+      19,
+      20
+    ],
+    "current_event_index": 2,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Manchester City",
+      "B. West Brom",
+      "C. Both teams",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      6,
+      9,
+      10,
+      13,
+      17,
+      19,
+      20
+    ],
+    "current_event_index": 2,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. David Silva",
+      "B. Kevin De Bruyne",
+      "C. Sergio Aguero",
+      "D. James McClean"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      6,
+      9,
+      10,
+      13,
+      17,
+      19,
+      20
+    ],
+    "current_event_index": 2,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

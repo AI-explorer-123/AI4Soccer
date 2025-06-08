@@ -1,0 +1,1721 @@
+{
+    "timestamp": "1443552300",
+    "score": "5 - 0",
+    "round": "2",
+    "teams": [
+        "Din. Zagreb",
+        "Bayern Munich"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-3-3",
+            "players": [
+                {
+                    "hash": "hKx3nCTp",
+                    "name": "Alaba D.",
+                    "captain": "",
+                    "detail_link": "/player/alaba-david/hKx3nCTp/",
+                    "short_name": "Alaba",
+                    "shirt_number": "27",
+                    "country": "Austria",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "David Alaba"
+                },
+                {
+                    "hash": "Cd1ieN88",
+                    "name": "Bernat J.",
+                    "captain": "",
+                    "detail_link": "/player/bernat-juan/Cd1ieN88/",
+                    "short_name": "Bernat",
+                    "shirt_number": "18",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "46'",
+                            "description": "Martinez J.",
+                            "linked_player_hash": "IiVRUCYs"
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Juan Bernat"
+                },
+                {
+                    "hash": "0bDEBms3",
+                    "name": "Boateng J.",
+                    "captain": "",
+                    "detail_link": "/player/boateng-jerome/0bDEBms3/",
+                    "short_name": "Boateng",
+                    "shirt_number": "17",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "21' Boateng J. (Impeding)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "64'",
+                            "description": "Rafinha",
+                            "linked_player_hash": "pxvTBxot"
+                        }
+                    ],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Jerome Boateng"
+                },
+                {
+                    "hash": "zHWLJOHq",
+                    "name": "Coman K.",
+                    "captain": "",
+                    "detail_link": "/player/coman-kingsley/zHWLJOHq/",
+                    "short_name": "Coman",
+                    "shirt_number": "29",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "25' Gotze M. (Coman K.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Kingsley Coman"
+                },
+                {
+                    "hash": "fPOJMEfo",
+                    "name": "Costa D.",
+                    "captain": "",
+                    "detail_link": "/player/costa-douglas/fPOJMEfo/",
+                    "short_name": "Costa",
+                    "shirt_number": "11",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "13' Costa D.",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "28' Lewandowski R. (Costa D.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "58'",
+                            "description": "Muller T.",
+                            "linked_player_hash": "8KpOJV2B"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Douglas Costa"
+                },
+                {
+                    "hash": "veaF8P5m",
+                    "name": "Gotze M.",
+                    "captain": "",
+                    "detail_link": "/player/gotze-mario/veaF8P5m/",
+                    "short_name": "Gotze",
+                    "shirt_number": "19",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "25' Gotze M. (Coman K.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Mario Gotze"
+                },
+                {
+                    "hash": "MkMrkZLc",
+                    "name": "Kimmich J.",
+                    "captain": "",
+                    "detail_link": "/player/kimmich-joshua/MkMrkZLc/",
+                    "short_name": "Kimmich",
+                    "shirt_number": "32",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Joshua Kimmich"
+                },
+                {
+                    "hash": "MB26hXLr",
+                    "name": "Lahm P.",
+                    "captain": "(C)",
+                    "detail_link": "/player/lahm-philipp/MB26hXLr/",
+                    "short_name": "Lahm",
+                    "shirt_number": "21",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Philipp Lahm"
+                },
+                {
+                    "hash": "MVC8zHZD",
+                    "name": "Lewandowski R.",
+                    "captain": "",
+                    "detail_link": "/player/lewandowski-robert/MVC8zHZD/",
+                    "short_name": "Lewandowski",
+                    "shirt_number": "9",
+                    "country": "Poland",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "21' Lewandowski R. (Thiago)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "3",
+                            "time": "28' Lewandowski R. (Costa D.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "3",
+                            "time": "55' Lewandowski R. (Thiago)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Robert Lewandowski"
+                },
+                {
+                    "hash": "Sh5KwIo6",
+                    "name": "Neuer M.",
+                    "captain": "",
+                    "detail_link": "/player/neuer-manuel/Sh5KwIo6/",
+                    "short_name": "Neuer",
+                    "shirt_number": "1",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Manuel Neuer"
+                },
+                {
+                    "hash": "vcSKqUSq",
+                    "name": "Thiago",
+                    "captain": "",
+                    "detail_link": "/player/thiago/vcSKqUSq/",
+                    "short_name": "Thiago",
+                    "shirt_number": "6",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "21' Lewandowski R. (Thiago)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "55' Lewandowski R. (Thiago)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Thiago"
+                },
+                {
+                    "hash": "hAcTWKKN",
+                    "name": "Alonso X.",
+                    "captain": "",
+                    "detail_link": "/player/alonso-xabi/hAcTWKKN/",
+                    "short_name": "Alonso",
+                    "shirt_number": "14",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Xabi Alonso"
+                },
+                {
+                    "hash": "8SkAyAj6",
+                    "name": "Benko F.",
+                    "captain": "",
+                    "detail_link": "/player/benko-fabian/8SkAyAj6/",
+                    "short_name": "Benko",
+                    "shirt_number": "40",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Fabian Benko"
+                },
+                {
+                    "hash": "2ciZOLrI",
+                    "name": "Gaudino G.",
+                    "captain": "",
+                    "detail_link": "/player/gaudino-gianluca/2ciZOLrI/",
+                    "short_name": "Gaudino",
+                    "shirt_number": "16",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Gianluca Gaudino"
+                },
+                {
+                    "hash": "IiVRUCYs",
+                    "name": "Martinez J.",
+                    "captain": "",
+                    "detail_link": "/player/martinez-javi/IiVRUCYs/",
+                    "short_name": "Martinez",
+                    "shirt_number": "8",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "46'",
+                            "description": "Bernat J.",
+                            "linked_player_hash": "Cd1ieN88"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Javi Martinez"
+                },
+                {
+                    "hash": "8KpOJV2B",
+                    "name": "Muller T.",
+                    "captain": "",
+                    "detail_link": "/player/muller-thomas/8KpOJV2B/",
+                    "short_name": "Muller",
+                    "shirt_number": "25",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "58'",
+                            "description": "Costa D.",
+                            "linked_player_hash": "fPOJMEfo"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Thomas Muller"
+                },
+                {
+                    "hash": "pxvTBxot",
+                    "name": "Rafinha",
+                    "captain": "",
+                    "detail_link": "/player/rafinha/pxvTBxot/",
+                    "short_name": "Rafinha",
+                    "shirt_number": "13",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "64'",
+                            "description": "Boateng J.",
+                            "linked_player_hash": "0bDEBms3"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Rafinha"
+                },
+                {
+                    "hash": "8CE8Sho8",
+                    "name": "Ulreich S.",
+                    "captain": "",
+                    "detail_link": "/player/ulreich-sven/8CE8Sho8/",
+                    "short_name": "Ulreich",
+                    "shirt_number": "26",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sven Ulreich"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "hxNijWrJ",
+                    "name": "Guardiola P.",
+                    "captain": "",
+                    "detail_link": "/player/guardiola-pep/hxNijWrJ/",
+                    "short_name": "Guardiola P.",
+                    "shirt_number": "",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Pep Guardiola"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-2-3-1",
+            "players": [
+                {
+                    "hash": "8lnElLro",
+                    "name": "Ademi A.",
+                    "captain": "",
+                    "detail_link": "/player/ademi-arijan/8lnElLro/",
+                    "short_name": "Ademi",
+                    "shirt_number": "16",
+                    "country": "North Macedonia",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "81' Ademi A. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Arijan Ademi"
+                },
+                {
+                    "hash": "xOraw1i7",
+                    "name": "Antolic D.",
+                    "captain": "(C)",
+                    "detail_link": "/player/antolic-domagoj/xOraw1i7/",
+                    "short_name": "Antolic",
+                    "shirt_number": "8",
+                    "country": "Croatia",
+                    "facts": [],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Domagoj Antolic"
+                },
+                {
+                    "hash": "xhRS2aae",
+                    "name": "Benkovic F.",
+                    "captain": "",
+                    "detail_link": "/player/benkovic-filip/xhRS2aae/",
+                    "short_name": "Benkovic",
+                    "shirt_number": "26",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "46'",
+                            "description": "Goncalo",
+                            "linked_player_hash": "IgNrOhqm"
+                        }
+                    ],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Filip Benkovic"
+                },
+                {
+                    "hash": "fVXVWRYt",
+                    "name": "Eduardo",
+                    "captain": "",
+                    "detail_link": "/player/eduardo/fVXVWRYt/",
+                    "short_name": "Eduardo",
+                    "shirt_number": "34",
+                    "country": "Portugal",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Eduardo"
+                },
+                {
+                    "hash": "zoGK0JMl",
+                    "name": "Fernandes J.",
+                    "captain": "",
+                    "detail_link": "/player/fernandes-junior/zoGK0JMl/",
+                    "short_name": "Fernandes",
+                    "shirt_number": "11",
+                    "country": "Chile",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Junior Fernandes"
+                },
+                {
+                    "hash": "GGvaHj0I",
+                    "name": "Machado P.",
+                    "captain": "",
+                    "detail_link": "/player/machado-paulo/GGvaHj0I/",
+                    "short_name": "Machado",
+                    "shirt_number": "10",
+                    "country": "Portugal",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "61'",
+                            "description": "Rog M.",
+                            "linked_player_hash": "EcdOzaBB"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Paulo Ricardo Machado"
+                },
+                {
+                    "hash": "tE8fuooE",
+                    "name": "Matel A.",
+                    "captain": "",
+                    "detail_link": "/player/matel-alexandru/tE8fuooE/",
+                    "short_name": "Matel",
+                    "shirt_number": "77",
+                    "country": "Romania",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Alexandru Matel"
+                },
+                {
+                    "hash": "KleopPqR",
+                    "name": "Pivaric J.",
+                    "captain": "",
+                    "detail_link": "/player/pivaric-josip/KleopPqR/",
+                    "short_name": "Pivaric",
+                    "shirt_number": "19",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "66' Pivaric J. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Josip Pivaric"
+                },
+                {
+                    "hash": "UgMPrQq6",
+                    "name": "Pjaca M.",
+                    "captain": "",
+                    "detail_link": "/player/pjaca-marko/UgMPrQq6/",
+                    "short_name": "Pjaca",
+                    "shirt_number": "20",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "69'",
+                            "description": "Henriquez A.",
+                            "linked_player_hash": "dfVxvHDQ"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Marko Pjaca"
+                },
+                {
+                    "hash": "pMCSVg4o",
+                    "name": "Soudani El A.",
+                    "captain": "",
+                    "detail_link": "/player/soudani-el-arbi/pMCSVg4o/",
+                    "short_name": "Soudani",
+                    "shirt_number": "2",
+                    "country": "Algeria",
+                    "facts": [],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "El Arbi Soudani"
+                },
+                {
+                    "hash": "AZw7YEM8",
+                    "name": "Taravel J.",
+                    "captain": "",
+                    "detail_link": "/player/taravel-jeremy/AZw7YEM8/",
+                    "short_name": "Taravel",
+                    "shirt_number": "87",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Jeremy Taravel"
+                },
+                {
+                    "hash": "QalIHbEl",
+                    "name": "Coric A.",
+                    "captain": "",
+                    "detail_link": "/player/coric-ante/QalIHbEl/",
+                    "short_name": "Coric",
+                    "shirt_number": "24",
+                    "country": "Croatia",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ante Coric"
+                },
+                {
+                    "hash": "IgNrOhqm",
+                    "name": "Goncalo",
+                    "captain": "",
+                    "detail_link": "/player/goncalo/IgNrOhqm/",
+                    "short_name": "Goncalo",
+                    "shirt_number": "13",
+                    "country": "Portugal",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "46'",
+                            "description": "Benkovic F.",
+                            "linked_player_hash": "xhRS2aae"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Goncalo"
+                },
+                {
+                    "hash": "dfVxvHDQ",
+                    "name": "Henriquez A.",
+                    "captain": "",
+                    "detail_link": "/player/henriquez-angelo/dfVxvHDQ/",
+                    "short_name": "Henriquez",
+                    "shirt_number": "9",
+                    "country": "Chile",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "69'",
+                            "description": "Pjaca M.",
+                            "linked_player_hash": "UgMPrQq6"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Angelo Henriquez"
+                },
+                {
+                    "hash": "0Sotihlt",
+                    "name": "Hodzic A.",
+                    "captain": "",
+                    "detail_link": "/player/hodzic-armin/0Sotihlt/",
+                    "short_name": "Hodzic",
+                    "shirt_number": "15",
+                    "country": "Bosnia and Herzegovina",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Armin Hodzic"
+                },
+                {
+                    "hash": "GprkBuXi",
+                    "name": "Jezina A.",
+                    "captain": "",
+                    "detail_link": "/player/jezina-antonio/GprkBuXi/",
+                    "short_name": "Jezina",
+                    "shirt_number": "1",
+                    "country": "Croatia",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Antonio Jezina"
+                },
+                {
+                    "hash": "rJhEO3he",
+                    "name": "Musa M.",
+                    "captain": "",
+                    "detail_link": "/player/musa-mario/rJhEO3he/",
+                    "short_name": "Musa",
+                    "shirt_number": "3",
+                    "country": "Croatia",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Mario Musa"
+                },
+                {
+                    "hash": "EcdOzaBB",
+                    "name": "Rog M.",
+                    "captain": "",
+                    "detail_link": "/player/rog-marko/EcdOzaBB/",
+                    "short_name": "Rog",
+                    "shirt_number": "30",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "61'",
+                            "description": "Machado P.",
+                            "linked_player_hash": "GGvaHj0I"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marko Rog"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "AF5XoV5a",
+                    "name": "Mamic Z.",
+                    "captain": "",
+                    "detail_link": "/player/mamic-zoran/AF5XoV5a/",
+                    "short_name": "Mamic Z.",
+                    "shirt_number": "",
+                    "country": "Croatia",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Zoran Mamic"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Kulbakov A."
+    ],
+    "venue": [
+        "Allianz Arena (Munich)"
+    ],
+    "attendance": [
+        "70 000"
+    ],
+    "referee_matched": [
+        "Aleksei Kulbakov"
+    ],
+    "referee_found": [
+        "Aleksei Kulbakov"
+    ],
+    "coach_matched": [
+        "Pep Guardiola",
+        "Zoran Mamic"
+    ],
+    "gameHomeTeam": "Bayern Munich",
+    "home": {
+        "name": "Bayern Munich",
+        "detail_link": "/team/bayern-munich/nVp0wiqd",
+        "hash": "nVp0wiqd",
+        "names": [
+            "Bayern Munich",
+            "bayern munich"
+        ]
+    },
+    "gameAwayTeam": "D. Zagreb",
+    "away": {
+        "name": "D. Zagreb",
+        "detail_link": "/team/din-zagreb/8G5ufQTg",
+        "hash": "8G5ufQTg",
+        "names": [
+            "D. Zagreb",
+            "D. Zagreb (Cro)",
+            "din zagreb",
+            "Din. Zagreb"
+        ]
+    },
+    "gameDate": "29/09/2015 - 20:45",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. Bayern Munich were better today and displayed masterful control and movement. The home side attempted to hold onto the ball for as long as possible, while the away side focused on defending and let the opposition keep possession.",
+            "identified": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. [TEAM_] were better today and displayed masterful control and movement. The home side attempted to hold onto the ball for as long as possible, while the away side focused on defending and let the opposition keep possession.",
+            "anonymized": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. [TEAM] were better today and displayed masterful control and movement. The home side attempted to hold onto the ball for as long as possible, while the away side focused on defending and let the opposition keep possession.",
+            "visibility": "shown",
+            "position": "2879000",
+            "event_aligned_gameTime": "2 - 47:59",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 47:04",
+            "label": "whistle",
+            "description": "The match has just finished.",
+            "identified": "The match has just finished.",
+            "anonymized": "The match has just finished.",
+            "visibility": "shown",
+            "position": "2824000",
+            "event_aligned_gameTime": "2 - 47:04",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 46:44",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) collects a pass and strikes from about 20 metres out. It's a poor attempt which flies well over the bar.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) collects a pass and strikes from about 20 metres out. It's a poor attempt which flies well over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) collects a pass and strikes from about 20 metres out. It's a poor attempt which flies well over the bar.",
+            "visibility": "shown",
+            "position": "2804000",
+            "event_aligned_gameTime": "2 - 46:44",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 45:08",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) produces a killer pass onto Robert Lewandowski, who loses the ball to one of the defenders.",
+            "identified": "[PLAYER_veaF8P5m] ([TEAM_]) produces a killer pass onto [PLAYER_MVC8zHZD], who loses the ball to one of the defenders.",
+            "anonymized": "[PLAYER] ([TEAM]) produces a killer pass onto [PLAYER], who loses the ball to one of the defenders.",
+            "visibility": "shown",
+            "position": "2708000",
+            "event_aligned_gameTime": "2 - 44:30",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "2 min. of stoppage-time to be played.",
+            "identified": "2 min. of stoppage-time to be played.",
+            "anonymized": "2 min. of stoppage-time to be played.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:20",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 44:27",
+            "label": "",
+            "description": "Domagoj Antolic (Din. Zagreb) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",
+            "identified": "[PLAYER_xOraw1i7] ([TEAM_]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",
+            "visibility": "shown",
+            "position": "2667000",
+            "event_aligned_gameTime": "2 - 44:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:45",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) takes the resulting free kick from 22 metres out. He attempts to send his effort into the middle of the goal, but Eduardo is alert and keeps the ball out.",
+            "identified": "[PLAYER_vcSKqUSq] ([TEAM_]) takes the resulting free kick from 22 metres out. He attempts to send his effort into the middle of the goal, but [PLAYER_fVXVWRYt] is alert and keeps the ball out.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the resulting free kick from 22 metres out. He attempts to send his effort into the middle of the goal, but [PLAYER] is alert and keeps the ball out.",
+            "visibility": "shown",
+            "position": "2565000",
+            "event_aligned_gameTime": "2 - 42:45",
+            "contrastive_aligned_gameTime": "2 - 42:45"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:53",
+            "label": "",
+            "description": "Goncalo (Din. Zagreb) pulls the jersey of one of the opposition players and Aleksei Kulbakov blows his whistle for a foul. Bayern Munich are awarded a free kick from a dangerous position.",
+            "identified": "[PLAYER_IgNrOhqm] ([TEAM_]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. [TEAM_] are awarded a free kick from a dangerous position.",
+            "anonymized": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. [TEAM] are awarded a free kick from a dangerous position.",
+            "visibility": "shown",
+            "position": "2513000",
+            "event_aligned_gameTime": "2 - 41:50",
+            "contrastive_aligned_gameTime": "2 - 41:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 40:37",
+            "label": "",
+            "description": "That was close by Thiago Alcantara (Bayern Munich)! He receives a pass on the edge of the box and shoots, but the ball goes by a whisker over the crossbar.",
+            "identified": "That was close by [PLAYER_vcSKqUSq] ([TEAM_])! He receives a pass on the edge of the box and shoots, but the ball goes by a whisker over the crossbar.",
+            "anonymized": "That was close by [PLAYER] ([TEAM])! He receives a pass on the edge of the box and shoots, but the ball goes by a whisker over the crossbar.",
+            "visibility": "shown",
+            "position": "2437000",
+            "event_aligned_gameTime": "2 - 40:30",
+            "contrastive_aligned_gameTime": "2 - 40:04"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 39:50",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) is disappointed with himself because he got into a good area but produced a poor cross. The ball is out of play. D. Zagreb will take a throw-in.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) is disappointed with himself because he got into a good area but produced a poor cross. The ball is out of play. [TEAM_8G5ufQTg] will take a throw-in.",
+            "anonymized": "[PLAYER] ([TEAM]) is disappointed with himself because he got into a good area but produced a poor cross. The ball is out of play. [TEAM] will take a throw-in.",
+            "visibility": "shown",
+            "position": "2390000",
+            "event_aligned_gameTime": "2 - 39:30",
+            "contrastive_aligned_gameTime": "2 - 40:02"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:48",
+            "label": "corner",
+            "description": "Kingsley Coman (Bayern Munich) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "visibility": "shown",
+            "position": "2268000",
+            "event_aligned_gameTime": "",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:20",
+            "label": "",
+            "description": "Joshua Kimmich (Bayern Munich) receives a pass and fires a shot in from long range, but it's blocked. Good work from Bayern Munich as they win a corner.",
+            "identified": "[PLAYER_MkMrkZLc] ([TEAM_]) receives a pass and fires a shot in from long range, but it's blocked. Good work from [TEAM_] as they win a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a pass and fires a shot in from long range, but it's blocked. Good work from [TEAM] as they win a corner.",
+            "visibility": "shown",
+            "position": "2240000",
+            "event_aligned_gameTime": "",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:41",
+            "label": "",
+            "description": "David Alaba (Bayern Munich) takes a mid-range free kick and the effort crashes into the defensive wall.",
+            "identified": "[PLAYER_hKx3nCTp] ([TEAM_]) takes a mid-range free kick and the effort crashes into the defensive wall.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a mid-range free kick and the effort crashes into the defensive wall.",
+            "visibility": "shown",
+            "position": "2201000",
+            "event_aligned_gameTime": "2 - 35:40",
+            "contrastive_aligned_gameTime": "2 - 36:37"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 35:56",
+            "label": "y-card",
+            "description": "Arijan Ademi (Din. Zagreb) has tested the patience of referee Aleksei Kulbakov and goes into the book for a previous late challenge. Another situation results in a direct free kick for Bayern Munich.",
+            "identified": "[PLAYER_8lnElLro] ([TEAM_]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge. Another situation results in a direct free kick for [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge. Another situation results in a direct free kick for [TEAM].",
+            "visibility": "shown",
+            "position": "2156000",
+            "event_aligned_gameTime": "2 - 35:56",
+            "contrastive_aligned_gameTime": "2 - 35:56"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 35:00",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "visibility": "shown",
+            "position": "2100000",
+            "event_aligned_gameTime": "2 - 35:00",
+            "contrastive_aligned_gameTime": "2 - 34:25"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:52",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) strikes the ball from the resulting free kick from the edge of the box, but his effort goes high over the bar.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) strikes the ball from the resulting free kick from the edge of the box, but his effort goes high over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) strikes the ball from the resulting free kick from the edge of the box, but his effort goes high over the bar.",
+            "visibility": "shown",
+            "position": "2032000",
+            "event_aligned_gameTime": "2 - 33:50",
+            "contrastive_aligned_gameTime": "2 - 33:20"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:40",
+            "label": "",
+            "description": "Referee Aleksei Kulbakov sees the trip by Jeremy Taravel (Din. Zagreb) and doesn't hesitate to blow his whistle. Bayern Munich have a free kick from a promising distance.",
+            "identified": "Referee [REFEREE] sees the trip by [PLAYER_AZw7YEM8] ([TEAM_]) and doesn't hesitate to blow his whistle. [TEAM_] have a free kick from a promising distance.",
+            "anonymized": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle. [TEAM] have a free kick from a promising distance.",
+            "visibility": "shown",
+            "position": "1960000",
+            "event_aligned_gameTime": "2 - 32:40",
+            "contrastive_aligned_gameTime": "2 - 32:40"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 31:21",
+            "label": "corner",
+            "description": "Marko Rog (Din. Zagreb) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "identified": "[PLAYER_EcdOzaBB] ([TEAM_]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "visibility": "shown",
+            "position": "1881000",
+            "event_aligned_gameTime": "2 - 30:20",
+            "contrastive_aligned_gameTime": "2 - 30:32"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:57",
+            "label": "",
+            "description": "El Arbi Soudani (Din. Zagreb) tries to send a low pass into the box, but it's blocked and cleared. D. Zagreb have been awarded a corner kick.",
+            "identified": "[PLAYER_pMCSVg4o] ([TEAM_]) tries to send a low pass into the box, but it's blocked and cleared. [TEAM_8G5ufQTg] have been awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to send a low pass into the box, but it's blocked and cleared. [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "1857000",
+            "event_aligned_gameTime": "2 - 30:50",
+            "contrastive_aligned_gameTime": "2 - 30:50"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 30:06",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) dribbles into the box, but Eduardo is quick enough to come off his line and stop him.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) dribbles into the box, but [PLAYER_fVXVWRYt] is quick enough to come off his line and stop him.",
+            "anonymized": "[PLAYER] ([TEAM]) dribbles into the box, but [PLAYER] is quick enough to come off his line and stop him.",
+            "visibility": "shown",
+            "position": "1806000",
+            "event_aligned_gameTime": "2 - 30:06",
+            "contrastive_aligned_gameTime": "2 - 29:32"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 29:03",
+            "label": "funfact",
+            "description": "Total attempts \u2013 27:6.",
+            "identified": "Total attempts \u2013 27:6.",
+            "anonymized": "Total attempts \u2013 27:6.",
+            "visibility": "shown",
+            "position": "1743000",
+            "event_aligned_gameTime": "2 - 29:00",
+            "contrastive_aligned_gameTime": "2 - 29:00"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 28:16",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) picks up an accurate pass inside the box and unleashes a shot goalwards that smashes against the left post. It could have been a brilliant goal, unlucky.",
+            "identified": "[PLAYER_veaF8P5m] ([TEAM_]) picks up an accurate pass inside the box and unleashes a shot goalwards that smashes against the left post. It could have been a brilliant goal, unlucky.",
+            "anonymized": "[PLAYER] ([TEAM]) picks up an accurate pass inside the box and unleashes a shot goalwards that smashes against the left post. It could have been a brilliant goal, unlucky.",
+            "visibility": "shown",
+            "position": "1696000",
+            "event_aligned_gameTime": "2 - 28:10",
+            "contrastive_aligned_gameTime": "2 - 28:10"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 26:49",
+            "label": "",
+            "description": "The keeper doesn't have to worry about this one. Angelo Henriquez (Din. Zagreb) sacrificed accuracy for power, and thus his attempt went well over the bar.",
+            "identified": "The keeper doesn't have to worry about this one. [PLAYER_dfVxvHDQ] ([TEAM_]) sacrificed accuracy for power, and thus his attempt went well over the bar.",
+            "anonymized": "The keeper doesn't have to worry about this one. [PLAYER] ([TEAM]) sacrificed accuracy for power, and thus his attempt went well over the bar.",
+            "visibility": "shown",
+            "position": "1609000",
+            "event_aligned_gameTime": "2 - 26:00",
+            "contrastive_aligned_gameTime": "2 - 25:47"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:52",
+            "label": "",
+            "description": "Junior Fernandes (Din. Zagreb) unleashes a shot from 20 metres out but is unable to find the target and it goes high over the crossbar.",
+            "identified": "[PLAYER_zoGK0JMl] ([TEAM_]) unleashes a shot from 20 metres out but is unable to find the target and it goes high over the crossbar.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a shot from 20 metres out but is unable to find the target and it goes high over the crossbar.",
+            "visibility": "shown",
+            "position": "1552000",
+            "event_aligned_gameTime": "2 - 25:10",
+            "contrastive_aligned_gameTime": "2 - 25:12"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 24:00",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Kingsley Coman (Bayern Munich).",
+            "identified": "This corner kick is taken with a short pass by [PLAYER_zHWLJOHq] ([TEAM_]).",
+            "anonymized": "This corner kick is taken with a short pass by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1440000",
+            "event_aligned_gameTime": "2 - 24:00",
+            "contrastive_aligned_gameTime": "2 - 23:40"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 23:47",
+            "label": "substitution",
+            "description": "Zoran Mamic has decided to introduce fresh legs, with Angelo Henriquez (Din. Zagreb) replacing Marko Pjaca.",
+            "identified": "[COACH_AF5XoV5a] has decided to introduce fresh legs, with [PLAYER_dfVxvHDQ] ([TEAM_]) replacing [PLAYER_UgMPrQq6].",
+            "anonymized": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+            "visibility": "shown",
+            "position": "1427000",
+            "event_aligned_gameTime": "2 - 23:30",
+            "contrastive_aligned_gameTime": "2 - 23:11"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 23:20",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. Corner kick. Bayern Munich will have an opportunity.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. Corner kick. [TEAM_] will have an opportunity.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. Corner kick. [TEAM] will have an opportunity.",
+            "visibility": "shown",
+            "position": "1400000",
+            "event_aligned_gameTime": "2 - 23:20",
+            "contrastive_aligned_gameTime": "2 - 22:56"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 22:00",
+            "label": "",
+            "description": "David Alaba (Bayern Munich) steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety.",
+            "identified": "[PLAYER_hKx3nCTp] ([TEAM_]) steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety.",
+            "visibility": "shown",
+            "position": "1320000",
+            "event_aligned_gameTime": "2 - 21:50",
+            "contrastive_aligned_gameTime": "2 - 21:19"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 21:00",
+            "label": "y-card",
+            "description": "Aleksei Kulbakov shows a yellow card to Josip Pivaric (Din. Zagreb) for his blatant foul. Bayern Munich earn a free kick which could lead to a goal-scoring opportunity.",
+            "identified": "[REFEREE] shows a yellow card to [PLAYER_KleopPqR] ([TEAM_]) for his blatant foul. [TEAM_] earn a free kick which could lead to a goal-scoring opportunity.",
+            "anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul. [TEAM] earn a free kick which could lead to a goal-scoring opportunity.",
+            "visibility": "shown",
+            "position": "1260000",
+            "event_aligned_gameTime": "2 - 20:50",
+            "contrastive_aligned_gameTime": "2 - 20:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:28",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) plays a one-two with Robert Lewandowski, but the move breaks down.",
+            "identified": "[PLAYER_veaF8P5m] ([TEAM_]) plays a one-two with [PLAYER_MVC8zHZD], but the move breaks down.",
+            "anonymized": "[PLAYER] ([TEAM]) plays a one-two with [PLAYER], but the move breaks down.",
+            "visibility": "shown",
+            "position": "1228000",
+            "event_aligned_gameTime": "2 - 20:10",
+            "contrastive_aligned_gameTime": "2 - 19:14"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:10",
+            "label": "corner",
+            "description": "Thiago Alcantara (Bayern Munich) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "identified": "[PLAYER_vcSKqUSq] ([TEAM_]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "visibility": "shown",
+            "position": "1210000",
+            "event_aligned_gameTime": "2 - 19:50",
+            "contrastive_aligned_gameTime": "2 - 19:53"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:40",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) looks to break free, but an opposing player clears the ball away. Bayern Munich force a corner. They send men into the box.",
+            "identified": "[PLAYER_8KpOJV2B] ([TEAM_]) looks to break free, but an opposing player clears the ball away. [TEAM_] force a corner. They send men into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. [TEAM] force a corner. They send men into the box.",
+            "visibility": "shown",
+            "position": "1180000",
+            "event_aligned_gameTime": "2 - 19:20",
+            "contrastive_aligned_gameTime": "2 - 19:14"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 18:27",
+            "label": "substitution",
+            "description": "Here comes a substitution. Jerome Boateng is given a rest as he is replaced by Rafinha (Bayern Munich).",
+            "identified": "Here comes a substitution. [PLAYER_0bDEBms3] is given a rest as he is replaced by [PLAYER_pxvTBxot] ([TEAM_]).",
+            "anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1107000",
+            "event_aligned_gameTime": "2 - 18:10",
+            "contrastive_aligned_gameTime": "2 - 18:14"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:00",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) had a good opportunity when he latched on to a cross from the wing, but his header wasn't accurate at all and the ball went well wide of the left post.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) had a good opportunity when he latched on to a cross from the wing, but his header wasn't accurate at all and the ball went well wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) had a good opportunity when he latched on to a cross from the wing, but his header wasn't accurate at all and the ball went well wide of the left post.",
+            "visibility": "shown",
+            "position": "1080000",
+            "event_aligned_gameTime": "2 - 18:00",
+            "contrastive_aligned_gameTime": "2 - 17:27"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 17:07",
+            "label": "",
+            "description": "El Arbi Soudani (Din. Zagreb) takes a long-range shot, but his attempt is not a big threat to the goalkeeper.",
+            "identified": "[PLAYER_pMCSVg4o] ([TEAM_]) takes a long-range shot, but his attempt is not a big threat to the goalkeeper.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a long-range shot, but his attempt is not a big threat to the goalkeeper.",
+            "visibility": "shown",
+            "position": "1027000",
+            "event_aligned_gameTime": "2 - 17:00",
+            "contrastive_aligned_gameTime": "2 - 17:27"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 15:40",
+            "label": "substitution",
+            "description": "Zoran Mamic has decided to make a change. Marko Rog (Din. Zagreb) replaces Paulo Ricardo Machado.",
+            "identified": "[COACH_AF5XoV5a] has decided to make a change. [PLAYER_EcdOzaBB] ([TEAM_]) replaces [PLAYER_GGvaHj0I].",
+            "anonymized": "[COACH] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+            "visibility": "shown",
+            "position": "940000",
+            "event_aligned_gameTime": "2 - 15:00",
+            "contrastive_aligned_gameTime": "2 - 15:16"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 14:55",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) and Thomas Muller attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) and [PLAYER_8KpOJV2B] attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) and [PLAYER] attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball.",
+            "visibility": "shown",
+            "position": "895000",
+            "event_aligned_gameTime": "2 - 14:10",
+            "contrastive_aligned_gameTime": "2 - 13:55"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 13:36",
+            "label": "",
+            "description": "Good clearance! Robert Lewandowski (Bayern Munich) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him.",
+            "identified": "Good clearance! [PLAYER_MVC8zHZD] ([TEAM_]) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him.",
+            "anonymized": "Good clearance! [PLAYER] ([TEAM]) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him.",
+            "visibility": "shown",
+            "position": "816000",
+            "event_aligned_gameTime": "2 - 13:10",
+            "contrastive_aligned_gameTime": "2 - 14:05"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 12:08",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Thomas Muller (Bayern Munich) comes onto the pitch for Douglas Costa.",
+            "identified": "The referee stops play so that a substitution can be made and [PLAYER_8KpOJV2B] ([TEAM_]) comes onto the pitch for [PLAYER_fPOJMEfo].",
+            "anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) comes onto the pitch for [PLAYER].",
+            "visibility": "shown",
+            "position": "728000",
+            "event_aligned_gameTime": "2 - 12:00",
+            "contrastive_aligned_gameTime": "2 - 11:52"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:28",
+            "label": "",
+            "description": "David Alaba (Bayern Munich) unleashes a superb first-time shot from the edge of the box, but it flies narrowly wide of the left post.",
+            "identified": "[PLAYER_hKx3nCTp] ([TEAM_]) unleashes a superb first-time shot from the edge of the box, but it flies narrowly wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a superb first-time shot from the edge of the box, but it flies narrowly wide of the left post.",
+            "visibility": "shown",
+            "position": "688000",
+            "event_aligned_gameTime": "2 - 10:50",
+            "contrastive_aligned_gameTime": "2 - 11:30"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 10:00",
+            "label": "soccer-ball",
+            "description": "GOAL - 5:0! Thiago Alcantara found Robert Lewandowski (Bayern Munich) inside the box, he spotted goalkeeper Eduardo off his line and chipped the ball into the net. What a cheeky lob!",
+            "identified": "GOAL - 5:0! [PLAYER_vcSKqUSq] found [PLAYER_MVC8zHZD] ([TEAM_]) inside the box, he spotted goalkeeper [PLAYER_fVXVWRYt] off his line and chipped the ball into the net. What a cheeky lob!",
+            "anonymized": "GOAL - 5:0! [PLAYER] found [PLAYER] ([TEAM]) inside the box, he spotted goalkeeper [PLAYER] off his line and chipped the ball into the net. What a cheeky lob!",
+            "visibility": "shown",
+            "position": "600000",
+            "event_aligned_gameTime": "2 - 10:00",
+            "contrastive_aligned_gameTime": "2 - 09:42"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:49",
+            "label": "",
+            "description": "The Bayern Munich players are exchanging some short passes.",
+            "identified": "The [TEAM_] players are exchanging some short passes.",
+            "anonymized": "The [TEAM] players are exchanging some short passes.",
+            "visibility": "shown",
+            "position": "469000",
+            "event_aligned_gameTime": "2 - 07:40",
+            "contrastive_aligned_gameTime": "2 - 07:45"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 05:34",
+            "label": "",
+            "description": "Philipp Lahm (Bayern Munich) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "identified": "[PLAYER_MB26hXLr] ([TEAM_]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "visibility": "shown",
+            "position": "334000",
+            "event_aligned_gameTime": "2 - 05:10",
+            "contrastive_aligned_gameTime": "2 - 04:30"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:45",
+            "label": "corner",
+            "description": "Thiago Alcantara (Bayern Munich) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "identified": "[PLAYER_vcSKqUSq] ([TEAM_]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "anonymized": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "visibility": "shown",
+            "position": "225000",
+            "event_aligned_gameTime": "2 - 03:30",
+            "contrastive_aligned_gameTime": "2 - 03:49"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:22",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag and Bayern Munich will take a corner.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag and [TEAM_] will take a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag and [TEAM] will take a corner.",
+            "visibility": "shown",
+            "position": "202000",
+            "event_aligned_gameTime": "2 - 03:20",
+            "contrastive_aligned_gameTime": "2 - 03:20"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:15",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) fizzes over a cross which doesn't cause any problems.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) fizzes over a cross which doesn't cause any problems.",
+            "anonymized": "[PLAYER] ([TEAM]) fizzes over a cross which doesn't cause any problems.",
+            "visibility": "shown",
+            "position": "135000",
+            "event_aligned_gameTime": "2 - 01:50",
+            "contrastive_aligned_gameTime": "2 - 01:59"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:02",
+            "label": "substitution",
+            "description": "Half-time substitution. Filip Benkovic is replaced by Goncalo (Din. Zagreb).",
+            "identified": "Half-time substitution. [PLAYER_xhRS2aae] is replaced by [PLAYER_IgNrOhqm] ([TEAM_]).",
+            "anonymized": "Half-time substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2000",
+            "event_aligned_gameTime": "2 - 00:20",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:02",
+            "label": "substitution",
+            "description": "The teams are back out for the second half and here is a change on the pitch. Pep Guardiola gives a chance to Javi Martinez (Bayern Munich) and Juan Bernat is off.",
+            "identified": "The teams are back out for the second half and here is a change on the pitch. [COACH_hxNijWrJ] gives a chance to [PLAYER_IiVRUCYs] ([TEAM_]) and [PLAYER_Cd1ieN88] is off.",
+            "anonymized": "The teams are back out for the second half and here is a change on the pitch. [COACH] gives a chance to [PLAYER] ([TEAM]) and [PLAYER] is off.",
+            "visibility": "shown",
+            "position": "2000",
+            "event_aligned_gameTime": "2 - 00:20",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "identified": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "anonymized": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:20",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has already been more to see prior to the half-time break than there is in most games during the full 90 minutes. Bayern Munich dominated the opening period and easily created the most chances. The home side attempts to hold onto the ball for as long as possible, while the away side focuses on defending and lets the opposition keep possession.",
+            "identified": "It was a good decision to watch today's encounter. There has already been more to see prior to the half-time break than there is in most games during the full 90 minutes. [TEAM_] dominated the opening period and easily created the most chances. The home side attempts to hold onto the ball for as long as possible, while the away side focuses on defending and lets the opposition keep possession.",
+            "anonymized": "It was a good decision to watch today's encounter. There has already been more to see prior to the half-time break than there is in most games during the full 90 minutes. [TEAM] dominated the opening period and easily created the most chances. The home side attempts to hold onto the ball for as long as possible, while the away side focuses on defending and lets the opposition keep possession.",
+            "visibility": "shown",
+            "position": "2759000",
+            "event_aligned_gameTime": "1 - 44:55",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 45:04",
+            "label": "whistle",
+            "description": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",
+            "identified": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",
+            "anonymized": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",
+            "visibility": "shown",
+            "position": "2704000",
+            "event_aligned_gameTime": "1 - 44:50",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:11",
+            "label": "funfact",
+            "description": "Corner kicks \u2013 12:1.",
+            "identified": "Corner kicks \u2013 12:1.",
+            "anonymized": "Corner kicks \u2013 12:1.",
+            "visibility": "shown",
+            "position": "2591000",
+            "event_aligned_gameTime": "1 - 43:10",
+            "contrastive_aligned_gameTime": "1 - 43:16"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:18",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "anonymized": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "visibility": "shown",
+            "position": "2538000",
+            "event_aligned_gameTime": "1 - 42:10",
+            "contrastive_aligned_gameTime": "1 - 42:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:38",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The ball is out of play. Bayern Munich will have a chance to score from a corner.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The ball is out of play. [TEAM_] will have a chance to score from a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The ball is out of play. [TEAM] will have a chance to score from a corner.",
+            "visibility": "shown",
+            "position": "2498000",
+            "event_aligned_gameTime": "1 - 41:30",
+            "contrastive_aligned_gameTime": "1 - 41:02"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 40:50",
+            "label": "corner",
+            "description": "Kingsley Coman (Bayern Munich) takes the corner with a short pass.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) takes the corner with a short pass.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner with a short pass.",
+            "visibility": "shown",
+            "position": "2450000",
+            "event_aligned_gameTime": "1 - 40:40",
+            "contrastive_aligned_gameTime": "1 - 40:05"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 40:27",
+            "label": "",
+            "description": "Juan Bernat (Bayern Munich) serves up a nice cross, but the defence clears the danger. The referee signals a corner kick to Bayern Munich.",
+            "identified": "[PLAYER_Cd1ieN88] ([TEAM_]) serves up a nice cross, but the defence clears the danger. The referee signals a corner kick to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but the defence clears the danger. The referee signals a corner kick to [TEAM].",
+            "visibility": "shown",
+            "position": "2427000",
+            "event_aligned_gameTime": "1 - 39:50",
+            "contrastive_aligned_gameTime": "1 - 39:34"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 38:40",
+            "label": "corner",
+            "description": "Jerome Boateng (Bayern Munich) decides to take a short corner instead of crossing into the box.",
+            "identified": "[PLAYER_0bDEBms3] ([TEAM_]) decides to take a short corner instead of crossing into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box.",
+            "visibility": "shown",
+            "position": "2320000",
+            "event_aligned_gameTime": "1 - 38:10",
+            "contrastive_aligned_gameTime": "1 - 37:39"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 38:20",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) whips a promising cross into the box, but the opposition's defence intercepts the ball. Bayern Munich earn a corner.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) whips a promising cross into the box, but the opposition's defence intercepts the ball. [TEAM_] earn a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball. [TEAM] earn a corner.",
+            "visibility": "shown",
+            "position": "2300000",
+            "event_aligned_gameTime": "1 - 37:30",
+            "contrastive_aligned_gameTime": "1 - 37:49"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 38:09",
+            "label": "corner",
+            "description": "Kingsley Coman (Bayern Munich) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "visibility": "shown",
+            "position": "2289000",
+            "event_aligned_gameTime": "1 - 37:50",
+            "contrastive_aligned_gameTime": "1 - 38:18"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:46",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) tries to send the ball in front of the goal, but the opposition's defence averts the threat. The referee and one of his assistants signal for a corner kick to Bayern Munich.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) tries to send the ball in front of the goal, but the opposition's defence averts the threat. The referee and one of his assistants signal for a corner kick to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) tries to send the ball in front of the goal, but the opposition's defence averts the threat. The referee and one of his assistants signal for a corner kick to [TEAM].",
+            "visibility": "shown",
+            "position": "2266000",
+            "event_aligned_gameTime": "1 - 37:46",
+            "contrastive_aligned_gameTime": "1 - 37:02"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 36:36",
+            "label": "",
+            "description": "What a poor attempt! Jerome Boateng (Bayern Munich) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes into the stands.",
+            "identified": "What a poor attempt! [PLAYER_0bDEBms3] ([TEAM_]) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes into the stands.",
+            "anonymized": "What a poor attempt! [PLAYER] ([TEAM]) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes into the stands.",
+            "visibility": "shown",
+            "position": "2196000",
+            "event_aligned_gameTime": "1 - 36:30",
+            "contrastive_aligned_gameTime": "1 - 36:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:40",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) times his run too early and the linesman raises his flag for offside.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) times his run too early and the linesman raises his flag for offside.",
+            "anonymized": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside.",
+            "visibility": "shown",
+            "position": "2140000",
+            "event_aligned_gameTime": "1 - 35:10",
+            "contrastive_aligned_gameTime": "1 - 35:57"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:00",
+            "label": "",
+            "description": "Bayern Munich are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block.",
+            "identified": "[TEAM_] are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block.",
+            "anonymized": "[TEAM] are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block.",
+            "visibility": "shown",
+            "position": "2040000",
+            "event_aligned_gameTime": "1 - 33:50",
+            "contrastive_aligned_gameTime": "1 - 33:37"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 31:49",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) is offside and the linesman raises his flag.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) is offside and the linesman raises his flag.",
+            "anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag.",
+            "visibility": "shown",
+            "position": "1909000",
+            "event_aligned_gameTime": "1 - 31:20",
+            "contrastive_aligned_gameTime": "1 - 31:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:29",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) commits a foul after unfairly battling his opponent for the ball.",
+            "identified": "[PLAYER_veaF8P5m] ([TEAM_]) commits a foul after unfairly battling his opponent for the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball.",
+            "visibility": "shown",
+            "position": "1829000",
+            "event_aligned_gameTime": "1 - 29:50",
+            "contrastive_aligned_gameTime": "1 - 28:51"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:10",
+            "label": "",
+            "description": "David Alaba (Bayern Munich) takes the ball on and fires in a shot from 25 metres out. Eduardo stops the effort which is headed to the middle of the target.",
+            "identified": "[PLAYER_hKx3nCTp] ([TEAM_]) takes the ball on and fires in a shot from 25 metres out. [PLAYER_fVXVWRYt] stops the effort which is headed to the middle of the target.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the ball on and fires in a shot from 25 metres out. [PLAYER] stops the effort which is headed to the middle of the target.",
+            "visibility": "shown",
+            "position": "1750000",
+            "event_aligned_gameTime": "1 - 29:10",
+            "contrastive_aligned_gameTime": "1 - 29:13"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 27:48",
+            "label": "soccer-ball",
+            "description": "The ball hits the back of the net! Douglas Costa delivers a superb cross from the corner kick, Robert Lewandowski (Bayern Munich) finds himself some space inside the box and unleashes an unstoppable shot. His effort goes in off the crossbar and past the helpless goalkeeper. 4:0.",
+            "identified": "The ball hits the back of the net! [PLAYER_fPOJMEfo] delivers a superb cross from the corner kick, [PLAYER_MVC8zHZD] ([TEAM_]) finds himself some space inside the box and unleashes an unstoppable shot. His effort goes in off the crossbar and past the helpless goalkeeper. 4:0.",
+            "anonymized": "The ball hits the back of the net! [PLAYER] delivers a superb cross from the corner kick, [PLAYER] ([TEAM]) finds himself some space inside the box and unleashes an unstoppable shot. His effort goes in off the crossbar and past the helpless goalkeeper. 4:0.",
+            "visibility": "shown",
+            "position": "1668000",
+            "event_aligned_gameTime": "1 - 27:40",
+            "contrastive_aligned_gameTime": "1 - 27:40"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:27",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "visibility": "shown",
+            "position": "1647000",
+            "event_aligned_gameTime": "1 - 27:20",
+            "contrastive_aligned_gameTime": "1 - 27:07"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:48",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The ball goes out of play and Bayern Munich have been awarded a corner kick.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The ball goes out of play and [TEAM_] have been awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The ball goes out of play and [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "1608000",
+            "event_aligned_gameTime": "1 - 26:40",
+            "contrastive_aligned_gameTime": "1 - 26:40"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:09",
+            "label": "",
+            "description": "Junior Fernandes (Din. Zagreb) sends a teasing cross into the area, but Manuel Neuer intercepts the ball.",
+            "identified": "[PLAYER_zoGK0JMl] ([TEAM_]) sends a teasing cross into the area, but [PLAYER_Sh5KwIo6] intercepts the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball.",
+            "visibility": "shown",
+            "position": "1569000",
+            "event_aligned_gameTime": "1 - 25:30",
+            "contrastive_aligned_gameTime": "1 - 24:56"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 25:23",
+            "label": "",
+            "description": "El Arbi Soudani (Din. Zagreb) shoots from the edge of the penalty area. The ball travels towards the bottom right corner, but Manuel Neuer easily deals with the threat.",
+            "identified": "[PLAYER_pMCSVg4o] ([TEAM_]) shoots from the edge of the penalty area. The ball travels towards the bottom right corner, but [PLAYER_Sh5KwIo6] easily deals with the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) shoots from the edge of the penalty area. The ball travels towards the bottom right corner, but [PLAYER] easily deals with the threat.",
+            "visibility": "shown",
+            "position": "1523000",
+            "event_aligned_gameTime": "1 - 25:20",
+            "contrastive_aligned_gameTime": "1 - 25:50"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 24:25",
+            "label": "soccer-ball",
+            "description": "Mario Gotze (Bayern Munich) receives a brilliant pass inside the box from Kingsley Coman, and he beats the goalkeeper with a low accurate shot into the middle of the goal. He makes it 3:0.",
+            "identified": "[PLAYER_veaF8P5m] ([TEAM_]) receives a brilliant pass inside the box from [PLAYER_zHWLJOHq], and he beats the goalkeeper with a low accurate shot into the middle of the goal. He makes it 3:0.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a brilliant pass inside the box from [PLAYER], and he beats the goalkeeper with a low accurate shot into the middle of the goal. He makes it 3:0.",
+            "visibility": "shown",
+            "position": "1465000",
+            "event_aligned_gameTime": "1 - 24:25",
+            "contrastive_aligned_gameTime": "1 - 23:48"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:20",
+            "label": "",
+            "description": "The game is interrupted as El Arbi Soudani (Din. Zagreb) is flagged offside.",
+            "identified": "The game is interrupted as [PLAYER_pMCSVg4o] ([TEAM_]) is flagged offside.",
+            "anonymized": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside.",
+            "visibility": "shown",
+            "position": "1340000",
+            "event_aligned_gameTime": "1 - 21:50",
+            "contrastive_aligned_gameTime": "1 - 22:25"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 20:55",
+            "label": "soccer-ball",
+            "description": "It's in the back of the net! Thiago Alcantara sprays a pass out to Robert Lewandowski (Bayern Munich), and he has an easy job to slot the ball into an empty net. The score is 2:0.",
+            "identified": "It's in the back of the net! [PLAYER_vcSKqUSq] sprays a pass out to [PLAYER_MVC8zHZD] ([TEAM_]), and he has an easy job to slot the ball into an empty net. The score is 2:0.",
+            "anonymized": "It's in the back of the net! [PLAYER] sprays a pass out to [PLAYER] ([TEAM]), and he has an easy job to slot the ball into an empty net. The score is 2:0.",
+            "visibility": "shown",
+            "position": "1255000",
+            "event_aligned_gameTime": "1 - 20:40",
+            "contrastive_aligned_gameTime": "1 - 20:39"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 20:21",
+            "label": "y-card",
+            "description": "Jerome Boateng (Bayern Munich) goes into the book for a horrible tackle. A yellow card is necessary in this case.",
+            "identified": "[PLAYER_0bDEBms3] ([TEAM_]) goes into the book for a horrible tackle. A yellow card is necessary in this case.",
+            "anonymized": "[PLAYER] ([TEAM]) goes into the book for a horrible tackle. A yellow card is necessary in this case.",
+            "visibility": "shown",
+            "position": "1221000",
+            "event_aligned_gameTime": "1 - 19:50",
+            "contrastive_aligned_gameTime": "1 - 19:11"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:54",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch.",
+            "visibility": "shown",
+            "position": "1134000",
+            "event_aligned_gameTime": "1 - 18:50",
+            "contrastive_aligned_gameTime": "1 - 19:19"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:37",
+            "label": "",
+            "description": "Josip Pivaric (Din. Zagreb) gives away a foul for a fierce tackle on an opponent. Bayern Munich will take a free kick.",
+            "identified": "[PLAYER_KleopPqR] ([TEAM_]) gives away a foul for a fierce tackle on an opponent. [TEAM_] will take a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) gives away a foul for a fierce tackle on an opponent. [TEAM] will take a free kick.",
+            "visibility": "shown",
+            "position": "1117000",
+            "event_aligned_gameTime": "1 - 18:30",
+            "contrastive_aligned_gameTime": "1 - 18:28"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:17",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) passes the ball into the box but an opposing player clears.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) passes the ball into the box but an opposing player clears.",
+            "anonymized": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears.",
+            "visibility": "shown",
+            "position": "1037000",
+            "event_aligned_gameTime": "1 - 17:00",
+            "contrastive_aligned_gameTime": "1 - 16:01"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 16:15",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) takes a short corner kick.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) takes a short corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a short corner kick.",
+            "visibility": "shown",
+            "position": "975000",
+            "event_aligned_gameTime": "1 - 15:50",
+            "contrastive_aligned_gameTime": "1 - 16:04"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:41",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. The referee blows his whistle, Bayern Munich are awarded a corner kick.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) sends a pass into the box, but his attempt is thwarted and cleared. The referee blows his whistle, [TEAM_] are awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "941000",
+            "event_aligned_gameTime": "1 - 15:40",
+            "contrastive_aligned_gameTime": "1 - 15:05"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 13:00",
+            "label": "soccer-ball",
+            "description": "Douglas Costa (Bayern Munich) makes a great solo run and pulls the trigger from inside the box, beating Eduardo with a strike into the bottom left corner. He makes it 1:0.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) makes a great solo run and pulls the trigger from inside the box, beating [PLAYER_fVXVWRYt] with a strike into the bottom left corner. He makes it 1:0.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a great solo run and pulls the trigger from inside the box, beating [PLAYER] with a strike into the bottom left corner. He makes it 1:0.",
+            "visibility": "shown",
+            "position": "780000",
+            "event_aligned_gameTime": "1 - 13:00",
+            "contrastive_aligned_gameTime": "1 - 12:51"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:20",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Eduardo is alert and denies him.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but [PLAYER_fVXVWRYt] is alert and denies him.",
+            "anonymized": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but [PLAYER] is alert and denies him.",
+            "visibility": "shown",
+            "position": "680000",
+            "event_aligned_gameTime": "1 - 11:20",
+            "contrastive_aligned_gameTime": "1 - 11:17"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:21",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "visibility": "shown",
+            "position": "621000",
+            "event_aligned_gameTime": "1 - 10:20",
+            "contrastive_aligned_gameTime": "1 - 10:06"
+        }
+    ]
+}

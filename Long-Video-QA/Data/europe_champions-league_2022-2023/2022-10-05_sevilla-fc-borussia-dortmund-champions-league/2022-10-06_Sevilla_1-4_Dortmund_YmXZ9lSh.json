@@ -1,0 +1,914 @@
+{
+  "match_info": {
+    "timestamp": "2022-10-06 03:00:00",
+    "score": "1 - 4",
+    "home_team": "Sevilla",
+    "away_team": "Dortmund",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Estadio Ramón Sánchez Pizjuán (Sevilla)",
+    "capacity": "42 714",
+    "attendance": "34 596"
+  },
+  "referee_data": {
+    "short_name_country": "Mariani M. (Ita)",
+    "first_name": "Mariani",
+    "abbr_last_name": "M",
+    "country": "Ita",
+    "detected_name": "Maurizio Mariani"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Terzic E.",
+        "players_number": "",
+        "Full Name": "Edin Terzic",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "coach",
+        "Age and Birthdate": "41,  (30.10.1982)",
+        "Market Value": "",
+        "unicode": "Q1njn0Vm"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Bynoe-Gittens J.",
+        "players_number": "",
+        "Full Name": "Jamie Bynoe-Gittens",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "19, (08.08.2004)",
+        "Market Value": "€27.0m",
+        "unicode": "zmDkHahi"
+      },
+      {
+        "players_name": "Dahoud M.",
+        "players_number": "",
+        "Full Name": "Mahmoud Dahoud",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (01.01.1996)",
+        "Market Value": "€13.1m",
+        "unicode": "YkH1Bfia"
+      },
+      {
+        "players_name": "Haller S.",
+        "players_number": "",
+        "Full Name": "Sebastien Haller",
+        "players_rating": "",
+        "Country": "Ivory Coast",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (22.06.1994)",
+        "Market Value": "€17.6m",
+        "unicode": "Ie17FSsK"
+      },
+      {
+        "players_name": "Hummels M.",
+        "players_number": "",
+        "Full Name": "Mats Hummels",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (16.12.1988)",
+        "Market Value": "€6.1m",
+        "unicode": "2c4AueOM"
+      },
+      {
+        "players_name": "Morey M.",
+        "players_number": "",
+        "Full Name": "Mateu Morey",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (02.03.2000)",
+        "Market Value": "30.06.2024",
+        "unicode": "jRBXx0H4"
+      },
+      {
+        "players_name": "Reus M.",
+        "players_number": "",
+        "Full Name": "Marco Reus",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (31.05.1989)",
+        "Market Value": "€6.9m",
+        "unicode": "fonESekN"
+      },
+      {
+        "players_name": "Reyna G.",
+        "players_number": "",
+        "Full Name": "Giovanni Reyna",
+        "players_rating": "",
+        "Country": "USA",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (13.11.2002)",
+        "Market Value": "€19.9m",
+        "unicode": "zF5Q2DOk"
+      },
+      {
+        "players_name": "Wolf M.",
+        "players_number": "",
+        "Full Name": "Marius Wolf",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (27.05.1995)",
+        "Market Value": "€6.3m",
+        "unicode": "0pP8We9B"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Adeyemi K.",
+        "players_number": "27",
+        "Full Name": "Karim Adeyemi",
+        "players_rating": 7.3,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (18.01.2002)",
+        "Market Value": "€27.0m",
+        "unicode": "GvIzwgo8"
+      },
+      {
+        "players_name": "Bellingham J. (C)",
+        "players_number": "22",
+        "Full Name": "Jude Bellingham",
+        "players_rating": 8.9,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (29.06.2003)",
+        "Market Value": "€199.1m",
+        "unicode": "QNvlPm7s"
+      },
+      {
+        "players_name": "Brandt J.",
+        "players_number": "19",
+        "Full Name": "Julian Brandt",
+        "players_rating": 7.9,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (02.05.1996)",
+        "Market Value": "€40.3m",
+        "unicode": "hW5Goyrc"
+      },
+      {
+        "players_name": "Can E.",
+        "players_number": "23",
+        "Full Name": "Emre Can",
+        "players_rating": 6.9,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (12.01.1994)",
+        "Market Value": "€11.7m",
+        "unicode": "YJu3hSpk"
+      },
+      {
+        "players_name": "Guerreiro R.",
+        "players_number": "13",
+        "Full Name": "Raphael Guerreiro",
+        "players_rating": 7.9,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (22.12.1993)",
+        "Market Value": "€15.1m",
+        "unicode": "ImhgOoOl"
+      },
+      {
+        "players_name": "Meunier T.",
+        "players_number": "24",
+        "Full Name": "Thomas Meunier",
+        "players_rating": 7.5,
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (12.09.1991)",
+        "Market Value": "€2.4m",
+        "unicode": "WUyrShAL"
+      },
+      {
+        "players_name": "Meyer A. (G)",
+        "players_number": "33",
+        "Full Name": "Alexander Meyer",
+        "players_rating": 7.5,
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (13.04.1991)",
+        "Market Value": "€760k",
+        "unicode": "0QYpaRhf"
+      },
+      {
+        "players_name": "Moukoko Y.",
+        "players_number": "18",
+        "Full Name": "Youssoufa Moukoko",
+        "players_rating": 8.0,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "19, (20.11.2004)",
+        "Market Value": "€28.1m",
+        "unicode": "vZ2CcIMA"
+      },
+      {
+        "players_name": "Ozcan S.",
+        "players_number": "6",
+        "Full Name": "Salih Ozcan",
+        "players_rating": 7.5,
+        "Country": "Turkey",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (11.01.1998)",
+        "Market Value": "€12.4m",
+        "unicode": "2sPPKXyd"
+      },
+      {
+        "players_name": "Schlotterbeck N.",
+        "players_number": "4",
+        "Full Name": "Nico Schlotterbeck",
+        "players_rating": 6.8,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (01.12.1999)",
+        "Market Value": "€35.2m",
+        "unicode": "hKLN8mA7"
+      },
+      {
+        "players_name": "Sule N.",
+        "players_number": "25",
+        "Full Name": "Niklas Sule",
+        "players_rating": 7.3,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (03.09.1995)",
+        "Market Value": "€20.9m",
+        "unicode": "G43Lp4in"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Hazard T.",
+        "players_number": "10",
+        "Full Name": "Thorgan Hazard",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (29.03.1993)",
+        "Market Value": "€5.8m",
+        "unicode": "KOq0yhLo"
+      },
+      {
+        "players_name": "Malen D.",
+        "players_number": "21",
+        "Full Name": "Donyell Malen",
+        "players_rating": 6.6,
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (19.01.1999)",
+        "Market Value": "€34.3m",
+        "unicode": "KOdKXsao"
+      },
+      {
+        "players_name": "Modeste A.",
+        "players_number": "20",
+        "Full Name": "Anthony Modeste",
+        "players_rating": 6.0,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (14.04.1988)",
+        "Market Value": "€645k",
+        "unicode": "bPslqX1I"
+      },
+      {
+        "players_name": "Papadopoulos A.",
+        "players_number": "47",
+        "Full Name": "Antonios Papadopoulos",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (10.09.1999)",
+        "Market Value": "€738k",
+        "unicode": "plJ8sJG0"
+      },
+      {
+        "players_name": "Rothe T.",
+        "players_number": "36",
+        "Full Name": "Tom Rothe",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "19, (29.10.2004)",
+        "Market Value": "€5.8m",
+        "unicode": "KIEP1A93"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Coulibaly S.",
+        "players_number": "44",
+        "Full Name": "Soumaila Coulibaly",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (14.10.2003)",
+        "Market Value": "€7.5m",
+        "unicode": "YLVl99Q1"
+      },
+      {
+        "players_name": "Kobel G. (G)",
+        "players_number": "1",
+        "Full Name": "Gregor Kobel",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "26, (06.12.1997)",
+        "Market Value": "€38.6m",
+        "unicode": "xlBg2ttC"
+      },
+      {
+        "players_name": "Ostrzinski S. (G)",
+        "players_number": "31",
+        "Full Name": "Silas Ostrzinski",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "20, (19.11.2003)",
+        "Market Value": "30.06.2025",
+        "unicode": "pITC7nrb"
+      },
+      {
+        "players_name": "Passlack F.",
+        "players_number": "30",
+        "Full Name": "Felix Passlack",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (29.05.1998)",
+        "Market Value": "€1.4m",
+        "unicode": "rHIRgwGG"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Lopetegui J.",
+        "players_number": "",
+        "Full Name": "Julen Lopetegui",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "coach",
+        "Age and Birthdate": "57,  (28.08.1966)",
+        "Market Value": "",
+        "unicode": "joAFj9hO"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Acuna M.",
+        "players_number": "",
+        "Full Name": "Marcos Acuna",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (28.10.1991)",
+        "Market Value": "€5.8m",
+        "unicode": "pUC5RnIj"
+      },
+      {
+        "players_name": "Corona J.",
+        "players_number": "",
+        "Full Name": "Jesus Corona",
+        "players_rating": "",
+        "Country": "Mexico",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (06.01.1993)",
+        "Market Value": "€4.6m",
+        "unicode": "0CkD3Gpd"
+      },
+      {
+        "players_name": "Fernando",
+        "players_number": "",
+        "Full Name": "Fernando",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (25.07.1987)",
+        "Market Value": "€2.4m",
+        "unicode": "rJlzoALP"
+      },
+      {
+        "players_name": "Marcao",
+        "players_number": "",
+        "Full Name": "Marcao",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (05.06.1996)",
+        "Market Value": "€4.8m",
+        "unicode": "OOFwBfsT"
+      },
+      {
+        "players_name": "Rekik K.",
+        "players_number": "",
+        "Full Name": "Karim Rekik",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (02.12.1994)",
+        "Market Value": "€3.7m",
+        "unicode": "CEAWG66K"
+      },
+      {
+        "players_name": "Torres O.",
+        "players_number": "",
+        "Full Name": "Oliver Torres",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (10.11.1994)",
+        "Market Value": "€5.7m",
+        "unicode": "6cK1wOfD"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Bono (G)",
+        "players_number": "13",
+        "Full Name": "Bono",
+        "players_rating": 5.5,
+        "Country": "Morocco",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (05.04.1991)",
+        "Market Value": "€10.6m",
+        "unicode": "ne0lafKc"
+      },
+      {
+        "players_name": "Carmona J. A.",
+        "players_number": "30",
+        "Full Name": "Jose Angel Carmona",
+        "players_rating": 6.4,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (29.01.2002)",
+        "Market Value": "€3.2m",
+        "unicode": "dE2MbgQ4"
+      },
+      {
+        "players_name": "En Nesyri Y.",
+        "players_number": "15",
+        "Full Name": "Youssef En Nesyri",
+        "players_rating": 7.1,
+        "Country": "Morocco",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (01.06.1997)",
+        "Market Value": "€17.4m",
+        "unicode": "UqBaaAqo"
+      },
+      {
+        "players_name": "Gudelj N.",
+        "players_number": "6",
+        "Full Name": "Nemanja Gudelj",
+        "players_rating": 6.3,
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (16.11.1991)",
+        "Market Value": "€3.7m",
+        "unicode": "SKLFEpf6"
+      },
+      {
+        "players_name": "Isco",
+        "players_number": "22",
+        "Full Name": "Isco",
+        "players_rating": 6.6,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (21.04.1992)",
+        "Market Value": "€8.2m",
+        "unicode": "ULLmpdEb"
+      },
+      {
+        "players_name": "Jordan J.",
+        "players_number": "8",
+        "Full Name": "Joan Jordan",
+        "players_rating": 6.3,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (06.07.1994)",
+        "Market Value": "€4.8m",
+        "unicode": "nmjvsTy0"
+      },
+      {
+        "players_name": "Navas J. (C)",
+        "players_number": "16",
+        "Full Name": "Jesus Navas",
+        "players_rating": 6.2,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "38, (21.11.1985)",
+        "Market Value": "€2.9m",
+        "unicode": "hWt5ZIrn"
+      },
+      {
+        "players_name": "Rakitic I.",
+        "players_number": "10",
+        "Full Name": "Ivan Rakitic",
+        "players_rating": 6.2,
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (10.03.1988)",
+        "Market Value": "€3.9m",
+        "unicode": "pC6dfyG5"
+      },
+      {
+        "players_name": "Salas K.",
+        "players_number": "29",
+        "Full Name": "Kike Salas",
+        "players_rating": 6.6,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (23.04.2002)",
+        "Market Value": "€2.0m",
+        "unicode": "6uf4Y1d2"
+      },
+      {
+        "players_name": "Suso",
+        "players_number": "7",
+        "Full Name": "Suso",
+        "players_rating": 6.4,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (19.11.1993)",
+        "Market Value": "€4.8m",
+        "unicode": "Aexbrioc"
+      },
+      {
+        "players_name": "Telles A.",
+        "players_number": "3",
+        "Full Name": "Alex Telles",
+        "players_rating": 7.2,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (15.12.1992)",
+        "Market Value": "€6.7m",
+        "unicode": "G0TATC32"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Delaney T.",
+        "players_number": "18",
+        "Full Name": "Thomas Delaney",
+        "players_rating": 6.1,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (03.09.1991)",
+        "Market Value": "€2.3m",
+        "unicode": "QL4wO6Wg"
+      },
+      {
+        "players_name": "Dolberg K.",
+        "players_number": "5",
+        "Full Name": "Kasper Dolberg",
+        "players_rating": 6.1,
+        "Country": "Denmark",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (06.10.1997)",
+        "Market Value": "€9.1m",
+        "unicode": "C8C5vSB8"
+      },
+      {
+        "players_name": "Lamela E.",
+        "players_number": "17",
+        "Full Name": "Erik Lamela",
+        "players_rating": 6.1,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (04.03.1992)",
+        "Market Value": "€4.5m",
+        "unicode": "4r69VfV2"
+      },
+      {
+        "players_name": "Montiel G.",
+        "players_number": "2",
+        "Full Name": "Gonzalo Montiel",
+        "players_rating": 6.4,
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (01.01.1997)",
+        "Market Value": "€9.5m",
+        "unicode": "rN9tdN16"
+      },
+      {
+        "players_name": "Papu Gomez",
+        "players_number": "24",
+        "Full Name": "Papu Gomez",
+        "players_rating": 6.3,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (15.02.1988)",
+        "Market Value": "€1.9m",
+        "unicode": "jD6cXvh5"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Dmitrovic M. (G)",
+        "players_number": "1",
+        "Full Name": "Marko Dmitrovic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (24.01.1992)",
+        "Market Value": "€1.9m",
+        "unicode": "pO8Jn4Xm"
+      },
+      {
+        "players_name": "Flores A. (G)",
+        "players_number": "31",
+        "Full Name": "Alberto Flores",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "20, (10.11.2003)",
+        "Market Value": "€311k",
+        "unicode": "SzbPY3Ma"
+      },
+      {
+        "players_name": "Januzaj A.",
+        "players_number": "11",
+        "Full Name": "Adnan Januzaj",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (05.02.1995)",
+        "Market Value": "€2.8m",
+        "unicode": "6qyeYCYO"
+      },
+      {
+        "players_name": "Mir R.",
+        "players_number": "12",
+        "Full Name": "Rafa Mir",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (18.06.1997)",
+        "Market Value": "€4.6m",
+        "unicode": "IXRaCzVt"
+      },
+      {
+        "players_name": "Nianzou T.",
+        "players_number": "14",
+        "Full Name": "Tanguy Nianzou",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (07.06.2002)",
+        "Market Value": "€4.8m",
+        "unicode": "zHxpGqc8"
+      },
+      {
+        "players_name": "Perez P.",
+        "players_number": "26",
+        "Full Name": "Pablo Perez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (18.08.2001)",
+        "Market Value": "30.06.2025",
+        "unicode": "hxQ4iV6r"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "02:30",
+      "comments_type": "yellow card",
+      "comments_text": "That's a clear yellow card. Nemanja Gudelj (Sevilla) goes into the book.",
+      "comments_text_anonymized": "That's a clear yellow card. [PLAYER] ([TEAM]) goes into the book.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "05:10",
+      "comments_type": "goal",
+      "comments_text": "Raphael Guerreiro (Dortmund) scores! He latches on to a pass and produces a perfect strike from the edge of the box. The ball goes inside the right post and past the goalkeeper.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) scores! He latches on to a pass and produces a perfect strike from the edge of the box. The ball goes inside the right post and past the goalkeeper.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "19:13",
+      "comments_type": "corner",
+      "comments_text": "The corner is swung in but Sevilla can’t take advantage as a defender sweeps the ball away.",
+      "comments_text_anonymized": "The corner is swung in but [TEAM] can’t take advantage as a defender sweeps the ball away.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "20:32",
+      "comments_type": "red card",
+      "comments_text": "It's a foul from Youssef En Nesyri (Sevilla). Surprisingly, the referee comes and pulls out a red card. It was a very harsh one and Youssef En Nesyri (Sevilla) complains, but it's no use of course. The decision has been made.",
+      "comments_text_anonymized": "It's a foul from [PLAYER] ([TEAM]). Surprisingly, the referee comes and pulls out a red card. It was a very harsh one and [PLAYER] ([TEAM]) complains, but it's no use of course. The decision has been made.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "28:39",
+      "comments_type": "corner",
+      "comments_text": "Dortmund failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "38:08",
+      "comments_type": "corner",
+      "comments_text": "Corner kick. Sevilla will have an opportunity.",
+      "comments_text_anonymized": "Corner kick. [TEAM] will have an opportunity.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:10",
+      "comments_type": "goal",
+      "comments_text": "An amazing individual effort from Jude Bellingham (Dortmund) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom right corner and makes it 0:2. Bono was helpless.",
+      "comments_text_anonymized": "An amazing individual effort from [PLAYER] ([TEAM]) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom right corner and makes it 0:2. [PLAYER] was helpless.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:30",
+      "comments_type": "substitution",
+      "comments_text": "Gonzalo Montiel (Sevilla) joins the action as a substitute, replacing Jesus Navas.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER].",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:20",
+      "comments_type": "substitution",
+      "comments_text": "Julen Lopetegui has decided to introduce fresh legs, with Erik Lamela (Sevilla) replacing Suso.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "05:06",
+      "comments_type": "corner",
+      "comments_text": "Alex Telles (Sevilla) goes over to take a corner kick after one of the defenders makes a good clearance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "05:20",
+      "comments_type": "goal",
+      "comments_text": "Youssef En Nesyri (Sevilla) outjumps the defence inside the six-yard box to meet the corner and scores with a great header into the bottom left corner. The keeper had no chance to react. The score is now 1:3.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) outjumps the defence inside the six-yard box to meet the corner and scores with a great header into the bottom left corner. The keeper had no chance to react. The score is now 1:3.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:25",
+      "comments_type": "corner",
+      "comments_text": "Julian Brandt (Dortmund) will deliver the ball into the penalty box from a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:14",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals that it is time for a substitution and Papu Gomez (Sevilla) will replace Isco.",
+      "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) will replace [PLAYER].",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:14",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Ivan Rakitic is going off and Julen Lopetegui gives the last tactical orders to Thomas Delaney (Sevilla).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:26",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals a substitution. Donyell Malen (Dortmund) is brought on as a substitute for Karim Adeyemi.",
+      "comments_text_anonymized": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:39",
+      "comments_type": "yellow card",
+      "comments_text": "Erik Lamela (Sevilla) receives a harsh yellow card from the referee after committing a minor foul on his opponent.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a harsh yellow card from the referee after committing a minor foul on his opponent.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "24:10",
+      "comments_type": "yellow card",
+      "comments_text": "Yellow card! It's like Salih Ozcan (Dortmund) was asking for a caution with his behaviour. Maurizio Mariani agrees and books him.",
+      "comments_text_anonymized": "Yellow card! It's like [PLAYER] ([TEAM]) was asking for a caution with his behaviour. [REFEREE] agrees and books him.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:21",
+      "comments_type": "corner",
+      "comments_text": "Dortmund take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:39",
+      "comments_type": "corner",
+      "comments_text": "Sevilla can’t profit from the corner as the defence clear the ball upfield.",
+      "comments_text_anonymized": "[TEAM] can’t profit from the corner as the defence clear the ball upfield.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:42",
+      "comments_type": "goal",
+      "comments_text": "The ball hits the back of the net! Youssoufa Moukoko showcases his brilliant technique and produces a beautiful lofted cross into the box, where Julian Brandt (Dortmund) manages to convert it into a sweet goal. He heads it inside the right post and gets on the scoresheet – 1:4.",
+      "comments_text_anonymized": "The ball hits the back of the net! [PLAYER] showcases his brilliant technique and produces a beautiful lofted cross into the box, where [PLAYER] ([TEAM]) manages to convert it into a sweet goal. He heads it inside the right post and gets on the scoresheet – 1:4.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:40",
+      "comments_type": "substitution",
+      "comments_text": "That's the end of the game for Joan Jordan, who is replaced by Kasper Dolberg (Sevilla).",
+      "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:55",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals that it is time for a substitution and Tom Rothe (Dortmund) is coming onto the pitch as Raphael Guerreiro cannot continue after picking up an injury.",
+      "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:23",
+      "comments_type": "substitution",
+      "comments_text": "Edin Terzic prepares a substitution. Youssoufa Moukoko is replaced by Anthony Modeste (Dortmund).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:28",
+      "comments_type": "corner",
+      "comments_text": "It will be a corner kick for Dortmund.",
+      "comments_text_anonymized": "It will be a corner kick for [TEAM].",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:18",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Julian Brandt departs the field of play to be replaced by Thorgan Hazard (Dortmund).",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM]).",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:23",
+      "comments_type": "substitution",
+      "comments_text": "Edin Terzic has decided to make a change. Antonios Papadopoulos (Dortmund) replaces Salih Ozcan.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:09",
+      "comments_type": "corner",
+      "comments_text": "Alex Telles (Sevilla) is heading toward the corner flag to take the set piece.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:20",
+      "comments_type": "yellow card",
+      "comments_text": "Kike Salas (Sevilla) makes it easy for the referee to show him a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) makes it easy for the referee to show him a yellow card.",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "49:58",
+      "comments_type": "yellow card",
+      "comments_text": "Maurizio Mariani shows a yellow card to Gonzalo Montiel (Sevilla) for his unsportsmanlike behavior after the match has ended.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his unsportsmanlike behavior after the match has ended.",
+      "index": 28
+    }
+  ]
+}

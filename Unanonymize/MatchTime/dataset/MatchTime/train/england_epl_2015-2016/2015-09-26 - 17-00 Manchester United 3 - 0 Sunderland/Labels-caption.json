@@ -1,0 +1,1700 @@
+{
+    "timestamp": "1443276000",
+    "score": "3 - 0",
+    "round": "7",
+    "teams": [
+        "Manchester United",
+        "Sunderland"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-2-3-1",
+            "players": [
+                {
+                    "hash": "U5mPqlh6",
+                    "name": "Blind D.",
+                    "captain": "",
+                    "detail_link": "/player/blind-daley/U5mPqlh6/",
+                    "short_name": "Blind",
+                    "shirt_number": "17",
+                    "country": "Netherlands",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "74'",
+                            "description": "Jones P.",
+                            "linked_player_hash": "tOqz9FFa"
+                        }
+                    ],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Daley Blind"
+                },
+                {
+                    "hash": "phM8NElP",
+                    "name": "Carrick M.",
+                    "captain": "",
+                    "detail_link": "/player/carrick-michael/phM8NElP/",
+                    "short_name": "Carrick",
+                    "shirt_number": "16",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "68'",
+                            "description": "Schweinsteiger B.",
+                            "linked_player_hash": "Kj6ZEYc8"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Michael Carrick"
+                },
+                {
+                    "hash": "WbNknKk3",
+                    "name": "Darmian M.",
+                    "captain": "",
+                    "detail_link": "/player/darmian-matteo/WbNknKk3/",
+                    "short_name": "Darmian",
+                    "shirt_number": "36",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Matteo Darmian"
+                },
+                {
+                    "hash": "d6AEQ6OD",
+                    "name": "de Gea D.",
+                    "captain": "",
+                    "detail_link": "/player/de-gea-david/d6AEQ6OD/",
+                    "short_name": "de Gea",
+                    "shirt_number": "1",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "David de Gea"
+                },
+                {
+                    "hash": "zo1h8MrD",
+                    "name": "Depay M.",
+                    "captain": "",
+                    "detail_link": "/player/depay-memphis/zo1h8MrD/",
+                    "short_name": "Depay",
+                    "shirt_number": "7",
+                    "country": "Netherlands",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "45+4' Depay M. (Mata J.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "77'",
+                            "description": "Young A.",
+                            "linked_player_hash": "tdmI0fpF"
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Memphis Depay"
+                },
+                {
+                    "hash": "GrS6Vr75",
+                    "name": "Martial A.",
+                    "captain": "",
+                    "detail_link": "/player/martial-anthony/GrS6Vr75/",
+                    "short_name": "Martial",
+                    "shirt_number": "9",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "46' Rooney W. (Martial A.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Anthony Martial"
+                },
+                {
+                    "hash": "nHlv2UfS",
+                    "name": "Mata J.",
+                    "captain": "",
+                    "detail_link": "/player/mata-juan/nHlv2UfS/",
+                    "short_name": "Mata",
+                    "shirt_number": "8",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "45+4' Depay M. (Mata J.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "3",
+                            "time": "90' Mata J. (Young A.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Juan Manuel Mata"
+                },
+                {
+                    "hash": "WfXv1DCa",
+                    "name": "Rooney W.",
+                    "captain": "(C)",
+                    "detail_link": "/player/rooney-wayne/WfXv1DCa/",
+                    "short_name": "Rooney",
+                    "shirt_number": "10",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "46' Rooney W. (Martial A.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Wayne Rooney"
+                },
+                {
+                    "hash": "p460ogNN",
+                    "name": "Schneiderlin M.",
+                    "captain": "",
+                    "detail_link": "/player/schneiderlin-morgan/p460ogNN/",
+                    "short_name": "Schneiderlin",
+                    "shirt_number": "28",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Morgan Schneiderlin"
+                },
+                {
+                    "hash": "QHtOVJzh",
+                    "name": "Smalling C.",
+                    "captain": "",
+                    "detail_link": "/player/smalling-chris/QHtOVJzh/",
+                    "short_name": "Smalling",
+                    "shirt_number": "12",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Chris Smalling"
+                },
+                {
+                    "hash": "Ecu9nqDs",
+                    "name": "Valencia A.",
+                    "captain": "",
+                    "detail_link": "/player/valencia-antonio/Ecu9nqDs/",
+                    "short_name": "Valencia",
+                    "shirt_number": "25",
+                    "country": "Ecuador",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Antonio Valencia"
+                },
+                {
+                    "hash": "nJoIy5ih",
+                    "name": "Fellaini M.",
+                    "captain": "",
+                    "detail_link": "/player/fellaini-marouane/nJoIy5ih/",
+                    "short_name": "Fellaini",
+                    "shirt_number": "27",
+                    "country": "Belgium",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marouane Fellaini"
+                },
+                {
+                    "hash": "jyzWX8yk",
+                    "name": "Herrera A.",
+                    "captain": "",
+                    "detail_link": "/player/herrera-ander/jyzWX8yk/",
+                    "short_name": "Herrera",
+                    "shirt_number": "21",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ander Herrera"
+                },
+                {
+                    "hash": "tOqz9FFa",
+                    "name": "Jones P.",
+                    "captain": "",
+                    "detail_link": "/player/jones-phil/tOqz9FFa/",
+                    "short_name": "Jones",
+                    "shirt_number": "4",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "74'",
+                            "description": "Blind D.",
+                            "linked_player_hash": "U5mPqlh6"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Phil Jones"
+                },
+                {
+                    "hash": "tShG7cpg",
+                    "name": "Pereira A.",
+                    "captain": "",
+                    "detail_link": "/player/pereira-andreas/tShG7cpg/",
+                    "short_name": "Pereira",
+                    "shirt_number": "44",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Andreas Pereira"
+                },
+                {
+                    "hash": "6TXnXzjd",
+                    "name": "Romero S.",
+                    "captain": "",
+                    "detail_link": "/player/romero-sergio/6TXnXzjd/",
+                    "short_name": "Romero",
+                    "shirt_number": "20",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sergio Romero"
+                },
+                {
+                    "hash": "Kj6ZEYc8",
+                    "name": "Schweinsteiger B.",
+                    "captain": "",
+                    "detail_link": "/player/schweinsteiger-bastian/Kj6ZEYc8/",
+                    "short_name": "Schweinsteiger",
+                    "shirt_number": "31",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "68'",
+                            "description": "Carrick M.",
+                            "linked_player_hash": "phM8NElP"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Bastian Schweinsteiger"
+                },
+                {
+                    "hash": "tdmI0fpF",
+                    "name": "Young A.",
+                    "captain": "",
+                    "detail_link": "/player/young-ashley/tdmI0fpF/",
+                    "short_name": "Young",
+                    "shirt_number": "18",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "77'",
+                            "description": "Depay M.",
+                            "linked_player_hash": "zo1h8MrD"
+                        },
+                        {
+                            "type": "8",
+                            "time": "90' Mata J. (Young A.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ashley Young"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "4APqpVFg",
+                    "name": "van Gaal L.",
+                    "captain": "",
+                    "detail_link": "/player/van-gaal-louis/4APqpVFg/",
+                    "short_name": "van Gaal L.",
+                    "shirt_number": "",
+                    "country": "Netherlands",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Louis van Gaal"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-1-4-1",
+            "players": [
+                {
+                    "hash": "vgf4LRaj",
+                    "name": "Borini F.",
+                    "captain": "",
+                    "detail_link": "/player/borini-fabio/vgf4LRaj/",
+                    "short_name": "Borini",
+                    "shirt_number": "9",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Fabio Borini"
+                },
+                {
+                    "hash": "Is8awtW8",
+                    "name": "Cattermole L.",
+                    "captain": "",
+                    "detail_link": "/player/cattermole-lee/Is8awtW8/",
+                    "short_name": "Cattermole",
+                    "shirt_number": "6",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "85' Cattermole L. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Lee Barry Cattermole"
+                },
+                {
+                    "hash": "06c4x0oF",
+                    "name": "Johnson A.",
+                    "captain": "",
+                    "detail_link": "/player/johnson-adam/06c4x0oF/",
+                    "short_name": "Johnson",
+                    "shirt_number": "11",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "38' Johnson A. (Handling)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "46'",
+                            "description": "Fletcher S.",
+                            "linked_player_hash": "A1SNPU17"
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Adam Johnson"
+                },
+                {
+                    "hash": "K81tpGcq",
+                    "name": "Jones B.",
+                    "captain": "",
+                    "detail_link": "/player/jones-billy/K81tpGcq/",
+                    "short_name": "Jones",
+                    "shirt_number": "2",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "50' Jones B. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Billy Jones"
+                },
+                {
+                    "hash": "pKEB1MVr",
+                    "name": "Kaboul Y.",
+                    "captain": "",
+                    "detail_link": "/player/kaboul-younes/pKEB1MVr/",
+                    "short_name": "Kaboul",
+                    "shirt_number": "15",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Younes Kaboul"
+                },
+                {
+                    "hash": "2wrNt1bc",
+                    "name": "Lens J.",
+                    "captain": "",
+                    "detail_link": "/player/lens-jeremain/2wrNt1bc/",
+                    "short_name": "Lens",
+                    "shirt_number": "17",
+                    "country": "Netherlands",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Jeremain Lens"
+                },
+                {
+                    "hash": "GOdGE1cn",
+                    "name": "M'Vila Y.",
+                    "captain": "",
+                    "detail_link": "/player/m-vila-yann/GOdGE1cn/",
+                    "short_name": "M'Vila",
+                    "shirt_number": "21",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Yann M'Vila"
+                },
+                {
+                    "hash": "dtoEGjd5",
+                    "name": "O'Shea J.",
+                    "captain": "(C)",
+                    "detail_link": "/player/o-shea-john/dtoEGjd5/",
+                    "short_name": "O'Shea",
+                    "shirt_number": "16",
+                    "country": "Ireland",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "John O'Shea"
+                },
+                {
+                    "hash": "xAk7pvWT",
+                    "name": "Pantilimon C.",
+                    "captain": "",
+                    "detail_link": "/player/pantilimon-costel/xAk7pvWT/",
+                    "short_name": "Pantilimon",
+                    "shirt_number": "1",
+                    "country": "Romania",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Costel Pantilimon"
+                },
+                {
+                    "hash": "Srp107M5",
+                    "name": "Toivonen O.",
+                    "captain": "",
+                    "detail_link": "/player/toivonen-ola/Srp107M5/",
+                    "short_name": "Toivonen",
+                    "shirt_number": "20",
+                    "country": "Sweden",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "70'",
+                            "description": "Larsson S.",
+                            "linked_player_hash": "OY3yOlyl"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Ola Toivonen"
+                },
+                {
+                    "hash": "GxbOZOLI",
+                    "name": "van Aanholt P.",
+                    "captain": "",
+                    "detail_link": "/player/van-aanholt-patrick/GxbOZOLI/",
+                    "short_name": "van Aanholt",
+                    "shirt_number": "3",
+                    "country": "Netherlands",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Patrick van Aanholt"
+                },
+                {
+                    "hash": "EBYxT1SP",
+                    "name": "Coates S.",
+                    "captain": "",
+                    "detail_link": "/player/coates-sebastian/EBYxT1SP/",
+                    "short_name": "Coates",
+                    "shirt_number": "22",
+                    "country": "Uruguay",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sebastian Coates"
+                },
+                {
+                    "hash": "QDtjHrsH",
+                    "name": "Defoe J.",
+                    "captain": "",
+                    "detail_link": "/player/defoe-jermain/QDtjHrsH/",
+                    "short_name": "Defoe",
+                    "shirt_number": "18",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jermain Defoe"
+                },
+                {
+                    "hash": "A1SNPU17",
+                    "name": "Fletcher S.",
+                    "captain": "",
+                    "detail_link": "/player/fletcher-steven/A1SNPU17/",
+                    "short_name": "Fletcher",
+                    "shirt_number": "26",
+                    "country": "Scotland",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "46'",
+                            "description": "Johnson A.",
+                            "linked_player_hash": "06c4x0oF"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Steven Fletcher"
+                },
+                {
+                    "hash": "xWYGfJUT",
+                    "name": "Gomez J.",
+                    "captain": "",
+                    "detail_link": "/player/gomez-jordi/xWYGfJUT/",
+                    "short_name": "Gomez",
+                    "shirt_number": "14",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jordi Gomez"
+                },
+                {
+                    "hash": "OY3yOlyl",
+                    "name": "Larsson S.",
+                    "captain": "",
+                    "detail_link": "/player/larsson-sebastian/OY3yOlyl/",
+                    "short_name": "Larsson",
+                    "shirt_number": "7",
+                    "country": "Sweden",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "70'",
+                            "description": "Toivonen O.",
+                            "linked_player_hash": "Srp107M5"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sebastian Larsson"
+                },
+                {
+                    "hash": "GKEd9ext",
+                    "name": "Mannone V.",
+                    "captain": "",
+                    "detail_link": "/player/mannone-vito/GKEd9ext/",
+                    "short_name": "Mannone",
+                    "shirt_number": "25",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Vito Mannone"
+                },
+                {
+                    "hash": "EmByTsz3",
+                    "name": "Yedlin D.",
+                    "captain": "",
+                    "detail_link": "/player/yedlin-deandre/EmByTsz3/",
+                    "short_name": "Yedlin",
+                    "shirt_number": "24",
+                    "country": "USA",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "DeAndre Yedlin"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "bNTgGsLT",
+                    "name": "Advocaat D.",
+                    "captain": "",
+                    "detail_link": "/player/advocaat-dick/bNTgGsLT/",
+                    "short_name": "Advocaat D.",
+                    "shirt_number": "",
+                    "country": "Netherlands",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Dick Advocaat"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Jones M."
+    ],
+    "venue": [
+        "Old Trafford (Manchester)"
+    ],
+    "attendance": [
+        "75 328"
+    ],
+    "referee_matched": [
+        "Mike Jones"
+    ],
+    "referee_found": [
+        "Mike Jones"
+    ],
+    "coach_matched": [
+        "Dick Advocaat",
+        "Louis van Gaal"
+    ],
+    "gameHomeTeam": "Manchester United",
+    "home": {
+        "name": "Manchester United",
+        "detail_link": "/team/manchester-united/ppjDR086",
+        "hash": "ppjDR086",
+        "names": [
+            "Manchester United",
+            "Manchester Utd",
+            "Manchester Utd (Eng)",
+            "manchester united"
+        ]
+    },
+    "gameAwayTeam": "Sunderland",
+    "away": {
+        "name": "Sunderland",
+        "detail_link": "/team/sunderland/WSzc94ws",
+        "hash": "WSzc94ws",
+        "names": [
+            "Sunderland",
+            "sunderland"
+        ]
+    },
+    "gameDate": "26/09/2015 - 16:00",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. Manchester Utd were better today and displayed masterful control and movement. The home team tried to prevail using combination football, while the away side adopted a defensive style of play.",
+            "identified": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. [TEAM_ppjDR086] were better today and displayed masterful control and movement. The home team tried to prevail using combination football, while the away side adopted a defensive style of play.",
+            "anonymized": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. [TEAM] were better today and displayed masterful control and movement. The home team tried to prevail using combination football, while the away side adopted a defensive style of play.",
+            "visibility": "shown",
+            "position": "2999000",
+            "event_aligned_gameTime": "2 - 49:59",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 49:05",
+            "label": "whistle",
+            "description": "Mike Jones is looking at his watch and immediately ends this match.",
+            "identified": "[REFEREE] is looking at his watch and immediately ends this match.",
+            "anonymized": "[REFEREE] is looking at his watch and immediately ends this match.",
+            "visibility": "shown",
+            "position": "2945000",
+            "event_aligned_gameTime": "2 - 49:05",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 47:00",
+            "label": "",
+            "description": "One of the defending players blocks a long-range shot which was unleashed by Patrick van Aanholt (Sunderland).",
+            "identified": "One of the defending players blocks a long-range shot which was unleashed by [PLAYER_GxbOZOLI] ([TEAM_]).",
+            "anonymized": "One of the defending players blocks a long-range shot which was unleashed by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2820000",
+            "event_aligned_gameTime": "2 - 45:50",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "Fourth official shows 4 min. of added time.",
+            "identified": "Fourth official shows 4 min. of added time.",
+            "anonymized": "Fourth official shows 4 min. of added time.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:10",
+            "contrastive_aligned_gameTime": "2 - 45:00"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 44:50",
+            "label": "soccer-ball",
+            "description": "It's a goal! Juan Manuel Mata (Manchester United) scores with a brilliant shot into the right side of the goal after being released inside the box by a superb lofted pass from Ashley Young. The score is 2:0.",
+            "identified": "It's a goal! [PLAYER_nHlv2UfS] ([TEAM_]) scores with a brilliant shot into the right side of the goal after being released inside the box by a superb lofted pass from [PLAYER_tdmI0fpF]. The score is 2:0.",
+            "anonymized": "It's a goal! [PLAYER] ([TEAM]) scores with a brilliant shot into the right side of the goal after being released inside the box by a superb lofted pass from [PLAYER]. The score is 2:0.",
+            "visibility": "shown",
+            "position": "2690000",
+            "event_aligned_gameTime": "2 - 44:30",
+            "contrastive_aligned_gameTime": "2 - 44:27"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 43:54",
+            "label": "",
+            "description": "Good touch by Yann M'Vila (Sunderland) as he receives a great pass and attempts to threaten the goalkeeper with his long-range strike. Unfortunately for him, the effort misses the net and flies well wide to the right.",
+            "identified": "Good touch by [PLAYER_GOdGE1cn] ([TEAM_]) as he receives a great pass and attempts to threaten the goalkeeper with his long-range strike. Unfortunately for him, the effort misses the net and flies well wide to the right.",
+            "anonymized": "Good touch by [PLAYER] ([TEAM]) as he receives a great pass and attempts to threaten the goalkeeper with his long-range strike. Unfortunately for him, the effort misses the net and flies well wide to the right.",
+            "visibility": "shown",
+            "position": "2634000",
+            "event_aligned_gameTime": "2 - 43:20",
+            "contrastive_aligned_gameTime": "2 - 43:20"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:21",
+            "label": "",
+            "description": "The ball is cleared after Wayne Rooney (Manchester United) attempted to dribble past an opposing player.",
+            "identified": "The ball is cleared after [PLAYER_WfXv1DCa] ([TEAM_]) attempted to dribble past an opposing player.",
+            "anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player.",
+            "visibility": "shown",
+            "position": "2541000",
+            "event_aligned_gameTime": "2 - 41:50",
+            "contrastive_aligned_gameTime": "2 - 42:06"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:49",
+            "label": "",
+            "description": "Mike Jones blows his whistle for a foul after Patrick van Aanholt (Sunderland) hacks down one of his opponents. It's a free kick to Manchester Utd in a dangerous position.",
+            "identified": "[REFEREE] blows his whistle for a foul after [PLAYER_GxbOZOLI] ([TEAM_]) hacks down one of his opponents. It's a free kick to [TEAM_ppjDR086] in a dangerous position.",
+            "anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents. It's a free kick to [TEAM] in a dangerous position.",
+            "visibility": "shown",
+            "position": "2509000",
+            "event_aligned_gameTime": "2 - 41:49",
+            "contrastive_aligned_gameTime": "2 - 41:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:03",
+            "label": "",
+            "description": "Bastian Schweinsteiger (Manchester United) quickly takes the free kick with a short pass.",
+            "identified": "[PLAYER_Kj6ZEYc8] ([TEAM_]) quickly takes the free kick with a short pass.",
+            "anonymized": "[PLAYER] ([TEAM]) quickly takes the free kick with a short pass.",
+            "visibility": "shown",
+            "position": "2463000",
+            "event_aligned_gameTime": "2 - 40:30",
+            "contrastive_aligned_gameTime": "2 - 40:34"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 40:49",
+            "label": "",
+            "description": "Jeremain Lens (Sunderland) does well to dispossess the attacker with a slide tackle, but the referee blows his whistle for a foul.",
+            "identified": "[PLAYER_2wrNt1bc] ([TEAM_]) does well to dispossess the attacker with a slide tackle, but the referee blows his whistle for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) does well to dispossess the attacker with a slide tackle, but the referee blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "2449000",
+            "event_aligned_gameTime": "2 - 40:40",
+            "contrastive_aligned_gameTime": "2 - 41:04"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 39:43",
+            "label": "y-card",
+            "description": "Lee Cattermole (Sunderland) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Mike Jones ignores the protests.",
+            "identified": "[PLAYER_Is8awtW8] ([TEAM_]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests.",
+            "anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests.",
+            "visibility": "shown",
+            "position": "2383000",
+            "event_aligned_gameTime": "2 - 39:40",
+            "contrastive_aligned_gameTime": "2 - 39:40"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 39:05",
+            "label": "",
+            "description": "Good defending. Ashley Young (Manchester United) tries to find Wayne Rooney inside the box, but the pass is cut out.",
+            "identified": "Good defending. [PLAYER_tdmI0fpF] ([TEAM_]) tries to find [PLAYER_WfXv1DCa] inside the box, but the pass is cut out.",
+            "anonymized": "Good defending. [PLAYER] ([TEAM]) tries to find [PLAYER] inside the box, but the pass is cut out.",
+            "visibility": "shown",
+            "position": "2345000",
+            "event_aligned_gameTime": "2 - 39:10",
+            "contrastive_aligned_gameTime": "2 - 38:36"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:31",
+            "label": "",
+            "description": "The defence is alert as they clear a dangerous cross from Matteo Darmian (Manchester United).",
+            "identified": "The defence is alert as they clear a dangerous cross from [PLAYER_WbNknKk3] ([TEAM_]).",
+            "anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2251000",
+            "event_aligned_gameTime": "2 - 37:30",
+            "contrastive_aligned_gameTime": "2 - 37:52"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 35:58",
+            "label": "corner",
+            "description": "Juan Manuel Mata (Manchester United) sends the corner into the box, but Costel Pantilimon intercepts it and averts the threat.",
+            "identified": "[PLAYER_nHlv2UfS] ([TEAM_]) sends the corner into the box, but [PLAYER_xAk7pvWT] intercepts it and averts the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) sends the corner into the box, but [PLAYER] intercepts it and averts the threat.",
+            "visibility": "shown",
+            "position": "2158000",
+            "event_aligned_gameTime": "2 - 35:40",
+            "contrastive_aligned_gameTime": "2 - 35:07"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 35:44",
+            "label": "",
+            "description": "Manchester Utd keep possession of the ball by producing one-two passes, but an opponent steps in and wins the ball. Manchester Utd win a corner.",
+            "identified": "[TEAM_ppjDR086] keep possession of the ball by producing one-two passes, but an opponent steps in and wins the ball. [TEAM_ppjDR086] win a corner.",
+            "anonymized": "[TEAM] keep possession of the ball by producing one-two passes, but an opponent steps in and wins the ball. [TEAM] win a corner.",
+            "visibility": "shown",
+            "position": "2144000",
+            "event_aligned_gameTime": "2 - 35:40",
+            "contrastive_aligned_gameTime": "2 - 35:18"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:24",
+            "label": "corner",
+            "description": "Ashley Young (Manchester United) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "identified": "[PLAYER_tdmI0fpF] ([TEAM_]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "visibility": "shown",
+            "position": "2004000",
+            "event_aligned_gameTime": "2 - 33:00",
+            "contrastive_aligned_gameTime": "2 - 33:04"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 32:47",
+            "label": "",
+            "description": "Juan Manuel Mata (Manchester United) fashions a shot from the edge of the box after receiving an accurate pass. Costel Pantilimon makes a stunning save to stop the effort from flying into the bottom left corner. Manchester Utd force a corner. They send men into the box.",
+            "identified": "[PLAYER_nHlv2UfS] ([TEAM_]) fashions a shot from the edge of the box after receiving an accurate pass. [PLAYER_xAk7pvWT] makes a stunning save to stop the effort from flying into the bottom left corner. [TEAM_ppjDR086] force a corner. They send men into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) fashions a shot from the edge of the box after receiving an accurate pass. [PLAYER] makes a stunning save to stop the effort from flying into the bottom left corner. [TEAM] force a corner. They send men into the box.",
+            "visibility": "shown",
+            "position": "1967000",
+            "event_aligned_gameTime": "2 - 32:50",
+            "contrastive_aligned_gameTime": "2 - 32:44"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 31:47",
+            "label": "substitution",
+            "description": "Louis van Gaal has decided to make a change. Ashley Young (Manchester United) replaces Memphis Depay.",
+            "identified": "[COACH_4APqpVFg] has decided to make a change. [PLAYER_tdmI0fpF] ([TEAM_]) replaces [PLAYER_zo1h8MrD].",
+            "anonymized": "[COACH] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+            "visibility": "shown",
+            "position": "1907000",
+            "event_aligned_gameTime": "2 - 31:30",
+            "contrastive_aligned_gameTime": "2 - 31:18"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 29:15",
+            "label": "",
+            "description": "A cross is clipped into the penalty area by Memphis Depay (Manchester United) but poses no threat.",
+            "identified": "A cross is clipped into the penalty area by [PLAYER_zo1h8MrD] ([TEAM_]) but poses no threat.",
+            "anonymized": "A cross is clipped into the penalty area by [PLAYER] ([TEAM]) but poses no threat.",
+            "visibility": "shown",
+            "position": "1755000",
+            "event_aligned_gameTime": "2 - 29:15",
+            "contrastive_aligned_gameTime": "2 - 29:35"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 28:23",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Daley Blind leaves the pitch and Phil Jones (Manchester United) comes on.",
+            "identified": "The referee stops play so that a substitution can be made and [PLAYER_U5mPqlh6] leaves the pitch and [PLAYER_tOqz9FFa] ([TEAM_]) comes on.",
+            "anonymized": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+            "visibility": "shown",
+            "position": "1703000",
+            "event_aligned_gameTime": "2 - 28:20",
+            "contrastive_aligned_gameTime": "2 - 28:15"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 26:33",
+            "label": "",
+            "description": "Daley Blind (Manchester United) is able to continue to play.",
+            "identified": "[PLAYER_U5mPqlh6] ([TEAM_]) is able to continue to play.",
+            "anonymized": "[PLAYER] ([TEAM]) is able to continue to play.",
+            "visibility": "shown",
+            "position": "1593000",
+            "event_aligned_gameTime": "2 - 26:30",
+            "contrastive_aligned_gameTime": "2 - 26:29"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:51",
+            "label": "injury",
+            "description": "Daley Blind (Manchester United) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "identified": "[PLAYER_U5mPqlh6] ([TEAM_]) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "anonymized": "[PLAYER] ([TEAM]) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "visibility": "shown",
+            "position": "1551000",
+            "event_aligned_gameTime": "2 - 25:50",
+            "contrastive_aligned_gameTime": "2 - 25:20"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 24:56",
+            "label": "substitution",
+            "description": "Here is a change. Ola Toivonen is going off and Dick Advocaat gives the last tactical orders to Sebastian Larsson (Sunderland).",
+            "identified": "Here is a change. [PLAYER_Srp107M5] is going off and [COACH_bNTgGsLT] gives the last tactical orders to [PLAYER_OY3yOlyl] ([TEAM_]).",
+            "anonymized": "Here is a change. [PLAYER] is going off and [COACH] gives the last tactical orders to [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1496000",
+            "event_aligned_gameTime": "2 - 25:00",
+            "contrastive_aligned_gameTime": "2 - 25:11"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 24:27",
+            "label": "",
+            "description": "What an opportunity! Anthony Martial (Manchester United) latches on to a perfect cross from the wing and produces a bullet header from around the penalty spot which goes narrowly over the crossbar! The ball is off of the pitch and it's a goal kick for Sunderland.",
+            "identified": "What an opportunity! [PLAYER_GrS6Vr75] ([TEAM_]) latches on to a perfect cross from the wing and produces a bullet header from around the penalty spot which goes narrowly over the crossbar! The ball is off of the pitch and it's a goal kick for [TEAM_].",
+            "anonymized": "What an opportunity! [PLAYER] ([TEAM]) latches on to a perfect cross from the wing and produces a bullet header from around the penalty spot which goes narrowly over the crossbar! The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "visibility": "shown",
+            "position": "1467000",
+            "event_aligned_gameTime": "2 - 24:20",
+            "contrastive_aligned_gameTime": "2 - 24:03"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 22:54",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Michael Carrick trots off the pitch and is replaced by Bastian Schweinsteiger (Manchester United).",
+            "identified": "The referee stops play so that a substitution can be made and [PLAYER_phM8NElP] trots off the pitch and is replaced by [PLAYER_Kj6ZEYc8] ([TEAM_]).",
+            "anonymized": "The referee stops play so that a substitution can be made and [PLAYER] trots off the pitch and is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1374000",
+            "event_aligned_gameTime": "2 - 22:30",
+            "contrastive_aligned_gameTime": "2 - 22:19"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 22:06",
+            "label": "",
+            "description": "Memphis Depay (Manchester United) fashions a shot from the edge of the box after receiving an accurate pass. Costel Pantilimon makes a comfortable save to stop the effort from flying into the middle of the goal.",
+            "identified": "[PLAYER_zo1h8MrD] ([TEAM_]) fashions a shot from the edge of the box after receiving an accurate pass. [PLAYER_xAk7pvWT] makes a comfortable save to stop the effort from flying into the middle of the goal.",
+            "anonymized": "[PLAYER] ([TEAM]) fashions a shot from the edge of the box after receiving an accurate pass. [PLAYER] makes a comfortable save to stop the effort from flying into the middle of the goal.",
+            "visibility": "shown",
+            "position": "1326000",
+            "event_aligned_gameTime": "2 - 21:50",
+            "contrastive_aligned_gameTime": "2 - 21:32"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:50",
+            "label": "",
+            "description": "Manchester Utd hold the ball and are exchanging some long passes.",
+            "identified": "[TEAM_ppjDR086] hold the ball and are exchanging some long passes.",
+            "anonymized": "[TEAM] hold the ball and are exchanging some long passes.",
+            "visibility": "shown",
+            "position": "1190000",
+            "event_aligned_gameTime": "2 - 19:30",
+            "contrastive_aligned_gameTime": "2 - 18:58"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 17:20",
+            "label": "",
+            "description": "Matteo Darmian (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "identified": "[PLAYER_WbNknKk3] ([TEAM_]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "visibility": "shown",
+            "position": "1040000",
+            "event_aligned_gameTime": "2 - 17:00",
+            "contrastive_aligned_gameTime": "2 - 16:24"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 16:57",
+            "label": "",
+            "description": "Patrick van Aanholt (Sunderland) receives a pass inside the box, controls the ball and drills it towards the left post. Unfortunately for him, David de Gea makes a great save to stop his effort.",
+            "identified": "[PLAYER_GxbOZOLI] ([TEAM_]) receives a pass inside the box, controls the ball and drills it towards the left post. Unfortunately for him, [PLAYER_d6AEQ6OD] makes a great save to stop his effort.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a pass inside the box, controls the ball and drills it towards the left post. Unfortunately for him, [PLAYER] makes a great save to stop his effort.",
+            "visibility": "shown",
+            "position": "1017000",
+            "event_aligned_gameTime": "2 - 16:40",
+            "contrastive_aligned_gameTime": "2 - 16:02"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:53",
+            "label": "",
+            "description": "Michael Carrick (Manchester United) tries to take the opposition by surprise with a quick free kick into the box.",
+            "identified": "[PLAYER_phM8NElP] ([TEAM_]) tries to take the opposition by surprise with a quick free kick into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to take the opposition by surprise with a quick free kick into the box.",
+            "visibility": "shown",
+            "position": "953000",
+            "event_aligned_gameTime": "2 - 15:40",
+            "contrastive_aligned_gameTime": "2 - 15:35"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:31",
+            "label": "",
+            "description": "Steven Fletcher (Sunderland) makes an overly-aggressive challenge and Mike Jones blows his whistle for a foul. There is a free kick near the sideline to Manchester Utd.",
+            "identified": "[PLAYER_A1SNPU17] ([TEAM_]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul. There is a free kick near the sideline to [TEAM_ppjDR086].",
+            "anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul. There is a free kick near the sideline to [TEAM].",
+            "visibility": "shown",
+            "position": "931000",
+            "event_aligned_gameTime": "2 - 15:20",
+            "contrastive_aligned_gameTime": "2 - 15:59"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 13:01",
+            "label": "",
+            "description": "Nice passing game by Manchester Utd. They are increasing their possession with a series of long passes and waiting for the right moment to create an attacking opportunity.",
+            "identified": "Nice passing game by [TEAM_ppjDR086]. They are increasing their possession with a series of long passes and waiting for the right moment to create an attacking opportunity.",
+            "anonymized": "Nice passing game by [TEAM]. They are increasing their possession with a series of long passes and waiting for the right moment to create an attacking opportunity.",
+            "visibility": "shown",
+            "position": "781000",
+            "event_aligned_gameTime": "2 - 13:00",
+            "contrastive_aligned_gameTime": "2 - 13:28"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:49",
+            "label": "corner",
+            "description": "The resulting corner from Yann M'Vila (Sunderland) comes to nothing.",
+            "identified": "The resulting corner from [PLAYER_GOdGE1cn] ([TEAM_]) comes to nothing.",
+            "anonymized": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing.",
+            "visibility": "shown",
+            "position": "649000",
+            "event_aligned_gameTime": "2 - 10:20",
+            "contrastive_aligned_gameTime": "2 - 10:39"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:35",
+            "label": "",
+            "description": "Sunderland are happy to keep the ball as they wait for gaps in defence to open up. However, an opposing player steps in and clears. Sunderland earn a corner.",
+            "identified": "[TEAM_] are happy to keep the ball as they wait for gaps in defence to open up. However, an opposing player steps in and clears. [TEAM_] earn a corner.",
+            "anonymized": "[TEAM] are happy to keep the ball as they wait for gaps in defence to open up. However, an opposing player steps in and clears. [TEAM] earn a corner.",
+            "visibility": "shown",
+            "position": "635000",
+            "event_aligned_gameTime": "2 - 10:20",
+            "contrastive_aligned_gameTime": "2 - 10:20"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:19",
+            "label": "corner",
+            "description": "Yann M'Vila (Sunderland) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "identified": "[PLAYER_GOdGE1cn] ([TEAM_]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "visibility": "shown",
+            "position": "619000",
+            "event_aligned_gameTime": "2 - 10:10",
+            "contrastive_aligned_gameTime": "2 - 09:52"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:58",
+            "label": "",
+            "description": "Steven Fletcher (Sunderland) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort. The ball goes out for a corner. Sunderland can continue in their attacking effort.",
+            "identified": "[PLAYER_A1SNPU17] ([TEAM_]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort. The ball goes out for a corner. [TEAM_] can continue in their attacking effort.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort. The ball goes out for a corner. [TEAM] can continue in their attacking effort.",
+            "visibility": "shown",
+            "position": "598000",
+            "event_aligned_gameTime": "2 - 10:00",
+            "contrastive_aligned_gameTime": "2 - 10:10"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:42",
+            "label": "",
+            "description": "Yann M'Vila (Sunderland) is going to send the ball in from the free kick.",
+            "identified": "[PLAYER_GOdGE1cn] ([TEAM_]) is going to send the ball in from the free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) is going to send the ball in from the free kick.",
+            "visibility": "shown",
+            "position": "522000",
+            "event_aligned_gameTime": "2 - 08:40",
+            "contrastive_aligned_gameTime": "2 - 08:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:01",
+            "label": "",
+            "description": "Ola Toivonen (Sunderland) gets to a rebound in front of goal and sends the ball towards the bottom left corner. However, but he couldn't beat David de Gea, who shows off his superb goalkeeping ability by pulling off a great save.",
+            "identified": "[PLAYER_Srp107M5] ([TEAM_]) gets to a rebound in front of goal and sends the ball towards the bottom left corner. However, but he couldn't beat [PLAYER_d6AEQ6OD], who shows off his superb goalkeeping ability by pulling off a great save.",
+            "anonymized": "[PLAYER] ([TEAM]) gets to a rebound in front of goal and sends the ball towards the bottom left corner. However, but he couldn't beat [PLAYER], who shows off his superb goalkeeping ability by pulling off a great save.",
+            "visibility": "shown",
+            "position": "481000",
+            "event_aligned_gameTime": "2 - 08:00",
+            "contrastive_aligned_gameTime": "2 - 08:01"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:52",
+            "label": "",
+            "description": "Morgan Schneiderlin (Manchester United) fouls an opponent. At least that's what referee Mike Jones signals.",
+            "identified": "[PLAYER_p460ogNN] ([TEAM_]) fouls an opponent. At least that's what referee [REFEREE] signals.",
+            "anonymized": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals.",
+            "visibility": "shown",
+            "position": "472000",
+            "event_aligned_gameTime": "2 - 07:30",
+            "contrastive_aligned_gameTime": "2 - 06:59"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 06:38",
+            "label": "",
+            "description": "Neat passing move from Manchester Utd in order to create new attacking opportunities.",
+            "identified": "Neat passing move from [TEAM_ppjDR086] in order to create new attacking opportunities.",
+            "anonymized": "Neat passing move from [TEAM] in order to create new attacking opportunities.",
+            "visibility": "shown",
+            "position": "398000",
+            "event_aligned_gameTime": "2 - 06:40",
+            "contrastive_aligned_gameTime": "2 - 06:16"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 04:17",
+            "label": "y-card",
+            "description": "The referee demonstrates he won't tolerate this behaviour. Billy Jones (Sunderland) is given a yellow card.",
+            "identified": "The referee demonstrates he won't tolerate this behaviour. [PLAYER_tOqz9FFa] ([TEAM_]) is given a yellow card.",
+            "anonymized": "The referee demonstrates he won't tolerate this behaviour. [PLAYER] ([TEAM]) is given a yellow card.",
+            "visibility": "shown",
+            "position": "257000",
+            "event_aligned_gameTime": "2 - 04:30",
+            "contrastive_aligned_gameTime": "2 - 04:11"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:31",
+            "label": "soccer-ball",
+            "description": "Wayne Rooney (Manchester United) was in the right place to put the ball into the back of the net with his body. It's 0:0.",
+            "identified": "[PLAYER_WfXv1DCa] ([TEAM_]) was in the right place to put the ball into the back of the net with his body. It's 0:0.",
+            "anonymized": "[PLAYER] ([TEAM]) was in the right place to put the ball into the back of the net with his body. It's 0:0.",
+            "visibility": "shown",
+            "position": "31000",
+            "event_aligned_gameTime": "2 - 00:20",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Dick Advocaat has decided to make a substitution during the half-time break. Steven Fletcher (Sunderland) comes on the pitch for Adam Johnson.",
+            "identified": "[COACH_bNTgGsLT] has decided to make a substitution during the half-time break. [PLAYER_A1SNPU17] ([TEAM_]) comes on the pitch for [PLAYER_06c4x0oF].",
+            "anonymized": "[COACH] has decided to make a substitution during the half-time break. [PLAYER] ([TEAM]) comes on the pitch for [PLAYER].",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:20",
+            "contrastive_aligned_gameTime": "2 - 00:01"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started.",
+            "identified": "The second half has just started.",
+            "anonymized": "The second half has just started.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:10",
+            "contrastive_aligned_gameTime": "2 - 00:01"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 49:59",
+            "label": "",
+            "description": "Well, it hasn't been the most exciting game in the world but there has been some nice football on display. We hope that the second period will bring more action. Manchester Utd dominated the opening period and easily created the most chances. The home side attempts to hold onto the ball for as long as possible, while the away side focuses on defending and lets the opposition keep possession.",
+            "identified": "Well, it hasn't been the most exciting game in the world but there has been some nice football on display. We hope that the second period will bring more action. [TEAM_ppjDR086] dominated the opening period and easily created the most chances. The home side attempts to hold onto the ball for as long as possible, while the away side focuses on defending and lets the opposition keep possession.",
+            "anonymized": "Well, it hasn't been the most exciting game in the world but there has been some nice football on display. We hope that the second period will bring more action. [TEAM] dominated the opening period and easily created the most chances. The home side attempts to hold onto the ball for as long as possible, while the away side focuses on defending and lets the opposition keep possession.",
+            "visibility": "shown",
+            "position": "2999000",
+            "event_aligned_gameTime": "1 - 49:30",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 49:19",
+            "label": "whistle",
+            "description": "The end of the first half.",
+            "identified": "The end of the first half.",
+            "anonymized": "The end of the first half.",
+            "visibility": "shown",
+            "position": "2959000",
+            "event_aligned_gameTime": "1 - 49:00",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 48:15",
+            "label": "soccer-ball",
+            "description": "Goal! Juan Manuel Mata feeds Memphis Depay (Manchester United), who taps the ball into an empty net. He makes it 1:0.",
+            "identified": "Goal! [PLAYER_nHlv2UfS] feeds [PLAYER_zo1h8MrD] ([TEAM_]), who taps the ball into an empty net. He makes it 1:0.",
+            "anonymized": "Goal! [PLAYER] feeds [PLAYER] ([TEAM]), who taps the ball into an empty net. He makes it 1:0.",
+            "visibility": "shown",
+            "position": "2895000",
+            "event_aligned_gameTime": "1 - 48:10",
+            "contrastive_aligned_gameTime": "1 - 48:09"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 46:13",
+            "label": "",
+            "description": "Morgan Schneiderlin (Manchester United) makes an unfair challenge by holding his opponent to prevent him from getting the ball.",
+            "identified": "[PLAYER_p460ogNN] ([TEAM_]) makes an unfair challenge by holding his opponent to prevent him from getting the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) makes an unfair challenge by holding his opponent to prevent him from getting the ball.",
+            "visibility": "shown",
+            "position": "2773000",
+            "event_aligned_gameTime": "1 - 45:50",
+            "contrastive_aligned_gameTime": "1 - 45:08"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:00",
+            "label": "time",
+            "description": "4 min. of stoppage-time to be played.",
+            "identified": "4 min. of stoppage-time to be played.",
+            "anonymized": "4 min. of stoppage-time to be played.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "2 - 00:04",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 44:55",
+            "label": "",
+            "description": "Adam Johnson (Sunderland) is penalised for a foul. Mike Jones had a clear view and blows his whistle.",
+            "identified": "[PLAYER_06c4x0oF] ([TEAM_]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+            "anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+            "visibility": "shown",
+            "position": "2695000",
+            "event_aligned_gameTime": "1 - 44:50",
+            "contrastive_aligned_gameTime": "1 - 44:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:39",
+            "label": "",
+            "description": "Wayne Rooney (Manchester United) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "identified": "[PLAYER_WfXv1DCa] ([TEAM_]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "anonymized": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "visibility": "shown",
+            "position": "2619000",
+            "event_aligned_gameTime": "1 - 43:30",
+            "contrastive_aligned_gameTime": "1 - 43:54"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:21",
+            "label": "",
+            "description": "Adam Johnson (Sunderland) is penalised for holding. Mike Jones signals a set piece.",
+            "identified": "[PLAYER_06c4x0oF] ([TEAM_]) is penalised for holding. [REFEREE] signals a set piece.",
+            "anonymized": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece.",
+            "visibility": "shown",
+            "position": "2481000",
+            "event_aligned_gameTime": "1 - 41:10",
+            "contrastive_aligned_gameTime": "1 - 41:00"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 39:38",
+            "label": "corner",
+            "description": "Memphis Depay (Manchester United) steps up to take the corner, but the ball just sails in among the defenders.",
+            "identified": "[PLAYER_zo1h8MrD] ([TEAM_]) steps up to take the corner, but the ball just sails in among the defenders.",
+            "anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders.",
+            "visibility": "shown",
+            "position": "2378000",
+            "event_aligned_gameTime": "1 - 39:30",
+            "contrastive_aligned_gameTime": "1 - 40:05"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 39:21",
+            "label": "",
+            "description": "Manchester Utd move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. The ball goes behind for a corner. Manchester Utd will have an opportunity to threaten the opposition's goal.",
+            "identified": "[TEAM_ppjDR086] move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. The ball goes behind for a corner. [TEAM_ppjDR086] will have an opportunity to threaten the opposition's goal.",
+            "anonymized": "[TEAM] move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "visibility": "shown",
+            "position": "2361000",
+            "event_aligned_gameTime": "1 - 39:10",
+            "contrastive_aligned_gameTime": "1 - 39:47"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:50",
+            "label": "",
+            "description": "Memphis Depay (Manchester United) stands over the free kick and opts to take it himself, but it is straight at Costel Pantilimon.",
+            "identified": "[PLAYER_zo1h8MrD] ([TEAM_]) stands over the free kick and opts to take it himself, but it is straight at [PLAYER_xAk7pvWT].",
+            "anonymized": "[PLAYER] ([TEAM]) stands over the free kick and opts to take it himself, but it is straight at [PLAYER].",
+            "visibility": "shown",
+            "position": "2270000",
+            "event_aligned_gameTime": "1 - 37:50",
+            "contrastive_aligned_gameTime": "1 - 37:38"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:47",
+            "label": "",
+            "description": "Memphis Depay (Manchester United) will take a free kick. Is he going to strike the ball directly at the goal? Let's find out!",
+            "identified": "[PLAYER_zo1h8MrD] ([TEAM_]) will take a free kick. Is he going to strike the ball directly at the goal? Let's find out!",
+            "anonymized": "[PLAYER] ([TEAM]) will take a free kick. Is he going to strike the ball directly at the goal? Let's find out!",
+            "visibility": "shown",
+            "position": "2267000",
+            "event_aligned_gameTime": "1 - 37:47",
+            "contrastive_aligned_gameTime": "1 - 38:01"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 37:46",
+            "label": "y-card",
+            "description": "Adam Johnson (Sunderland) is awarded a yellow card for his behaviour.",
+            "identified": "[PLAYER_06c4x0oF] ([TEAM_]) is awarded a yellow card for his behaviour.",
+            "anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his behaviour.",
+            "visibility": "shown",
+            "position": "2266000",
+            "event_aligned_gameTime": "1 - 37:50",
+            "contrastive_aligned_gameTime": "1 - 37:34"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 36:17",
+            "label": "",
+            "description": "Anthony Martial (Manchester United) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "identified": "[PLAYER_GrS6Vr75] ([TEAM_]) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "anonymized": "[PLAYER] ([TEAM]) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "visibility": "shown",
+            "position": "2177000",
+            "event_aligned_gameTime": "1 - 36:10",
+            "contrastive_aligned_gameTime": "1 - 36:23"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:05",
+            "label": "injury",
+            "description": "Anthony Martial (Manchester United) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "identified": "[PLAYER_GrS6Vr75] ([TEAM_]) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "anonymized": "[PLAYER] ([TEAM]) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "visibility": "shown",
+            "position": "2105000",
+            "event_aligned_gameTime": "1 - 35:05",
+            "contrastive_aligned_gameTime": "1 - 35:35"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:15",
+            "label": "",
+            "description": "Adam Johnson (Sunderland) fails to deliver a decent cross from a long-range free kick. The opposition's defence intercepts the effort.",
+            "identified": "[PLAYER_06c4x0oF] ([TEAM_]) fails to deliver a decent cross from a long-range free kick. The opposition's defence intercepts the effort.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to deliver a decent cross from a long-range free kick. The opposition's defence intercepts the effort.",
+            "visibility": "shown",
+            "position": "2055000",
+            "event_aligned_gameTime": "1 - 34:00",
+            "contrastive_aligned_gameTime": "1 - 34:16"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:44",
+            "label": "",
+            "description": "Mike Jones interrupts the game. It was a tactical foul from Chris Smalling (Manchester United). A free kick to Sunderland.",
+            "identified": "[REFEREE] interrupts the game. It was a tactical foul from [PLAYER_QHtOVJzh] ([TEAM_]). A free kick to [TEAM_].",
+            "anonymized": "[REFEREE] interrupts the game. It was a tactical foul from [PLAYER] ([TEAM]). A free kick to [TEAM].",
+            "visibility": "shown",
+            "position": "2024000",
+            "event_aligned_gameTime": "1 - 33:00",
+            "contrastive_aligned_gameTime": "1 - 33:06"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:59",
+            "label": "",
+            "description": "Fabio Borini (Sunderland) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "identified": "[PLAYER_vgf4LRaj] ([TEAM_]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "anonymized": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "visibility": "shown",
+            "position": "1979000",
+            "event_aligned_gameTime": "1 - 32:59",
+            "contrastive_aligned_gameTime": "1 - 32:29"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:09",
+            "label": "injury",
+            "description": "Fabio Borini (Sunderland) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "identified": "[PLAYER_vgf4LRaj] ([TEAM_]) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "anonymized": "[PLAYER] ([TEAM]) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "visibility": "shown",
+            "position": "1929000",
+            "event_aligned_gameTime": "1 - 32:00",
+            "contrastive_aligned_gameTime": "1 - 32:25"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:43",
+            "label": "",
+            "description": "Wayne Rooney (Manchester United) tries to create a chance, but puts too much weight on his pass.",
+            "identified": "[PLAYER_WfXv1DCa] ([TEAM_]) tries to create a chance, but puts too much weight on his pass.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to create a chance, but puts too much weight on his pass.",
+            "visibility": "shown",
+            "position": "1843000",
+            "event_aligned_gameTime": "1 - 30:40",
+            "contrastive_aligned_gameTime": "1 - 30:46"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:53",
+            "label": "",
+            "description": "Daley Blind (Manchester United) takes a short free kick.",
+            "identified": "[PLAYER_U5mPqlh6] ([TEAM_]) takes a short free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a short free kick.",
+            "visibility": "shown",
+            "position": "1733000",
+            "event_aligned_gameTime": "1 - 28:50",
+            "contrastive_aligned_gameTime": "1 - 29:21"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:15",
+            "label": "",
+            "description": "Fabio Borini (Sunderland) pulls the jersey of one of the opposition players and Mike Jones blows his whistle for a foul. A free kick to Manchester Utd.",
+            "identified": "[PLAYER_vgf4LRaj] ([TEAM_]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. A free kick to [TEAM_ppjDR086].",
+            "anonymized": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. A free kick to [TEAM].",
+            "visibility": "shown",
+            "position": "1695000",
+            "event_aligned_gameTime": "1 - 28:15",
+            "contrastive_aligned_gameTime": "1 - 27:56"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:45",
+            "label": "",
+            "description": "Juan Manuel Mata (Manchester United) is unable to feed an accurate cross into the box.",
+            "identified": "[PLAYER_nHlv2UfS] ([TEAM_]) is unable to feed an accurate cross into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) is unable to feed an accurate cross into the box.",
+            "visibility": "shown",
+            "position": "1665000",
+            "event_aligned_gameTime": "1 - 27:45",
+            "contrastive_aligned_gameTime": "1 - 27:05"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:25",
+            "label": "",
+            "description": "Antonio Valencia (Manchester United) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+            "identified": "[PLAYER_Ecu9nqDs] ([TEAM_]) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+            "visibility": "shown",
+            "position": "1645000",
+            "event_aligned_gameTime": "1 - 27:30",
+            "contrastive_aligned_gameTime": "1 - 27:44"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:44",
+            "label": "",
+            "description": "Wayne Rooney (Manchester United) takes the free kick and immediately restarts play with a short pass.",
+            "identified": "[PLAYER_WfXv1DCa] ([TEAM_]) takes the free kick and immediately restarts play with a short pass.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the free kick and immediately restarts play with a short pass.",
+            "visibility": "shown",
+            "position": "1604000",
+            "event_aligned_gameTime": "1 - 26:44",
+            "contrastive_aligned_gameTime": "1 - 27:26"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:26",
+            "label": "",
+            "description": "Fabio Borini (Sunderland) is penalised for holding. Mike Jones signals a set piece.",
+            "identified": "[PLAYER_vgf4LRaj] ([TEAM_]) is penalised for holding. [REFEREE] signals a set piece.",
+            "anonymized": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece.",
+            "visibility": "shown",
+            "position": "1586000",
+            "event_aligned_gameTime": "1 - 26:00",
+            "contrastive_aligned_gameTime": "1 - 25:58"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 25:45",
+            "label": "corner",
+            "description": "Memphis Depay (Manchester United) looks like he will be the one to take the corner kick.",
+            "identified": "[PLAYER_zo1h8MrD] ([TEAM_]) looks like he will be the one to take the corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to take the corner kick.",
+            "visibility": "shown",
+            "position": "1545000",
+            "event_aligned_gameTime": "1 - 25:45",
+            "contrastive_aligned_gameTime": "1 - 25:26"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 24:29",
+            "label": "",
+            "description": "Anthony Martial (Manchester United) finds himself some space just outside the box, collects a rebound and sends an effort in on goal. Costel Pantilimon pulls off a fantastic reflex save to stop the ball going in off the crossbar. Manchester Utd force their opponents to concede a corner.",
+            "identified": "[PLAYER_GrS6Vr75] ([TEAM_]) finds himself some space just outside the box, collects a rebound and sends an effort in on goal. [PLAYER_xAk7pvWT] pulls off a fantastic reflex save to stop the ball going in off the crossbar. [TEAM_ppjDR086] force their opponents to concede a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) finds himself some space just outside the box, collects a rebound and sends an effort in on goal. [PLAYER] pulls off a fantastic reflex save to stop the ball going in off the crossbar. [TEAM] force their opponents to concede a corner.",
+            "visibility": "shown",
+            "position": "1469000",
+            "event_aligned_gameTime": "1 - 24:20",
+            "contrastive_aligned_gameTime": "1 - 24:46"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:53",
+            "label": "",
+            "description": "Adam Johnson (Sunderland) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom right corner is blocked by David de Gea, who pulls off a superb save to keep the ball out of the net.",
+            "identified": "[PLAYER_06c4x0oF] ([TEAM_]) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom right corner is blocked by [PLAYER_d6AEQ6OD], who pulls off a superb save to keep the ball out of the net.",
+            "anonymized": "[PLAYER] ([TEAM]) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom right corner is blocked by [PLAYER], who pulls off a superb save to keep the ball out of the net.",
+            "visibility": "shown",
+            "position": "1373000",
+            "event_aligned_gameTime": "1 - 22:50",
+            "contrastive_aligned_gameTime": "1 - 22:11"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 21:55",
+            "label": "",
+            "description": "Matteo Darmian (Manchester United) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box into the stands. The ball goes out of play and Sunderland will have a goal kick.",
+            "identified": "[PLAYER_WbNknKk3] ([TEAM_]) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box into the stands. The ball goes out of play and [TEAM_] will have a goal kick.",
+            "anonymized": "[PLAYER] ([TEAM]) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box into the stands. The ball goes out of play and [TEAM] will have a goal kick.",
+            "visibility": "shown",
+            "position": "1315000",
+            "event_aligned_gameTime": "1 - 21:55",
+            "contrastive_aligned_gameTime": "1 - 22:11"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 19:41",
+            "label": "",
+            "description": "Lee Cattermole (Sunderland) seems to be alright and is okay to carry on.",
+            "identified": "[PLAYER_Is8awtW8] ([TEAM_]) seems to be alright and is okay to carry on.",
+            "anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on.",
+            "visibility": "shown",
+            "position": "1181000",
+            "event_aligned_gameTime": "1 - 18:40",
+            "contrastive_aligned_gameTime": "1 - 18:01"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:50",
+            "label": "injury",
+            "description": "Lee Cattermole (Sunderland) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes.",
+            "identified": "[PLAYER_Is8awtW8] ([TEAM_]) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes.",
+            "anonymized": "[PLAYER] ([TEAM]) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes.",
+            "visibility": "shown",
+            "position": "1130000",
+            "event_aligned_gameTime": "1 - 18:40",
+            "contrastive_aligned_gameTime": "1 - 18:27"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:04",
+            "label": "",
+            "description": "Mike Jones blows the whistle, Antonio Valencia (Manchester United) is penalised for a foul. A free kick is awarded to Sunderland.",
+            "identified": "[REFEREE] blows the whistle, [PLAYER_Ecu9nqDs] ([TEAM_]) is penalised for a foul. A free kick is awarded to [TEAM_].",
+            "anonymized": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul. A free kick is awarded to [TEAM].",
+            "visibility": "shown",
+            "position": "1084000",
+            "event_aligned_gameTime": "1 - 18:00",
+            "contrastive_aligned_gameTime": "1 - 17:21"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 16:22",
+            "label": "",
+            "description": "Juan Manuel Mata (Manchester United) smashes the ball towards goal from the edge of the penalty box, but it fails to bother the goalkeeper as it hits the defensive wall.",
+            "identified": "[PLAYER_nHlv2UfS] ([TEAM_]) smashes the ball towards goal from the edge of the penalty box, but it fails to bother the goalkeeper as it hits the defensive wall.",
+            "anonymized": "[PLAYER] ([TEAM]) smashes the ball towards goal from the edge of the penalty box, but it fails to bother the goalkeeper as it hits the defensive wall.",
+            "visibility": "shown",
+            "position": "982000",
+            "event_aligned_gameTime": "1 - 16:20",
+            "contrastive_aligned_gameTime": "1 - 16:20"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:57",
+            "label": "",
+            "description": "Dangerous play by Costel Pantilimon (Sunderland). Mike Jones blows his whistle for a foul. Another situation results in a direct free kick for Manchester Utd.",
+            "identified": "Dangerous play by [PLAYER_xAk7pvWT] ([TEAM_]). [REFEREE] blows his whistle for a foul. Another situation results in a direct free kick for [TEAM_ppjDR086].",
+            "anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul. Another situation results in a direct free kick for [TEAM].",
+            "visibility": "shown",
+            "position": "897000",
+            "event_aligned_gameTime": "1 - 15:00",
+            "contrastive_aligned_gameTime": "1 - 15:25"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:35",
+            "label": "corner",
+            "description": "Memphis Depay (Manchester United) steps up to send the ball in.",
+            "identified": "[PLAYER_zo1h8MrD] ([TEAM_]) steps up to send the ball in.",
+            "anonymized": "[PLAYER] ([TEAM]) steps up to send the ball in.",
+            "visibility": "shown",
+            "position": "875000",
+            "event_aligned_gameTime": "1 - 14:10",
+            "contrastive_aligned_gameTime": "1 - 13:36"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:20",
+            "label": "",
+            "description": "Juan Manuel Mata (Manchester United) weaves his way through opponents and strikes the ball from the edge of the area, but it's blocked by a defender. Manchester Utd will take a corner kick.",
+            "identified": "[PLAYER_nHlv2UfS] ([TEAM_]) weaves his way through opponents and strikes the ball from the edge of the area, but it's blocked by a defender. [TEAM_ppjDR086] will take a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) weaves his way through opponents and strikes the ball from the edge of the area, but it's blocked by a defender. [TEAM] will take a corner kick.",
+            "visibility": "shown",
+            "position": "800000",
+            "event_aligned_gameTime": "1 - 13:20",
+            "contrastive_aligned_gameTime": "1 - 13:39"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 12:00",
+            "label": "",
+            "description": "Matteo Darmian (Manchester United) decides to speed play up by quickly sending the free kick into the box.",
+            "identified": "[PLAYER_WbNknKk3] ([TEAM_]) decides to speed play up by quickly sending the free kick into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) decides to speed play up by quickly sending the free kick into the box.",
+            "visibility": "shown",
+            "position": "720000",
+            "event_aligned_gameTime": "1 - 12:00",
+            "contrastive_aligned_gameTime": "1 - 12:39"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:39",
+            "label": "",
+            "description": "John O'Shea (Sunderland) should know this behaviour is beyond the rules. He was too careless with his challenge and left Mike Jones no option but to blow his whistle. Manchester Utd are awarded the free kick.",
+            "identified": "[PLAYER_dtoEGjd5] ([TEAM_]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle. [TEAM_ppjDR086] are awarded the free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle. [TEAM] are awarded the free kick.",
+            "visibility": "shown",
+            "position": "699000",
+            "event_aligned_gameTime": "1 - 11:40",
+            "contrastive_aligned_gameTime": "1 - 11:42"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:49",
+            "label": "",
+            "description": "John O'Shea (Sunderland) attempts to score as he rises near the penalty spot and heads the ball to the middle of the goal. David de Gea pulls off a comfortable save to stop the ball from hitting the net.",
+            "identified": "[PLAYER_dtoEGjd5] ([TEAM_]) attempts to score as he rises near the penalty spot and heads the ball to the middle of the goal. [PLAYER_d6AEQ6OD] pulls off a comfortable save to stop the ball from hitting the net.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to score as he rises near the penalty spot and heads the ball to the middle of the goal. [PLAYER] pulls off a comfortable save to stop the ball from hitting the net.",
+            "visibility": "shown",
+            "position": "649000",
+            "event_aligned_gameTime": "1 - 10:40",
+            "contrastive_aligned_gameTime": "1 - 10:32"
+        }
+    ]
+}

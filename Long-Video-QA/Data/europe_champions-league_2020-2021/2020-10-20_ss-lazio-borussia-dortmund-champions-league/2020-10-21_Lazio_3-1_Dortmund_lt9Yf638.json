@@ -1,0 +1,925 @@
+{
+  "match_info": {
+    "timestamp": "2020-10-21 03:00:00",
+    "score": "3 - 1",
+    "home_team": "Lazio",
+    "away_team": "Dortmund",
+    "home_formation": "3 - 5 - 2",
+    "away_formation": "3 - 2 - 4 - 1",
+    "venue": "Stadio Olimpico (Rome)",
+    "capacity": "70 634",
+    "attendance": "1 000"
+  },
+  "referee_data": {
+    "short_name_country": "Turpin C. (Fra)",
+    "first_name": "Turpin",
+    "abbr_last_name": "C",
+    "country": "Fra",
+    "detected_name": "Clement Turpin"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Favre L.",
+        "players_number": "",
+        "Full Name": "Lucien Favre",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "coach",
+        "Age and Birthdate": "66,  (02.11.1957)",
+        "Market Value": "",
+        "unicode": "44YXyyn9"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Akanji M.",
+        "players_number": "",
+        "Full Name": "Manuel Akanji",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (19.07.1995)",
+        "Market Value": "€41.1m",
+        "unicode": "UJm2XpLH"
+      },
+      {
+        "players_name": "Can E.",
+        "players_number": "",
+        "Full Name": "Emre Can",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (12.01.1994)",
+        "Market Value": "€11.7m",
+        "unicode": "YJu3hSpk"
+      },
+      {
+        "players_name": "Hazard T.",
+        "players_number": "",
+        "Full Name": "Thorgan Hazard",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (29.03.1993)",
+        "Market Value": "€5.8m",
+        "unicode": "KOq0yhLo"
+      },
+      {
+        "players_name": "Schmelzer M.",
+        "players_number": "",
+        "Full Name": "Marcel Schmelzer",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (22.01.1988)",
+        "Market Value": "",
+        "unicode": "n3VwNCjb"
+      },
+      {
+        "players_name": "Schulz N.",
+        "players_number": "",
+        "Full Name": "Nico Schulz",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (01.04.1993)",
+        "Market Value": "",
+        "unicode": "hnyH2XyF"
+      },
+      {
+        "players_name": "Zagadou D.",
+        "players_number": "",
+        "Full Name": "Dan-Axel Zagadou",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (03.06.1999)",
+        "Market Value": "€10.1m",
+        "unicode": "j1IjJkHI"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Bellingham J.",
+        "players_number": "22",
+        "Full Name": "Jude Bellingham",
+        "players_rating": 6.5,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (29.06.2003)",
+        "Market Value": "€199.1m",
+        "unicode": "QNvlPm7s"
+      },
+      {
+        "players_name": "Delaney T.",
+        "players_number": "6",
+        "Full Name": "Thomas Delaney",
+        "players_rating": 6.4,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (03.09.1991)",
+        "Market Value": "€2.3m",
+        "unicode": "QL4wO6Wg"
+      },
+      {
+        "players_name": "Guerreiro R.",
+        "players_number": "13",
+        "Full Name": "Raphael Guerreiro",
+        "players_rating": 6.4,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (22.12.1993)",
+        "Market Value": "€15.1m",
+        "unicode": "ImhgOoOl"
+      },
+      {
+        "players_name": "Haaland E.",
+        "players_number": "9",
+        "Full Name": "Erling Haaland",
+        "players_rating": 8.1,
+        "Country": "Norway",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (21.07.2000)",
+        "Market Value": "€181.3m",
+        "unicode": "UmV9iQmE"
+      },
+      {
+        "players_name": "Hitz M. (G)",
+        "players_number": "35",
+        "Full Name": "Marwin Hitz",
+        "players_rating": 6.1,
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "36, (18.09.1987)",
+        "Market Value": "€193k",
+        "unicode": "jDZdVBrL"
+      },
+      {
+        "players_name": "Hummels M.",
+        "players_number": "15",
+        "Full Name": "Mats Hummels",
+        "players_rating": 7.2,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (16.12.1988)",
+        "Market Value": "€6.1m",
+        "unicode": "2c4AueOM"
+      },
+      {
+        "players_name": "Meunier T.",
+        "players_number": "24",
+        "Full Name": "Thomas Meunier",
+        "players_rating": 6.2,
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (12.09.1991)",
+        "Market Value": "€2.4m",
+        "unicode": "WUyrShAL"
+      },
+      {
+        "players_name": "Piszczek L.",
+        "players_number": "26",
+        "Full Name": "Lukasz Piszczek",
+        "players_rating": 6.3,
+        "Country": "Poland",
+        "Role": "Defender",
+        "Age and Birthdate": "38, (03.06.1985)",
+        "Market Value": "",
+        "unicode": "AZgM33p0"
+      },
+      {
+        "players_name": "Reus M. (C)",
+        "players_number": "11",
+        "Full Name": "Marco Reus",
+        "players_rating": 6.2,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (31.05.1989)",
+        "Market Value": "€6.9m",
+        "unicode": "fonESekN"
+      },
+      {
+        "players_name": "Sancho J.",
+        "players_number": "7",
+        "Full Name": "Jadon Sancho",
+        "players_rating": 7.0,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (25.03.2000)",
+        "Market Value": "€24.5m",
+        "unicode": "n5mG9yn6"
+      },
+      {
+        "players_name": "Witsel A.",
+        "players_number": "28",
+        "Full Name": "Axel Witsel",
+        "players_rating": 6.7,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (12.01.1989)",
+        "Market Value": "€4.8m",
+        "unicode": "2JsUqijl"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Brandt J.",
+        "players_number": "19",
+        "Full Name": "Julian Brandt",
+        "players_rating": 6.8,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (02.05.1996)",
+        "Market Value": "€40.3m",
+        "unicode": "hW5Goyrc"
+      },
+      {
+        "players_name": "Reinier",
+        "players_number": "20",
+        "Full Name": "Reinier",
+        "players_rating": 6.1,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (19.01.2002)",
+        "Market Value": "€3.8m",
+        "unicode": "WI4CI2SI"
+      },
+      {
+        "players_name": "Reyna G.",
+        "players_number": "32",
+        "Full Name": "Giovanni Reyna",
+        "players_rating": 6.6,
+        "Country": "USA",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (13.11.2002)",
+        "Market Value": "€19.9m",
+        "unicode": "zF5Q2DOk"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Burki R. (G)",
+        "players_number": "1",
+        "Full Name": "Roman Burki",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (14.11.1990)",
+        "Market Value": "€2.5m",
+        "unicode": "x6gzWUIk"
+      },
+      {
+        "players_name": "Dahoud M.",
+        "players_number": "8",
+        "Full Name": "Mahmoud Dahoud",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (01.01.1996)",
+        "Market Value": "€13.1m",
+        "unicode": "YkH1Bfia"
+      },
+      {
+        "players_name": "Knauff A.",
+        "players_number": "36",
+        "Full Name": "Ansgar Knauff",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (10.01.2002)",
+        "Market Value": "€7.5m",
+        "unicode": "2ebHJb1N"
+      },
+      {
+        "players_name": "Morey M.",
+        "players_number": "2",
+        "Full Name": "Mateu Morey",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (02.03.2000)",
+        "Market Value": "30.06.2024",
+        "unicode": "jRBXx0H4"
+      },
+      {
+        "players_name": "Passlack F.",
+        "players_number": "30",
+        "Full Name": "Felix Passlack",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (29.05.1998)",
+        "Market Value": "€1.4m",
+        "unicode": "rHIRgwGG"
+      },
+      {
+        "players_name": "Raschl T.",
+        "players_number": "37",
+        "Full Name": "Tobias Raschl",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (21.02.2000)",
+        "Market Value": "€1.4m",
+        "unicode": "0dT23r7q"
+      },
+      {
+        "players_name": "Unbehaun L. (G)",
+        "players_number": "25",
+        "Full Name": "",
+        "players_rating": "",
+        "Country": "",
+        "Role": "",
+        "Age and Birthdate": "",
+        "Market Value": "",
+        "unicode": "K8WwnJus"
+      },
+      {
+        "players_name": "Wanner D.",
+        "players_number": "39",
+        "Full Name": "Dominik Wanner",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (04.05.1999)",
+        "Market Value": "30.06.2024",
+        "unicode": "KbFYKAxH"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Inzaghi S.",
+        "players_number": "",
+        "Full Name": "Simone Inzaghi",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "47,  (05.04.1976)",
+        "Market Value": "",
+        "unicode": "j32a3mqs"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Bastos",
+        "players_number": "",
+        "Full Name": "Bastos",
+        "players_rating": "",
+        "Country": "Angola",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (27.03.1991)",
+        "Market Value": "€922k",
+        "unicode": "Wj4tWad7"
+      },
+      {
+        "players_name": "Lazzari M.",
+        "players_number": "",
+        "Full Name": "Manuel Lazzari",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (29.11.1993)",
+        "Market Value": "€6.0m",
+        "unicode": "WlqJxlIT"
+      },
+      {
+        "players_name": "Lulic S.",
+        "players_number": "",
+        "Full Name": "Senad Lulic",
+        "players_rating": "",
+        "Country": "Bosnia and Herzegovina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "38, (18.01.1986)",
+        "Market Value": "",
+        "unicode": "GvgFvFtc"
+      },
+      {
+        "players_name": "Pereira A.",
+        "players_number": "",
+        "Full Name": "Andreas Pereira",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (01.01.1996)",
+        "Market Value": "€19.3m",
+        "unicode": "tShG7cpg"
+      },
+      {
+        "players_name": "Proto S.",
+        "players_number": "",
+        "Full Name": "Silvio Proto",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "40, (23.05.1983)",
+        "Market Value": "",
+        "unicode": "zmdTpwvD"
+      },
+      {
+        "players_name": "Radu S.",
+        "players_number": "",
+        "Full Name": "Stefan Radu",
+        "players_rating": "",
+        "Country": "Romania",
+        "Role": "Defender",
+        "Age and Birthdate": "37, (22.10.1986)",
+        "Market Value": "",
+        "unicode": "K83sRIsA"
+      },
+      {
+        "players_name": "Vavro D.",
+        "players_number": "",
+        "Full Name": "",
+        "players_rating": "",
+        "Country": "",
+        "Role": "",
+        "Age and Birthdate": "",
+        "Market Value": "",
+        "unicode": "0QxPEivg"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Acerbi F.",
+        "players_number": "33",
+        "Full Name": "Francesco Acerbi",
+        "players_rating": 7.3,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (10.02.1988)",
+        "Market Value": "€4.0m",
+        "unicode": "SrhnSpzL"
+      },
+      {
+        "players_name": "Correa J.",
+        "players_number": "11",
+        "Full Name": "Joaquin Correa",
+        "players_rating": 7.2,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (13.08.1994)",
+        "Market Value": "€9.1m",
+        "unicode": "IkcGiQBb"
+      },
+      {
+        "players_name": "Fares M.",
+        "players_number": "96",
+        "Full Name": "Mohamed Fares",
+        "players_rating": 6.8,
+        "Country": "Algeria",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (15.02.1996)",
+        "Market Value": " (Until: 30.06.2024)",
+        "unicode": "t8U3WXeP"
+      },
+      {
+        "players_name": "Immobile C. (C)",
+        "players_number": "17",
+        "Full Name": "Ciro Immobile",
+        "players_rating": 7.9,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (20.02.1990)",
+        "Market Value": "€9.5m",
+        "unicode": "4S9fNUYh"
+      },
+      {
+        "players_name": "Lucas Leiva",
+        "players_number": "6",
+        "Full Name": "Lucas Leiva",
+        "players_rating": 7.4,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "37, (09.01.1987)",
+        "Market Value": "",
+        "unicode": "t41Fn0KA"
+      },
+      {
+        "players_name": "Luis Alberto",
+        "players_number": "10",
+        "Full Name": "Luis Alberto",
+        "players_rating": 7.2,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (28.09.1992)",
+        "Market Value": "€16.8m",
+        "unicode": "xbmYgaCa"
+      },
+      {
+        "players_name": "Luiz Felipe",
+        "players_number": "3",
+        "Full Name": "Luiz Felipe",
+        "players_rating": 7.1,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (22.03.1997)",
+        "Market Value": "€14.7m",
+        "unicode": "G2OoCE97"
+      },
+      {
+        "players_name": "Marusic A.",
+        "players_number": "77",
+        "Full Name": "Adam Marusic",
+        "players_rating": 7.0,
+        "Country": "Montenegro",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (17.10.1992)",
+        "Market Value": "€4.7m",
+        "unicode": "tC46HZrA"
+      },
+      {
+        "players_name": "Milinkovic-Savic S.",
+        "players_number": "21",
+        "Full Name": "Sergej Milinkovic-Savic",
+        "players_rating": 7.1,
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (27.02.1995)",
+        "Market Value": "€35.3m",
+        "unicode": "pAWQ3AE3"
+      },
+      {
+        "players_name": "Patric",
+        "players_number": "4",
+        "Full Name": "Patric",
+        "players_rating": 6.6,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (17.04.1993)",
+        "Market Value": "€3.9m",
+        "unicode": "YXwSY2Ef"
+      },
+      {
+        "players_name": "Strakosha T. (G)",
+        "players_number": "1",
+        "Full Name": "Thomas Strakosha",
+        "players_rating": 7.3,
+        "Country": "Albania",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (19.03.1995)",
+        "Market Value": "€3.0m",
+        "unicode": "I30e9nTO"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Akpa Akpro J.",
+        "players_number": "92",
+        "Full Name": "Jean-Daniel Akpa Akpro",
+        "players_rating": 6.9,
+        "Country": "Ivory Coast",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (11.10.1992)",
+        "Market Value": "€908k",
+        "unicode": "xnUevERr"
+      },
+      {
+        "players_name": "Caicedo F.",
+        "players_number": "20",
+        "Full Name": "Felipe Caicedo",
+        "players_rating": "",
+        "Country": "Ecuador",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (05.09.1988)",
+        "Market Value": "",
+        "unicode": "Eoeam8Xf"
+      },
+      {
+        "players_name": "Hoedt W.",
+        "players_number": "14",
+        "Full Name": "Wesley Hoedt",
+        "players_rating": 6.4,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (06.03.1994)",
+        "Market Value": "€2.2m",
+        "unicode": "fDVFxwbJ"
+      },
+      {
+        "players_name": "Muriqi V.",
+        "players_number": "94",
+        "Full Name": "Vedat Muriqi",
+        "players_rating": 6.1,
+        "Country": "Kosovo",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (24.04.1994)",
+        "Market Value": "€15.2m",
+        "unicode": "CjwNDgqi"
+      },
+      {
+        "players_name": "Parolo M.",
+        "players_number": "16",
+        "Full Name": "Marco Parolo",
+        "players_rating": 6.2,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "38, (25.01.1985)",
+        "Market Value": "",
+        "unicode": "0lUCI6bq"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Alia M. (G)",
+        "players_number": "71",
+        "Full Name": "Marco Alia",
+        "players_rating": "",
+        "Country": "Albania",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "23, (26.04.2000)",
+        "Market Value": "",
+        "unicode": "hrzUhb0s"
+      },
+      {
+        "players_name": "Anderson D.",
+        "players_number": "8",
+        "Full Name": "Djavan Anderson",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (21.04.1995)",
+        "Market Value": "",
+        "unicode": "KSl90R27"
+      },
+      {
+        "players_name": "Armini N.",
+        "players_number": "13",
+        "Full Name": "Nicolo Armini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (07.03.2001)",
+        "Market Value": "30.06.2025",
+        "unicode": "hh5HwDzp"
+      },
+      {
+        "players_name": "Czyz S.",
+        "players_number": "53",
+        "Full Name": "Szymon Czyz",
+        "players_rating": "",
+        "Country": "Poland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (08.07.2001)",
+        "Market Value": "€386k",
+        "unicode": "hGmfabba"
+      },
+      {
+        "players_name": "Escalante G.",
+        "players_number": "18",
+        "Full Name": "Gonzalo Escalante",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (27.03.1993)",
+        "Market Value": "€1.9m",
+        "unicode": "ferBlfmN"
+      },
+      {
+        "players_name": "Reina P. (G)",
+        "players_number": "25",
+        "Full Name": "Pepe Reina",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "41, (31.08.1982)",
+        "Market Value": "€665k",
+        "unicode": "KrEhnvkN"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "05:16",
+      "comments_type": "goal",
+      "comments_text": "GOAL! Superb work from Joaquin Correa, who plays a vital role in the build-up. He squares it to Ciro Immobile (Lazio), who beats Marwin Hitz with a brilliant shot into the right side of the net. 1:0.",
+      "comments_text_anonymized": "GOAL! Superb work from [PLAYER], who plays a vital role in the build-up. He squares it to [PLAYER] ([TEAM]), who beats [PLAYER] with a brilliant shot into the right side of the net. 1:0.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "10:31",
+      "comments_type": "corner",
+      "comments_text": "Jadon Sancho (Dortmund) will deliver the corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the corner kick.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "11:00",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Jadon Sancho (Dortmund) is cleared by the opposition's defence.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "22:45",
+      "comments_type": "corner",
+      "comments_text": "Luis Alberto (Lazio) is heading toward the corner flag to take the set piece.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "22:33",
+      "comments_type": "goal",
+      "comments_text": "OWN GOAL! Marwin Hitz (Dortmund) scores an unlucky own goal after he deflected a shot which went into his own net! 2:0.",
+      "comments_text_anonymized": "OWN GOAL! [PLAYER] ([TEAM]) scores an unlucky own goal after he deflected a shot which went into his own net! 2:0.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "24:22",
+      "comments_type": "goal",
+      "comments_text": "Referee Clement Turpin signals that the goal stands after the VAR review and the Lazio players have a reason to celebrate!",
+      "comments_text_anonymized": "Referee [REFEREE] signals that the goal stands after the VAR review and the [TEAM] players have a reason to celebrate!",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:36",
+      "comments_type": "corner",
+      "comments_text": "Lazio failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:26",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Luis Alberto (Lazio) is cleared by the defence.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the defence.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "36:20",
+      "comments_type": "corner",
+      "comments_text": "Marwin Hitz leaps to collect the ball from the corner which was sent over by Luis Alberto (Lazio). The linesman points to the corner flag, Lazio are going to take it.",
+      "comments_text_anonymized": "[PLAYER] leaps to collect the ball from the corner which was sent over by [PLAYER] ([TEAM]). The linesman points to the corner flag, [TEAM] are going to take it.",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:45",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Luis Alberto (Lazio) only finds one of the defenders, who heads it out of danger.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger.",
+      "index": 9
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:30",
+      "comments_type": "corner",
+      "comments_text": "Dortmund failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 10
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:42",
+      "comments_type": "corner",
+      "comments_text": "Jadon Sancho (Dortmund) decides to speed play up with a short corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+      "index": 11
+    },
+    {
+      "half": 1,
+      "time_stamp": "41:38",
+      "comments_type": "yellow card",
+      "comments_text": "Luis Alberto (Lazio) is shown a deserved yellow card for saying too much to the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a deserved yellow card for saying too much to the referee.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:30",
+      "comments_type": "substitution",
+      "comments_text": "The game is over for Jude Bellingham. Giovanni Reyna (Dortmund) comes on for the second half.",
+      "comments_text_anonymized": "The game is over for [PLAYER]. [PLAYER] ([TEAM]) comes on for the second half.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:50",
+      "comments_type": "corner",
+      "comments_text": "Lazio take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:49",
+      "comments_type": "corner",
+      "comments_text": "A dangerous looking corner kick from Luis Alberto (Lazio) is cleared to safety by the defence.",
+      "comments_text_anonymized": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "05:15",
+      "comments_type": "substitution",
+      "comments_text": "The manager has been forced to make a substitution and the injured Luiz Felipe limps off the pitch to be replaced by Wesley Hoedt (Lazio).",
+      "comments_text_anonymized": "The manager has been forced to make a substitution and the injured [PLAYER] limps off the pitch to be replaced by [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:20",
+      "comments_type": "yellow card",
+      "comments_text": "Giovanni Reyna (Dortmund) will have to be careful for the rest of the match as he is shown a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will have to be careful for the rest of the match as he is shown a yellow card.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:28",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals that it is time for a substitution and Julian Brandt (Dortmund) comes onto the pitch so that Lukasz Piszczek can be given a rest.",
+      "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) comes onto the pitch so that [PLAYER] can be given a rest.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:48",
+      "comments_type": "substitution",
+      "comments_text": "Simone Inzaghi has decided to introduce fresh legs, with Jean Akpa Akpro (Lazio) replacing Sergej Milinkovic-Savic.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with Jean [PLAYER] Akpro ([TEAM]) replacing [PLAYER].",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:50",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Joaquin Correa makes his way off the pitch and Vedat Muriqi (Lazio) comes on as his replacement.",
+      "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:25",
+      "comments_type": "goal",
+      "comments_text": "Goal! Erling Haaland (Dortmund) collects a pass and without hesitation fires an unstoppable shot into the roof of the net.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) collects a pass and without hesitation fires an unstoppable shot into the roof of the net.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:18",
+      "comments_type": "goal",
+      "comments_text": "It's a goal! Ciro Immobile plays a lovely pass into the box and finds Jean Akpa Akpro (Lazio). He tries his luck from close range and coolly strikes the ball into the back of the net. 3:1.",
+      "comments_text_anonymized": "It's a goal! [PLAYER] plays a lovely pass into the box and finds Jean [PLAYER] Akpro ([TEAM]). He tries his luck from close range and coolly strikes the ball into the back of the net. 3:1.",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:30",
+      "comments_type": "substitution",
+      "comments_text": "Today's match ends for Marco Reus who will be replaced by Reinier (Dortmund).",
+      "comments_text_anonymized": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM]).",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:41",
+      "comments_type": "substitution",
+      "comments_text": "Simone Inzaghi prepares a substitution. Luis Alberto is replaced by Marco Parolo (Lazio).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:19",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Ciro Immobile walks off the pitch and Felipe Caicedo (Lazio) comes on as a substitute.",
+      "comments_text_anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:28",
+      "comments_type": "corner",
+      "comments_text": "Jadon Sancho (Dortmund) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:35",
+      "comments_type": "yellow card",
+      "comments_text": "Thomas Strakosha (Lazio) violates the laws of the game and is shown a deserved yellow card by the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) violates the laws of the game and is shown a deserved yellow card by the referee.",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "47:50",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Jadon Sancho (Dortmund) is cleared.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared.",
+      "index": 28
+    }
+  ]
+}

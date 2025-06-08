@@ -1,0 +1,497 @@
+[
+  {
+    "question": "How many goals have occurred so far in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 8,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals in the first half up to now?",
+    "choices": [
+      "A. Watford",
+      "B. Chelsea",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 8,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Has Troy Deeney scored any goals yet?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 8,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the first half?",
+    "choices": [
+      "A. Watford",
+      "B. Chelsea",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who were all the players involved in first half goals?",
+    "choices": [
+      "A. Troy Deeney",
+      "B. Thibaut Courtois",
+      "C. Both players",
+      "D. Neither player"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 8,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Watford",
+      "B. Chelsea",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 8,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will Troy Deeney be involved in another goal before half-time?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 8,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far in the first half up to the 24th minute?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had a player booked in the first half up to the 24th minute?",
+    "choices": [
+      "A. Chelsea",
+      "B. Watford",
+      "C. Both",
+      "D. Neither"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who was the first player to receive a yellow card in the first half?",
+    "choices": [
+      "A. Tiemoue Bakayoko",
+      "B. Richarlison",
+      "C. Michael Dean",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      9
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the first half?",
+    "choices": [
+      "A. Chelsea",
+      "B. Watford",
+      "C. Both had equal",
+      "D. Neither"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      9
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in first half yellow cards?",
+    "choices": [
+      "A. Tiemoue Bakayoko",
+      "B. Richarlison",
+      "C. Both A and B",
+      "D. None"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      9
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in the first half after the 24th minute?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 2,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card after the 24th minute?",
+    "choices": [
+      "A. Chelsea",
+      "B. Watford",
+      "C. Both",
+      "D. Neither"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 2,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card after the 24th minute?",
+    "choices": [
+      "A. Tiemoue Bakayoko",
+      "B. Richarlison",
+      "C. Michael Dean",
+      "D. None"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 2,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to index 0?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to index 0?",
+    "choices": [
+      "A. Watford",
+      "B. Opponent",
+      "C. Both teams have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners in the first half up to index 0?",
+    "choices": [
+      "A. Gerard Deulofeu",
+      "B. Marvin Zeegelaar",
+      "C. No player has taken a corner yet",
+      "D. Both players have taken equal corners"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "D",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      3,
+      4,
+      10
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Watford",
+      "B. Opponent",
+      "C. Both teams had equal corners",
+      "D. No corners were taken"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      3,
+      4,
+      10
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Gerard Deulofeu",
+      "B. Marvin Zeegelaar",
+      "C. Both players were involved equally",
+      "D. No players were involved"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      3,
+      4,
+      10
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after index 0?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      3,
+      4,
+      10
+    ],
+    "current_event_index": 0,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after index 0?",
+    "choices": [
+      "A. Watford",
+      "B. Opponent",
+      "C. Both teams are equally likely",
+      "D. No more corners will be taken"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      3,
+      4,
+      10
+    ],
+    "current_event_index": 0,
+    "index": 8,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after index 0?",
+    "choices": [
+      "A. Gerard Deulofeu",
+      "B. Marvin Zeegelaar",
+      "C. Both players are equally likely",
+      "D. No players will be involved"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      3,
+      4
+    ],
+    "current_event_index": 0,
+    "index": 9,
+    "event_type": "corner"
+  }
+]

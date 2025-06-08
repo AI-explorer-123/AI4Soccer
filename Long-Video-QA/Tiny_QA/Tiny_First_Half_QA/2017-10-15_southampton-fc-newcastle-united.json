@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. DeAndre Yedlin",
+      "B. Another player",
+      "C. No player",
+      "D. Multiple players"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 5,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 5,
+    "index": 6,
+    "event_type": "yellow card"
+  }
+]

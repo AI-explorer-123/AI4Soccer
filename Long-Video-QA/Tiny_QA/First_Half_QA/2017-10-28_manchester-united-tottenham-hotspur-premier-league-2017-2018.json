@@ -1,0 +1,586 @@
+[
+  {
+    "question": "How many corners have occurred so far in the first half up to the 11:50 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 11:50 mark?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the only corner so far in the first half up to the 11:50 mark?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. Hugo Lloris"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 21:35 mark?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 21:35 mark?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which players have taken corners in the first half up to the 21:35 mark?",
+    "choices": [
+      "A. Marcus Rashford and Christian Eriksen",
+      "B. Marcus Rashford and Ben Davies",
+      "C. Christian Eriksen and Ben Davies",
+      "D. Only Marcus Rashford"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 33:52 mark?",
+    "choices": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 33:52 mark?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners in the first half up to the 33:52 mark?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. All have taken equal corners"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 8,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 38:04 mark?",
+    "choices": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": 3,
+    "index": 9,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 38:04 mark?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": 3,
+    "index": 10,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which players have taken corners in the first half up to the 38:04 mark?",
+    "choices": [
+      "A. Marcus Rashford, Christian Eriksen, and Ben Davies",
+      "B. Only Marcus Rashford and Ben Davies",
+      "C. Only Christian Eriksen and Ben Davies",
+      "D. Only Marcus Rashford and Christian Eriksen"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": 3,
+    "index": 11,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 40:49 mark?",
+    "choices": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 7"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 12,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 40:49 mark?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 13,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners in the first half up to the 40:49 mark?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. All have taken equal corners"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 14,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 7"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "current_event_index": null,
+    "index": 15,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams had equal corners",
+      "D. Neither team had a corner"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "current_event_index": null,
+    "index": 16,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. All were involved equally"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "current_event_index": null,
+    "index": 17,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 11:50 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "current_event_index": 0,
+    "index": 18,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 11:50 mark?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      2,
+      4
+    ],
+    "current_event_index": 0,
+    "index": 19,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after the 11:50 mark?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 0,
+    "index": 20,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 21:35 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      3,
+      4
+    ],
+    "current_event_index": 1,
+    "index": 21,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 21:35 mark?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      4
+    ],
+    "current_event_index": 1,
+    "index": 22,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after the 21:35 mark?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. None of the above"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      4
+    ],
+    "current_event_index": 1,
+    "index": 23,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 33:52 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      3,
+      4
+    ],
+    "current_event_index": 2,
+    "index": 24,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 33:52 mark?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 2,
+    "index": 25,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after the 33:52 mark?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 2,
+    "index": 26,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 38:04 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 3,
+    "index": 27,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 38:04 mark?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 3,
+    "index": 28,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after the 38:04 mark?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. None of the above"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 3,
+    "index": 29,
+    "event_type": "corner"
+  }
+]

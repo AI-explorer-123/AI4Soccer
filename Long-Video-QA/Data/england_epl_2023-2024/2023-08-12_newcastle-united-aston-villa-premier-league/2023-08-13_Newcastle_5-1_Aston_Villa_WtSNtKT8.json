@@ -1,0 +1,923 @@
+{
+  "match_info": {
+    "timestamp": "2023-08-13 00:30:00",
+    "score": "5 - 1",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "St. James' Park (Newcastle)",
+    "capacity": "52 305",
+    "attendance": "52 207"
+  },
+  "referee_data": {
+    "short_name_country": "Madley A. (Eng)",
+    "first_name": "Madley",
+    "abbr_last_name": "A",
+    "country": "Eng",
+    "detected_name": "Andy Madley"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Emery U.",
+        "players_number": "",
+        "Full Name": "Unai Emery",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "coach",
+        "Age and Birthdate": "52,  (03.11.1971)",
+        "Market Value": "",
+        "unicode": "8QQVnKh9"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Buendia E.",
+        "players_number": "",
+        "Full Name": "Emiliano Buendia",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (25.12.1996)",
+        "Market Value": "€20.9m",
+        "unicode": "dYDvGYIu"
+      },
+      {
+        "players_name": "Dendoncker L.",
+        "players_number": "",
+        "Full Name": "Leander Dendoncker",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (15.04.1995)",
+        "Market Value": "€10.5m",
+        "unicode": "xlkGi99f"
+      },
+      {
+        "players_name": "Duran J.",
+        "players_number": "",
+        "Full Name": "Jhon Duran",
+        "players_rating": "",
+        "Country": "Colombia",
+        "Role": "Forward",
+        "Age and Birthdate": "20, (13.12.2003)",
+        "Market Value": "€15.4m",
+        "unicode": "dxCFSeJd"
+      },
+      {
+        "players_name": "Hause K.",
+        "players_number": "",
+        "Full Name": "Kortney Hause",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (16.07.1995)",
+        "Market Value": "€1.8m",
+        "unicode": "6a58WqCq"
+      },
+      {
+        "players_name": "Iroegbunam T.",
+        "players_number": "",
+        "Full Name": "Tim Iroegbunam",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (30.06.2003)",
+        "Market Value": "€3.8m",
+        "unicode": "zJaAPxhF"
+      },
+      {
+        "players_name": "Moreno A.",
+        "players_number": "",
+        "Full Name": "Alex Moreno",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (08.06.1993)",
+        "Market Value": "€9.8m",
+        "unicode": "zX83eVir"
+      },
+      {
+        "players_name": "Ramsey J.",
+        "players_number": "",
+        "Full Name": "Jacob Ramsey",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (28.05.2001)",
+        "Market Value": "€41.1m",
+        "unicode": "URZH6b4K"
+      },
+      {
+        "players_name": "Traore B.",
+        "players_number": "",
+        "Full Name": "Bertrand Traore",
+        "players_rating": "",
+        "Country": "Burkina Faso",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (06.09.1995)",
+        "Market Value": "€9.6m",
+        "unicode": "MwckEcbf"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Bailey L.",
+        "players_number": "31",
+        "Full Name": "Leon Bailey",
+        "players_rating": 6.0,
+        "Country": "Jamaica",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (09.08.1997)",
+        "Market Value": "€29.4m",
+        "unicode": "Mc0XPojG"
+      },
+      {
+        "players_name": "Cash M.",
+        "players_number": "2",
+        "Full Name": "Matty Cash",
+        "players_rating": 5.2,
+        "Country": "Poland",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (07.08.1997)",
+        "Market Value": "€26.6m",
+        "unicode": "hfxPh7Kn"
+      },
+      {
+        "players_name": "Diaby M.",
+        "players_number": "19",
+        "Full Name": "Moussa Diaby",
+        "players_rating": 7.4,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (07.07.1999)",
+        "Market Value": "€57.9m",
+        "unicode": "GYjwX8oI"
+      },
+      {
+        "players_name": "Digne L.",
+        "players_number": "12",
+        "Full Name": "Lucas Digne",
+        "players_rating": 6.3,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (20.07.1993)",
+        "Market Value": "€14.7m",
+        "unicode": "v9Ux4sua"
+      },
+      {
+        "players_name": "Douglas Luiz",
+        "players_number": "6",
+        "Full Name": "Douglas Luiz",
+        "players_rating": 6.3,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (09.05.1998)",
+        "Market Value": "€57.9m",
+        "unicode": "IZxlmmuF"
+      },
+      {
+        "players_name": "Kamara B.",
+        "players_number": "44",
+        "Full Name": "Boubacar Kamara",
+        "players_rating": 6.2,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (23.11.1999)",
+        "Market Value": "€35.6m",
+        "unicode": "bcI1EvBk"
+      },
+      {
+        "players_name": "Konsa E.",
+        "players_number": "4",
+        "Full Name": "Ezri Konsa",
+        "players_rating": 5.7,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (23.10.1997)",
+        "Market Value": "€34.3m",
+        "unicode": "4CQLQWTa"
+      },
+      {
+        "players_name": "Martinez E. (G)",
+        "players_number": "1",
+        "Full Name": "Emiliano Martinez",
+        "players_rating": 6.5,
+        "Country": "Argentina",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (02.09.1992)",
+        "Market Value": "€27.0m",
+        "unicode": "ziCcc5jM"
+      },
+      {
+        "players_name": "McGinn J. (C)",
+        "players_number": "7",
+        "Full Name": "John McGinn",
+        "players_rating": 6.0,
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (18.10.1994)",
+        "Market Value": "€28.9m",
+        "unicode": "rgGnzD2e"
+      },
+      {
+        "players_name": "Mings T.",
+        "players_number": "5",
+        "Full Name": "Tyrone Mings",
+        "players_rating": 6.2,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (13.03.1993)",
+        "Market Value": "€14.8m",
+        "unicode": "x6Gedmgl"
+      },
+      {
+        "players_name": "Watkins O.",
+        "players_number": "11",
+        "Full Name": "Ollie Watkins",
+        "players_rating": 7.7,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (30.12.1995)",
+        "Market Value": "€57.9m",
+        "unicode": "rHnOkDD8"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Coutinho",
+        "players_number": "23",
+        "Full Name": "Philippe Coutinho",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (12.06.1992)",
+        "Market Value": "€8.7m",
+        "unicode": "QP6r8H7O"
+      },
+      {
+        "players_name": "Diego Carlos",
+        "players_number": "3",
+        "Full Name": "Diego Carlos",
+        "players_rating": 6.5,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (15.03.1993)",
+        "Market Value": "€15.2m",
+        "unicode": "lrFXrN1U"
+      },
+      {
+        "players_name": "Philogene J.",
+        "players_number": "33",
+        "Full Name": "Jaden Philogene",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (08.02.2002)",
+        "Market Value": "€8.2m",
+        "unicode": "YV4xT3YE"
+      },
+      {
+        "players_name": "Tielemans Y.",
+        "players_number": "8",
+        "Full Name": "Youri Tielemans",
+        "players_rating": 6.1,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (07.05.1997)",
+        "Market Value": "€19.6m",
+        "unicode": "GtkTQyib"
+      },
+      {
+        "players_name": "Torres P.",
+        "players_number": "14",
+        "Full Name": "Pau Torres",
+        "players_rating": 6.4,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (16.01.1997)",
+        "Market Value": "€43.4m",
+        "unicode": "AVUHg8JU"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Archer C.",
+        "players_number": "35",
+        "Full Name": "Cameron Archer",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (09.12.2001)",
+        "Market Value": "€17.4m",
+        "unicode": "xG9YLmop"
+      },
+      {
+        "players_name": "Chambers C.",
+        "players_number": "16",
+        "Full Name": "Calum Chambers",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (20.01.1995)",
+        "Market Value": "€4.6m",
+        "unicode": "6u93gyCG"
+      },
+      {
+        "players_name": "Kellyman O.",
+        "players_number": "71",
+        "Full Name": "Omari Kellyman",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "18, (15.09.2005)",
+        "Market Value": "€972k",
+        "unicode": "84jK2uW3"
+      },
+      {
+        "players_name": "Olsen R. (G)",
+        "players_number": "25",
+        "Full Name": "Robin Olsen",
+        "players_rating": "",
+        "Country": "Sweden",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "34, (08.01.1990)",
+        "Market Value": "€1.4m",
+        "unicode": "SpWIlYGj"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Howe E.",
+        "players_number": "",
+        "Full Name": "Eddie Howe",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "coach",
+        "Age and Birthdate": "46,  (29.11.1977)",
+        "Market Value": "",
+        "unicode": "hbOpz9hE"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Krafth E.",
+        "players_number": "",
+        "Full Name": "Emil Krafth",
+        "players_rating": "",
+        "Country": "Sweden",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (02.08.1994)",
+        "Market Value": "€2.4m",
+        "unicode": "IXXA0mtd"
+      },
+      {
+        "players_name": "Manquillo J.",
+        "players_number": "",
+        "Full Name": "Javier Manquillo",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (05.05.1994)",
+        "Market Value": "€1.9m",
+        "unicode": "8bvxeNAG"
+      },
+      {
+        "players_name": "Willock J.",
+        "players_number": "",
+        "Full Name": "Joe Willock",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (20.08.1999)",
+        "Market Value": "€33.5m",
+        "unicode": "j3oBtT40"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Almiron M.",
+        "players_number": "24",
+        "Full Name": "Miguel Almiron",
+        "players_rating": 7.4,
+        "Country": "Paraguay",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (10.02.1994)",
+        "Market Value": "€29.8m",
+        "unicode": "AwqEUHxT"
+      },
+      {
+        "players_name": "Botman S.",
+        "players_number": "4",
+        "Full Name": "Sven Botman",
+        "players_rating": 7.7,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (12.01.2000)",
+        "Market Value": "€44.0m",
+        "unicode": "nRvavHmI"
+      },
+      {
+        "players_name": "Bruno Guimaraes",
+        "players_number": "39",
+        "Full Name": "Bruno Guimaraes",
+        "players_rating": 6.9,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (16.11.1997)",
+        "Market Value": "€82.0m",
+        "unicode": "xtyKanzU"
+      },
+      {
+        "players_name": "Burn D.",
+        "players_number": "33",
+        "Full Name": "Dan Burn",
+        "players_rating": 7.2,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (09.05.1992)",
+        "Market Value": "€9.8m",
+        "unicode": "fyP3wtr0"
+      },
+      {
+        "players_name": "Gordon A.",
+        "players_number": "10",
+        "Full Name": "Anthony Gordon",
+        "players_rating": 7.8,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (24.02.2001)",
+        "Market Value": "€48.2m",
+        "unicode": "EFo95m2P"
+      },
+      {
+        "players_name": "Isak A.",
+        "players_number": "14",
+        "Full Name": "Alexander Isak",
+        "players_rating": 7.7,
+        "Country": "Sweden",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (21.09.1999)",
+        "Market Value": "€67.5m",
+        "unicode": "p41IV42c"
+      },
+      {
+        "players_name": "Joelinton",
+        "players_number": "7",
+        "Full Name": "Joelinton",
+        "players_rating": 6.6,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (14.08.1996)",
+        "Market Value": "€40.7m",
+        "unicode": "EBZ36WE4"
+      },
+      {
+        "players_name": "Pope N. (G)",
+        "players_number": "22",
+        "Full Name": "Nick Pope",
+        "players_rating": 7.5,
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (19.04.1992)",
+        "Market Value": "€19.9m",
+        "unicode": "QyhUrIXl"
+      },
+      {
+        "players_name": "Schar F.",
+        "players_number": "5",
+        "Full Name": "Fabian Schar",
+        "players_rating": 7.0,
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (20.12.1991)",
+        "Market Value": "€9.8m",
+        "unicode": "0SebIVqC"
+      },
+      {
+        "players_name": "Tonali S.",
+        "players_number": "8",
+        "Full Name": "Sandro Tonali",
+        "players_rating": 7.6,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (08.05.2000)",
+        "Market Value": "€39.3m",
+        "unicode": "fmQVO5TQ"
+      },
+      {
+        "players_name": "Trippier K. (C)",
+        "players_number": "2",
+        "Full Name": "Kieran Trippier",
+        "players_rating": 7.6,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (19.09.1990)",
+        "Market Value": "€11.1m",
+        "unicode": "GMqWRFGS"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Anderson E.",
+        "players_number": "32",
+        "Full Name": "Elliot Anderson",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (06.11.2002)",
+        "Market Value": "€12.2m",
+        "unicode": "KdYCbsbE"
+      },
+      {
+        "players_name": "Barnes H.",
+        "players_number": "15",
+        "Full Name": "Harvey Barnes",
+        "players_rating": 8.3,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (09.12.1997)",
+        "Market Value": "€33.3m",
+        "unicode": "Wjj9WTTi"
+      },
+      {
+        "players_name": "Longstaff S.",
+        "players_number": "36",
+        "Full Name": "Sean Longstaff",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (30.10.1997)",
+        "Market Value": "€24.1m",
+        "unicode": "tWOTr142"
+      },
+      {
+        "players_name": "Murphy J.",
+        "players_number": "23",
+        "Full Name": "Jacob Murphy",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (24.02.1995)",
+        "Market Value": "€14.7m",
+        "unicode": "b5WYEjtm"
+      },
+      {
+        "players_name": "Wilson C.",
+        "players_number": "9",
+        "Full Name": "Callum Wilson",
+        "players_rating": 7.0,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (27.02.1992)",
+        "Market Value": "€12.4m",
+        "unicode": "YwKMvtoh"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Dubravka M. (G)",
+        "players_number": "1",
+        "Full Name": "Martin Dubravka",
+        "players_rating": "",
+        "Country": "Slovakia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (15.01.1989)",
+        "Market Value": "€979k",
+        "unicode": "dp3dkdsI"
+      },
+      {
+        "players_name": "Lascelles J.",
+        "players_number": "6",
+        "Full Name": "Jamaal Lascelles",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (11.11.1993)",
+        "Market Value": "€6.8m",
+        "unicode": "0fPiq0ST"
+      },
+      {
+        "players_name": "Livramento V.",
+        "players_number": "21",
+        "Full Name": "Valentino Livramento",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (12.11.2002)",
+        "Market Value": "€33.3m",
+        "unicode": "fkessXOF"
+      },
+      {
+        "players_name": "Targett M.",
+        "players_number": "13",
+        "Full Name": "Matt Targett",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (18.09.1995)",
+        "Market Value": "€9.4m",
+        "unicode": "I1mjFtoP"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "05:32",
+      "comments_type": "yellow card",
+      "comments_text": "Douglas Luiz (Aston Villa) commits a foul and is shown a yellow card without any hesitation from the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card without any hesitation from the referee.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "05:32",
+      "comments_type": "goal",
+      "comments_text": "Sandro Tonali (Newcastle Utd) meets a perfect cross from Anthony Gordon deep inside the box and controls it with a nice first touch. He produces an accurate strike inside the left post. It's 1:0.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) meets a perfect cross from [PLAYER] deep inside the box and controls it with a nice first touch. He produces an accurate strike inside the left post. It's 1:0.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "07:20",
+      "comments_type": "corner",
+      "comments_text": "Newcastle take a short corner kick.",
+      "comments_text_anonymized": "[TEAM] take a short corner kick.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "11:01",
+      "comments_type": "goal",
+      "comments_text": "Moussa Diaby (Aston Villa) scores! Ollie Watkins heads the ball into his path before he drives in an effort that is too powerful for the goalkeeper to keep out. 1:1.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) scores! [PLAYER] heads the ball into his path before he drives in an effort that is too powerful for the goalkeeper to keep out. 1:1.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "15:26",
+      "comments_type": "goal",
+      "comments_text": "Alexander Isak (Newcastle Utd) reacts quickly in the penalty area and scores with aplomb, giving the goalkeeper no chance!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) reacts quickly in the penalty area and scores with aplomb, giving the goalkeeper no chance!",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "17:50",
+      "comments_type": "goal",
+      "comments_text": "Andy Madley sticks with his original decision after the VAR review. No infringement and the goal stands!",
+      "comments_text_anonymized": "[REFEREE] sticks with his original decision after the VAR review. No infringement and the goal stands!",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "30:36",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Pau Torres is coming onto the pitch as Tyrone Mings (Aston Villa) cannot continue after picking up an injury.",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] is coming onto the pitch as [PLAYER] ([TEAM]) cannot continue after picking up an injury.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "31:41",
+      "comments_type": "yellow card",
+      "comments_text": "Lucas Digne (Aston Villa) is cautioned by the referee for a foul that he committed a little earlier.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is cautioned by the referee for a foul that he committed a little earlier.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:03",
+      "comments_type": "corner",
+      "comments_text": "Aston Villa earn a corner.",
+      "comments_text_anonymized": "[TEAM] earn a corner.",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "53:23",
+      "comments_type": "yellow card",
+      "comments_text": "The foul by Emiliano Martinez (Aston Villa) is worthy of a card and a yellow is duly shown by Andy Madley.",
+      "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+      "index": 9
+    },
+    {
+      "half": 1,
+      "time_stamp": "53:40",
+      "comments_type": "yellow card",
+      "comments_text": "What was Sven Botman (Newcastle Utd) thinking? He will not get away with that. The referee shows him a yellow card.",
+      "comments_text_anonymized": "What was [PLAYER] ([TEAM]) thinking? He will not get away with that. The referee shows him a yellow card.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:39",
+      "comments_type": "substitution",
+      "comments_text": "The substitution is prepared. Youri Tielemans (Aston Villa) joins the action as a substitute, replacing Leon Bailey.",
+      "comments_text_anonymized": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER].",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "02:28",
+      "comments_type": "yellow card",
+      "comments_text": "Matty Cash (Aston Villa) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "02:57",
+      "comments_type": "corner",
+      "comments_text": "Kieran Trippier (Newcastle Utd) decides to speed play up with a short corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:01",
+      "comments_type": "corner",
+      "comments_text": "Kieran Trippier (Newcastle Utd) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. Newcastle win a corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. [TEAM] win a corner.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:30",
+      "comments_type": "corner",
+      "comments_text": "Kieran Trippier (Newcastle Utd) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. The ball is off of the pitch and it's a goal kick for Aston Villa.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. The ball is off of the pitch and it's a goal kick for [TEAM].",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:43",
+      "comments_type": "yellow card",
+      "comments_text": "Anthony Gordon (Newcastle Utd) has tested the patience of referee Andy Madley and goes into the book for a previous late challenge.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "09:21",
+      "comments_type": "corner",
+      "comments_text": "The ball is out of play. Aston Villa will have a chance to score from a corner.",
+      "comments_text_anonymized": "The ball is out of play. [TEAM] will have a chance to score from a corner.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "12:34",
+      "comments_type": "goal",
+      "comments_text": "GOAL! A terrible mistake leads to a goal. The defender ends up losing possession, allowing Alexander Isak (Newcastle Utd) to pick up the ball before slotting it into the back of the net to make it 3:1.",
+      "comments_text_anonymized": "GOAL! A terrible mistake leads to a goal. The defender ends up losing possession, allowing [PLAYER] ([TEAM]) to pick up the ball before slotting it into the back of the net to make it 3:1.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:43",
+      "comments_type": "substitution",
+      "comments_text": "Here comes a substitution. Diego Carlos (Aston Villa) is brought on as a substitute for John McGinn.",
+      "comments_text_anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:41",
+      "comments_type": "yellow card",
+      "comments_text": "Bruno Guimaraes (Newcastle Utd) goes into the referee's book. Yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes into the referee's book. Yellow card.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:37",
+      "comments_type": "substitution",
+      "comments_text": "A substitution has been made. Alexander Isak goes off and Callum Wilson (Newcastle Utd) comes on.",
+      "comments_text_anonymized": "A substitution has been made. [PLAYER] goes off and [PLAYER] ([TEAM]) comes on.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:30",
+      "comments_type": "substitution",
+      "comments_text": "Eddie Howe has decided to introduce fresh legs, with Harvey Barnes (Newcastle Utd) replacing Anthony Gordon.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "24:37",
+      "comments_type": "corner",
+      "comments_text": "The referee signals a corner kick to Newcastle.",
+      "comments_text_anonymized": "The referee signals a corner kick to [TEAM].",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:09",
+      "comments_type": "corner",
+      "comments_text": "The ball is out of play. A goal-scoring opportunity from a corner for Aston Villa.",
+      "comments_text_anonymized": "The ball is out of play. A goal-scoring opportunity from a corner for [TEAM].",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:28",
+      "comments_type": "goal",
+      "comments_text": "Goal - 4:1! Harvey Barnes laid the ball off to Callum Wilson (Newcastle Utd), who slots it into the back of the net from close range, leaving the goalkeeper helpless.",
+      "comments_text_anonymized": "Goal - 4:1! [PLAYER] laid the ball off to [PLAYER] ([TEAM]), who slots it into the back of the net from close range, leaving the goalkeeper helpless.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:30",
+      "comments_type": "goal",
+      "comments_text": "Andy Madley sticks with his original decision after the VAR review. No infringement and the goal stands!",
+      "comments_text_anonymized": "[REFEREE] sticks with his original decision after the VAR review. No infringement and the goal stands!",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:59",
+      "comments_type": "corner",
+      "comments_text": "Newcastle have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "comments_text_anonymized": "[TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:27",
+      "comments_type": "substitution",
+      "comments_text": "Eddie Howe prepares a substitution. Bruno Guimaraes is replaced by Sean Longstaff (Newcastle Utd).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:37",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Jacob Murphy (Newcastle Utd) on for Miguel Almiron.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) on for [PLAYER].",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:42",
+      "comments_type": "corner",
+      "comments_text": "Newcastle have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "index": 30
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:16",
+      "comments_type": "substitution",
+      "comments_text": "It's time for a substitution. Jaden Philogene-Bidace (Aston Villa) comes on in place of Matty Cash.",
+      "comments_text_anonymized": "It's time for a substitution. [PLAYER]-Bidace ([TEAM]) comes on in place of [PLAYER].",
+      "index": 31
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:08",
+      "comments_type": "substitution",
+      "comments_text": "That's the end of the game for Moussa Diaby, who is replaced by Philippe Coutinho (Aston Villa).",
+      "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM]).",
+      "index": 32
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:41",
+      "comments_type": "goal",
+      "comments_text": "Harvey Barnes (Newcastle Utd) has acres of space after latching on to a precise pass into the box. He doesn't hesitate to unleash a great effort which ends up in the right side of the goal.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has acres of space after latching on to a precise pass into the box. He doesn't hesitate to unleash a great effort which ends up in the right side of the goal.",
+      "index": 33
+    },
+    {
+      "half": 2,
+      "time_stamp": "46:15",
+      "comments_type": "yellow card",
+      "comments_text": "The referee demonstrates he won't tolerate this behaviour. Sandro Tonali (Newcastle Utd) is given a yellow card.",
+      "comments_text_anonymized": "The referee demonstrates he won't tolerate this behaviour. [PLAYER] ([TEAM]) is given a yellow card.",
+      "index": 34
+    },
+    {
+      "half": 2,
+      "time_stamp": "46:30",
+      "comments_type": "substitution",
+      "comments_text": "Eddie Howe has decided to make a change. Elliot Anderson (Newcastle Utd) replaces Sandro Tonali.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 35
+    },
+    {
+      "half": 2,
+      "time_stamp": "49:56",
+      "comments_type": "corner",
+      "comments_text": "Aston Villa take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 36
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "match_info": {
+    "timestamp": "2019-02-14 04:00:00",
+    "score": "3 - 0",
+    "home_team": "Tottenham",
+    "away_team": "Dortmund",
+    "home_formation": "3 - 4 - 1 - 2",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Wembley Stadium (London)",
+    "capacity": "90 000",
+    "attendance": "71 214"
+  },
+  "referee_data": {
+    "short_name_country": "Lahoz A. (Esp)",
+    "first_name": "Lahoz",
+    "abbr_last_name": "A",
+    "country": "Esp",
+    "detected_name": "Antonio Mateu Lahoz"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Favre L.",
+        "players_number": "",
+        "Full Name": "Lucien Favre",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "coach",
+        "Age and Birthdate": "66,  (02.11.1957)",
+        "Market Value": "",
+        "unicode": "44YXyyn9"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Akanji M.",
+        "players_number": "",
+        "Full Name": "Manuel Akanji",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (19.07.1995)",
+        "Market Value": "€41.1m",
+        "unicode": "UJm2XpLH"
+      },
+      {
+        "players_name": "Alcacer P.",
+        "players_number": "",
+        "Full Name": "Paco Alcacer",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (30.08.1993)",
+        "Market Value": "€6.8m",
+        "unicode": "Ey0zWJG1"
+      },
+      {
+        "players_name": "Piszczek L.",
+        "players_number": "",
+        "Full Name": "Lukasz Piszczek",
+        "players_rating": "",
+        "Country": "Poland",
+        "Role": "Defender",
+        "Age and Birthdate": "38, (03.06.1985)",
+        "Market Value": "",
+        "unicode": "AZgM33p0"
+      },
+      {
+        "players_name": "Reus M.",
+        "players_number": "",
+        "Full Name": "Marco Reus",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (31.05.1989)",
+        "Market Value": "€6.9m",
+        "unicode": "fonESekN"
+      },
+      {
+        "players_name": "Weigl J.",
+        "players_number": "",
+        "Full Name": "Julian Weigl",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (08.09.1995)",
+        "Market Value": "€9.6m",
+        "unicode": "2wwMMwAa"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Burki R. (G)",
+        "players_number": "1",
+        "Full Name": "Roman Burki",
+        "players_rating": 6.1,
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (14.11.1990)",
+        "Market Value": "€2.5m",
+        "unicode": "x6gzWUIk"
+      },
+      {
+        "players_name": "Dahoud M.",
+        "players_number": "19",
+        "Full Name": "Mahmoud Dahoud",
+        "players_rating": 6.5,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (01.01.1996)",
+        "Market Value": "€13.1m",
+        "unicode": "YkH1Bfia"
+      },
+      {
+        "players_name": "Delaney T.",
+        "players_number": "6",
+        "Full Name": "Thomas Delaney",
+        "players_rating": 6.6,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (03.09.1991)",
+        "Market Value": "€2.3m",
+        "unicode": "QL4wO6Wg"
+      },
+      {
+        "players_name": "Diallo A.",
+        "players_number": "4",
+        "Full Name": "Abdou Diallo",
+        "players_rating": 6.1,
+        "Country": "Senegal",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (04.05.1996)",
+        "Market Value": "€8.7m",
+        "unicode": "M5WugaXi"
+      },
+      {
+        "players_name": "Gotze M. (C)",
+        "players_number": "10",
+        "Full Name": "Mario Gotze",
+        "players_rating": 6.7,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (03.06.1992)",
+        "Market Value": "€6.6m",
+        "unicode": "veaF8P5m"
+      },
+      {
+        "players_name": "Hakimi A.",
+        "players_number": "5",
+        "Full Name": "Achraf Hakimi",
+        "players_rating": 6.5,
+        "Country": "Morocco",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (04.11.1998)",
+        "Market Value": "€68.2m",
+        "unicode": "MqFBkBsp"
+      },
+      {
+        "players_name": "Pulisic C.",
+        "players_number": "22",
+        "Full Name": "Christian Pulisic",
+        "players_rating": 6.7,
+        "Country": "USA",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (18.09.1998)",
+        "Market Value": "€33.1m",
+        "unicode": "vTuaEfRq"
+      },
+      {
+        "players_name": "Sancho J.",
+        "players_number": "7",
+        "Full Name": "Jadon Sancho",
+        "players_rating": 6.4,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (25.03.2000)",
+        "Market Value": "€24.5m",
+        "unicode": "n5mG9yn6"
+      },
+      {
+        "players_name": "Toprak O.",
+        "players_number": "36",
+        "Full Name": "Omer Toprak",
+        "players_rating": 6.2,
+        "Country": "Turkey",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (21.07.1989)",
+        "Market Value": "€587k",
+        "unicode": "QNNezg6A"
+      },
+      {
+        "players_name": "Witsel A.",
+        "players_number": "28",
+        "Full Name": "Axel Witsel",
+        "players_rating": 6.4,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (12.01.1989)",
+        "Market Value": "€4.8m",
+        "unicode": "2JsUqijl"
+      },
+      {
+        "players_name": "Zagadou D.",
+        "players_number": "2",
+        "Full Name": "Dan-Axel Zagadou",
+        "players_rating": 6.3,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (03.06.1999)",
+        "Market Value": "€10.1m",
+        "unicode": "j1IjJkHI"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Bruun Larsen J.",
+        "players_number": "34",
+        "Full Name": "Jacob Bruun Larsen",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (19.09.1998)",
+        "Market Value": "€2.7m",
+        "unicode": "GdwP5bwG"
+      },
+      {
+        "players_name": "Guerreiro R.",
+        "players_number": "13",
+        "Full Name": "Raphael Guerreiro",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (22.12.1993)",
+        "Market Value": "€15.1m",
+        "unicode": "ImhgOoOl"
+      },
+      {
+        "players_name": "Schmelzer M.",
+        "players_number": "29",
+        "Full Name": "Marcel Schmelzer",
+        "players_rating": 5.9,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (22.01.1988)",
+        "Market Value": "",
+        "unicode": "n3VwNCjb"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Balerdi L.",
+        "players_number": "18",
+        "Full Name": "Leonardo Balerdi",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (26.01.1999)",
+        "Market Value": "€9.9m",
+        "unicode": "OYrb8EBS"
+      },
+      {
+        "players_name": "Hitz M. (G)",
+        "players_number": "35",
+        "Full Name": "Marwin Hitz",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "36, (18.09.1987)",
+        "Market Value": "€193k",
+        "unicode": "jDZdVBrL"
+      },
+      {
+        "players_name": "Philipp M.",
+        "players_number": "20",
+        "Full Name": "Maximilian Philipp",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (01.03.1994)",
+        "Market Value": "€1.8m",
+        "unicode": "6PCSjJja"
+      },
+      {
+        "players_name": "Wolf M.",
+        "players_number": "27",
+        "Full Name": "Marius Wolf",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (27.05.1995)",
+        "Market Value": "€6.3m",
+        "unicode": "0pP8We9B"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Pochettino M.",
+        "players_number": "",
+        "Full Name": "Mauricio Pochettino",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "coach",
+        "Age and Birthdate": "51,  (02.03.1972)",
+        "Market Value": "",
+        "unicode": "zuJM7XDg"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Alli D.",
+        "players_number": "",
+        "Full Name": "Dele Alli",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (11.04.1996)",
+        "Market Value": "€4.5m",
+        "unicode": "Q5eERh3a"
+      },
+      {
+        "players_name": "Davies B.",
+        "players_number": "",
+        "Full Name": "Ben Davies",
+        "players_rating": "",
+        "Country": "Wales",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (24.04.1993)",
+        "Market Value": "30.06.2025",
+        "unicode": "65AlIpKT"
+      },
+      {
+        "players_name": "Dier E.",
+        "players_number": "",
+        "Full Name": "Eric Dier",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (15.01.1994)",
+        "Market Value": "€11.2m",
+        "unicode": "MXQtjBQt"
+      },
+      {
+        "players_name": "Janssen V.",
+        "players_number": "",
+        "Full Name": "Vincent Janssen",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (15.06.1994)",
+        "Market Value": "€8.7m",
+        "unicode": "xYI28lF9"
+      },
+      {
+        "players_name": "Kane H.",
+        "players_number": "",
+        "Full Name": "Harry Kane",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (28.07.1993)",
+        "Market Value": "€113.9m",
+        "unicode": "v5HSlEAa"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Alderweireld T.",
+        "players_number": "4",
+        "Full Name": "Toby Alderweireld",
+        "players_rating": 7.6,
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (02.03.1989)",
+        "Market Value": "€3.0m",
+        "unicode": "pEeLTSYT"
+      },
+      {
+        "players_name": "Aurier S.",
+        "players_number": "24",
+        "Full Name": "Serge Aurier",
+        "players_rating": 7.7,
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (24.12.1992)",
+        "Market Value": "€6.9m",
+        "unicode": "6iUXQVdq"
+      },
+      {
+        "players_name": "Eriksen C.",
+        "players_number": "23",
+        "Full Name": "Christian Eriksen",
+        "players_rating": 8.4,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (14.02.1992)",
+        "Market Value": "€13.1m",
+        "unicode": "nBRuYbqs"
+      },
+      {
+        "players_name": "Foyth J.",
+        "players_number": "21",
+        "Full Name": "Juan Foyth",
+        "players_rating": 7.3,
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (12.01.1998)",
+        "Market Value": "€24.1m",
+        "unicode": "vcqiFPHQ"
+      },
+      {
+        "players_name": "Lloris H. (G) (C)",
+        "players_number": "1",
+        "Full Name": "Hugo Lloris",
+        "players_rating": 8.2,
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (26.12.1986)",
+        "Market Value": "€1.5m",
+        "unicode": "dlT4erCr"
+      },
+      {
+        "players_name": "Lucas Moura",
+        "players_number": "27",
+        "Full Name": "Lucas Moura",
+        "players_rating": 6.8,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (13.08.1992)",
+        "Market Value": "€5.2m",
+        "unicode": "EcmXnnoo"
+      },
+      {
+        "players_name": "Sanchez D.",
+        "players_number": "6",
+        "Full Name": "Davinson Sanchez",
+        "players_rating": 7.5,
+        "Country": "Colombia",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (12.06.1996)",
+        "Market Value": "€15.7m",
+        "unicode": "dbPhv0VQ"
+      },
+      {
+        "players_name": "Sissoko M.",
+        "players_number": "17",
+        "Full Name": "Moussa Sissoko",
+        "players_rating": 6.7,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (16.08.1989)",
+        "Market Value": "€1.1m",
+        "unicode": "4nQc78qp"
+      },
+      {
+        "players_name": "Son Heung-Min",
+        "players_number": "7",
+        "Full Name": "Heung-Min Son",
+        "players_rating": 7.0,
+        "Country": "South Korea",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (08.07.1992)",
+        "Market Value": "€53.9m",
+        "unicode": "Mgg9oPeM"
+      },
+      {
+        "players_name": "Vertonghen J.",
+        "players_number": "5",
+        "Full Name": "Jan Vertonghen",
+        "players_rating": 9.2,
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (24.04.1987)",
+        "Market Value": "€1.5m",
+        "unicode": "t8Dns634"
+      },
+      {
+        "players_name": "Winks H.",
+        "players_number": "8",
+        "Full Name": "Harry Winks",
+        "players_rating": 7.3,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (02.02.1996)",
+        "Market Value": "€11.7m",
+        "unicode": "MRebAusr"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Lamela E.",
+        "players_number": "11",
+        "Full Name": "Erik Lamela",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (04.03.1992)",
+        "Market Value": "€4.5m",
+        "unicode": "4r69VfV2"
+      },
+      {
+        "players_name": "Llorente F.",
+        "players_number": "18",
+        "Full Name": "Fernando Llorente",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "38, (26.02.1985)",
+        "Market Value": "",
+        "unicode": "hK0IDPh2"
+      },
+      {
+        "players_name": "Wanyama V.",
+        "players_number": "12",
+        "Full Name": "Victor Wanyama",
+        "players_rating": "",
+        "Country": "Kenya",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (25.06.1991)",
+        "Market Value": "€1.9m",
+        "unicode": "OtUVLhLE"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Gazzaniga P. (G)",
+        "players_number": "22",
+        "Full Name": "Paulo Gazzaniga",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (02.01.1992)",
+        "Market Value": "€4.0m",
+        "unicode": "jB3F3wGi"
+      },
+      {
+        "players_name": "Rose D.",
+        "players_number": "3",
+        "Full Name": "Danny Rose",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (02.07.1990)",
+        "Market Value": "",
+        "unicode": "C8sXSzqD"
+      },
+      {
+        "players_name": "Skipp O.",
+        "players_number": "52",
+        "Full Name": "Oliver Skipp",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (16.09.2000)",
+        "Market Value": "€13.8m",
+        "unicode": "KnBBxnVu"
+      },
+      {
+        "players_name": "Trippier K.",
+        "players_number": "2",
+        "Full Name": "Kieran Trippier",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (19.09.1990)",
+        "Market Value": "€11.1m",
+        "unicode": "GMqWRFGS"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "10:50",
+      "comments_type": "corner",
+      "comments_text": "The corner from Christian Eriksen (Tottenham) is intercepted by the defence.",
+      "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by the defence.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "11:29",
+      "comments_type": "yellow card",
+      "comments_text": "Serge Aurier (Tottenham) commits a foul and is shown a yellow card without any hesitation from the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card without any hesitation from the referee.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "43:58",
+      "comments_type": "corner",
+      "comments_text": "Jadon Sancho (Dortmund) decides to take a short corner instead of crossing into the box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box.",
+      "index": 2
+    },
+    {
+      "half": 2,
+      "time_stamp": "01:08",
+      "comments_type": "goal",
+      "comments_text": "Jan Vertonghen sends a precise lofted cross into the box. Heung-Min Son (Tottenham) latches on to it and finishes with a quick shot inside the left post. The goalkeeper had no chance. The score changes to 1:0.",
+      "comments_text_anonymized": "[PLAYER] sends a precise lofted cross into the box. [PLAYER] ([TEAM]) latches on to it and finishes with a quick shot inside the left post. The goalkeeper had no chance. The score changes to 1:0.",
+      "index": 3
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:16",
+      "comments_type": "yellow card",
+      "comments_text": "Thomas Delaney (Dortmund) jumps into a tackle and Antonio Mateu Lahoz blows his whistle for a foul. Thomas Delaney (Dortmund) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent. Tottenham win a free kick. It's a promising situation for a direct shot.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul. [PLAYER] ([TEAM]) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent. [TEAM] win a free kick. It's a promising situation for a direct shot.",
+      "index": 4
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:52",
+      "comments_type": "corner",
+      "comments_text": "Christian Eriksen (Tottenham) will take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will take a corner kick.",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:40",
+      "comments_type": "corner",
+      "comments_text": "Jan Vertonghen (Tottenham) flights in the cross, but the defender is alert and clears to safety. The referee and his assistant both point at the corner flag. Tottenham will have an opportunity to threaten the opposition's goal.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:59",
+      "comments_type": "corner",
+      "comments_text": "Christian Eriksen (Tottenham) takes the corner which is cleared.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:41",
+      "comments_type": "corner",
+      "comments_text": "The referee awards a corner and Christian Eriksen (Tottenham) goes over to take it.",
+      "comments_text_anonymized": "The referee awards a corner and [PLAYER] ([TEAM]) goes over to take it.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:54",
+      "comments_type": "corner",
+      "comments_text": "Christian Eriksen (Tottenham) takes the corner but it's cleared.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:14",
+      "comments_type": "substitution",
+      "comments_text": "We are about to witness a substitution. Marcel Schmelzer (Dortmund) is replacing Dan-Axel Zagadou.",
+      "comments_text_anonymized": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER].",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:14",
+      "comments_type": "goal",
+      "comments_text": "It's in the back of the net! Serge Aurier plays it into the box, and Jan Vertonghen (Tottenham) gets on the end of the cross to put it into the middle of the net. 2:0.",
+      "comments_text_anonymized": "It's in the back of the net! [PLAYER] plays it into the box, and [PLAYER] ([TEAM]) gets on the end of the cross to put it into the middle of the net. 2:0.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:39",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Lucas makes way for Fernando Llorente (Tottenham).",
+      "comments_text_anonymized": "Substitution. [PLAYER] makes way for [PLAYER] ([TEAM]).",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:03",
+      "comments_type": "corner",
+      "comments_text": "Christian Eriksen (Tottenham) will take the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the corner.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:53",
+      "comments_type": "goal",
+      "comments_text": "Fernando Llorente (Tottenham) meets the corner and displays his eye for goal as he coolly plants a header from close range into the right side of the goal. The score is 3:0.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) meets the corner and displays his eye for goal as he coolly plants a header from close range into the right side of the goal. The score is 3:0.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:41",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals that it is time for a substitution and Jacob Bruun Larsen (Dortmund) is coming onto the pitch as Christian Pulisic cannot continue after picking up an injury.",
+      "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:03",
+      "comments_type": "substitution",
+      "comments_text": "Lucien Favre has decided to substitute Jadon Sancho and he is replaced by Raphael Guerreiro (Dortmund).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:20",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Erik Lamela (Tottenham) replaces Heung-Min Son.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:41",
+      "comments_type": "substitution",
+      "comments_text": "Mauricio Pochettino decides to make a substitution. Moussa Sissoko will be replaced by Victor Wanyama (Tottenham).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 18
+    }
+  ]
+}

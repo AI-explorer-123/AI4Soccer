@@ -1,0 +1,168 @@
+[
+  {
+    "question": "How many corners have occurred so far in the first half up to the 15:10 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 23:16 mark?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Brighton",
+      "C. Neither",
+      "D. Both"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Has Pascal Gross taken any corners yet in the first half up to the 23:16 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 23:16 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      3
+    ],
+    "current_event_index": 1,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 23:16 mark?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Brighton",
+      "C. Neither",
+      "D. Both"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 1,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will Anthony Knockaert be involved in another corner before half-time after the 23:16 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 1,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Brighton",
+      "C. Neither",
+      "D. Both"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": null,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Pascal Gross",
+      "B. Anthony Knockaert",
+      "C. Yohan Cabaye",
+      "D. Unknown"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      2,
+      3
+    ],
+    "current_event_index": null,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

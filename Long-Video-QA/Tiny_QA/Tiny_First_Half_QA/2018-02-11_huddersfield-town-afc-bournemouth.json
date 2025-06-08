@@ -1,0 +1,98 @@
+[
+  {
+    "question": "Which team has received more cards in the first half up to now?",
+    "choices": [
+      "A. Bournemouth",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Bournemouth",
+      "B. Huddersfield",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      6,
+      8,
+      9
+    ],
+    "current_event_index": null,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the first corner?",
+    "choices": [
+      "A. Bournemouth",
+      "B. Huddersfield",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      2
+    ],
+    "current_event_index": 0,
+    "index": 10,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has scored the first goal in the match?",
+    "choices": [
+      "A. Huddersfield",
+      "B. Bournemouth",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player took the second corner in the first half?",
+    "choices": [
+      "A. Junior Stanislas",
+      "B. Jordon Ibe",
+      "C. Unknown",
+      "D. None"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 5,
+    "event_type": "corner"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "question": "Which team has taken more corners in the first half up to now?",
+    "choices": [
+      "A. Arsenal",
+      "B. Liverpool",
+      "C. Both teams have taken equal corners",
+      "D. None of the above"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will Liverpool score another goal before half-time?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 5,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the first goal in the first half?",
+    "choices": [
+      "A. Liverpool",
+      "B. Manchester United",
+      "C. Chelsea",
+      "D. Arsenal"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": null,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      3,
+      4,
+      6,
+      7
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "corner"
+  }
+]

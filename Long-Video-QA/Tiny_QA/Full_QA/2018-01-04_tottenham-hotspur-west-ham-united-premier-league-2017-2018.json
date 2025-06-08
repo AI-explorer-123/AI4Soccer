@@ -1,0 +1,575 @@
+[
+  {
+    "question": "Who scored the first goal in the 2nd half?",
+    "choices": [
+      "A. Pedro Obiang",
+      "B. Heung-Min Son",
+      "C. Hugo Lloris",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored first in the 2nd half?",
+    "choices": [
+      "A. West Ham",
+      "B. Tottenham",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals were scored in the 2nd half up to the 24:45 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the next goal after Pedro Obiang's?",
+    "choices": [
+      "A. Pedro Obiang",
+      "B. Heung-Min Son",
+      "C. Hugo Lloris",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      12
+    ],
+    "current_event_index": 12,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored more goals in the 2nd half?",
+    "choices": [
+      "A. West Ham",
+      "B. Tottenham",
+      "C. Both teams scored equally",
+      "D. Neither team scored"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      12
+    ],
+    "current_event_index": 12,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals were scored in total during the 2nd half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      12
+    ],
+    "current_event_index": 12,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the last goal in the match?",
+    "choices": [
+      "A. Pedro Obiang",
+      "B. Heung-Min Son",
+      "C. Hugo Lloris",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      12
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had players score in the 2nd half?",
+    "choices": [
+      "A. West Ham only",
+      "B. Tottenham only",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      12
+    ],
+    "current_event_index": null,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals were scored in the match?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      12
+    ],
+    "current_event_index": null,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be another goal after the 24:45 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 5,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to score next after the 24:45 mark?",
+    "choices": [
+      "A. West Ham",
+      "B. Tottenham",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 5,
+    "index": 10,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to score next after the 24:45 mark?",
+    "choices": [
+      "A. Pedro Obiang",
+      "B. Heung-Min Son",
+      "C. Hugo Lloris",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 5,
+    "index": 11,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      15,
+      16
+    ],
+    "current_event_index": 16,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. West Ham",
+      "B. Opponent Team",
+      "C. Both teams have equal",
+      "D. No yellow cards yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      15,
+      16
+    ],
+    "current_event_index": 16,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. Andrew Carroll",
+      "B. Mark Noble",
+      "C. Player C",
+      "D. Player D"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      15,
+      16
+    ],
+    "current_event_index": 16,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      15,
+      16
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. West Ham",
+      "B. Opponent Team",
+      "C. Both teams have equal",
+      "D. No yellow cards"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      15,
+      16
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in yellow cards?",
+    "choices": [
+      "A. Andrew Carroll and Mark Noble",
+      "B. Player A and Player B",
+      "C. Player C and Player D",
+      "D. No players"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      15,
+      16
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 16,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. West Ham",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 16,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Andrew Carroll",
+      "B. Mark Noble",
+      "C. Player C",
+      "D. Player D"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 16,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Tottenham",
+      "B. West Ham",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken any corners"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Christian Eriksen",
+      "B. Heung-Min Son",
+      "C. Erik Lamela",
+      "D. Mark Noble"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 7"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      10,
+      11,
+      14
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Tottenham",
+      "B. West Ham",
+      "C. Both teams had the same number",
+      "D. Neither team had any corners"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      10,
+      11,
+      14
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Christian Eriksen",
+      "B. Heung-Min Son",
+      "C. Erik Lamela",
+      "D. Mark Noble"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      10,
+      11,
+      14
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      6,
+      10,
+      11,
+      14
+    ],
+    "current_event_index": 3,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Tottenham",
+      "B. West Ham",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      6,
+      10,
+      11
+    ],
+    "current_event_index": 3,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Christian Eriksen",
+      "B. Heung-Min Son",
+      "C. Erik Lamela",
+      "D. Mark Noble"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 3,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

@@ -1,0 +1,832 @@
+{
+  "match_info": {
+    "timestamp": "2023-12-08 04:15:00",
+    "score": "1 - 2",
+    "home_team": "Tottenham",
+    "away_team": "West Ham",
+    "home_formation": "4 - 2 - 3 - 1",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Tottenham Hotspur Stadium (London)",
+    "capacity": "62 850",
+    "attendance": "60 733"
+  },
+  "referee_data": {
+    "short_name_country": "Salisbury M. (Eng)",
+    "first_name": "Salisbury",
+    "abbr_last_name": "M",
+    "country": "Eng",
+    "detected_name": "Michael Salisbury"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Postecoglou A.",
+        "players_number": "",
+        "Full Name": "Ange Postecoglou",
+        "players_rating": "",
+        "Country": "Australia",
+        "Role": "coach",
+        "Age and Birthdate": "58,  (27.08.1965)",
+        "Market Value": "",
+        "unicode": "0K79iBXL"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Bentancur R.",
+        "players_number": "",
+        "Full Name": "Rodrigo Bentancur",
+        "players_rating": "",
+        "Country": "Uruguay",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (25.06.1997)",
+        "Market Value": "€34.7m",
+        "unicode": "nLRMnJtJ"
+      },
+      {
+        "players_name": "Dier E.",
+        "players_number": "",
+        "Full Name": "Eric Dier",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (15.01.1994)",
+        "Market Value": "€11.2m",
+        "unicode": "MXQtjBQt"
+      },
+      {
+        "players_name": "Maddison J.",
+        "players_number": "",
+        "Full Name": "James Maddison",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (23.11.1996)",
+        "Market Value": "€72.5m",
+        "unicode": "YwP0q0m8"
+      },
+      {
+        "players_name": "Perisic I.",
+        "players_number": "",
+        "Full Name": "Ivan Perisic",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (02.02.1989)",
+        "Market Value": "€4.1m",
+        "unicode": "4AbKyVr9"
+      },
+      {
+        "players_name": "Sessegnon R.",
+        "players_number": "",
+        "Full Name": "Ryan Sessegnon",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (18.05.2000)",
+        "Market Value": "€454k",
+        "unicode": "WOecsPmi"
+      },
+      {
+        "players_name": "Solomon M.",
+        "players_number": "",
+        "Full Name": "Manor Solomon",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (24.07.1999)",
+        "Market Value": "€18.1m",
+        "unicode": "v5LRVtuB"
+      },
+      {
+        "players_name": "van de Ven M.",
+        "players_number": "",
+        "Full Name": "Micky van de Ven",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (19.04.2001)",
+        "Market Value": "€43.4m",
+        "unicode": "rotN6HH8"
+      },
+      {
+        "players_name": "Whiteman A.",
+        "players_number": "",
+        "Full Name": "Alfie Whiteman",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "25, (02.10.1998)",
+        "Market Value": "30.06.2025",
+        "unicode": "UkQOzQQ3"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Bissouma Y.",
+        "players_number": "8",
+        "Full Name": "Yves Bissouma",
+        "players_rating": 6.7,
+        "Country": "Mali",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (30.08.1996)",
+        "Market Value": "€29.8m",
+        "unicode": "CSdILBh7"
+      },
+      {
+        "players_name": "Davies B.",
+        "players_number": "33",
+        "Full Name": "Ben Davies",
+        "players_rating": 6.5,
+        "Country": "Wales",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (24.04.1993)",
+        "Market Value": "30.06.2025",
+        "unicode": "65AlIpKT"
+      },
+      {
+        "players_name": "Hojbjerg P.",
+        "players_number": "5",
+        "Full Name": "Pierre-Emile Hojbjerg",
+        "players_rating": 6.4,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (05.08.1995)",
+        "Market Value": "€27.4m",
+        "unicode": "ITwS8wMo"
+      },
+      {
+        "players_name": "Johnson B.",
+        "players_number": "22",
+        "Full Name": "Brennan Johnson",
+        "players_rating": 6.8,
+        "Country": "Wales",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (23.05.2001)",
+        "Market Value": "€44.3m",
+        "unicode": "6XhWIWPP"
+      },
+      {
+        "players_name": "Kulusevski D.",
+        "players_number": "21",
+        "Full Name": "Dejan Kulusevski",
+        "players_rating": 6.9,
+        "Country": "Sweden",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (25.04.2000)",
+        "Market Value": "€54.6m",
+        "unicode": "fXLqHCYi"
+      },
+      {
+        "players_name": "Lo Celso G.",
+        "players_number": "18",
+        "Full Name": "Giovani Lo Celso",
+        "players_rating": 7.0,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (09.04.1996)",
+        "Market Value": "€16.1m",
+        "unicode": "UZeyLfKI"
+      },
+      {
+        "players_name": "Porro P.",
+        "players_number": "23",
+        "Full Name": "Pedro Porro",
+        "players_rating": 8.0,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (13.09.1999)",
+        "Market Value": "€44.7m",
+        "unicode": "nTebDzHC"
+      },
+      {
+        "players_name": "Romero C.",
+        "players_number": "17",
+        "Full Name": "Cristian Gabriel Romero",
+        "players_rating": 7.8,
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (27.04.1998)",
+        "Market Value": "€65.5m",
+        "unicode": "jBZTWXMn"
+      },
+      {
+        "players_name": "Son Heung-Min (C)",
+        "players_number": "7",
+        "Full Name": "Heung-Min Son",
+        "players_rating": 6.6,
+        "Country": "South Korea",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (08.07.1992)",
+        "Market Value": "€53.9m",
+        "unicode": "Mgg9oPeM"
+      },
+      {
+        "players_name": "Udogie D.",
+        "players_number": "38",
+        "Full Name": "Destiny Udogie",
+        "players_rating": 6.5,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (28.11.2002)",
+        "Market Value": "€38.0m",
+        "unicode": "ERi6Ggec"
+      },
+      {
+        "players_name": "Vicario G. (G)",
+        "players_number": "13",
+        "Full Name": "Guglielmo Vicario",
+        "players_rating": 6.9,
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "27, (07.10.1996)",
+        "Market Value": "€29.8m",
+        "unicode": "0fdL3XXa"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Gil B.",
+        "players_number": "11",
+        "Full Name": "Bryan Gil",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (11.02.2001)",
+        "Market Value": "€14.8m",
+        "unicode": "xSXBYlvl"
+      },
+      {
+        "players_name": "Richarlison",
+        "players_number": "9",
+        "Full Name": "Richarlison",
+        "players_rating": 6.0,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (10.05.1997)",
+        "Market Value": "€33.3m",
+        "unicode": "K82Dz773"
+      },
+      {
+        "players_name": "Sarr P. M.",
+        "players_number": "29",
+        "Full Name": "Pape Matar Sarr",
+        "players_rating": "",
+        "Country": "Senegal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (14.09.2002)",
+        "Market Value": "€33.8m",
+        "unicode": "CSjTl5sR"
+      },
+      {
+        "players_name": "Skipp O.",
+        "players_number": "4",
+        "Full Name": "Oliver Skipp",
+        "players_rating": 6.1,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (16.09.2000)",
+        "Market Value": "€13.8m",
+        "unicode": "KnBBxnVu"
+      },
+      {
+        "players_name": "Veliz A.",
+        "players_number": "36",
+        "Full Name": "Alejo Veliz",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "20, (19.09.2003)",
+        "Market Value": "€10.9m",
+        "unicode": "hph7e3vc"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Donley J.",
+        "players_number": "63",
+        "Full Name": "Jamie Donley",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "19, (03.01.2005)",
+        "Market Value": "€1.7m",
+        "unicode": "6qmNSxbp"
+      },
+      {
+        "players_name": "Dorrington A.",
+        "players_number": "65",
+        "Full Name": "Alfie Dorrington",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "18, (20.04.2005)",
+        "Market Value": "€461k",
+        "unicode": "CMbOzR8i"
+      },
+      {
+        "players_name": "Emerson Royal",
+        "players_number": "12",
+        "Full Name": "Emerson Royal",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (14.01.1999)",
+        "Market Value": "€17.9m",
+        "unicode": "zBkSUAjf"
+      },
+      {
+        "players_name": "Forster F. (G)",
+        "players_number": "20",
+        "Full Name": "Fraser Forster",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (17.03.1988)",
+        "Market Value": "€1.1m",
+        "unicode": "SWLt6Trt"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Moyes D.",
+        "players_number": "",
+        "Full Name": "David Moyes",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "coach",
+        "Age and Birthdate": "60,  (25.04.1963)",
+        "Market Value": "",
+        "unicode": "hUGEt9yf"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Antonio M.",
+        "players_number": "",
+        "Full Name": "Michail Antonio",
+        "players_rating": "",
+        "Country": "Jamaica",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (28.03.1990)",
+        "Market Value": "€5.8m",
+        "unicode": "p8tt85Xn"
+      },
+      {
+        "players_name": "Areola A.",
+        "players_number": "",
+        "Full Name": "Alphonse Areola",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "30, (27.02.1993)",
+        "Market Value": "€9.8m",
+        "unicode": "phOf2OAa"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Aguerd N.",
+        "players_number": "27",
+        "Full Name": "Nayef Aguerd",
+        "players_rating": 7.0,
+        "Country": "Morocco",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (30.05.1996)",
+        "Market Value": "€37.2m",
+        "unicode": "zsQh7xdD"
+      },
+      {
+        "players_name": "Alvarez E.",
+        "players_number": "19",
+        "Full Name": "Edson Alvarez",
+        "players_rating": 7.1,
+        "Country": "Mexico",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (24.10.1997)",
+        "Market Value": "€34.7m",
+        "unicode": "UkdzkdDr"
+      },
+      {
+        "players_name": "Bowen J.",
+        "players_number": "20",
+        "Full Name": "Jarrod Bowen",
+        "players_rating": 7.3,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (20.12.1996)",
+        "Market Value": "€50.3m",
+        "unicode": "pW170H9K"
+      },
+      {
+        "players_name": "Coufal V.",
+        "players_number": "5",
+        "Full Name": "Vladimir Coufal",
+        "players_rating": 6.5,
+        "Country": "Czech Republic",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (22.08.1992)",
+        "Market Value": "€8.8m",
+        "unicode": "n92l9Tl1"
+      },
+      {
+        "players_name": "Emerson",
+        "players_number": "33",
+        "Full Name": "Emerson",
+        "players_rating": 7.8,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (03.08.1994)",
+        "Market Value": "€12.3m",
+        "unicode": "MHViZ5fg"
+      },
+      {
+        "players_name": "Fabianski L. (G)",
+        "players_number": "1",
+        "Full Name": "Lukasz Fabianski",
+        "players_rating": 8.1,
+        "Country": "Poland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "38, (18.04.1985)",
+        "Market Value": "€685k",
+        "unicode": "bRKKNZwj"
+      },
+      {
+        "players_name": "Kudus M.",
+        "players_number": "14",
+        "Full Name": "Mohammed Kudus",
+        "players_rating": 7.0,
+        "Country": "Ghana",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (02.08.2000)",
+        "Market Value": "€47.9m",
+        "unicode": "hzbcXxIG"
+      },
+      {
+        "players_name": "Paqueta L.",
+        "players_number": "10",
+        "Full Name": "Lucas Paqueta",
+        "players_rating": 7.1,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (27.08.1997)",
+        "Market Value": "€67.3m",
+        "unicode": "SruRBYZP"
+      },
+      {
+        "players_name": "Soucek T.",
+        "players_number": "28",
+        "Full Name": "Tomas Soucek",
+        "players_rating": 7.2,
+        "Country": "Czech Republic",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (27.02.1995)",
+        "Market Value": "€36.2m",
+        "unicode": "8zWzYFRF"
+      },
+      {
+        "players_name": "Ward-Prowse J.",
+        "players_number": "7",
+        "Full Name": "James Ward-Prowse",
+        "players_rating": 7.7,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (01.11.1994)",
+        "Market Value": "€41.5m",
+        "unicode": "GxdkTszJ"
+      },
+      {
+        "players_name": "Zouma K. (C)",
+        "players_number": "4",
+        "Full Name": "Kurt Zouma",
+        "players_rating": 6.5,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (27.10.1994)",
+        "Market Value": "€24.1m",
+        "unicode": "SKosf7jl"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Fornals P.",
+        "players_number": "8",
+        "Full Name": "Pablo Fornals",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (22.02.1996)",
+        "Market Value": "€15.9m",
+        "unicode": "CfghB0gf"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Anang J. (G)",
+        "players_number": "49",
+        "Full Name": "Joseph Anang",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "23, (08.06.2000)",
+        "Market Value": "€311k",
+        "unicode": "vuCKfG4p"
+      },
+      {
+        "players_name": "Benrahma S.",
+        "players_number": "22",
+        "Full Name": "Said Benrahma",
+        "players_rating": "",
+        "Country": "Algeria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (10.08.1995)",
+        "Market Value": "€20.6m",
+        "unicode": "Qyrn555R"
+      },
+      {
+        "players_name": "Cresswell A.",
+        "players_number": "3",
+        "Full Name": "Aaron Cresswell",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (15.12.1989)",
+        "Market Value": "€842k",
+        "unicode": "fcMqoMcH"
+      },
+      {
+        "players_name": "Ings D.",
+        "players_number": "18",
+        "Full Name": "Danny Ings",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (23.07.1992)",
+        "Market Value": "€8.3m",
+        "unicode": "S0QG044b"
+      },
+      {
+        "players_name": "Kehrer T.",
+        "players_number": "24",
+        "Full Name": "Thilo Kehrer",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (21.09.1996)",
+        "Market Value": "€8.3m",
+        "unicode": "UXQPdpOB"
+      },
+      {
+        "players_name": "Mavropanos K.",
+        "players_number": "15",
+        "Full Name": "Konstantinos Mavropanos",
+        "players_rating": "",
+        "Country": "Greece",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (11.12.1997)",
+        "Market Value": "€14.1m",
+        "unicode": "zBXgM0Xa"
+      },
+      {
+        "players_name": "Mubama D.",
+        "players_number": "45",
+        "Full Name": "Divin Mubama",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "19, (25.10.2004)",
+        "Market Value": "€950k",
+        "unicode": "4jCdiW1l"
+      },
+      {
+        "players_name": "Ogbonna A.",
+        "players_number": "21",
+        "Full Name": "Angelo Ogbonna",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (23.05.1988)",
+        "Market Value": "€665k",
+        "unicode": "xtEnn3rQ"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "03:09",
+      "comments_type": "corner",
+      "comments_text": "Pedro Porro (Tottenham) steps up to take the corner, but the ball just sails in among the defenders.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "10:34",
+      "comments_type": "corner",
+      "comments_text": "Pedro Porro (Tottenham) takes the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "10:41",
+      "comments_type": "goal",
+      "comments_text": "The ball was swung into the box by Pedro Porro from the corner kick. He perfectly found the head of Cristian Gabriel Romero (Tottenham), who planted a bullet header inside the left post to make the score 1:0.",
+      "comments_text_anonymized": "The ball was swung into the box by [PLAYER] from the corner kick. He perfectly found the head of [PLAYER] ([TEAM]), who planted a bullet header inside the left post to make the score 1:0.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "18:53",
+      "comments_type": "corner",
+      "comments_text": "There's an opportunity for James Ward-Prowse (West Ham) to deliver the ball into the box from a corner.",
+      "comments_text_anonymized": "There's an opportunity for [PLAYER] ([TEAM]) to deliver the ball into the box from a corner.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "39:23",
+      "comments_type": "corner",
+      "comments_text": "Now Tottenham have a corner.",
+      "comments_text_anonymized": "Now [TEAM] have a corner.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "47:04",
+      "comments_type": "corner",
+      "comments_text": "Pedro Porro (Tottenham) prepares to take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) prepares to take a corner kick.",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "02:05",
+      "comments_type": "corner",
+      "comments_text": "The resulting set piece from Tottenham is comfortably intercepted by one of the defending players.",
+      "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:36",
+      "comments_type": "goal",
+      "comments_text": "Goal! Jarrod Bowen (West Ham) pounced on a loose ball inside the box and beats the goalkeeper with a shot inside the right post. He makes it 1:1.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) pounced on a loose ball inside the box and beats the goalkeeper with a shot inside the right post. He makes it 1:1.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "12:11",
+      "comments_type": "yellow card",
+      "comments_text": "Emerson (West Ham) receives a yellow card for a nasty tackle.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a yellow card for a nasty tackle.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:50",
+      "comments_type": "yellow card",
+      "comments_text": "Pedro Porro (Tottenham) commits a foul and is shown a yellow card without any hesitation from the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card without any hesitation from the referee.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:00",
+      "comments_type": "corner",
+      "comments_text": "James Ward-Prowse (West Ham) will deliver the ball into the penalty box from a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:40",
+      "comments_type": "corner",
+      "comments_text": "James Ward-Prowse (West Ham) takes the corner which is cleared.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:57",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals a substitution. Richarlison (Tottenham) is brought on as a substitute for Pierre-Emile Hojbjerg.",
+      "comments_text_anonymized": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:39",
+      "comments_type": "substitution",
+      "comments_text": "Ange Postecoglou prepares a substitution. Giovani Lo Celso is replaced by Oliver Skipp (Tottenham).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:59",
+      "comments_type": "corner",
+      "comments_text": "Pedro Porro (Tottenham) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:00",
+      "comments_type": "corner",
+      "comments_text": "Tottenham have been awarded a corner kick.",
+      "comments_text_anonymized": "[TEAM] have been awarded a corner kick.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:26",
+      "comments_type": "goal",
+      "comments_text": "Goal! James Ward-Prowse (West Ham) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 1:2.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 1:2.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:32",
+      "comments_type": "yellow card",
+      "comments_text": "James Ward-Prowse (West Ham) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:30",
+      "comments_type": "substitution",
+      "comments_text": "We are about to witness a substitution. Bryan Gil (Tottenham) is replacing Yves Bissouma.",
+      "comments_text_anonymized": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER].",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:30",
+      "comments_type": "substitution",
+      "comments_text": "Ange Postecoglou has decided to introduce fresh legs, with Pape Matar Sarr (Tottenham) replacing Brennan Johnson.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:48",
+      "comments_type": "corner",
+      "comments_text": "James Ward-Prowse (West Ham) whips in a cross from the corner, but Guglielmo Vicario is well positioned and punches the ball away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in a cross from the corner, but [PLAYER] is well positioned and punches the ball away.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:27",
+      "comments_type": "substitution",
+      "comments_text": "The referee allows time for a substitution. Heung-Min Son will be replaced by Alejo Veliz (Tottenham).",
+      "comments_text_anonymized": "The referee allows time for a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:26",
+      "comments_type": "substitution",
+      "comments_text": "David Moyes has decided to substitute Mohammed Kudus and he is replaced by Pablo Fornals (West Ham).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:50",
+      "comments_type": "yellow card",
+      "comments_text": "Yellow card. Cristian Gabriel Romero (Tottenham) goes into the book for a bad tackle on his opponent.",
+      "comments_text_anonymized": "Yellow card. [PLAYER] ([TEAM]) goes into the book for a bad tackle on his opponent.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "47:04",
+      "comments_type": "yellow card",
+      "comments_text": "Edson Alvarez (West Ham) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "49:22",
+      "comments_type": "corner",
+      "comments_text": "Pedro Porro (Tottenham) is heading toward the corner flag to take the set piece.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "51:17",
+      "comments_type": "yellow card",
+      "comments_text": "Michael Salisbury shows a yellow card to Dejan Kulusevski (Tottenham) for his unsportsmanlike behavior after the match has ended.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his unsportsmanlike behavior after the match has ended.",
+      "index": 26
+    }
+  ]
+}

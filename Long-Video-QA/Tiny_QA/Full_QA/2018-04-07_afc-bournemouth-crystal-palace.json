@@ -1,0 +1,905 @@
+[
+  {
+    "question": "Who scored the first goal in the 2nd half?",
+    "choices": [
+      "A. Luka Milivojevic",
+      "B. Lys Mousset",
+      "C. Wilfried Zaha",
+      "D. Joshua King"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 8,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the first goal in the 2nd half?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Bournemouth"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 8,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored in the 2nd half up to the 19:50 mark?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      8,
+      16
+    ],
+    "current_event_index": 16,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the equalizing goal for Bournemouth?",
+    "choices": [
+      "A. Luka Milivojevic",
+      "B. Lys Mousset",
+      "C. Wilfried Zaha",
+      "D. Joshua King"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      16
+    ],
+    "current_event_index": 16,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team took the lead after the 29:32 mark?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Bournemouth"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      17
+    ],
+    "current_event_index": 17,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the winning goal for Crystal Palace?",
+    "choices": [
+      "A. Luka Milivojevic",
+      "B. Lys Mousset",
+      "C. Wilfried Zaha",
+      "D. Joshua King"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      17
+    ],
+    "current_event_index": 17,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player scored the last goal of the match?",
+    "choices": [
+      "A. Luka Milivojevic",
+      "B. Lys Mousset",
+      "C. Wilfried Zaha",
+      "D. Joshua King"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      8,
+      16,
+      17,
+      23
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals were scored in total during the 2nd half?",
+    "choices": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      8,
+      16,
+      17,
+      23
+    ],
+    "current_event_index": null,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored more goals in the 2nd half?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Bournemouth",
+      "C. Both scored equal"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      8,
+      16,
+      17,
+      23
+    ],
+    "current_event_index": null,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "At the 19:50 mark, which player was most likely to score next?",
+    "choices": [
+      "A. Luka Milivojevic",
+      "B. Lys Mousset",
+      "C. Wilfried Zaha",
+      "D. Joshua King"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      17
+    ],
+    "current_event_index": 16,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "At the 29:32 mark, was there another goal scored in the match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      23
+    ],
+    "current_event_index": 17,
+    "index": 10,
+    "event_type": "goal"
+  },
+  {
+    "question": "At the 8th event, which team was more likely to score next?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Bournemouth"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      16
+    ],
+    "current_event_index": 8,
+    "index": 11,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      18
+    ],
+    "current_event_index": 18,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Bournemouth",
+      "B. Crystal Palace",
+      "C. Both teams have the same",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      18
+    ],
+    "current_event_index": 18,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last card?",
+    "choices": [
+      "A. Dan Gosling",
+      "B. Simon Francis",
+      "C. James Tomkins",
+      "D. Yohan Cabaye"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      18
+    ],
+    "current_event_index": 18,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      18,
+      20
+    ],
+    "current_event_index": 20,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Bournemouth",
+      "B. Crystal Palace",
+      "C. Both teams have the same",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      18,
+      20
+    ],
+    "current_event_index": 20,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last card?",
+    "choices": [
+      "A. Dan Gosling",
+      "B. Simon Francis",
+      "C. James Tomkins",
+      "D. Yohan Cabaye"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      20
+    ],
+    "current_event_index": 20,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      18,
+      20,
+      24
+    ],
+    "current_event_index": 24,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Bournemouth",
+      "B. Crystal Palace",
+      "C. Both teams have the same",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      18,
+      20,
+      24
+    ],
+    "current_event_index": 24,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last card?",
+    "choices": [
+      "A. Dan Gosling",
+      "B. Simon Francis",
+      "C. James Tomkins",
+      "D. Yohan Cabaye"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      24
+    ],
+    "current_event_index": 24,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      18,
+      20,
+      24,
+      25
+    ],
+    "current_event_index": 25,
+    "index": 9,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Bournemouth",
+      "B. Crystal Palace",
+      "C. Both teams have the same",
+      "D. Neither team"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      18,
+      20,
+      24,
+      25
+    ],
+    "current_event_index": 25,
+    "index": 10,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last card?",
+    "choices": [
+      "A. Dan Gosling",
+      "B. Simon Francis",
+      "C. James Tomkins",
+      "D. Yohan Cabaye"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      25
+    ],
+    "current_event_index": 25,
+    "index": 11,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      18,
+      20,
+      24,
+      25
+    ],
+    "current_event_index": null,
+    "index": 12,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Bournemouth",
+      "B. Crystal Palace",
+      "C. Both teams have the same",
+      "D. Neither team"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      18,
+      20,
+      24,
+      25
+    ],
+    "current_event_index": null,
+    "index": 13,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player was involved in the most yellow cards?",
+    "choices": [
+      "A. Dan Gosling",
+      "B. Simon Francis",
+      "C. James Tomkins",
+      "D. Yohan Cabaye"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      18,
+      20,
+      24,
+      25
+    ],
+    "current_event_index": null,
+    "index": 14,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      20,
+      24,
+      25
+    ],
+    "current_event_index": 18,
+    "index": 15,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Bournemouth",
+      "B. Crystal Palace",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      20
+    ],
+    "current_event_index": 18,
+    "index": 16,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Dan Gosling",
+      "B. Simon Francis",
+      "C. James Tomkins",
+      "D. Yohan Cabaye"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      20
+    ],
+    "current_event_index": 18,
+    "index": 17,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      24,
+      25
+    ],
+    "current_event_index": 20,
+    "index": 18,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Bournemouth",
+      "B. Crystal Palace",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      24
+    ],
+    "current_event_index": 20,
+    "index": 19,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Dan Gosling",
+      "B. Simon Francis",
+      "C. James Tomkins",
+      "D. Yohan Cabaye"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      24
+    ],
+    "current_event_index": 20,
+    "index": 20,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      25
+    ],
+    "current_event_index": 24,
+    "index": 21,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Bournemouth",
+      "B. Crystal Palace",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      25
+    ],
+    "current_event_index": 24,
+    "index": 22,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Dan Gosling",
+      "B. Simon Francis",
+      "C. James Tomkins",
+      "D. Yohan Cabaye"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      25
+    ],
+    "current_event_index": 24,
+    "index": 23,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Bournemouth",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Yohan Cabaye",
+      "B. Lewis Cook",
+      "C. Ryan Fraser",
+      "D. Patrick van Aanholt"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 8",
+      "B. 10",
+      "C. 12",
+      "D. 14"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      15,
+      21,
+      22
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Bournemouth",
+      "C. Both teams had the same number",
+      "D. Neither team had corners"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      15,
+      21,
+      22
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Yohan Cabaye",
+      "B. Lewis Cook",
+      "C. Ryan Fraser",
+      "D. Patrick van Aanholt"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      15,
+      21,
+      22
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Two more"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      15,
+      21,
+      22
+    ],
+    "current_event_index": 1,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Bournemouth",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      3,
+      7,
+      9,
+      10,
+      11,
+      12,
+      15,
+      21,
+      22
+    ],
+    "current_event_index": 1,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Yohan Cabaye",
+      "B. Lewis Cook",
+      "C. Ryan Fraser",
+      "D. Patrick van Aanholt"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      3,
+      7,
+      9,
+      10,
+      11,
+      12,
+      15,
+      21,
+      22
+    ],
+    "current_event_index": 1,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

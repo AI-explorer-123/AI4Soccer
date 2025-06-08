@@ -1,0 +1,103 @@
+[
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      11
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total goals occurred in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player has taken the most corners up to event index 2?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. David Silva",
+      "C. Aaron Cresswell",
+      "D. Leroy Sane"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has scored more goals in the first half up to now?",
+    "choices": [
+      "A. West Ham",
+      "B. Opponent Team",
+      "C. Both teams have scored equally",
+      "D. No goals yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 12,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who were all the players involved in first half yellow cards?",
+    "choices": [
+      "A. Declan Rice",
+      "B. Player X",
+      "C. Player Y",
+      "D. No one"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  }
+]

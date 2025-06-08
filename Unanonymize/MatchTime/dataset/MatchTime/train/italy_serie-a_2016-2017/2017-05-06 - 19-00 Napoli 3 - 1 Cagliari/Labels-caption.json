@@ -1,0 +1,1429 @@
+{
+    "timestamp": "1494086400",
+    "score": "3 - 1",
+    "round": "35",
+    "teams": [
+        "Napoli",
+        "Cagliari"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-3-3",
+            "players": [
+                {
+                    "hash": "AkMslDtA",
+                    "name": "Albiol R.",
+                    "captain": "",
+                    "detail_link": "/player/albiol-raul/AkMslDtA/",
+                    "short_name": "Albiol",
+                    "shirt_number": "33",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Raul Albiol"
+                },
+                {
+                    "hash": "GtOw2z0j",
+                    "name": "Callejon J.",
+                    "captain": "",
+                    "detail_link": "/player/callejon-jose/GtOw2z0j/",
+                    "short_name": "Callejon",
+                    "shirt_number": "7",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Jose Callejon"
+                },
+                {
+                    "hash": "WEmOjj2K",
+                    "name": "Chiriches V.",
+                    "captain": "",
+                    "detail_link": "/player/chiriches-vlad/WEmOjj2K/",
+                    "short_name": "Chiriches",
+                    "shirt_number": "21",
+                    "country": "Romania",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Vlad Chiriches"
+                },
+                {
+                    "hash": "x2eF9dok",
+                    "name": "Ghoulam F.",
+                    "captain": "",
+                    "detail_link": "/player/ghoulam-faouzi/x2eF9dok/",
+                    "short_name": "Ghoulam",
+                    "shirt_number": "31",
+                    "country": "Algeria",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "2' Mertens D. (Ghoulam F.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "49' Mertens D. (Ghoulam F.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Faouzi Ghoulam"
+                },
+                {
+                    "hash": "AoWVYBUC",
+                    "name": "Hamsik M.",
+                    "captain": "(C)",
+                    "detail_link": "/player/hamsik-marek/AoWVYBUC/",
+                    "short_name": "Hamsik",
+                    "shirt_number": "17",
+                    "country": "Slovakia",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "69'",
+                            "description": "Rog M.",
+                            "linked_player_hash": "EcdOzaBB"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Marek Hamsik"
+                },
+                {
+                    "hash": "8z6PLSII",
+                    "name": "Hysaj E.",
+                    "captain": "",
+                    "detail_link": "/player/hysaj-elseid/8z6PLSII/",
+                    "short_name": "Hysaj",
+                    "shirt_number": "2",
+                    "country": "Albania",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Elseid Hysaj"
+                },
+                {
+                    "hash": "6qUE0AeN",
+                    "name": "Insigne L.",
+                    "captain": "",
+                    "detail_link": "/player/insigne-lorenzo/6qUE0AeN/",
+                    "short_name": "Insigne",
+                    "shirt_number": "24",
+                    "country": "Italy",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "67' Insigne L. (Mertens D.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "79'",
+                            "description": "Giaccherini E.",
+                            "linked_player_hash": "jHmytlL2"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Lorenzo Insigne"
+                },
+                {
+                    "hash": "t80QsVOt",
+                    "name": "Jorginho",
+                    "captain": "",
+                    "detail_link": "/player/jorginho/t80QsVOt/",
+                    "short_name": "Jorginho",
+                    "shirt_number": "8",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Jorginho"
+                },
+                {
+                    "hash": "dfIcigtg",
+                    "name": "Mertens D.",
+                    "captain": "",
+                    "detail_link": "/player/mertens-dries/dfIcigtg/",
+                    "short_name": "Mertens",
+                    "shirt_number": "14",
+                    "country": "Belgium",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "2' Mertens D. (Ghoulam F.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "3",
+                            "time": "49' Mertens D. (Ghoulam F.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "67' Insigne L. (Mertens D.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "77'",
+                            "description": "Milik A.",
+                            "linked_player_hash": "EskCwiLE"
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Dries Mertens"
+                },
+                {
+                    "hash": "KrEhnvkN",
+                    "name": "Reina P.",
+                    "captain": "",
+                    "detail_link": "/player/reina-pepe/KrEhnvkN/",
+                    "short_name": "Reina",
+                    "shirt_number": "25",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Pepe Reina"
+                },
+                {
+                    "hash": "dlFNZSvb",
+                    "name": "Zielinski P.",
+                    "captain": "",
+                    "detail_link": "/player/zielinski-piotr/dlFNZSvb/",
+                    "short_name": "Zielinski",
+                    "shirt_number": "20",
+                    "country": "Poland",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "55' Zielinski P. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Piotr Zielinski"
+                },
+                {
+                    "hash": "hnFBS5hK",
+                    "name": "Allan",
+                    "captain": "",
+                    "detail_link": "/player/allan/hnFBS5hK/",
+                    "short_name": "Allan",
+                    "shirt_number": "5",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Allan"
+                },
+                {
+                    "hash": "2Hs3xiw6",
+                    "name": "Diawara A.",
+                    "captain": "",
+                    "detail_link": "/player/diawara-amadou/2Hs3xiw6/",
+                    "short_name": "Diawara",
+                    "shirt_number": "42",
+                    "country": "Guinea",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Amadou Diawara"
+                },
+                {
+                    "hash": "jHmytlL2",
+                    "name": "Giaccherini E.",
+                    "captain": "",
+                    "detail_link": "/player/giaccherini-emanuele/jHmytlL2/",
+                    "short_name": "Giaccherini",
+                    "shirt_number": "4",
+                    "country": "Italy",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "79'",
+                            "description": "Insigne L.",
+                            "linked_player_hash": "6qUE0AeN"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Emanuele Giaccherini"
+                },
+                {
+                    "hash": "r30L5xhf",
+                    "name": "Maggio C.",
+                    "captain": "",
+                    "detail_link": "/player/maggio-cristian/r30L5xhf/",
+                    "short_name": "Maggio",
+                    "shirt_number": "11",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Christian Maggio"
+                },
+                {
+                    "hash": "2q9g9abc",
+                    "name": "Maksimovic N.",
+                    "captain": "",
+                    "detail_link": "/player/maksimovic-nikola/2q9g9abc/",
+                    "short_name": "Maksimovic",
+                    "shirt_number": "19",
+                    "country": "Serbia",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Nikola Maksimovic"
+                },
+                {
+                    "hash": "EskCwiLE",
+                    "name": "Milik A.",
+                    "captain": "",
+                    "detail_link": "/player/milik-arkadiusz/EskCwiLE/",
+                    "short_name": "Milik",
+                    "shirt_number": "99",
+                    "country": "Poland",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "77'",
+                            "description": "Mertens D.",
+                            "linked_player_hash": "dfIcigtg"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Arkadiusz Milik"
+                },
+                {
+                    "hash": "xrQ22VYn",
+                    "name": "Pavoletti L.",
+                    "captain": "",
+                    "detail_link": "/player/pavoletti-leonardo/xrQ22VYn/",
+                    "short_name": "Pavoletti",
+                    "shirt_number": "32",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Leonardo Pavoletti"
+                },
+                {
+                    "hash": "KCOJxFQ2",
+                    "name": "Rafael Cabral",
+                    "captain": "",
+                    "detail_link": "/player/rafael/KCOJxFQ2/",
+                    "short_name": "Rafael Cabral",
+                    "shirt_number": "1",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Rafael Cabral"
+                },
+                {
+                    "hash": "EcdOzaBB",
+                    "name": "Rog M.",
+                    "captain": "",
+                    "detail_link": "/player/rog-marko/EcdOzaBB/",
+                    "short_name": "Rog",
+                    "shirt_number": "30",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "69'",
+                            "description": "Hamsik M.",
+                            "linked_player_hash": "AoWVYBUC"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marko Rog"
+                },
+                {
+                    "hash": "dvzcWaun",
+                    "name": "Sepe L.",
+                    "captain": "",
+                    "detail_link": "/player/sepe-luigi/dvzcWaun/",
+                    "short_name": "Sepe",
+                    "shirt_number": "22",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Luigi Sepe"
+                },
+                {
+                    "hash": "2X4zNEPc",
+                    "name": "Strinic I.",
+                    "captain": "",
+                    "detail_link": "/player/strinic-ivan/2X4zNEPc/",
+                    "short_name": "Strinic",
+                    "shirt_number": "3",
+                    "country": "Croatia",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ivan Strinic"
+                },
+                {
+                    "hash": "2yFG2BO6",
+                    "name": "Tonelli L.",
+                    "captain": "",
+                    "detail_link": "/player/tonelli-lorenzo/2yFG2BO6/",
+                    "short_name": "Tonelli",
+                    "shirt_number": "62",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Lorenzo Tonelli"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "pvzTXTMR",
+                    "name": "Sarri M.",
+                    "captain": "",
+                    "detail_link": "/player/sarri-maurizio/pvzTXTMR/",
+                    "short_name": "Sarri M.",
+                    "shirt_number": "",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Maurizio Sarri"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-4-2",
+            "players": [
+                {
+                    "hash": "xIuzekJI",
+                    "name": "Alves B.",
+                    "captain": "",
+                    "detail_link": "/player/alves-bruno/xIuzekJI/",
+                    "short_name": "Alves",
+                    "shirt_number": "2",
+                    "country": "Portugal",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Bruno Alves"
+                },
+                {
+                    "hash": "W0yrjzz2",
+                    "name": "Barella N.",
+                    "captain": "",
+                    "detail_link": "/player/barella-nicolo/W0yrjzz2/",
+                    "short_name": "Barella",
+                    "shirt_number": "18",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Nicolo Barella"
+                },
+                {
+                    "hash": "xEaHsImp",
+                    "name": "Borriello M.",
+                    "captain": "",
+                    "detail_link": "/player/borriello-marco/xEaHsImp/",
+                    "short_name": "Borriello",
+                    "shirt_number": "22",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Marco Borriello"
+                },
+                {
+                    "hash": "E59pt6lE",
+                    "name": "Ionita A.",
+                    "captain": "",
+                    "detail_link": "/player/ionita-artur/E59pt6lE/",
+                    "short_name": "Ionita",
+                    "shirt_number": "21",
+                    "country": "Moldova",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "68'",
+                            "description": "Joao Pedro",
+                            "linked_player_hash": "z9cTLJN5"
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Artur Ionita"
+                },
+                {
+                    "hash": "z1sACHIo",
+                    "name": "Isla M.",
+                    "captain": "",
+                    "detail_link": "/player/isla-mauricio/z1sACHIo/",
+                    "short_name": "Isla",
+                    "shirt_number": "3",
+                    "country": "Chile",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Mauricio Isla"
+                },
+                {
+                    "hash": "zH8sdfp0",
+                    "name": "Murru N.",
+                    "captain": "",
+                    "detail_link": "/player/murru-nicola/zH8sdfp0/",
+                    "short_name": "Murru",
+                    "shirt_number": "29",
+                    "country": "Italy",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "71'",
+                            "description": "Farago P.",
+                            "linked_player_hash": "04PSpODJ"
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Nicola Murru"
+                },
+                {
+                    "hash": "QioD60Ko",
+                    "name": "Padoin S.",
+                    "captain": "",
+                    "detail_link": "/player/padoin-simone/QioD60Ko/",
+                    "short_name": "Padoin",
+                    "shirt_number": "20",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Simone Padoin"
+                },
+                {
+                    "hash": "AweRIpPk",
+                    "name": "Pisacane F.",
+                    "captain": "",
+                    "detail_link": "/player/pisacane-fabio/AweRIpPk/",
+                    "short_name": "Pisacane",
+                    "shirt_number": "19",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Fabio Pisacane"
+                },
+                {
+                    "hash": "OrM1uurD",
+                    "name": "Rafael",
+                    "captain": "",
+                    "detail_link": "/player/rafael/OrM1uurD/",
+                    "short_name": "Rafael",
+                    "shirt_number": "1",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Rafael"
+                },
+                {
+                    "hash": "I3UbRqwl",
+                    "name": "Salamon B.",
+                    "captain": "",
+                    "detail_link": "/player/salamon-bartosz/I3UbRqwl/",
+                    "short_name": "Salamon",
+                    "shirt_number": "35",
+                    "country": "Poland",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Bartosz Salamon"
+                },
+                {
+                    "hash": "I9Np9B5T",
+                    "name": "Sau M.",
+                    "captain": "(C)",
+                    "detail_link": "/player/sau-marco/I9Np9B5T/",
+                    "short_name": "Sau",
+                    "shirt_number": "25",
+                    "country": "Italy",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "78'",
+                            "description": "Farias D.",
+                            "linked_player_hash": "rDyTOARm"
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Marco Sau"
+                },
+                {
+                    "hash": "raXy4HIm",
+                    "name": "Capuano M.",
+                    "captain": "",
+                    "detail_link": "/player/capuano-marco/raXy4HIm/",
+                    "short_name": "Capuano",
+                    "shirt_number": "24",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marco Capuano"
+                },
+                {
+                    "hash": "xS3ogX3n",
+                    "name": "Crosta L.",
+                    "captain": "",
+                    "detail_link": "/player/crosta-luca/xS3ogX3n/",
+                    "short_name": "Crosta",
+                    "shirt_number": "26",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Luca Crosta"
+                },
+                {
+                    "hash": "E9t2kgz3",
+                    "name": "Deiola A.",
+                    "captain": "",
+                    "detail_link": "/player/deiola-alessandro/E9t2kgz3/",
+                    "short_name": "Deiola",
+                    "shirt_number": "30",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Alessandro Deiola"
+                },
+                {
+                    "hash": "KfMTdtLt",
+                    "name": "Di Gennaro D.",
+                    "captain": "",
+                    "detail_link": "/player/di-gennaro-davide/KfMTdtLt/",
+                    "short_name": "Di Gennaro",
+                    "shirt_number": "8",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Davide Di Gennaro"
+                },
+                {
+                    "hash": "04PSpODJ",
+                    "name": "Farago P.",
+                    "captain": "",
+                    "detail_link": "/player/farago-paolo/04PSpODJ/",
+                    "short_name": "Farago",
+                    "shirt_number": "16",
+                    "country": "Italy",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "71'",
+                            "description": "Murru N.",
+                            "linked_player_hash": "zH8sdfp0"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Paolo Farago"
+                },
+                {
+                    "hash": "rDyTOARm",
+                    "name": "Farias D.",
+                    "captain": "",
+                    "detail_link": "/player/farias-diego/rDyTOARm/",
+                    "short_name": "Farias",
+                    "shirt_number": "17",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "78'",
+                            "description": "Sau M.",
+                            "linked_player_hash": "I9Np9B5T"
+                        },
+                        {
+                            "type": "3",
+                            "time": "90+2' Farias D. (Joao Pedro)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Diego Farias"
+                },
+                {
+                    "hash": "29ORgAw5",
+                    "name": "Gabriel",
+                    "captain": "",
+                    "detail_link": "/player/gabriel/29ORgAw5/",
+                    "short_name": "Gabriel",
+                    "shirt_number": "28",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Gabriel"
+                },
+                {
+                    "hash": "MNBFLjgd",
+                    "name": "Han Kwang-S.",
+                    "captain": "",
+                    "detail_link": "/player/han-kwang-song/MNBFLjgd/",
+                    "short_name": "Han",
+                    "shirt_number": "32",
+                    "country": "North Korea",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Kwang-Song Han"
+                },
+                {
+                    "hash": "z9cTLJN5",
+                    "name": "Joao Pedro",
+                    "captain": "",
+                    "detail_link": "/player/pedro-joao/z9cTLJN5/",
+                    "short_name": "Joao Pedro",
+                    "shirt_number": "10",
+                    "country": "Italy",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "68'",
+                            "description": "Ionita A.",
+                            "linked_player_hash": "E59pt6lE"
+                        },
+                        {
+                            "type": "8",
+                            "time": "90+2' Farias D. (Joao Pedro)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Joao Pedro"
+                },
+                {
+                    "hash": "fBwE9gv5",
+                    "name": "Tachtsidis P.",
+                    "captain": "",
+                    "detail_link": "/player/tachtsidis-panagiotis/fBwE9gv5/",
+                    "short_name": "Tachtsidis",
+                    "shirt_number": "77",
+                    "country": "Greece",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Panagiotis Tachtsidis"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "j5p3TmVr",
+                    "name": "Rastelli M.",
+                    "captain": "",
+                    "detail_link": "/player/rastelli-massimo/j5p3TmVr/",
+                    "short_name": "Rastelli M.",
+                    "shirt_number": "",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Massimo Rastelli"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Giacomelli P."
+    ],
+    "venue": [
+        "Stadio Diego Armando Maradona (Naples)"
+    ],
+    "attendance": [
+        "47 281"
+    ],
+    "referee_matched": [
+        "Piero Giacomelli"
+    ],
+    "referee_found": [
+        "Piero Giacomelli"
+    ],
+    "coach_matched": [
+        "Maurizio Sarri"
+    ],
+    "gameHomeTeam": "Napoli",
+    "home": {
+        "name": "Napoli",
+        "detail_link": "/team/napoli/69Dxbc61",
+        "hash": "69Dxbc61",
+        "names": [
+            "Napoli",
+            "Napoli (Ita)",
+            "napoli"
+        ]
+    },
+    "gameAwayTeam": "Cagliari",
+    "away": {
+        "name": "Cagliari",
+        "detail_link": "/team/cagliari/SCGVmKHb",
+        "hash": "SCGVmKHb",
+        "names": [
+            "Cagliari",
+            "cagliari"
+        ]
+    },
+    "gameDate": "06/05/2017 - 18:00",
+    "annotations": [
+        {
+            "important": true,
+            "gameTime": "2 - 47:09",
+            "label": "whistle",
+            "description": "Piero Giacomelli is looking at his watch and immediately ends this match.",
+            "identified": "[REFEREE] is looking at his watch and immediately ends this match.",
+            "anonymized": "[REFEREE] is looking at his watch and immediately ends this match.",
+            "visibility": "shown",
+            "position": "2829000",
+            "event_aligned_gameTime": "2 - 46:40",
+            "contrastive_aligned_gameTime": "2 - 46:34"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 46:51",
+            "label": "soccer-ball",
+            "description": "Diego Farias (Cagliari) received a delightful pass inside the box before slotting the ball past the goalkeeper. What a brilliant finish!",
+            "identified": "[PLAYER_rDyTOARm] ([TEAM_]) received a delightful pass inside the box before slotting the ball past the goalkeeper. What a brilliant finish!",
+            "anonymized": "[PLAYER] ([TEAM]) received a delightful pass inside the box before slotting the ball past the goalkeeper. What a brilliant finish!",
+            "visibility": "shown",
+            "position": "2811000",
+            "event_aligned_gameTime": "2 - 46:50",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "2 min. of stoppage-time to be played.",
+            "identified": "2 min. of stoppage-time to be played.",
+            "anonymized": "2 min. of stoppage-time to be played.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:20",
+            "contrastive_aligned_gameTime": "2 - 45:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 43:25",
+            "label": "",
+            "description": "Ambitious effort from Diego Farias (Cagliari). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the right post.",
+            "identified": "Ambitious effort from [PLAYER_rDyTOARm] ([TEAM_]). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the right post.",
+            "anonymized": "Ambitious effort from [PLAYER] ([TEAM]). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the right post.",
+            "visibility": "shown",
+            "position": "2605000",
+            "event_aligned_gameTime": "2 - 43:30",
+            "contrastive_aligned_gameTime": "2 - 43:33"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:13",
+            "label": "",
+            "description": "Jose Callejon (Napoli) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but Rafael was alert and the score remained the same.",
+            "identified": "[PLAYER_GtOw2z0j] ([TEAM_]) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but [PLAYER_KCOJxFQ2] was alert and the score remained the same.",
+            "anonymized": "[PLAYER] ([TEAM]) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but [PLAYER] was alert and the score remained the same.",
+            "visibility": "shown",
+            "position": "2473000",
+            "event_aligned_gameTime": "2 - 41:10",
+            "contrastive_aligned_gameTime": "2 - 41:07"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:11",
+            "label": "",
+            "description": "Emanuele Giaccherini (Napoli) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "identified": "[PLAYER_jHmytlL2] ([TEAM_]) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "visibility": "shown",
+            "position": "2171000",
+            "event_aligned_gameTime": "2 - 36:10",
+            "contrastive_aligned_gameTime": "2 - 36:06"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 33:26",
+            "label": "substitution",
+            "description": "Substitution. Emanuele Giaccherini (Napoli) has come on for Lorenzo Insigne.",
+            "identified": "Substitution. [PLAYER_jHmytlL2] ([TEAM_]) has come on for [PLAYER_6qUE0AeN].",
+            "anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER].",
+            "visibility": "shown",
+            "position": "2006000",
+            "event_aligned_gameTime": "2 - 33:30",
+            "contrastive_aligned_gameTime": "2 - 33:39"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 32:25",
+            "label": "substitution",
+            "description": "Marco Sau will be replaced by Diego Farias (Cagliari).",
+            "identified": "[PLAYER_I9Np9B5T] will be replaced by [PLAYER_rDyTOARm] ([TEAM_]).",
+            "anonymized": "[PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1945000",
+            "event_aligned_gameTime": "2 - 32:00",
+            "contrastive_aligned_gameTime": "2 - 31:49"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 31:40",
+            "label": "substitution",
+            "description": "Maurizio Sarri has decided to make a change. Arkadiusz Milik (Napoli) replaces Dries Mertens.",
+            "identified": "[COACH_pvzTXTMR] has decided to make a change. [PLAYER_EskCwiLE] ([TEAM_]) replaces [PLAYER_dfIcigtg].",
+            "anonymized": "[COACH] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+            "visibility": "shown",
+            "position": "1900000",
+            "event_aligned_gameTime": "2 - 31:30",
+            "contrastive_aligned_gameTime": "2 - 31:45"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:01",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) releases a promising shot from the free kick from around 25 metres out. The ball goes towards the middle of the goal, but the goalkeeper makes a save and denies him.",
+            "identified": "[PLAYER_6qUE0AeN] ([TEAM_]) releases a promising shot from the free kick from around 25 metres out. The ball goes towards the middle of the goal, but the goalkeeper makes a save and denies him.",
+            "anonymized": "[PLAYER] ([TEAM]) releases a promising shot from the free kick from around 25 metres out. The ball goes towards the middle of the goal, but the goalkeeper makes a save and denies him.",
+            "visibility": "shown",
+            "position": "1681000",
+            "event_aligned_gameTime": "2 - 28:00",
+            "contrastive_aligned_gameTime": "2 - 27:50"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 25:20",
+            "label": "substitution",
+            "description": "A substitution has been made. Nicola Murru is replaced by Paolo Farago (Cagliari).",
+            "identified": "A substitution has been made. [PLAYER_zH8sdfp0] is replaced by [PLAYER_04PSpODJ] ([TEAM_]).",
+            "anonymized": "A substitution has been made. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1520000",
+            "event_aligned_gameTime": "2 - 25:20",
+            "contrastive_aligned_gameTime": "2 - 25:09"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 24:30",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) takes the corner kick but the ball only finds the head of an opponent.",
+            "identified": "[PLAYER_GtOw2z0j] ([TEAM_]) takes the corner kick but the ball only finds the head of an opponent.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent.",
+            "visibility": "shown",
+            "position": "1470000",
+            "event_aligned_gameTime": "2 - 24:20",
+            "contrastive_aligned_gameTime": "2 - 24:44"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 24:19",
+            "label": "",
+            "description": "Jose Callejon (Napoli) wastes a good opportunity as his pass into the box is blocked by the defence. The referee points to the corner flag and Napoli will take a corner.",
+            "identified": "[PLAYER_GtOw2z0j] ([TEAM_]) wastes a good opportunity as his pass into the box is blocked by the defence. The referee points to the corner flag and [TEAM_] will take a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) wastes a good opportunity as his pass into the box is blocked by the defence. The referee points to the corner flag and [TEAM] will take a corner.",
+            "visibility": "shown",
+            "position": "1459000",
+            "event_aligned_gameTime": "2 - 24:10",
+            "contrastive_aligned_gameTime": "2 - 24:46"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 23:34",
+            "label": "substitution",
+            "description": "Maurizio Sarri has decided to introduce fresh legs, with Marko Rog (Napoli) replacing Marek Hamsik.",
+            "identified": "[COACH_pvzTXTMR] has decided to introduce fresh legs, with [PLAYER_EcdOzaBB] ([TEAM_]) replacing [PLAYER_AoWVYBUC].",
+            "anonymized": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+            "visibility": "shown",
+            "position": "1414000",
+            "event_aligned_gameTime": "2 - 23:00",
+            "contrastive_aligned_gameTime": "2 - 22:59"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 23:00",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Artur Ionita leaves the pitch and Joao Pedro (Cagliari) comes on.",
+            "identified": "The referee stops play so that a substitution can be made and [PLAYER_E59pt6lE] leaves the pitch and [PLAYER_z9cTLJN5] ([TEAM_]) comes on.",
+            "anonymized": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+            "visibility": "shown",
+            "position": "1380000",
+            "event_aligned_gameTime": "2 - 22:30",
+            "contrastive_aligned_gameTime": "2 - 22:41"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 22:00",
+            "label": "soccer-ball",
+            "description": "It's 3:0! Dries Mertens feeds Lorenzo Insigne (Napoli) inside the box, who is unmarked and buries the ball in the top right corner.",
+            "identified": "It's 3:0! [PLAYER_dfIcigtg] feeds [PLAYER_6qUE0AeN] ([TEAM_]) inside the box, who is unmarked and buries the ball in the top right corner.",
+            "anonymized": "It's 3:0! [PLAYER] feeds [PLAYER] ([TEAM]) inside the box, who is unmarked and buries the ball in the top right corner.",
+            "visibility": "shown",
+            "position": "1320000",
+            "event_aligned_gameTime": "2 - 21:50",
+            "contrastive_aligned_gameTime": "2 - 21:49"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:27",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "identified": "[PLAYER_x2eF9dok] ([TEAM_]) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "visibility": "shown",
+            "position": "1227000",
+            "event_aligned_gameTime": "2 - 20:10",
+            "contrastive_aligned_gameTime": "2 - 19:37"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 19:27",
+            "label": "",
+            "description": "Raul Albiol (Napoli) leaps high to connect with a well-taken corner kick and heads towards the top of the net. Rafael is alert and pulls off a great save to deflect the ball onto the bar. Napoli have been awarded a corner kick.",
+            "identified": "[PLAYER_AkMslDtA] ([TEAM_]) leaps high to connect with a well-taken corner kick and heads towards the top of the net. [PLAYER_KCOJxFQ2] is alert and pulls off a great save to deflect the ball onto the bar. [TEAM_] have been awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) leaps high to connect with a well-taken corner kick and heads towards the top of the net. [PLAYER] is alert and pulls off a great save to deflect the ball onto the bar. [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "1167000",
+            "event_aligned_gameTime": "2 - 19:30",
+            "contrastive_aligned_gameTime": "2 - 19:18"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:04",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) will try to find the head of one of his teammates from a corner kick.",
+            "identified": "[PLAYER_x2eF9dok] ([TEAM_]) will try to find the head of one of his teammates from a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) will try to find the head of one of his teammates from a corner kick.",
+            "visibility": "shown",
+            "position": "1144000",
+            "event_aligned_gameTime": "2 - 19:00",
+            "contrastive_aligned_gameTime": "2 - 19:37"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:38",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) has an effort from distance but it's blocked. The linesman makes the right call and Napoli will have a corner.",
+            "identified": "[PLAYER_6qUE0AeN] ([TEAM_]) has an effort from distance but it's blocked. The linesman makes the right call and [TEAM_] will have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) has an effort from distance but it's blocked. The linesman makes the right call and [TEAM] will have a corner.",
+            "visibility": "shown",
+            "position": "1118000",
+            "event_aligned_gameTime": "2 - 18:30",
+            "contrastive_aligned_gameTime": "2 - 19:10"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 12:12",
+            "label": "",
+            "description": "Jose Callejon (Napoli) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the left post.",
+            "identified": "[PLAYER_GtOw2z0j] ([TEAM_]) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the left post.",
+            "visibility": "shown",
+            "position": "732000",
+            "event_aligned_gameTime": "2 - 12:00",
+            "contrastive_aligned_gameTime": "2 - 11:40"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:05",
+            "label": "corner",
+            "description": "The resulting corner from Faouzi Ghoulam (Napoli) is cleared by the defence.",
+            "identified": "The resulting corner from [PLAYER_x2eF9dok] ([TEAM_]) is cleared by the defence.",
+            "anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the defence.",
+            "visibility": "shown",
+            "position": "665000",
+            "event_aligned_gameTime": "2 - 10:40",
+            "contrastive_aligned_gameTime": "2 - 10:08"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:43",
+            "label": "",
+            "description": "Dries Mertens (Napoli) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. Napoli earn a corner.",
+            "identified": "[PLAYER_dfIcigtg] ([TEAM_]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. [TEAM_] earn a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. [TEAM] earn a corner.",
+            "visibility": "shown",
+            "position": "643000",
+            "event_aligned_gameTime": "2 - 10:40",
+            "contrastive_aligned_gameTime": "2 - 10:40"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 10:00",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Piotr Zielinski (Napoli) was quite harsh and Piero Giacomelli didn't hesitate to show him a yellow card.",
+            "identified": "This yellow card was deserved. The tackle by [PLAYER_dlFNZSvb] ([TEAM_]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+            "anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+            "visibility": "shown",
+            "position": "600000",
+            "event_aligned_gameTime": "2 - 10:00",
+            "contrastive_aligned_gameTime": "2 - 10:03"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:07",
+            "label": "corner",
+            "description": "A dangerous looking corner kick from Marek Hamsik (Napoli) is cleared to safety by the defence.",
+            "identified": "A dangerous looking corner kick from [PLAYER_AoWVYBUC] ([TEAM_]) is cleared to safety by the defence.",
+            "anonymized": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence.",
+            "visibility": "shown",
+            "position": "427000",
+            "event_aligned_gameTime": "2 - 07:00",
+            "contrastive_aligned_gameTime": "2 - 06:54"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 06:46",
+            "label": "",
+            "description": "Dries Mertens (Napoli) misses a good chance to score. An inch-perfect cross into the box finds Dries Mertens (Napoli) who rises for a header, but sends the ball well over the bar. The referee blows his whistle, Napoli are awarded a corner kick.",
+            "identified": "[PLAYER_dfIcigtg] ([TEAM_]) misses a good chance to score. An inch-perfect cross into the box finds [PLAYER_dfIcigtg] ([TEAM_]) who rises for a header, but sends the ball well over the bar. The referee blows his whistle, [TEAM_] are awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) misses a good chance to score. An inch-perfect cross into the box finds [PLAYER] ([TEAM]) who rises for a header, but sends the ball well over the bar. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "406000",
+            "event_aligned_gameTime": "2 - 06:40",
+            "contrastive_aligned_gameTime": "2 - 06:51"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 05:23",
+            "label": "corner",
+            "description": "Nicolo Barella (Cagliari) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "identified": "[PLAYER_W0yrjzz2] ([TEAM_]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "visibility": "shown",
+            "position": "323000",
+            "event_aligned_gameTime": "2 - 05:20",
+            "contrastive_aligned_gameTime": "2 - 05:37"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 04:00",
+            "label": "soccer-ball",
+            "description": "Goal! Dries Mertens (Napoli) collects a pass and without hesitation fires an unstoppable shot into the bottom left corner.",
+            "identified": "Goal! [PLAYER_dfIcigtg] ([TEAM_]) collects a pass and without hesitation fires an unstoppable shot into the bottom left corner.",
+            "anonymized": "Goal! [PLAYER] ([TEAM]) collects a pass and without hesitation fires an unstoppable shot into the bottom left corner.",
+            "visibility": "shown",
+            "position": "240000",
+            "event_aligned_gameTime": "2 - 04:00",
+            "contrastive_aligned_gameTime": "2 - 03:29"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:39",
+            "label": "injury",
+            "description": "Fabio Pisacane (Cagliari) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "identified": "[PLAYER_AweRIpPk] ([TEAM_]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "visibility": "shown",
+            "position": "159000",
+            "event_aligned_gameTime": "2 - 02:30",
+            "contrastive_aligned_gameTime": "2 - 02:15"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half.",
+            "identified": "The game restarts for the second half.",
+            "anonymized": "The game restarts for the second half.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:10",
+            "contrastive_aligned_gameTime": "2 - 00:01"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 46:11",
+            "label": "whistle",
+            "description": "The match has reached half-time.",
+            "identified": "The match has reached half-time.",
+            "anonymized": "The match has reached half-time.",
+            "visibility": "shown",
+            "position": "2771000",
+            "event_aligned_gameTime": "1 - 46:11",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 46:00",
+            "label": "",
+            "description": "The resulting free kick from 24 metres out taken by Marco Borriello (Cagliari) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper.",
+            "identified": "The resulting free kick from 24 metres out taken by [PLAYER_xEaHsImp] ([TEAM_]) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper.",
+            "anonymized": "The resulting free kick from 24 metres out taken by [PLAYER] ([TEAM]) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper.",
+            "visibility": "shown",
+            "position": "2760000",
+            "event_aligned_gameTime": "1 - 44:55",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:17",
+            "label": "",
+            "description": "Cagliari are awarded a free kick on the edge of the box.",
+            "identified": "[TEAM_] are awarded a free kick on the edge of the box.",
+            "anonymized": "[TEAM] are awarded a free kick on the edge of the box.",
+            "visibility": "shown",
+            "position": "2717000",
+            "event_aligned_gameTime": "1 - 44:40",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 44:15",
+            "label": "",
+            "description": "Dries Mertens (Napoli) goes on a mazy run through the defence and gets within shooting range inside the box, but his low effort to the middle of the target is thwarted by Rafael.",
+            "identified": "[PLAYER_dfIcigtg] ([TEAM_]) goes on a mazy run through the defence and gets within shooting range inside the box, but his low effort to the middle of the target is thwarted by [PLAYER_KCOJxFQ2].",
+            "anonymized": "[PLAYER] ([TEAM]) goes on a mazy run through the defence and gets within shooting range inside the box, but his low effort to the middle of the target is thwarted by [PLAYER].",
+            "visibility": "shown",
+            "position": "2655000",
+            "event_aligned_gameTime": "1 - 44:00",
+            "contrastive_aligned_gameTime": "1 - 44:35"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:07",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) takes the resulting corner which is well defended.",
+            "identified": "[PLAYER_x2eF9dok] ([TEAM_]) takes the resulting corner which is well defended.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended.",
+            "visibility": "shown",
+            "position": "2527000",
+            "event_aligned_gameTime": "1 - 41:50",
+            "contrastive_aligned_gameTime": "1 - 42:15"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:49",
+            "label": "",
+            "description": "Marek Hamsik (Napoli) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee and one of his assistants signal for a corner kick to Napoli.",
+            "identified": "[PLAYER_AoWVYBUC] ([TEAM_]) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee and one of his assistants signal for a corner kick to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee and one of his assistants signal for a corner kick to [TEAM].",
+            "visibility": "shown",
+            "position": "2509000",
+            "event_aligned_gameTime": "1 - 41:40",
+            "contrastive_aligned_gameTime": "1 - 42:14"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:09",
+            "label": "",
+            "description": "Piero Giacomelli blows his whistle and signals a foul after Simone Padoin (Cagliari) brought his opponent down.",
+            "identified": "[REFEREE] blows his whistle and signals a foul after [PLAYER_QioD60Ko] ([TEAM_]) brought his opponent down.",
+            "anonymized": "[REFEREE] blows his whistle and signals a foul after [PLAYER] ([TEAM]) brought his opponent down.",
+            "visibility": "shown",
+            "position": "2469000",
+            "event_aligned_gameTime": "1 - 41:00",
+            "contrastive_aligned_gameTime": "1 - 41:28"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 36:33",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!",
+            "identified": "[PLAYER_6qUE0AeN] ([TEAM_]) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!",
+            "visibility": "shown",
+            "position": "2193000",
+            "event_aligned_gameTime": "1 - 36:30",
+            "contrastive_aligned_gameTime": "1 - 37:02"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:55",
+            "label": "corner",
+            "description": "Nicolo Barella (Cagliari) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "identified": "[PLAYER_W0yrjzz2] ([TEAM_]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "visibility": "shown",
+            "position": "2155000",
+            "event_aligned_gameTime": "1 - 35:30",
+            "contrastive_aligned_gameTime": "1 - 35:19"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:21",
+            "label": "",
+            "description": "Marco Sau (Cagliari) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger. Now Cagliari have a corner.",
+            "identified": "[PLAYER_I9Np9B5T] ([TEAM_]) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger. Now [TEAM_] have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger. Now [TEAM] have a corner.",
+            "visibility": "shown",
+            "position": "2121000",
+            "event_aligned_gameTime": "1 - 35:20",
+            "contrastive_aligned_gameTime": "1 - 35:44"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:26",
+            "label": "",
+            "description": "What a chance for Piotr Zielinski (Napoli) as he produced a stunning snap shot from the edge of the box! The goalkeeper was a bit lucky as the ball went just wide of the right post.",
+            "identified": "What a chance for [PLAYER_dlFNZSvb] ([TEAM_]) as he produced a stunning snap shot from the edge of the box! The goalkeeper was a bit lucky as the ball went just wide of the right post.",
+            "anonymized": "What a chance for [PLAYER] ([TEAM]) as he produced a stunning snap shot from the edge of the box! The goalkeeper was a bit lucky as the ball went just wide of the right post.",
+            "visibility": "shown",
+            "position": "2066000",
+            "event_aligned_gameTime": "1 - 34:20",
+            "contrastive_aligned_gameTime": "1 - 34:14"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:06",
+            "label": "",
+            "description": "The game is interrupted as Lorenzo Insigne (Napoli) is flagged offside.",
+            "identified": "The game is interrupted as [PLAYER_6qUE0AeN] ([TEAM_]) is flagged offside.",
+            "anonymized": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside.",
+            "visibility": "shown",
+            "position": "1986000",
+            "event_aligned_gameTime": "1 - 32:50",
+            "contrastive_aligned_gameTime": "1 - 33:33"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:50",
+            "label": "",
+            "description": "Lovely skill from Marek Hamsik (Napoli) as he gets away from defenders and unleashes a shot from 45 metres out, but his effort goes just over the bar.",
+            "identified": "Lovely skill from [PLAYER_AoWVYBUC] ([TEAM_]) as he gets away from defenders and unleashes a shot from 45 metres out, but his effort goes just over the bar.",
+            "anonymized": "Lovely skill from [PLAYER] ([TEAM]) as he gets away from defenders and unleashes a shot from 45 metres out, but his effort goes just over the bar.",
+            "visibility": "shown",
+            "position": "1850000",
+            "event_aligned_gameTime": "1 - 30:50",
+            "contrastive_aligned_gameTime": "1 - 31:31"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:35",
+            "label": "",
+            "description": "That was close by Dries Mertens (Napoli)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the right post.",
+            "identified": "That was close by [PLAYER_dfIcigtg] ([TEAM_])! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the right post.",
+            "anonymized": "That was close by [PLAYER] ([TEAM])! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the right post.",
+            "visibility": "shown",
+            "position": "1775000",
+            "event_aligned_gameTime": "1 - 29:10",
+            "contrastive_aligned_gameTime": "1 - 29:29"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 28:21",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) is afforded space inside the box after collecting a pass, but the chance is wasted as his shot goes harmlessly over the crossbar. The ball is off of the pitch and it's a goal kick for Cagliari.",
+            "identified": "[PLAYER_6qUE0AeN] ([TEAM_]) is afforded space inside the box after collecting a pass, but the chance is wasted as his shot goes harmlessly over the crossbar. The ball is off of the pitch and it's a goal kick for [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) is afforded space inside the box after collecting a pass, but the chance is wasted as his shot goes harmlessly over the crossbar. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "visibility": "shown",
+            "position": "1701000",
+            "event_aligned_gameTime": "1 - 28:20",
+            "contrastive_aligned_gameTime": "1 - 27:42"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:41",
+            "label": "",
+            "description": "Marco Borriello (Cagliari) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the bottom right corner. Pepe Reina has a clear sight of it and makes a comfortable save.",
+            "identified": "[PLAYER_xEaHsImp] ([TEAM_]) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the bottom right corner. [PLAYER_KrEhnvkN] has a clear sight of it and makes a comfortable save.",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the bottom right corner. [PLAYER] has a clear sight of it and makes a comfortable save.",
+            "visibility": "shown",
+            "position": "1481000",
+            "event_aligned_gameTime": "1 - 24:30",
+            "contrastive_aligned_gameTime": "1 - 25:02"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 21:50",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar.",
+            "identified": "[PLAYER_6qUE0AeN] ([TEAM_]) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar.",
+            "anonymized": "[PLAYER] ([TEAM]) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar.",
+            "visibility": "shown",
+            "position": "1310000",
+            "event_aligned_gameTime": "1 - 21:50",
+            "contrastive_aligned_gameTime": "1 - 21:05"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 20:34",
+            "label": "",
+            "description": "Jose Callejon (Napoli) is offside and the linesman raises his flag.",
+            "identified": "[PLAYER_GtOw2z0j] ([TEAM_]) is offside and the linesman raises his flag.",
+            "anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag.",
+            "visibility": "shown",
+            "position": "1234000",
+            "event_aligned_gameTime": "1 - 20:30",
+            "contrastive_aligned_gameTime": "1 - 20:49"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:41",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) gets on the end of a good pass and from mid-range he unleashes a decent strike, but the shot is blocked by the defender.",
+            "identified": "[PLAYER_6qUE0AeN] ([TEAM_]) gets on the end of a good pass and from mid-range he unleashes a decent strike, but the shot is blocked by the defender.",
+            "anonymized": "[PLAYER] ([TEAM]) gets on the end of a good pass and from mid-range he unleashes a decent strike, but the shot is blocked by the defender.",
+            "visibility": "shown",
+            "position": "1121000",
+            "event_aligned_gameTime": "1 - 18:40",
+            "contrastive_aligned_gameTime": "1 - 19:14"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:34",
+            "label": "",
+            "description": "Jose Callejon (Napoli) attempted to pick out a free teammate inside the box, but Rafael comes off the line to clear the ball away.",
+            "identified": "[PLAYER_GtOw2z0j] ([TEAM_]) attempted to pick out a free teammate inside the box, but [PLAYER_KCOJxFQ2] comes off the line to clear the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away.",
+            "visibility": "shown",
+            "position": "934000",
+            "event_aligned_gameTime": "1 - 15:30",
+            "contrastive_aligned_gameTime": "1 - 15:19"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:59",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) fails to deliver a decent cross from the corner and the ball goes out of play.",
+            "identified": "[PLAYER_x2eF9dok] ([TEAM_]) fails to deliver a decent cross from the corner and the ball goes out of play.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to deliver a decent cross from the corner and the ball goes out of play.",
+            "visibility": "shown",
+            "position": "719000",
+            "event_aligned_gameTime": "1 - 11:50",
+            "contrastive_aligned_gameTime": "1 - 11:39"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:48",
+            "label": "",
+            "description": "Jose Callejon (Napoli) tries to send a pass but it's blocked. Napoli will have a chance to score from a corner kick.",
+            "identified": "[PLAYER_GtOw2z0j] ([TEAM_]) tries to send a pass but it's blocked. [TEAM_] will have a chance to score from a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. [TEAM] will have a chance to score from a corner kick.",
+            "visibility": "shown",
+            "position": "708000",
+            "event_aligned_gameTime": "1 - 11:20",
+            "contrastive_aligned_gameTime": "1 - 12:02"
+        }
+    ]
+}

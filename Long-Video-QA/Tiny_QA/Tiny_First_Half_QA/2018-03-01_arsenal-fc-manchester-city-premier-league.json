@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Has David Silva scored multiple goals?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 0"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      4,
+      6
+    ],
+    "current_event_index": null,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "Did Arsenal have any players booked in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": null,
+    "index": 11,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many yellow cards have occurred so far in the first half up to the 18:17 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had a player booked first in the first half?",
+    "choices": [
+      "A. Manchester City",
+      "B. Arsenal",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": null,
+    "index": 1,
+    "event_type": "yellow card"
+  }
+]

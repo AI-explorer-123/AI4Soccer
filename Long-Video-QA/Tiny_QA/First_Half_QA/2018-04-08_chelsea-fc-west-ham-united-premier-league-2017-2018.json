@@ -1,0 +1,345 @@
+[
+  {
+    "question": "How many goals have occurred so far in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals in the first half up to now?",
+    "choices": [
+      "A. Chelsea",
+      "B. Opponent",
+      "C. Both teams have scored equally",
+      "D. No goals yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who was the first player to score in the match?",
+    "choices": [
+      "A. Cesar Azpilicueta",
+      "B. Opponent Player 1",
+      "C. Opponent Player 2",
+      "D. No goals yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the first half?",
+    "choices": [
+      "A. Chelsea",
+      "B. Opponent",
+      "C. Both teams scored equally",
+      "D. No goals"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who were all the players involved in first half goals?",
+    "choices": [
+      "A. Cesar Azpilicueta",
+      "B. Opponent Player 1",
+      "C. Both A and B",
+      "D. No goals"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 7,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Chelsea",
+      "B. Opponent",
+      "C. Both equally",
+      "D. No more goals"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 7,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Cesar Azpilicueta",
+      "B. Opponent Player 1",
+      "C. Opponent Player 2",
+      "D. No more goals"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 7,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 6th minute?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 14th minute?",
+    "choices": [
+      "A. West Ham",
+      "B. Chelsea",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners in the first half up to the 20th minute?",
+    "choices": [
+      "A. Joao Mario",
+      "B. Aaron Cresswell",
+      "C. Willian",
+      "D. Cesc Fabregas"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 7"
+    ],
+    "answer": "D",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. West Ham",
+      "B. Chelsea",
+      "C. Both teams had equal corners",
+      "D. Neither team had corners"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Joao Mario",
+      "B. Aaron Cresswell",
+      "C. Willian",
+      "D. Cesc Fabregas"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 30th minute?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more corner",
+      "D. Two more corners"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      6,
+      8
+    ],
+    "current_event_index": 5,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 25th minute?",
+    "choices": [
+      "A. West Ham",
+      "B. Chelsea",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      6,
+      8
+    ],
+    "current_event_index": 4,
+    "index": 8,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after the 35th minute?",
+    "choices": [
+      "A. Joao Mario",
+      "B. Aaron Cresswell",
+      "C. Willian",
+      "D. Cesc Fabregas"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 6,
+    "index": 9,
+    "event_type": "corner"
+  }
+]

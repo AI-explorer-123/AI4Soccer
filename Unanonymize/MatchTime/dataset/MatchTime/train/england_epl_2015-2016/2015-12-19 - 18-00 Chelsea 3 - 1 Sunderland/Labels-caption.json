@@ -1,0 +1,1826 @@
+{
+    "timestamp": "1450537200",
+    "score": "3 - 1",
+    "round": "17",
+    "teams": [
+        "Chelsea",
+        "Sunderland"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-2-3-1",
+            "players": [
+                {
+                    "hash": "CMGUADgt",
+                    "name": "Azpilicueta C.",
+                    "captain": "",
+                    "detail_link": "/player/azpilicueta-cesar/CMGUADgt/",
+                    "short_name": "Azpilicueta",
+                    "shirt_number": "28",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Cesar Azpilicueta"
+                },
+                {
+                    "hash": "vBw5nir8",
+                    "name": "Costa D.",
+                    "captain": "",
+                    "detail_link": "/player/costa-diego/vBw5nir8/",
+                    "short_name": "Costa",
+                    "shirt_number": "19",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "76'",
+                            "description": "Remy L.",
+                            "linked_player_hash": "hYsYT4nh"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Diego Costa"
+                },
+                {
+                    "hash": "MVExOq3n",
+                    "name": "Courtois T.",
+                    "captain": "",
+                    "detail_link": "/player/courtois-thibaut/MVExOq3n/",
+                    "short_name": "Courtois",
+                    "shirt_number": "13",
+                    "country": "Belgium",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Thibaut Courtois"
+                },
+                {
+                    "hash": "YXIDwoe5",
+                    "name": "Fabregas C.",
+                    "captain": "",
+                    "detail_link": "/player/fabregas-cesc/YXIDwoe5/",
+                    "short_name": "Fabregas",
+                    "shirt_number": "4",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "71'",
+                            "description": "Mikel J. O.",
+                            "linked_player_hash": "8AkbVvN2"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Cesc Fabregas"
+                },
+                {
+                    "hash": "Qe3xUmHo",
+                    "name": "Ivanovic B.",
+                    "captain": "",
+                    "detail_link": "/player/ivanovic-branislav/Qe3xUmHo/",
+                    "short_name": "Ivanovic",
+                    "shirt_number": "2",
+                    "country": "Serbia",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "5' Ivanovic B. (Willian)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "13' Pedro (Ivanovic B.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Branislav Ivanovic"
+                },
+                {
+                    "hash": "Kty10JVG",
+                    "name": "Matic N.",
+                    "captain": "",
+                    "detail_link": "/player/matic-nemanja/Kty10JVG/",
+                    "short_name": "Matic",
+                    "shirt_number": "21",
+                    "country": "Serbia",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "88' Matic N. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Nemanja Matic"
+                },
+                {
+                    "hash": "KfKDzbEo",
+                    "name": "Oscar",
+                    "captain": "",
+                    "detail_link": "/player/oscar/KfKDzbEo/",
+                    "short_name": "Oscar",
+                    "shirt_number": "8",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "82'",
+                            "description": "Ramires",
+                            "linked_player_hash": "8APqwh2k"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Oscar"
+                },
+                {
+                    "hash": "0f1tMqQl",
+                    "name": "Pedro",
+                    "captain": "",
+                    "detail_link": "/player/pedro/0f1tMqQl/",
+                    "short_name": "Pedro",
+                    "shirt_number": "17",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "13' Pedro (Ivanovic B.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Pedro"
+                },
+                {
+                    "hash": "0AovoI68",
+                    "name": "Terry J.",
+                    "captain": "(C)",
+                    "detail_link": "/player/terry-john/0AovoI68/",
+                    "short_name": "Terry",
+                    "shirt_number": "26",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "John Terry"
+                },
+                {
+                    "hash": "GSzdOhPI",
+                    "name": "Willian",
+                    "captain": "",
+                    "detail_link": "/player/willian/GSzdOhPI/",
+                    "short_name": "Willian",
+                    "shirt_number": "22",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "5' Ivanovic B. (Willian)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Willian"
+                },
+                {
+                    "hash": "SKosf7jl",
+                    "name": "Zouma K.",
+                    "captain": "",
+                    "detail_link": "/player/zouma-kurt/SKosf7jl/",
+                    "short_name": "Zouma",
+                    "shirt_number": "5",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Kurt Zouma"
+                },
+                {
+                    "hash": "K2yVXyhU",
+                    "name": "Baba A.",
+                    "captain": "",
+                    "detail_link": "/player/baba-rahman/K2yVXyhU/",
+                    "short_name": "Baba",
+                    "shirt_number": "6",
+                    "country": "Ghana",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Abdul-Rahman Baba"
+                },
+                {
+                    "hash": "xO2Ce0IG",
+                    "name": "Begovic A.",
+                    "captain": "",
+                    "detail_link": "/player/begovic-asmir/xO2Ce0IG/",
+                    "short_name": "Begovic",
+                    "shirt_number": "1",
+                    "country": "Bosnia and Herzegovina",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Asmir Begovic"
+                },
+                {
+                    "hash": "pKpkgR1U",
+                    "name": "Cahill G.",
+                    "captain": "",
+                    "detail_link": "/player/cahill-gary/pKpkgR1U/",
+                    "short_name": "Cahill",
+                    "shirt_number": "24",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Gary Cahill"
+                },
+                {
+                    "hash": "8AkbVvN2",
+                    "name": "Mikel J. O.",
+                    "captain": "",
+                    "detail_link": "/player/mikel-john-obi/8AkbVvN2/",
+                    "short_name": "Mikel",
+                    "shirt_number": "12",
+                    "country": "Nigeria",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "71'",
+                            "description": "Fabregas C.",
+                            "linked_player_hash": "YXIDwoe5"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "John Obi Mikel"
+                },
+                {
+                    "hash": "8APqwh2k",
+                    "name": "Ramires",
+                    "captain": "",
+                    "detail_link": "/player/ramires/8APqwh2k/",
+                    "short_name": "Ramires",
+                    "shirt_number": "7",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "82'",
+                            "description": "Oscar",
+                            "linked_player_hash": "KfKDzbEo"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ramires"
+                },
+                {
+                    "hash": "hYsYT4nh",
+                    "name": "Remy L.",
+                    "captain": "",
+                    "detail_link": "/player/remy-loic/hYsYT4nh/",
+                    "short_name": "Remy",
+                    "shirt_number": "18",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "76'",
+                            "description": "Costa D.",
+                            "linked_player_hash": "vBw5nir8"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Loic Remy"
+                },
+                {
+                    "hash": "MwckEcbf",
+                    "name": "Traore B.",
+                    "captain": "",
+                    "detail_link": "/player/traore-bertrand/MwckEcbf/",
+                    "short_name": "Traore",
+                    "shirt_number": "14",
+                    "country": "Burkina Faso",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Bertrand Traore"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "WQ8rbp2a",
+                    "name": "Holland S.",
+                    "captain": "",
+                    "detail_link": "/player/holland-steve/WQ8rbp2a/",
+                    "short_name": "Holland S.",
+                    "shirt_number": "",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Steve Holland"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-5-3-2",
+            "players": [
+                {
+                    "hash": "EBYxT1SP",
+                    "name": "Coates S.",
+                    "captain": "",
+                    "detail_link": "/player/coates-sebastian/EBYxT1SP/",
+                    "short_name": "Coates",
+                    "shirt_number": "22",
+                    "country": "Uruguay",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "23'",
+                            "description": "Johnson A.",
+                            "linked_player_hash": "06c4x0oF"
+                        }
+                    ],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Sebastian Coates"
+                },
+                {
+                    "hash": "QDtjHrsH",
+                    "name": "Defoe J.",
+                    "captain": "",
+                    "detail_link": "/player/defoe-jermain/QDtjHrsH/",
+                    "short_name": "Defoe",
+                    "shirt_number": "18",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Jermain Defoe"
+                },
+                {
+                    "hash": "K81tpGcq",
+                    "name": "Jones B.",
+                    "captain": "",
+                    "detail_link": "/player/jones-billy/K81tpGcq/",
+                    "short_name": "Jones",
+                    "shirt_number": "2",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Billy Jones"
+                },
+                {
+                    "hash": "pKEB1MVr",
+                    "name": "Kaboul Y.",
+                    "captain": "",
+                    "detail_link": "/player/kaboul-younes/pKEB1MVr/",
+                    "short_name": "Kaboul",
+                    "shirt_number": "15",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "52' Borini F. (Kaboul Y.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Younes Kaboul"
+                },
+                {
+                    "hash": "GOdGE1cn",
+                    "name": "M'Vila Y.",
+                    "captain": "",
+                    "detail_link": "/player/m-vila-yann/GOdGE1cn/",
+                    "short_name": "M'Vila",
+                    "shirt_number": "21",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Yann M'Vila"
+                },
+                {
+                    "hash": "dtoEGjd5",
+                    "name": "O'Shea J.",
+                    "captain": "(C)",
+                    "detail_link": "/player/o-shea-john/dtoEGjd5/",
+                    "short_name": "O'Shea",
+                    "shirt_number": "16",
+                    "country": "Ireland",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "89' O'Shea J. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "John O'Shea"
+                },
+                {
+                    "hash": "xAk7pvWT",
+                    "name": "Pantilimon C.",
+                    "captain": "",
+                    "detail_link": "/player/pantilimon-costel/xAk7pvWT/",
+                    "short_name": "Pantilimon",
+                    "shirt_number": "1",
+                    "country": "Romania",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "48' Pantilimon C. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Costel Pantilimon"
+                },
+                {
+                    "hash": "GnFDoQHr",
+                    "name": "Rodwell J.",
+                    "captain": "",
+                    "detail_link": "/player/rodwell-jack/GnFDoQHr/",
+                    "short_name": "Rodwell",
+                    "shirt_number": "8",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "62' Rodwell J. (Holding)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Jack Rodwell"
+                },
+                {
+                    "hash": "Srp107M5",
+                    "name": "Toivonen O.",
+                    "captain": "",
+                    "detail_link": "/player/toivonen-ola/Srp107M5/",
+                    "short_name": "Toivonen",
+                    "shirt_number": "20",
+                    "country": "Sweden",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "46'",
+                            "description": "Borini F.",
+                            "linked_player_hash": "vgf4LRaj"
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Ola Toivonen"
+                },
+                {
+                    "hash": "GxbOZOLI",
+                    "name": "van Aanholt P.",
+                    "captain": "",
+                    "detail_link": "/player/van-aanholt-patrick/GxbOZOLI/",
+                    "short_name": "van Aanholt",
+                    "shirt_number": "3",
+                    "country": "Netherlands",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Patrick van Aanholt"
+                },
+                {
+                    "hash": "EF5xKj4t",
+                    "name": "Watmore D.",
+                    "captain": "",
+                    "detail_link": "/player/watmore-duncan/EF5xKj4t/",
+                    "short_name": "Watmore",
+                    "shirt_number": "41",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "79'",
+                            "description": "Graham D.",
+                            "linked_player_hash": "jToeoKcE"
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Duncan Watmore"
+                },
+                {
+                    "hash": "vgf4LRaj",
+                    "name": "Borini F.",
+                    "captain": "",
+                    "detail_link": "/player/borini-fabio/vgf4LRaj/",
+                    "short_name": "Borini",
+                    "shirt_number": "9",
+                    "country": "Italy",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "46'",
+                            "description": "Toivonen O.",
+                            "linked_player_hash": "Srp107M5"
+                        },
+                        {
+                            "type": "3",
+                            "time": "52' Borini F. (Kaboul Y.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Fabio Borini"
+                },
+                {
+                    "hash": "A1SNPU17",
+                    "name": "Fletcher S.",
+                    "captain": "",
+                    "detail_link": "/player/fletcher-steven/A1SNPU17/",
+                    "short_name": "Fletcher",
+                    "shirt_number": "26",
+                    "country": "Scotland",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Steven Fletcher"
+                },
+                {
+                    "hash": "xWYGfJUT",
+                    "name": "Gomez J.",
+                    "captain": "",
+                    "detail_link": "/player/gomez-jordi/xWYGfJUT/",
+                    "short_name": "Gomez",
+                    "shirt_number": "14",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jordi Gomez"
+                },
+                {
+                    "hash": "jToeoKcE",
+                    "name": "Graham D.",
+                    "captain": "",
+                    "detail_link": "/player/graham-danny/jToeoKcE/",
+                    "short_name": "Graham",
+                    "shirt_number": "19",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "79'",
+                            "description": "Watmore D.",
+                            "linked_player_hash": "EF5xKj4t"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Danny Graham"
+                },
+                {
+                    "hash": "06c4x0oF",
+                    "name": "Johnson A.",
+                    "captain": "",
+                    "detail_link": "/player/johnson-adam/06c4x0oF/",
+                    "short_name": "Johnson",
+                    "shirt_number": "11",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "23'",
+                            "description": "Coates S.",
+                            "linked_player_hash": "EBYxT1SP"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Adam Johnson"
+                },
+                {
+                    "hash": "GKEd9ext",
+                    "name": "Mannone V.",
+                    "captain": "",
+                    "detail_link": "/player/mannone-vito/GKEd9ext/",
+                    "short_name": "Mannone",
+                    "shirt_number": "25",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Vito Mannone"
+                },
+                {
+                    "hash": "EmByTsz3",
+                    "name": "Yedlin D.",
+                    "captain": "",
+                    "detail_link": "/player/yedlin-deandre/EmByTsz3/",
+                    "short_name": "Yedlin",
+                    "shirt_number": "24",
+                    "country": "USA",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "DeAndre Yedlin"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "niGIuTj0",
+                    "name": "Allardyce S.",
+                    "captain": "",
+                    "detail_link": "/player/allardyce-samuel/niGIuTj0/",
+                    "short_name": "Allardyce S.",
+                    "shirt_number": "",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Samuel Allardyce"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "East R."
+    ],
+    "venue": [
+        "Stamford Bridge (London)"
+    ],
+    "attendance": [
+        "41 562"
+    ],
+    "referee_matched": [
+        "Roger East"
+    ],
+    "referee_found": [
+        "Roger East"
+    ],
+    "coach_matched": [],
+    "gameHomeTeam": "Chelsea",
+    "home": {
+        "name": "Chelsea",
+        "detail_link": "/team/chelsea/4fGZN2oK",
+        "hash": "4fGZN2oK",
+        "names": [
+            "Chelsea",
+            "chelsea"
+        ]
+    },
+    "gameAwayTeam": "Sunderland",
+    "away": {
+        "name": "Sunderland",
+        "detail_link": "/team/sunderland/WSzc94ws",
+        "hash": "WSzc94ws",
+        "names": [
+            "Sunderland",
+            "sunderland"
+        ]
+    },
+    "gameDate": "19/12/2015 - 16:00",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. Chelsea were better today and displayed masterful control and movement. The home side's strategy was to maintain possession and put the opponent out of the game. While the visitors focused more on defence and catching their opponent on the break.",
+            "identified": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. [TEAM_] were better today and displayed masterful control and movement. The home side's strategy was to maintain possession and put the opponent out of the game. While the visitors focused more on defence and catching their opponent on the break.",
+            "anonymized": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. [TEAM] were better today and displayed masterful control and movement. The home side's strategy was to maintain possession and put the opponent out of the game. While the visitors focused more on defence and catching their opponent on the break.",
+            "visibility": "shown",
+            "position": "2879000",
+            "event_aligned_gameTime": "2 - 47:59",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 47:58",
+            "label": "whistle",
+            "description": "The match has just finished.",
+            "identified": "The match has just finished.",
+            "anonymized": "The match has just finished.",
+            "visibility": "shown",
+            "position": "2878000",
+            "event_aligned_gameTime": "2 - 47:58",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 47:40",
+            "label": "",
+            "description": "Rough tackle by Cesar Azpilicueta (Chelsea). The referee blows his whistle for a foul.",
+            "identified": "Rough tackle by [PLAYER_CMGUADgt] ([TEAM_]). The referee blows his whistle for a foul.",
+            "anonymized": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "2860000",
+            "event_aligned_gameTime": "2 - 47:40",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 46:50",
+            "label": "",
+            "description": "Jack Rodwell (Sunderland) was trying to get to the ball but clattered into the legs of the opponent as well. Roger East blows his whistle for an infringement.",
+            "identified": "[PLAYER_GnFDoQHr] ([TEAM_]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement.",
+            "anonymized": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement.",
+            "visibility": "shown",
+            "position": "2810000",
+            "event_aligned_gameTime": "2 - 46:50",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "3 min. of stoppage-time to be played.",
+            "identified": "3 min. of stoppage-time to be played.",
+            "anonymized": "3 min. of stoppage-time to be played.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:30",
+            "contrastive_aligned_gameTime": "2 - 45:00"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 44:15",
+            "label": "",
+            "description": "Willian (Chelsea) stands over the free kick and opts to take it himself, sending it towards the top left corner only for Costel Pantilimon to dive and make a save.",
+            "identified": "[PLAYER_GSzdOhPI] ([TEAM_]) stands over the free kick and opts to take it himself, sending it towards the top left corner only for [PLAYER_xAk7pvWT] to dive and make a save.",
+            "anonymized": "[PLAYER] ([TEAM]) stands over the free kick and opts to take it himself, sending it towards the top left corner only for [PLAYER] to dive and make a save.",
+            "visibility": "shown",
+            "position": "2655000",
+            "event_aligned_gameTime": "2 - 44:15",
+            "contrastive_aligned_gameTime": "2 - 43:53"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 43:50",
+            "label": "y-card",
+            "description": "It must be a yellow card. It is. John O'Shea (Sunderland) receives the caution after an awful tackle.",
+            "identified": "It must be a yellow card. It is. [PLAYER_dtoEGjd5] ([TEAM_]) receives the caution after an awful tackle.",
+            "anonymized": "It must be a yellow card. It is. [PLAYER] ([TEAM]) receives the caution after an awful tackle.",
+            "visibility": "shown",
+            "position": "2630000",
+            "event_aligned_gameTime": "2 - 43:20",
+            "contrastive_aligned_gameTime": "2 - 43:44"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 42:55",
+            "label": "y-card",
+            "description": "Roger East shows a yellow card to Nemanja Matic (Chelsea) for a tough tackle.",
+            "identified": "[REFEREE] shows a yellow card to [PLAYER_Kty10JVG] ([TEAM_]) for a tough tackle.",
+            "anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle.",
+            "visibility": "shown",
+            "position": "2575000",
+            "event_aligned_gameTime": "2 - 42:30",
+            "contrastive_aligned_gameTime": "2 - 42:58"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 42:24",
+            "label": "",
+            "description": "Thibaut Courtois pulls off a great save to deny Jermain Defoe (Sunderland), who makes himself some space inside the box and unleashes a quick shot to the right side of the goal.",
+            "identified": "[PLAYER_MVExOq3n] pulls off a great save to deny [PLAYER_QDtjHrsH] ([TEAM_]), who makes himself some space inside the box and unleashes a quick shot to the right side of the goal.",
+            "anonymized": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick shot to the right side of the goal.",
+            "visibility": "shown",
+            "position": "2544000",
+            "event_aligned_gameTime": "2 - 42:20",
+            "contrastive_aligned_gameTime": "2 - 42:20"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:40",
+            "label": "",
+            "description": "Chelsea seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",
+            "identified": "[TEAM_] seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",
+            "anonymized": "[TEAM] seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",
+            "visibility": "shown",
+            "position": "2500000",
+            "event_aligned_gameTime": "2 - 41:40",
+            "contrastive_aligned_gameTime": "2 - 42:14"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 39:32",
+            "label": "",
+            "description": "Jermain Defoe (Sunderland) makes a run beyond the last defender, but he's offside.",
+            "identified": "[PLAYER_QDtjHrsH] ([TEAM_]) makes a run beyond the last defender, but he's offside.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a run beyond the last defender, but he's offside.",
+            "visibility": "shown",
+            "position": "2372000",
+            "event_aligned_gameTime": "2 - 39:30",
+            "contrastive_aligned_gameTime": "2 - 38:59"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 38:06",
+            "label": "",
+            "description": "Willian plays a lovely pass into Pedro (Chelsea), but he can't find the target. His strike from inside the box goes narrowly over the crossbar.",
+            "identified": "[PLAYER_GSzdOhPI] plays a lovely pass into [PLAYER_0f1tMqQl] ([TEAM_]), but he can't find the target. His strike from inside the box goes narrowly over the crossbar.",
+            "anonymized": "[PLAYER] plays a lovely pass into [PLAYER] ([TEAM]), but he can't find the target. His strike from inside the box goes narrowly over the crossbar.",
+            "visibility": "shown",
+            "position": "2286000",
+            "event_aligned_gameTime": "2 - 37:40",
+            "contrastive_aligned_gameTime": "2 - 37:25"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 36:48",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Oscar as he is replaced by  Ramires (Chelsea).",
+            "identified": "It's time for a substitution. That's the last involvement from [PLAYER_KfKDzbEo] as he is replaced by  [PLAYER_8APqwh2k] ([TEAM_]).",
+            "anonymized": "It's time for a substitution. That's the last involvement from [PLAYER] as he is replaced by  [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2208000",
+            "event_aligned_gameTime": "2 - 36:30",
+            "contrastive_aligned_gameTime": "2 - 36:21"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:20",
+            "label": "",
+            "description": "John O'Shea (Sunderland) gets himself onto the end of the corner, but his header is blocked.",
+            "identified": "[PLAYER_dtoEGjd5] ([TEAM_]) gets himself onto the end of the corner, but his header is blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) gets himself onto the end of the corner, but his header is blocked.",
+            "visibility": "shown",
+            "position": "2180000",
+            "event_aligned_gameTime": "2 - 35:50",
+            "contrastive_aligned_gameTime": "2 - 35:58"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:16",
+            "label": "corner",
+            "description": "Adam Johnson (Sunderland) takes the corner.",
+            "identified": "[PLAYER_06c4x0oF] ([TEAM_]) takes the corner.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner.",
+            "visibility": "shown",
+            "position": "2176000",
+            "event_aligned_gameTime": "2 - 35:30",
+            "contrastive_aligned_gameTime": "2 - 35:54"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 35:50",
+            "label": "",
+            "description": "Fabio Borini (Sunderland) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. Corner kick. Sunderland will have an opportunity.",
+            "identified": "[PLAYER_vgf4LRaj] ([TEAM_]) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. Corner kick. [TEAM_] will have an opportunity.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. Corner kick. [TEAM] will have an opportunity.",
+            "visibility": "shown",
+            "position": "2150000",
+            "event_aligned_gameTime": "2 - 35:50",
+            "contrastive_aligned_gameTime": "2 - 35:31"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 35:05",
+            "label": "",
+            "description": "Oscar (Chelsea) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",
+            "identified": "[PLAYER_KfKDzbEo] ([TEAM_]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",
+            "anonymized": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",
+            "visibility": "shown",
+            "position": "2105000",
+            "event_aligned_gameTime": "2 - 34:20",
+            "contrastive_aligned_gameTime": "2 - 34:25"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 34:35",
+            "label": "",
+            "description": "Willian (Chelsea) picks up the ball, dribbles to the edge of the penalty area and unleashes a brilliant shot to the right side of the goal, but is thwarted by a great save from Costel Pantilimon.",
+            "identified": "[PLAYER_GSzdOhPI] ([TEAM_]) picks up the ball, dribbles to the edge of the penalty area and unleashes a brilliant shot to the right side of the goal, but is thwarted by a great save from [PLAYER_xAk7pvWT].",
+            "anonymized": "[PLAYER] ([TEAM]) picks up the ball, dribbles to the edge of the penalty area and unleashes a brilliant shot to the right side of the goal, but is thwarted by a great save from [PLAYER].",
+            "visibility": "shown",
+            "position": "2075000",
+            "event_aligned_gameTime": "2 - 34:10",
+            "contrastive_aligned_gameTime": "2 - 34:41"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 33:50",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Danny Graham (Sunderland) comes onto the pitch for Duncan Watmore.",
+            "identified": "The referee stops play so that a substitution can be made and [PLAYER_jToeoKcE] ([TEAM_]) comes onto the pitch for [PLAYER_EF5xKj4t].",
+            "anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) comes onto the pitch for [PLAYER].",
+            "visibility": "shown",
+            "position": "2030000",
+            "event_aligned_gameTime": "2 - 33:50",
+            "contrastive_aligned_gameTime": "2 - 33:35"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:05",
+            "label": "",
+            "description": "The game is interrupted. Kurt Zouma (Chelsea) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "identified": "The game is interrupted. [PLAYER_SKosf7jl] ([TEAM_]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "anonymized": "The game is interrupted. [PLAYER] ([TEAM]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "visibility": "shown",
+            "position": "1985000",
+            "event_aligned_gameTime": "2 - 33:05",
+            "contrastive_aligned_gameTime": "2 - 32:58"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:02",
+            "label": "",
+            "description": "Nemanja Matic (Chelsea) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "identified": "[PLAYER_Kty10JVG] ([TEAM_]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "visibility": "shown",
+            "position": "1982000",
+            "event_aligned_gameTime": "2 - 32:40",
+            "contrastive_aligned_gameTime": "2 - 32:58"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:29",
+            "label": "",
+            "description": "Kurt Zouma (Chelsea) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "identified": "[PLAYER_SKosf7jl] ([TEAM_]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "visibility": "shown",
+            "position": "1949000",
+            "event_aligned_gameTime": "2 - 32:00",
+            "contrastive_aligned_gameTime": "2 - 32:43"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 31:23",
+            "label": "",
+            "description": "Fabio Borini (Sunderland) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "identified": "[PLAYER_vgf4LRaj] ([TEAM_]) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "visibility": "shown",
+            "position": "1883000",
+            "event_aligned_gameTime": "2 - 31:20",
+            "contrastive_aligned_gameTime": "2 - 30:48"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 30:36",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Loic Remy (Chelsea) is coming onto the pitch as Diego Costa cannot continue after picking up an injury.",
+            "identified": "The referee signals that it is time for a substitution and [PLAYER_hYsYT4nh] ([TEAM_]) is coming onto the pitch as [PLAYER_vBw5nir8] cannot continue after picking up an injury.",
+            "anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury.",
+            "visibility": "shown",
+            "position": "1836000",
+            "event_aligned_gameTime": "2 - 30:10",
+            "contrastive_aligned_gameTime": "2 - 30:16"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 29:46",
+            "label": "",
+            "description": "Diego Costa receives a short pass from Willian (Chelsea), but the opposition's defence thwarts his effort.",
+            "identified": "[PLAYER_vBw5nir8] receives a short pass from [PLAYER_GSzdOhPI] ([TEAM_]), but the opposition's defence thwarts his effort.",
+            "anonymized": "[PLAYER] receives a short pass from [PLAYER] ([TEAM]), but the opposition's defence thwarts his effort.",
+            "visibility": "shown",
+            "position": "1786000",
+            "event_aligned_gameTime": "2 - 29:40",
+            "contrastive_aligned_gameTime": "2 - 29:05"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 29:06",
+            "label": "",
+            "description": "Oscar (Chelsea) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "identified": "[PLAYER_KfKDzbEo] ([TEAM_]) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "anonymized": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "visibility": "shown",
+            "position": "1746000",
+            "event_aligned_gameTime": "2 - 29:00",
+            "contrastive_aligned_gameTime": "2 - 28:43"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:39",
+            "label": "",
+            "description": "Branislav Ivanovic (Chelsea) is disappointed with himself because he got into a good area but produced a poor cross.",
+            "identified": "[PLAYER_Qe3xUmHo] ([TEAM_]) is disappointed with himself because he got into a good area but produced a poor cross.",
+            "anonymized": "[PLAYER] ([TEAM]) is disappointed with himself because he got into a good area but produced a poor cross.",
+            "visibility": "shown",
+            "position": "1719000",
+            "event_aligned_gameTime": "2 - 28:30",
+            "contrastive_aligned_gameTime": "2 - 28:59"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:47",
+            "label": "",
+            "description": "Duncan Watmore (Sunderland) brings down his opponent with a very late tackle.",
+            "identified": "[PLAYER_EF5xKj4t] ([TEAM_]) brings down his opponent with a very late tackle.",
+            "anonymized": "[PLAYER] ([TEAM]) brings down his opponent with a very late tackle.",
+            "visibility": "shown",
+            "position": "1667000",
+            "event_aligned_gameTime": "2 - 27:40",
+            "contrastive_aligned_gameTime": "2 - 27:40"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:16",
+            "label": "",
+            "description": "Diego Costa (Chelsea) looks to break free, but an opposing player clears the ball away.",
+            "identified": "[PLAYER_vBw5nir8] ([TEAM_]) looks to break free, but an opposing player clears the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away.",
+            "visibility": "shown",
+            "position": "1636000",
+            "event_aligned_gameTime": "2 - 27:00",
+            "contrastive_aligned_gameTime": "2 - 26:42"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 26:56",
+            "label": "",
+            "description": "Sunderland players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence.",
+            "identified": "[TEAM_] players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence.",
+            "anonymized": "[TEAM] players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence.",
+            "visibility": "shown",
+            "position": "1616000",
+            "event_aligned_gameTime": "2 - 26:56",
+            "contrastive_aligned_gameTime": "2 - 27:19"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 25:40",
+            "label": "substitution",
+            "description": "Substitution. Cesc Fabregas makes his way off the pitch and John Obi Mikel (Chelsea) comes on as his replacement.",
+            "identified": "Substitution. [PLAYER_YXIDwoe5] makes his way off the pitch and [PLAYER_8AkbVvN2] ([TEAM_]) comes on as his replacement.",
+            "anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement.",
+            "visibility": "shown",
+            "position": "1540000",
+            "event_aligned_gameTime": "2 - 24:50",
+            "contrastive_aligned_gameTime": "2 - 25:26"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 24:48",
+            "label": "",
+            "description": "Cesc Fabregas (Chelsea) makes a slide tackle, but referee Roger East blows for a foul.",
+            "identified": "[PLAYER_YXIDwoe5] ([TEAM_]) makes a slide tackle, but referee [REFEREE] blows for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [REFEREE] blows for a foul.",
+            "visibility": "shown",
+            "position": "1488000",
+            "event_aligned_gameTime": "2 - 24:50",
+            "contrastive_aligned_gameTime": "2 - 24:32"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 23:03",
+            "label": "",
+            "description": "Willian links up with Oscar (Chelsea), who fires just wide of the left post from the edge of the box.",
+            "identified": "[PLAYER_GSzdOhPI] links up with [PLAYER_KfKDzbEo] ([TEAM_]), who fires just wide of the left post from the edge of the box.",
+            "anonymized": "[PLAYER] links up with [PLAYER] ([TEAM]), who fires just wide of the left post from the edge of the box.",
+            "visibility": "shown",
+            "position": "1383000",
+            "event_aligned_gameTime": "2 - 23:00",
+            "contrastive_aligned_gameTime": "2 - 22:56"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:40",
+            "label": "",
+            "description": "Diego Costa (Chelsea) sends a superb lead pass into the penalty area and finds Willian, who fails to shoot.",
+            "identified": "[PLAYER_vBw5nir8] ([TEAM_]) sends a superb lead pass into the penalty area and finds [PLAYER_GSzdOhPI], who fails to shoot.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a superb lead pass into the penalty area and finds [PLAYER], who fails to shoot.",
+            "visibility": "shown",
+            "position": "1300000",
+            "event_aligned_gameTime": "2 - 21:40",
+            "contrastive_aligned_gameTime": "2 - 22:17"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 20:21",
+            "label": "",
+            "description": "Jermain Defoe (Sunderland) jinks his way past two defenders and from the edge of the box has an effort which goes just wide of the left post.",
+            "identified": "[PLAYER_QDtjHrsH] ([TEAM_]) jinks his way past two defenders and from the edge of the box has an effort which goes just wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) jinks his way past two defenders and from the edge of the box has an effort which goes just wide of the left post.",
+            "visibility": "shown",
+            "position": "1221000",
+            "event_aligned_gameTime": "2 - 19:50",
+            "contrastive_aligned_gameTime": "2 - 19:25"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:01",
+            "label": "",
+            "description": "Oscar (Chelsea) looks to break free, but an opposing player clears the ball away.",
+            "identified": "[PLAYER_KfKDzbEo] ([TEAM_]) looks to break free, but an opposing player clears the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away.",
+            "visibility": "shown",
+            "position": "1141000",
+            "event_aligned_gameTime": "2 - 19:00",
+            "contrastive_aligned_gameTime": "2 - 18:18"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:09",
+            "label": "",
+            "description": "Flag goes up against Jermain Defoe (Sunderland) and the referee blows his whistle for offside.",
+            "identified": "Flag goes up against [PLAYER_QDtjHrsH] ([TEAM_]) and the referee blows his whistle for offside.",
+            "anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside.",
+            "visibility": "shown",
+            "position": "1089000",
+            "event_aligned_gameTime": "2 - 18:00",
+            "contrastive_aligned_gameTime": "2 - 18:44"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 17:18",
+            "label": "",
+            "description": "Willian (Chelsea) sends over a free kick from long range but the defence is alert.",
+            "identified": "[PLAYER_GSzdOhPI] ([TEAM_]) sends over a free kick from long range but the defence is alert.",
+            "anonymized": "[PLAYER] ([TEAM]) sends over a free kick from long range but the defence is alert.",
+            "visibility": "shown",
+            "position": "1038000",
+            "event_aligned_gameTime": "2 - 17:10",
+            "contrastive_aligned_gameTime": "2 - 16:51"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 16:37",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Jack Rodwell (Sunderland) was quite harsh and Roger East didn't hesitate to show him a yellow card.",
+            "identified": "This yellow card was deserved. The tackle by [PLAYER_GnFDoQHr] ([TEAM_]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+            "anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+            "visibility": "shown",
+            "position": "997000",
+            "event_aligned_gameTime": "2 - 16:10",
+            "contrastive_aligned_gameTime": "2 - 16:41"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 14:14",
+            "label": "",
+            "description": "Jack Rodwell (Sunderland) delivers a crossfield pass, but the ball is cut out before it reaches its intended target.",
+            "identified": "[PLAYER_GnFDoQHr] ([TEAM_]) delivers a crossfield pass, but the ball is cut out before it reaches its intended target.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a crossfield pass, but the ball is cut out before it reaches its intended target.",
+            "visibility": "shown",
+            "position": "854000",
+            "event_aligned_gameTime": "2 - 14:10",
+            "contrastive_aligned_gameTime": "2 - 14:39"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 12:33",
+            "label": "",
+            "description": "A cross from Willian (Chelsea) fails to reach the box as the defence clears the ball away to safety.",
+            "identified": "A cross from [PLAYER_GSzdOhPI] ([TEAM_]) fails to reach the box as the defence clears the ball away to safety.",
+            "anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety.",
+            "visibility": "shown",
+            "position": "753000",
+            "event_aligned_gameTime": "2 - 12:00",
+            "contrastive_aligned_gameTime": "2 - 12:42"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 10:03",
+            "label": "",
+            "description": "That was close by Fabio Borini (Sunderland)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the right post.",
+            "identified": "That was close by [PLAYER_vgf4LRaj] ([TEAM_])! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the right post.",
+            "anonymized": "That was close by [PLAYER] ([TEAM])! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the right post.",
+            "visibility": "shown",
+            "position": "603000",
+            "event_aligned_gameTime": "2 - 10:00",
+            "contrastive_aligned_gameTime": "2 - 10:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:20",
+            "label": "",
+            "description": "Chelsea hold the ball and display nice passing from player to player.",
+            "identified": "[TEAM_] hold the ball and display nice passing from player to player.",
+            "anonymized": "[TEAM] hold the ball and display nice passing from player to player.",
+            "visibility": "shown",
+            "position": "500000",
+            "event_aligned_gameTime": "2 - 08:20",
+            "contrastive_aligned_gameTime": "2 - 08:38"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 07:29",
+            "label": "soccer-ball",
+            "description": "Goal! The rebound fell to Fabio Borini (Sunderland) and he fired home from close range. The score is 3:1.",
+            "identified": "Goal! The rebound fell to [PLAYER_vgf4LRaj] ([TEAM_]) and he fired home from close range. The score is 3:1.",
+            "anonymized": "Goal! The rebound fell to [PLAYER] ([TEAM]) and he fired home from close range. The score is 3:1.",
+            "visibility": "shown",
+            "position": "449000",
+            "event_aligned_gameTime": "2 - 07:20",
+            "contrastive_aligned_gameTime": "2 - 07:01"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 07:05",
+            "label": "",
+            "description": "Younes Kaboul (Sunderland) leaps highest around the penalty spot to meet a cross from the free kick and produces a promising goal-bound header towards the bottom left corner, but Thibaut Courtois pulls off a fine save to deny him.",
+            "identified": "[PLAYER_pKEB1MVr] ([TEAM_]) leaps highest around the penalty spot to meet a cross from the free kick and produces a promising goal-bound header towards the bottom left corner, but [PLAYER_MVExOq3n] pulls off a fine save to deny him.",
+            "anonymized": "[PLAYER] ([TEAM]) leaps highest around the penalty spot to meet a cross from the free kick and produces a promising goal-bound header towards the bottom left corner, but [PLAYER] pulls off a fine save to deny him.",
+            "visibility": "shown",
+            "position": "425000",
+            "event_aligned_gameTime": "2 - 06:40",
+            "contrastive_aligned_gameTime": "2 - 06:33"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 06:30",
+            "label": "",
+            "description": "Oscar (Chelsea) was too fierce in his attempt to get the ball from his opponent and Roger East blows for a foul.",
+            "identified": "[PLAYER_KfKDzbEo] ([TEAM_]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul.",
+            "visibility": "shown",
+            "position": "390000",
+            "event_aligned_gameTime": "2 - 06:30",
+            "contrastive_aligned_gameTime": "2 - 07:14"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 04:35",
+            "label": "soccer-ball",
+            "description": "Goal! Oscar (Chelsea) slams home the penalty with a precise low shot into the bottom right corner.",
+            "identified": "Goal! [PLAYER_KfKDzbEo] ([TEAM_]) slams home the penalty with a precise low shot into the bottom right corner.",
+            "anonymized": "Goal! [PLAYER] ([TEAM]) slams home the penalty with a precise low shot into the bottom right corner.",
+            "visibility": "shown",
+            "position": "275000",
+            "event_aligned_gameTime": "2 - 04:35",
+            "contrastive_aligned_gameTime": "2 - 03:59"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 04:29",
+            "label": "",
+            "description": "Oscar (Chelsea) is going to take the penalty!",
+            "identified": "[PLAYER_KfKDzbEo] ([TEAM_]) is going to take the penalty!",
+            "anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!",
+            "visibility": "shown",
+            "position": "269000",
+            "event_aligned_gameTime": "2 - 04:00",
+            "contrastive_aligned_gameTime": "2 - 04:06"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 02:56",
+            "label": "y-card",
+            "description": "Costel Pantilimon (Sunderland) is awarded a yellow card. The referee showed him no mercy.",
+            "identified": "[PLAYER_xAk7pvWT] ([TEAM_]) is awarded a yellow card. The referee showed him no mercy.",
+            "anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card. The referee showed him no mercy.",
+            "visibility": "shown",
+            "position": "176000",
+            "event_aligned_gameTime": "2 - 02:56",
+            "contrastive_aligned_gameTime": "2 - 02:37"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 02:55",
+            "label": "penalty",
+            "description": "Costel Pantilimon (Sunderland) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Chelsea are given a huge opportunity to score - it's a penalty kick!",
+            "identified": "[PLAYER_xAk7pvWT] ([TEAM_]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. [TEAM_] are given a huge opportunity to score - it's a penalty kick!",
+            "anonymized": "[PLAYER] ([TEAM]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. [TEAM] are given a huge opportunity to score - it's a penalty kick!",
+            "visibility": "shown",
+            "position": "175000",
+            "event_aligned_gameTime": "2 - 02:55",
+            "contrastive_aligned_gameTime": "2 - 02:35"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 01:30",
+            "label": "",
+            "description": "Sunderland spell of possession comes to an end after a mistake.",
+            "identified": "[TEAM_] spell of possession comes to an end after a mistake.",
+            "anonymized": "[TEAM] spell of possession comes to an end after a mistake.",
+            "visibility": "shown",
+            "position": "90000",
+            "event_aligned_gameTime": "2 - 01:30",
+            "contrastive_aligned_gameTime": "2 - 01:02"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:02",
+            "label": "substitution",
+            "description": "Here is a change after the half-time break. Ola Toivonen (Sunderland) is replaced by Fabio Borini.",
+            "identified": "Here is a change after the half-time break. [PLAYER_Srp107M5] ([TEAM_]) is replaced by [PLAYER_vgf4LRaj].",
+            "anonymized": "Here is a change after the half-time break. [PLAYER] ([TEAM]) is replaced by [PLAYER].",
+            "visibility": "shown",
+            "position": "2000",
+            "event_aligned_gameTime": "2 - 00:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half gets underway.",
+            "identified": "The second half gets underway.",
+            "anonymized": "The second half gets underway.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:10",
+            "contrastive_aligned_gameTime": "2 - 00:01"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "Well, a decent first half here. It's certainly not boring, but not the best match either. It was a fairly one-sided opening 45 minutes, with Chelsea much the better side better so far. The home team makes a lot of passes and attempts to maintain possession, while the visitors look to counter-attack.",
+            "identified": "Well, a decent first half here. It's certainly not boring, but not the best match either. It was a fairly one-sided opening 45 minutes, with [TEAM_] much the better side better so far. The home team makes a lot of passes and attempts to maintain possession, while the visitors look to counter-attack.",
+            "anonymized": "Well, a decent first half here. It's certainly not boring, but not the best match either. It was a fairly one-sided opening 45 minutes, with [TEAM] much the better side better so far. The home team makes a lot of passes and attempts to maintain possession, while the visitors look to counter-attack.",
+            "visibility": "shown",
+            "position": "2759000",
+            "event_aligned_gameTime": "1 - 44:50",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 45:58",
+            "label": "whistle",
+            "description": "Roger East has ended the first half by blowing the whistle.",
+            "identified": "[REFEREE] has ended the first half by blowing the whistle.",
+            "anonymized": "[REFEREE] has ended the first half by blowing the whistle.",
+            "visibility": "shown",
+            "position": "2758000",
+            "event_aligned_gameTime": "1 - 44:50",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:00",
+            "label": "time",
+            "description": "There will be a minimum of 1 min. of added time.",
+            "identified": "There will be a minimum of 1 min. of added time.",
+            "anonymized": "There will be a minimum of 1 min. of added time.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "2 - 00:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:48",
+            "label": "",
+            "description": "Pedro (Chelsea) serves up a nice cross, but Costel Pantilimon punches the ball away.",
+            "identified": "[PLAYER_0f1tMqQl] ([TEAM_]) serves up a nice cross, but [PLAYER_xAk7pvWT] punches the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but [PLAYER] punches the ball away.",
+            "visibility": "shown",
+            "position": "2628000",
+            "event_aligned_gameTime": "1 - 43:20",
+            "contrastive_aligned_gameTime": "1 - 43:27"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:11",
+            "label": "",
+            "description": "Patrick van Aanholt (Sunderland) tries his luck with a long-range shot from a rebound, but it isn't precise at all and the ball flies miles over the crossbar. Very poor shot.",
+            "identified": "[PLAYER_GxbOZOLI] ([TEAM_]) tries his luck with a long-range shot from a rebound, but it isn't precise at all and the ball flies miles over the crossbar. Very poor shot.",
+            "anonymized": "[PLAYER] ([TEAM]) tries his luck with a long-range shot from a rebound, but it isn't precise at all and the ball flies miles over the crossbar. Very poor shot.",
+            "visibility": "shown",
+            "position": "2591000",
+            "event_aligned_gameTime": "1 - 42:40",
+            "contrastive_aligned_gameTime": "1 - 42:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:47",
+            "label": "",
+            "description": "Patrick van Aanholt (Sunderland) slams the ball from a long-range free kick. He should have curled it higher to avoid hitting the wall.",
+            "identified": "[PLAYER_GxbOZOLI] ([TEAM_]) slams the ball from a long-range free kick. He should have curled it higher to avoid hitting the wall.",
+            "anonymized": "[PLAYER] ([TEAM]) slams the ball from a long-range free kick. He should have curled it higher to avoid hitting the wall.",
+            "visibility": "shown",
+            "position": "2567000",
+            "event_aligned_gameTime": "1 - 42:40",
+            "contrastive_aligned_gameTime": "1 - 42:40"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:50",
+            "label": "",
+            "description": "Nemanja Matic (Chelsea) gives away a foul for a fierce tackle on an opponent.",
+            "identified": "[PLAYER_Kty10JVG] ([TEAM_]) gives away a foul for a fierce tackle on an opponent.",
+            "anonymized": "[PLAYER] ([TEAM]) gives away a foul for a fierce tackle on an opponent.",
+            "visibility": "shown",
+            "position": "2510000",
+            "event_aligned_gameTime": "1 - 41:30",
+            "contrastive_aligned_gameTime": "1 - 40:55"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 40:57",
+            "label": "",
+            "description": "Pedro (Chelsea) sends a teasing cross into the area, but Costel Pantilimon intercepts the ball.",
+            "identified": "[PLAYER_0f1tMqQl] ([TEAM_]) sends a teasing cross into the area, but [PLAYER_xAk7pvWT] intercepts the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball.",
+            "visibility": "shown",
+            "position": "2457000",
+            "event_aligned_gameTime": "1 - 40:40",
+            "contrastive_aligned_gameTime": "1 - 40:32"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 40:43",
+            "label": "",
+            "description": "Jack Rodwell (Sunderland) makes an overly-aggressive challenge and Roger East blows his whistle for a foul.",
+            "identified": "[PLAYER_GnFDoQHr] ([TEAM_]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "2443000",
+            "event_aligned_gameTime": "1 - 40:40",
+            "contrastive_aligned_gameTime": "1 - 41:16"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 39:02",
+            "label": "",
+            "description": "Chelsea hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break.",
+            "identified": "[TEAM_] hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break.",
+            "anonymized": "[TEAM] hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break.",
+            "visibility": "shown",
+            "position": "2342000",
+            "event_aligned_gameTime": "1 - 38:50",
+            "contrastive_aligned_gameTime": "1 - 38:50"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 37:52",
+            "label": "",
+            "description": "Pedro swings the cross over. Diego Costa (Chelsea) gets his head to it but it goes just wide of the right post.",
+            "identified": "[PLAYER_0f1tMqQl] swings the cross over. [PLAYER_vBw5nir8] ([TEAM_]) gets his head to it but it goes just wide of the right post.",
+            "anonymized": "[PLAYER] swings the cross over. [PLAYER] ([TEAM]) gets his head to it but it goes just wide of the right post.",
+            "visibility": "shown",
+            "position": "2272000",
+            "event_aligned_gameTime": "1 - 37:50",
+            "contrastive_aligned_gameTime": "1 - 38:20"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 36:30",
+            "label": "",
+            "description": "Pedro (Chelsea) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players.",
+            "identified": "[PLAYER_0f1tMqQl] ([TEAM_]) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players.",
+            "anonymized": "[PLAYER] ([TEAM]) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players.",
+            "visibility": "shown",
+            "position": "2190000",
+            "event_aligned_gameTime": "1 - 36:30",
+            "contrastive_aligned_gameTime": "1 - 35:59"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 35:59",
+            "label": "",
+            "description": "Close! Diego Costa (Chelsea) is a whisker away from finishing-off the move he started. His close-range effort flies just over the bar.",
+            "identified": "Close! [PLAYER_vBw5nir8] ([TEAM_]) is a whisker away from finishing-off the move he started. His close-range effort flies just over the bar.",
+            "anonymized": "Close! [PLAYER] ([TEAM]) is a whisker away from finishing-off the move he started. His close-range effort flies just over the bar.",
+            "visibility": "shown",
+            "position": "2159000",
+            "event_aligned_gameTime": "1 - 35:59",
+            "contrastive_aligned_gameTime": "1 - 35:58"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:26",
+            "label": "",
+            "description": "Jermain Defoe (Sunderland) is penalised for a foul. Roger East had a clear view and blows his whistle.",
+            "identified": "[PLAYER_QDtjHrsH] ([TEAM_]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+            "anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+            "visibility": "shown",
+            "position": "2066000",
+            "event_aligned_gameTime": "1 - 34:20",
+            "contrastive_aligned_gameTime": "1 - 33:42"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:20",
+            "label": "",
+            "description": "Roger East blows his whistle for a foul after Diego Costa (Chelsea) hacks down one of his opponents.",
+            "identified": "[REFEREE] blows his whistle for a foul after [PLAYER_vBw5nir8] ([TEAM_]) hacks down one of his opponents.",
+            "anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents.",
+            "visibility": "shown",
+            "position": "2000000",
+            "event_aligned_gameTime": "1 - 33:20",
+            "contrastive_aligned_gameTime": "1 - 32:43"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:34",
+            "label": "",
+            "description": "Excellent touch by Duncan Watmore (Sunderland)! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post.",
+            "identified": "Excellent touch by [PLAYER_EF5xKj4t] ([TEAM_])! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post.",
+            "anonymized": "Excellent touch by [PLAYER] ([TEAM])! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post.",
+            "visibility": "shown",
+            "position": "1954000",
+            "event_aligned_gameTime": "1 - 32:30",
+            "contrastive_aligned_gameTime": "1 - 32:02"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 31:08",
+            "label": "",
+            "description": "A long pass, executed by Nemanja Matic (Chelsea), missed the precision to reach his teammates.",
+            "identified": "A long pass, executed by [PLAYER_Kty10JVG] ([TEAM_]), missed the precision to reach his teammates.",
+            "anonymized": "A long pass, executed by [PLAYER] ([TEAM]), missed the precision to reach his teammates.",
+            "visibility": "shown",
+            "position": "1868000",
+            "event_aligned_gameTime": "1 - 31:00",
+            "contrastive_aligned_gameTime": "1 - 31:42"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:59",
+            "label": "",
+            "description": "The ball is cleared after  Oscar (Chelsea) attempted to dribble past an opposing player.",
+            "identified": "The ball is cleared after  [PLAYER_KfKDzbEo] ([TEAM_]) attempted to dribble past an opposing player.",
+            "anonymized": "The ball is cleared after  [PLAYER] ([TEAM]) attempted to dribble past an opposing player.",
+            "visibility": "shown",
+            "position": "1859000",
+            "event_aligned_gameTime": "1 - 30:40",
+            "contrastive_aligned_gameTime": "1 - 30:03"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:25",
+            "label": "",
+            "description": "Yann M'Vila (Sunderland) threads a pass through to Jermain Defoe, but Thibaut Courtois breaks up the move.",
+            "identified": "[PLAYER_GOdGE1cn] ([TEAM_]) threads a pass through to [PLAYER_QDtjHrsH], but [PLAYER_MVExOq3n] breaks up the move.",
+            "anonymized": "[PLAYER] ([TEAM]) threads a pass through to [PLAYER], but [PLAYER] breaks up the move.",
+            "visibility": "shown",
+            "position": "1765000",
+            "event_aligned_gameTime": "1 - 29:10",
+            "contrastive_aligned_gameTime": "1 - 28:44"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:58",
+            "label": "corner",
+            "description": "Patrick van Aanholt (Sunderland) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "identified": "[PLAYER_GxbOZOLI] ([TEAM_]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "anonymized": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "visibility": "shown",
+            "position": "1738000",
+            "event_aligned_gameTime": "1 - 28:50",
+            "contrastive_aligned_gameTime": "1 - 28:38"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:31",
+            "label": "",
+            "description": "A cross into the box from Yann M'Vila (Sunderland) is cleared. The referee points to the corner flag and Sunderland will take a corner.",
+            "identified": "A cross into the box from [PLAYER_GOdGE1cn] ([TEAM_]) is cleared. The referee points to the corner flag and [TEAM_] will take a corner.",
+            "anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared. The referee points to the corner flag and [TEAM] will take a corner.",
+            "visibility": "shown",
+            "position": "1711000",
+            "event_aligned_gameTime": "1 - 28:10",
+            "contrastive_aligned_gameTime": "1 - 28:40"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:20",
+            "label": "",
+            "description": "Cesar Azpilicueta (Chelsea) is penalised for holding. Roger East signals a set piece.",
+            "identified": "[PLAYER_CMGUADgt] ([TEAM_]) is penalised for holding. [REFEREE] signals a set piece.",
+            "anonymized": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece.",
+            "visibility": "shown",
+            "position": "1700000",
+            "event_aligned_gameTime": "1 - 28:10",
+            "contrastive_aligned_gameTime": "1 - 28:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:33",
+            "label": "",
+            "description": "Adam Johnson (Sunderland) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders.",
+            "identified": "[PLAYER_06c4x0oF] ([TEAM_]) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders.",
+            "anonymized": "[PLAYER] ([TEAM]) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders.",
+            "visibility": "shown",
+            "position": "1653000",
+            "event_aligned_gameTime": "1 - 27:30",
+            "contrastive_aligned_gameTime": "1 - 28:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:45",
+            "label": "",
+            "description": "Cesc Fabregas (Chelsea) trips an opponent with a slide tackle. Roger East stops the game and he could give him a card, but eventually decides on just a warning.",
+            "identified": "[PLAYER_YXIDwoe5] ([TEAM_]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning.",
+            "anonymized": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning.",
+            "visibility": "shown",
+            "position": "1605000",
+            "event_aligned_gameTime": "1 - 26:45",
+            "contrastive_aligned_gameTime": "1 - 26:28"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 25:38",
+            "label": "",
+            "description": "Oscar (Chelsea) zig-zags his way into the box and fails to direct a shot inside the left post. The goalkeeper pulls off a miraculous stop.",
+            "identified": "[PLAYER_KfKDzbEo] ([TEAM_]) zig-zags his way into the box and fails to direct a shot inside the left post. The goalkeeper pulls off a miraculous stop.",
+            "anonymized": "[PLAYER] ([TEAM]) zig-zags his way into the box and fails to direct a shot inside the left post. The goalkeeper pulls off a miraculous stop.",
+            "visibility": "shown",
+            "position": "1538000",
+            "event_aligned_gameTime": "1 - 25:30",
+            "contrastive_aligned_gameTime": "1 - 26:13"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:01",
+            "label": "",
+            "description": "Cesc Fabregas loses the ball after receiving a sweet pass from Oscar (Chelsea).",
+            "identified": "[PLAYER_YXIDwoe5] loses the ball after receiving a sweet pass from [PLAYER_KfKDzbEo] ([TEAM_]).",
+            "anonymized": "[PLAYER] loses the ball after receiving a sweet pass from [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1381000",
+            "event_aligned_gameTime": "1 - 23:00",
+            "contrastive_aligned_gameTime": "1 - 23:40"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 22:43",
+            "label": "substitution",
+            "description": "The substitution has been made. Adam Johnson (Sunderland) has replaced Sebastian Coates.",
+            "identified": "The substitution has been made. [PLAYER_06c4x0oF] ([TEAM_]) has replaced [PLAYER_EBYxT1SP].",
+            "anonymized": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER].",
+            "visibility": "shown",
+            "position": "1363000",
+            "event_aligned_gameTime": "1 - 22:30",
+            "contrastive_aligned_gameTime": "1 - 22:19"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:23",
+            "label": "",
+            "description": "Jack Rodwell (Sunderland) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement.",
+            "identified": "[PLAYER_GnFDoQHr] ([TEAM_]) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement.",
+            "anonymized": "[PLAYER] ([TEAM]) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement.",
+            "visibility": "shown",
+            "position": "1343000",
+            "event_aligned_gameTime": "1 - 22:20",
+            "contrastive_aligned_gameTime": "1 - 22:51"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 21:37",
+            "label": "",
+            "description": "Branislav Ivanovic (Chelsea) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+            "identified": "[PLAYER_Qe3xUmHo] ([TEAM_]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+            "visibility": "shown",
+            "position": "1297000",
+            "event_aligned_gameTime": "1 - 20:50",
+            "contrastive_aligned_gameTime": "1 - 20:22"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 20:18",
+            "label": "",
+            "description": "Chelsea are showcasing great team work and neat passing moves.",
+            "identified": "[TEAM_] are showcasing great team work and neat passing moves.",
+            "anonymized": "[TEAM] are showcasing great team work and neat passing moves.",
+            "visibility": "shown",
+            "position": "1218000",
+            "event_aligned_gameTime": "1 - 19:50",
+            "contrastive_aligned_gameTime": "1 - 19:16"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:55",
+            "label": "",
+            "description": "Oscar (Chelsea) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "identified": "[PLAYER_KfKDzbEo] ([TEAM_]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "visibility": "shown",
+            "position": "1135000",
+            "event_aligned_gameTime": "1 - 18:50",
+            "contrastive_aligned_gameTime": "1 - 18:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:31",
+            "label": "",
+            "description": "Branislav Ivanovic (Chelsea) found some space to dink a cross from the side into the box, but it needed to be more precise to threaten the opposition.",
+            "identified": "[PLAYER_Qe3xUmHo] ([TEAM_]) found some space to dink a cross from the side into the box, but it needed to be more precise to threaten the opposition.",
+            "anonymized": "[PLAYER] ([TEAM]) found some space to dink a cross from the side into the box, but it needed to be more precise to threaten the opposition.",
+            "visibility": "shown",
+            "position": "1051000",
+            "event_aligned_gameTime": "1 - 17:20",
+            "contrastive_aligned_gameTime": "1 - 18:02"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 16:54",
+            "label": "",
+            "description": "Oscar is picked out by Willian (Chelsea), but one of the defenders arrives to clear.",
+            "identified": "[PLAYER_KfKDzbEo] is picked out by [PLAYER_GSzdOhPI] ([TEAM_]), but one of the defenders arrives to clear.",
+            "anonymized": "[PLAYER] is picked out by [PLAYER] ([TEAM]), but one of the defenders arrives to clear.",
+            "visibility": "shown",
+            "position": "1014000",
+            "event_aligned_gameTime": "1 - 16:50",
+            "contrastive_aligned_gameTime": "1 - 17:19"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:50",
+            "label": "",
+            "description": "Patrick van Aanholt (Sunderland) races towards goal but the defender gets back well to make a challenge.",
+            "identified": "[PLAYER_GxbOZOLI] ([TEAM_]) races towards goal but the defender gets back well to make a challenge.",
+            "anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge.",
+            "visibility": "shown",
+            "position": "950000",
+            "event_aligned_gameTime": "1 - 15:10",
+            "contrastive_aligned_gameTime": "1 - 14:45"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 15:03",
+            "label": "",
+            "description": "Branislav Ivanovic (Chelsea) comes close to scoring. He peels away from his marker and gets on the end of a cross from Oscar, but he hits a shot just wide of the right post.",
+            "identified": "[PLAYER_Qe3xUmHo] ([TEAM_]) comes close to scoring. He peels away from his marker and gets on the end of a cross from [PLAYER_KfKDzbEo], but he hits a shot just wide of the right post.",
+            "anonymized": "[PLAYER] ([TEAM]) comes close to scoring. He peels away from his marker and gets on the end of a cross from [PLAYER], but he hits a shot just wide of the right post.",
+            "visibility": "shown",
+            "position": "903000",
+            "event_aligned_gameTime": "1 - 15:00",
+            "contrastive_aligned_gameTime": "1 - 14:22"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:49",
+            "label": "corner",
+            "description": "Willian (Chelsea) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "identified": "[PLAYER_GSzdOhPI] ([TEAM_]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "visibility": "shown",
+            "position": "889000",
+            "event_aligned_gameTime": "1 - 14:40",
+            "contrastive_aligned_gameTime": "1 - 14:19"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:19",
+            "label": "",
+            "description": "Wow, what an escape. Willian (Chelsea) has an effort from inside the box but it's brilliantly blocked. The ball goes out of play. Chelsea are awarded a corner kick.",
+            "identified": "Wow, what an escape. [PLAYER_GSzdOhPI] ([TEAM_]) has an effort from inside the box but it's brilliantly blocked. The ball goes out of play. [TEAM_] are awarded a corner kick.",
+            "anonymized": "Wow, what an escape. [PLAYER] ([TEAM]) has an effort from inside the box but it's brilliantly blocked. The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "859000",
+            "event_aligned_gameTime": "1 - 14:10",
+            "contrastive_aligned_gameTime": "1 - 14:47"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 12:43",
+            "label": "soccer-ball",
+            "description": "Goal! Pedro (Chelsea) is quickest to react to the rebound and stabs the ball into the back of the net. It's 2:0.",
+            "identified": "Goal! [PLAYER_0f1tMqQl] ([TEAM_]) is quickest to react to the rebound and stabs the ball into the back of the net. It's 2:0.",
+            "anonymized": "Goal! [PLAYER] ([TEAM]) is quickest to react to the rebound and stabs the ball into the back of the net. It's 2:0.",
+            "visibility": "shown",
+            "position": "763000",
+            "event_aligned_gameTime": "1 - 12:40",
+            "contrastive_aligned_gameTime": "1 - 12:05"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 12:40",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Branislav Ivanovic (Chelsea), is intercepted by the opposition's defence.",
+            "identified": "A fine lofted pass into the box, sent by [PLAYER_Qe3xUmHo] ([TEAM_]), is intercepted by the opposition's defence.",
+            "anonymized": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence.",
+            "visibility": "shown",
+            "position": "760000",
+            "event_aligned_gameTime": "1 - 12:30",
+            "contrastive_aligned_gameTime": "1 - 12:30"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:22",
+            "label": "",
+            "description": "Oscar (Chelsea) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",
+            "identified": "[PLAYER_KfKDzbEo] ([TEAM_]) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",
+            "anonymized": "[PLAYER] ([TEAM]) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",
+            "visibility": "shown",
+            "position": "622000",
+            "event_aligned_gameTime": "1 - 10:10",
+            "contrastive_aligned_gameTime": "1 - 10:44"
+        }
+    ]
+}

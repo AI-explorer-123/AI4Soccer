@@ -1,0 +1,594 @@
+[
+  {
+    "question": "How many goals have occurred so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 12,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals up to now?",
+    "choices": [
+      "A. Brighton",
+      "B. Everton",
+      "C. Both teams have scored equally",
+      "D. Neither team has scored"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 12,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the last goal?",
+    "choices": [
+      "A. Anthony Knockaert",
+      "B. Wayne Rooney",
+      "C. No goals yet",
+      "D. Unknown player"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 12,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      12,
+      19
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the match?",
+    "choices": [
+      "A. Brighton",
+      "B. Everton",
+      "C. Both teams scored equally",
+      "D. Neither team scored"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      12,
+      19
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player was involved in the most goals?",
+    "choices": [
+      "A. Anthony Knockaert",
+      "B. Wayne Rooney",
+      "C. Both players scored once",
+      "D. No players scored"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      12,
+      19
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      19
+    ],
+    "current_event_index": 12,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Brighton",
+      "B. Everton",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      19
+    ],
+    "current_event_index": 12,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Anthony Knockaert",
+      "B. Wayne Rooney",
+      "C. Another player",
+      "D. No player"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      19
+    ],
+    "current_event_index": 12,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Brighton",
+      "B. Everton",
+      "C. Both teams have the same",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last card?",
+    "choices": [
+      "A. Davy Propper",
+      "B. Lewis Dunk",
+      "C. Anthony Knockaert",
+      "D. Bruno Saltor"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      4,
+      7
+    ],
+    "current_event_index": 7,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Brighton",
+      "B. Everton",
+      "C. Both teams have the same",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      4,
+      7
+    ],
+    "current_event_index": 7,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last card?",
+    "choices": [
+      "A. Davy Propper",
+      "B. Lewis Dunk",
+      "C. Anthony Knockaert",
+      "D. Bruno Saltor"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      4,
+      7
+    ],
+    "current_event_index": 7,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      4,
+      7,
+      16,
+      17,
+      21
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Brighton",
+      "B. Everton",
+      "C. Both teams have the same",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      4,
+      7,
+      16,
+      17,
+      21
+    ],
+    "current_event_index": null,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player was involved in the most yellow cards?",
+    "choices": [
+      "A. Davy Propper",
+      "B. Lewis Dunk",
+      "C. Anthony Knockaert",
+      "D. Bruno Saltor"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      4,
+      7,
+      16,
+      17,
+      21
+    ],
+    "current_event_index": null,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      16,
+      17,
+      21
+    ],
+    "current_event_index": 7,
+    "index": 9,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Brighton",
+      "B. Everton",
+      "C. Both teams have the same",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      16,
+      17
+    ],
+    "current_event_index": 7,
+    "index": 10,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Davy Propper",
+      "B. Lewis Dunk",
+      "C. Anthony Knockaert",
+      "D. Bruno Saltor"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      16
+    ],
+    "current_event_index": 7,
+    "index": 11,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Everton",
+      "B. Brighton",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Wayne Rooney",
+      "B. Unknown Brighton player",
+      "C. Pascal Gross",
+      "D. No corner has been taken yet"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 7"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      11,
+      15
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Everton",
+      "B. Brighton",
+      "C. Both teams had the same number",
+      "D. Neither team had any corners"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      11,
+      15
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Wayne Rooney",
+      "B. Pascal Gross",
+      "C. Unknown Brighton player",
+      "D. No player was involved in multiple corners"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      11,
+      15
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. It's impossible to predict"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      6,
+      11,
+      15
+    ],
+    "current_event_index": 1,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Everton",
+      "B. Brighton",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      3,
+      5,
+      6,
+      11,
+      15
+    ],
+    "current_event_index": 1,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Wayne Rooney",
+      "B. Pascal Gross",
+      "C. Unknown Brighton player",
+      "D. No player will be involved"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      6
+    ],
+    "current_event_index": 1,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

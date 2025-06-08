@@ -1,0 +1,521 @@
+[
+  {
+    "question": "How many goals have occurred so far in the first half up to Dwight Gayle's goal?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals in the first half up to Dwight Gayle's goal?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. Manchester United",
+      "C. Both teams have scored equally",
+      "D. Neither team has scored"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who was the first player to score in the first half up to Dwight Gayle's goal?",
+    "choices": [
+      "A. Dwight Gayle",
+      "B. Anthony Martial",
+      "C. Chris Smalling",
+      "D. No goals yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      3,
+      8,
+      12
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the first half?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. Manchester United",
+      "C. Both teams scored equally",
+      "D. Neither team scored"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      3,
+      8,
+      12
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player was involved in the most goals in the first half?",
+    "choices": [
+      "A. Dwight Gayle",
+      "B. Anthony Martial",
+      "C. Chris Smalling",
+      "D. All scored one goal each"
+    ],
+    "answer": "D",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      3,
+      8,
+      12
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half after Dwight Gayle's goal?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Two more"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      8,
+      12
+    ],
+    "current_event_index": 3,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal after Dwight Gayle's goal?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. Manchester United",
+      "C. Both teams equally likely",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      8,
+      12
+    ],
+    "current_event_index": 3,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal after Dwight Gayle's goal?",
+    "choices": [
+      "A. Dwight Gayle",
+      "B. Anthony Martial",
+      "C. Chris Smalling",
+      "D. Paul Pogba"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 3,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more cards in the first half up to now?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. The opposing team",
+      "C. Both teams have the same number",
+      "D. No cards have been given"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who was the first player to receive a yellow card in the first half?",
+    "choices": [
+      "A. Isaac Hayden",
+      "B. A player from the opposing team",
+      "C. No one has received a yellow card yet",
+      "D. Multiple players have received yellow cards"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the first half?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. The opposing team",
+      "C. Both teams had the same number",
+      "D. No cards were given"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in first half yellow cards?",
+    "choices": [
+      "A. Isaac Hayden",
+      "B. A player from the opposing team",
+      "C. Both Isaac Hayden and another player",
+      "D. No players received yellow cards"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. It's uncertain"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 2,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. The opposing team",
+      "C. Both teams are equally likely",
+      "D. No more cards will be given"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 2,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Isaac Hayden",
+      "B. A player from the opposing team",
+      "C. No one is likely to be involved",
+      "D. It's impossible to predict"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 2,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to event 1?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to event 1?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. Manchester Utd",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Has Jonjo Shelvey taken any corners in the first half up to event 1?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "D",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. Manchester Utd",
+      "C. Both teams had equal corners",
+      "D. Neither team had corners"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Jonjo Shelvey",
+      "B. Juan Manuel Mata",
+      "C. Marcus Rashford",
+      "D. Ashley Young"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after event 1?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11
+    ],
+    "current_event_index": 1,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after event 1?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. Manchester Utd",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11
+    ],
+    "current_event_index": 1,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will Jonjo Shelvey be involved in another corner before half-time after event 1?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 1,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

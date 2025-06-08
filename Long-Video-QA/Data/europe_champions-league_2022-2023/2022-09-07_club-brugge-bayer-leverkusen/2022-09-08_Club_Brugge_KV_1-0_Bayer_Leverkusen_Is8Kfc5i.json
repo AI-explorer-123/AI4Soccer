@@ -1,0 +1,832 @@
+{
+  "match_info": {
+    "timestamp": "2022-09-08 03:00:00",
+    "score": "1 - 0",
+    "home_team": "Club Brugge KV",
+    "away_team": "Bayer Leverkusen",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Jan Breydel Stadion (Brugge)",
+    "capacity": "29 062",
+    "attendance": "21 235"
+  },
+  "referee_data": {
+    "short_name_country": "Peljto I. (Bih)",
+    "first_name": "Peljto",
+    "abbr_last_name": "I",
+    "country": "Bih",
+    "detected_name": "Irfan Peljto"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Seoane G.",
+        "players_number": "",
+        "Full Name": "Gerardo Seoane",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "coach",
+        "Age and Birthdate": "45,  (30.10.1978)",
+        "Market Value": "",
+        "unicode": "M5BRZDsC"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Adli A.",
+        "players_number": "",
+        "Full Name": "Amine Adli",
+        "players_rating": "",
+        "Country": "Morocco",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (10.05.2000)",
+        "Market Value": "€24.8m",
+        "unicode": "82ETy0Me"
+      },
+      {
+        "players_name": "Bellarabi K.",
+        "players_number": "",
+        "Full Name": "Karim Bellarabi",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (08.04.1990)",
+        "Market Value": "",
+        "unicode": "p2FZf6PS"
+      },
+      {
+        "players_name": "Lunev A.",
+        "players_number": "",
+        "Full Name": "Andrey Lunev",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (13.11.1991)",
+        "Market Value": "€943k",
+        "unicode": "xbp2N5Hs"
+      },
+      {
+        "players_name": "Wirtz F.",
+        "players_number": "",
+        "Full Name": "Florian Wirtz",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (03.05.2003)",
+        "Market Value": "€102.1m",
+        "unicode": "0Q5gjImi"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Andrich R.",
+        "players_number": "8",
+        "Full Name": "Robert Andrich",
+        "players_rating": 6.4,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (22.09.1994)",
+        "Market Value": "€10.5m",
+        "unicode": "zDjAwp82"
+      },
+      {
+        "players_name": "Aranguiz C.",
+        "players_number": "20",
+        "Full Name": "Charles Aranguiz",
+        "players_rating": 6.5,
+        "Country": "Chile",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (17.04.1989)",
+        "Market Value": "€1.8m",
+        "unicode": "EZc7f9C5"
+      },
+      {
+        "players_name": "Bakker M.",
+        "players_number": "5",
+        "Full Name": "Mitchel Bakker",
+        "players_rating": 6.2,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (20.06.2000)",
+        "Market Value": "€7.5m",
+        "unicode": "zB5OlUKE"
+      },
+      {
+        "players_name": "Diaby M.",
+        "players_number": "19",
+        "Full Name": "Moussa Diaby",
+        "players_rating": 6.6,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (07.07.1999)",
+        "Market Value": "€57.9m",
+        "unicode": "GYjwX8oI"
+      },
+      {
+        "players_name": "Frimpong J.",
+        "players_number": "30",
+        "Full Name": "Jeremie Frimpong",
+        "players_rating": 6.7,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (10.12.2000)",
+        "Market Value": "€49.6m",
+        "unicode": "SjJ6pCvC"
+      },
+      {
+        "players_name": "Hincapie P.",
+        "players_number": "3",
+        "Full Name": "Piero Hincapie",
+        "players_rating": 7.2,
+        "Country": "Ecuador",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (09.01.2002)",
+        "Market Value": "€34.3m",
+        "unicode": "2TTElOLP"
+      },
+      {
+        "players_name": "Hradecky L. (G) (C)",
+        "players_number": "1",
+        "Full Name": "Lukas Hradecky",
+        "players_rating": 5.9,
+        "Country": "Finland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "34, (24.11.1989)",
+        "Market Value": "€2.5m",
+        "unicode": "nRZtaBXj"
+      },
+      {
+        "players_name": "Hudson-Odoi C.",
+        "players_number": "17",
+        "Full Name": "Callum Hudson-Odoi",
+        "players_rating": 6.4,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (07.11.2000)",
+        "Market Value": "€11.4m",
+        "unicode": "dtU5eexQ"
+      },
+      {
+        "players_name": "Kossounou O.",
+        "players_number": "6",
+        "Full Name": "Odilon Kossounou",
+        "players_rating": 6.9,
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (04.01.2001)",
+        "Market Value": "€33.8m",
+        "unicode": "SzDIipZ9"
+      },
+      {
+        "players_name": "Schick P.",
+        "players_number": "14",
+        "Full Name": "Patrik Schick",
+        "players_rating": 6.5,
+        "Country": "Czech Republic",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (24.01.1996)",
+        "Market Value": "€21.2m",
+        "unicode": "WzQQSSfc"
+      },
+      {
+        "players_name": "Tah J.",
+        "players_number": "4",
+        "Full Name": "Jonathan Tah",
+        "players_rating": 6.8,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (11.02.1996)",
+        "Market Value": "€24.1m",
+        "unicode": "2yf8EcuE"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Amiri N.",
+        "players_number": "11",
+        "Full Name": "Nadiem Amiri",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (27.10.1996)",
+        "Market Value": "€4.2m",
+        "unicode": "b3H5VR8I"
+      },
+      {
+        "players_name": "Azmoun S.",
+        "players_number": "9",
+        "Full Name": "Sardar Azmoun",
+        "players_rating": "",
+        "Country": "Iran",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (01.01.1995)",
+        "Market Value": "€9.6m",
+        "unicode": "6XEsobq8"
+      },
+      {
+        "players_name": "Demirbay K.",
+        "players_number": "10",
+        "Full Name": "Kerem Demirbay",
+        "players_rating": 6.1,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (03.07.1993)",
+        "Market Value": "€4.7m",
+        "unicode": "bDxlhHxR"
+      },
+      {
+        "players_name": "Hlozek A.",
+        "players_number": "23",
+        "Full Name": "Adam Hlozek",
+        "players_rating": 6.4,
+        "Country": "Czech Republic",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (25.07.2002)",
+        "Market Value": "€14.9m",
+        "unicode": "2FUsDXpd"
+      },
+      {
+        "players_name": "Palacios E.",
+        "players_number": "25",
+        "Full Name": "Exequiel Palacios",
+        "players_rating": 6.3,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (05.10.1998)",
+        "Market Value": "€39.1m",
+        "unicode": "xEflXBhr"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Fosu-Mensah T.",
+        "players_number": "24",
+        "Full Name": "Timothy Fosu-Mensah",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (02.01.1998)",
+        "Market Value": "€1.3m",
+        "unicode": "2sJ8He5E"
+      },
+      {
+        "players_name": "Lomb N. (G)",
+        "players_number": "36",
+        "Full Name": "Niklas Lomb",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "30, (28.07.1993)",
+        "Market Value": "€234k",
+        "unicode": "fB4FKbSB"
+      },
+      {
+        "players_name": "Neutgens M. (G)",
+        "players_number": "41",
+        "Full Name": "Maximilian Neutgens",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "30.06.2024, (03.03.2004)",
+        "Market Value": "",
+        "unicode": "jTqtrjoh"
+      },
+      {
+        "players_name": "Paulinho",
+        "players_number": "7",
+        "Full Name": "Paulinho",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (15.07.2000)",
+        "Market Value": "€14.0m",
+        "unicode": "GExeArGJ"
+      },
+      {
+        "players_name": "Tapsoba E.",
+        "players_number": "12",
+        "Full Name": "Edmond Tapsoba",
+        "players_rating": "",
+        "Country": "Burkina Faso",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (02.02.1999)",
+        "Market Value": "€39.1m",
+        "unicode": "d4z5zQ7g"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Hoefkens C.",
+        "players_number": "",
+        "Full Name": "Carl Hoefkens",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "coach",
+        "Age and Birthdate": "45,  (06.10.1978)",
+        "Market Value": "",
+        "unicode": "rgVGEE2d"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Buchanan T.",
+        "players_number": "",
+        "Full Name": "Tajon Buchanan",
+        "players_rating": "",
+        "Country": "Canada",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (08.02.1999)",
+        "Market Value": "€7.5m",
+        "unicode": "G62SXlFI"
+      },
+      {
+        "players_name": "Clinton Mata",
+        "players_number": "",
+        "Full Name": "Clinton Mata",
+        "players_rating": "",
+        "Country": "Angola",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (07.11.1992)",
+        "Market Value": "€3.9m",
+        "unicode": "6PvHspma"
+      },
+      {
+        "players_name": "Lang N.",
+        "players_number": "",
+        "Full Name": "Noa Lang",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (17.06.1999)",
+        "Market Value": "€19.9m",
+        "unicode": "4YZobWel"
+      },
+      {
+        "players_name": "Rits M.",
+        "players_number": "",
+        "Full Name": "Mats Rits",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (18.07.1993)",
+        "Market Value": "€3.8m",
+        "unicode": "r78M8QYn"
+      },
+      {
+        "players_name": "Vormer R.",
+        "players_number": "",
+        "Full Name": "Ruud Vormer",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (11.05.1988)",
+        "Market Value": "€482k",
+        "unicode": "M15SV93D"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Jutgla F.",
+        "players_number": "9",
+        "Full Name": "Ferran Jutgla",
+        "players_rating": 6.8,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (01.02.1999)",
+        "Market Value": "€6.3m",
+        "unicode": "Wbz0q867"
+      },
+      {
+        "players_name": "Mechele B.",
+        "players_number": "44",
+        "Full Name": "Brandon Mechele",
+        "players_rating": 7.2,
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (28.01.1993)",
+        "Market Value": "€4.0m",
+        "unicode": "6k4GFuni"
+      },
+      {
+        "players_name": "Meijer B.",
+        "players_number": "14",
+        "Full Name": "Bjorn Meijer",
+        "players_rating": 7.3,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (18.03.2003)",
+        "Market Value": "€8.6m",
+        "unicode": "GAVDy0Sp"
+      },
+      {
+        "players_name": "Mignolet S. (G)",
+        "players_number": "22",
+        "Full Name": "Simon Mignolet",
+        "players_rating": 7.3,
+        "Country": "Belgium",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (06.03.1988)",
+        "Market Value": "€2.7m",
+        "unicode": "YVcnMAp6"
+      },
+      {
+        "players_name": "Nielsen C.",
+        "players_number": "27",
+        "Full Name": "Casper Nielsen",
+        "players_rating": 7.3,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (29.04.1994)",
+        "Market Value": "€4.8m",
+        "unicode": "AuAJnutg"
+      },
+      {
+        "players_name": "Odoi D.",
+        "players_number": "6",
+        "Full Name": "Denis Odoi",
+        "players_rating": 7.1,
+        "Country": "Ghana",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (27.05.1988)",
+        "Market Value": "€374k",
+        "unicode": "dKs72cj2"
+      },
+      {
+        "players_name": "Onyedika R.",
+        "players_number": "15",
+        "Full Name": "Raphael Onyedika",
+        "players_rating": 6.9,
+        "Country": "Nigeria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (19.04.2001)",
+        "Market Value": "€7.7m",
+        "unicode": "lGk4guoq"
+      },
+      {
+        "players_name": "Skov Olsen A.",
+        "players_number": "7",
+        "Full Name": "Andreas Skov Olsen",
+        "players_rating": 7.4,
+        "Country": "Denmark",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (29.12.1999)",
+        "Market Value": "€17.6m",
+        "unicode": "l2cmORl4"
+      },
+      {
+        "players_name": "Sowah K.",
+        "players_number": "19",
+        "Full Name": "Kamal Sowah",
+        "players_rating": 6.9,
+        "Country": "Ghana",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (09.01.2000)",
+        "Market Value": "€2.4m",
+        "unicode": "fPTy8UIB"
+      },
+      {
+        "players_name": "Sylla A.",
+        "players_number": "94",
+        "Full Name": "Abakar Sylla",
+        "players_rating": 8.4,
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (25.12.2002)",
+        "Market Value": "€11.4m",
+        "unicode": "lOBSekrn"
+      },
+      {
+        "players_name": "Vanaken H. (C)",
+        "players_number": "20",
+        "Full Name": "Hans Vanaken",
+        "players_rating": 7.0,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (24.08.1992)",
+        "Market Value": "€8.9m",
+        "unicode": "0Cu4qHps"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Balanta E.",
+        "players_number": "3",
+        "Full Name": "Eder Balanta",
+        "players_rating": "",
+        "Country": "Colombia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (28.02.1993)",
+        "Market Value": "€1.4m",
+        "unicode": "fZAVdtSi"
+      },
+      {
+        "players_name": "Sandra C.",
+        "players_number": "98",
+        "Full Name": "Cisse Sandra",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (16.12.2003)",
+        "Market Value": "€974k",
+        "unicode": "tnsadw48"
+      },
+      {
+        "players_name": "Sobol E.",
+        "players_number": "2",
+        "Full Name": "Eduard Sobol",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (20.04.1995)",
+        "Market Value": "€1.8m",
+        "unicode": "lt4ja89s"
+      },
+      {
+        "players_name": "Yaremchuk R.",
+        "players_number": "70",
+        "Full Name": "Roman Yaremchuk",
+        "players_rating": 6.5,
+        "Country": "Ukraine",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (27.11.1995)",
+        "Market Value": "€2.8m",
+        "unicode": "vuhK9J78"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Audoor L.",
+        "players_number": "89",
+        "Full Name": "Lynnt Audoor",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (13.10.2003)",
+        "Market Value": "€421k",
+        "unicode": "lWf9iSyh"
+      },
+      {
+        "players_name": "Boyata D.",
+        "players_number": "28",
+        "Full Name": "Dedryck Boyata",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (28.11.1990)",
+        "Market Value": "€749k",
+        "unicode": "WIk4rr1k"
+      },
+      {
+        "players_name": "Lammens S. (G)",
+        "players_number": "91",
+        "Full Name": "Senne Lammens",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "21, (07.07.2002)",
+        "Market Value": "€735k",
+        "unicode": "UFssg7X4"
+      },
+      {
+        "players_name": "Larin C.",
+        "players_number": "11",
+        "Full Name": "Cyle Larin",
+        "players_rating": "",
+        "Country": "Canada",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (17.04.1995)",
+        "Market Value": "€4.7m",
+        "unicode": "vNpXFtuQ"
+      },
+      {
+        "players_name": "Nusa A.",
+        "players_number": "32",
+        "Full Name": "Antonio Nusa",
+        "players_rating": "",
+        "Country": "Norway",
+        "Role": "Forward",
+        "Age and Birthdate": "18, (17.04.2005)",
+        "Market Value": "€16.6m",
+        "unicode": "rHwRvHQp"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "02:50",
+      "comments_type": "red card",
+      "comments_text": "It looks like Bjorn Meijer (Club Brugge) saw red with that tackle. Irfan Peljto won't tolerate such behaviour on the pitch and blows for a foul.",
+      "comments_text_anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "12:38",
+      "comments_type": "corner",
+      "comments_text": "Club Brugge KV take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "12:50",
+      "comments_type": "corner",
+      "comments_text": "Casper Nielsen (Club Brugge) takes the corner which is cleared.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "20:51",
+      "comments_type": "corner",
+      "comments_text": "Bayer Leverkusen failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:40",
+      "comments_type": "corner",
+      "comments_text": "Corner kick. Andreas Skov Olsen (Club Brugge) is ready to send the ball into the box.",
+      "comments_text_anonymized": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "41:40",
+      "comments_type": "goal",
+      "comments_text": "Andreas Skov Olsen produces a beautiful lofted cross into the box, where Abakar Sylla (Club Brugge) rises high to head the ball into the right side of the goal and beyond the goalkeeper. He makes it 1:0.",
+      "comments_text_anonymized": "[PLAYER] produces a beautiful lofted cross into the box, where [PLAYER] ([TEAM]) rises high to head the ball into the right side of the goal and beyond the goalkeeper. He makes it 1:0.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "46:14",
+      "comments_type": "corner",
+      "comments_text": "Kamal Sowah (Club Brugge) shoots from the edge of the penalty area. The ball travels towards the crossbar, but Lukas Hradecky easily deals with the threat. Club Brugge KV have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) shoots from the edge of the penalty area. The ball travels towards the crossbar, but [PLAYER] easily deals with the threat. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "46:04",
+      "comments_type": "corner",
+      "comments_text": "Andreas Skov Olsen (Club Brugge) sends in the corner, but the keeper steps in and makes a save.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in the corner, but the keeper steps in and makes a save.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:20",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Charles Aranguiz trots off the pitch and is replaced by Exequiel Palacios (Bayer Leverkusen).",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] trots off the pitch and is replaced by [PLAYER] ([TEAM]).",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "02:20",
+      "comments_type": "corner",
+      "comments_text": "Callum Hudson-Odoi (Bayer Leverkusen) takes the corner kick but the ball only finds the head of an opponent.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:53",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Exequiel Palacios (Bayer Leverkusen) only finds one of the defenders, who heads it out of danger.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:29",
+      "comments_type": "yellow card",
+      "comments_text": "Irfan Peljto shows a yellow card to Exequiel Palacios (Bayer Leverkusen) for his blatant foul.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:10",
+      "comments_type": "yellow card",
+      "comments_text": "Robert Andrich (Bayer Leverkusen) receives a yellow card from the referee for a foul that he committed a little earlier.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a yellow card from the referee for a foul that he committed a little earlier.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:20",
+      "comments_type": "substitution",
+      "comments_text": "The manager has decided to make a substitution and Ferran Jutgla walks off the pitch to be replaced by Roman Yaremchuk (Club Brugge).",
+      "comments_text_anonymized": "The manager has decided to make a substitution and [PLAYER] walks off the pitch to be replaced by [PLAYER] ([TEAM]).",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:51",
+      "comments_type": "corner",
+      "comments_text": "The resulting set piece from Club Brugge KV is comfortably intercepted by one of the defending players. It will be a corner kick for Club Brugge KV.",
+      "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players. It will be a corner kick for [TEAM].",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:14",
+      "comments_type": "corner",
+      "comments_text": "Casper Nielsen (Club Brugge) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:52",
+      "comments_type": "substitution",
+      "comments_text": "Gerardo Seoane prepares a substitution. Robert Andrich is replaced by Kerem Demirbay (Bayer Leverkusen).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:41",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Adam Hlozek (Bayer Leverkusen) in, Mitchel Bakker out.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:05",
+      "comments_type": "yellow card",
+      "comments_text": "Kerem Demirbay (Bayer Leverkusen) is booked after bringing down an opponent. Irfan Peljto had an easy-decision to make.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:39",
+      "comments_type": "corner",
+      "comments_text": "Bayer Leverkusen have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:49",
+      "comments_type": "goal",
+      "comments_text": "Patrik Schick (Bayer Leverkusen) scores with a wonderful header that goes into the bottom right corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) scores with a wonderful header that goes into the bottom right corner.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:25",
+      "comments_type": "yellow card",
+      "comments_text": "Kamal Sowah (Club Brugge) has tested the patience of referee Irfan Peljto and goes into the book for a previous late challenge.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:47",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Eder Balanta (Club Brugge) has come on for Raphael Onyedika.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER].",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:29",
+      "comments_type": "substitution",
+      "comments_text": "Carl Hoefkens has decided to make a change. Cisse Sandra (Club Brugge) replaces Andreas Skov Olsen.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:00",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Callum Hudson-Odoi departs the field of play to be replaced by Nadiem Amiri (Bayer Leverkusen).",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM]).",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:34",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Sardar Azmoun (Bayer Leverkusen) replaces Jeremie Frimpong.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:27",
+      "comments_type": "substitution",
+      "comments_text": "Carl Hoefkens decides to make a substitution. Kamal Sowah will be replaced by Eduard Sobol (Club Brugge).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 26
+    }
+  ]
+}

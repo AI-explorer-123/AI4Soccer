@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which team has taken more corners in the first half up to the 5th minute?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next goal after the 43:04 mark?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 7,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal after the 43:04 mark?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Maxim Choupo-Moting",
+      "C. Mame Diouf",
+      "D. Paul Pogba"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 7,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half after the 43:04 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 7,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Maxim Choupo-Moting",
+      "B. Marcus Rashford",
+      "C. Mame Diouf",
+      "D. Paul Pogba"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 2,
+    "event_type": "goal"
+  }
+]

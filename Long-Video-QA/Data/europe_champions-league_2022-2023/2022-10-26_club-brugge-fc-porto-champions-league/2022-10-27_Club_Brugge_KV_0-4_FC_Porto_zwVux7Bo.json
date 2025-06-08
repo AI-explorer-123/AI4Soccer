@@ -1,0 +1,866 @@
+{
+  "match_info": {
+    "timestamp": "2022-10-27 00:45:00",
+    "score": "0 - 4",
+    "home_team": "Club Brugge KV",
+    "away_team": "FC Porto",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 4 - 2",
+    "venue": "Jan Breydel Stadion (Brugge)",
+    "capacity": "29 062",
+    "attendance": "28 144"
+  },
+  "referee_data": {
+    "short_name_country": "Oliver M. (Eng)",
+    "first_name": "Oliver",
+    "abbr_last_name": "M",
+    "country": "Eng",
+    "detected_name": "Michael Oliver"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Hoefkens C.",
+        "players_number": "",
+        "Full Name": "Carl Hoefkens",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "coach",
+        "Age and Birthdate": "45,  (06.10.1978)",
+        "Market Value": "",
+        "unicode": "rgVGEE2d"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Clinton Mata",
+        "players_number": "",
+        "Full Name": "Clinton Mata",
+        "players_rating": "",
+        "Country": "Angola",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (07.11.1992)",
+        "Market Value": "€3.9m",
+        "unicode": "6PvHspma"
+      },
+      {
+        "players_name": "Rits M.",
+        "players_number": "",
+        "Full Name": "Mats Rits",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (18.07.1993)",
+        "Market Value": "€3.8m",
+        "unicode": "r78M8QYn"
+      },
+      {
+        "players_name": "Sowah K.",
+        "players_number": "",
+        "Full Name": "Kamal Sowah",
+        "players_rating": "",
+        "Country": "Ghana",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (09.01.2000)",
+        "Market Value": "€2.4m",
+        "unicode": "fPTy8UIB"
+      },
+      {
+        "players_name": "Vormer R.",
+        "players_number": "",
+        "Full Name": "Ruud Vormer",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (11.05.1988)",
+        "Market Value": "€482k",
+        "unicode": "M15SV93D"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Buchanan T.",
+        "players_number": "17",
+        "Full Name": "Tajon Buchanan",
+        "players_rating": 5.9,
+        "Country": "Canada",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (08.02.1999)",
+        "Market Value": "€7.5m",
+        "unicode": "G62SXlFI"
+      },
+      {
+        "players_name": "Jutgla F.",
+        "players_number": "9",
+        "Full Name": "Ferran Jutgla",
+        "players_rating": 6.3,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (01.02.1999)",
+        "Market Value": "€6.3m",
+        "unicode": "Wbz0q867"
+      },
+      {
+        "players_name": "Lang N.",
+        "players_number": "10",
+        "Full Name": "Noa Lang",
+        "players_rating": 6.1,
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (17.06.1999)",
+        "Market Value": "€19.9m",
+        "unicode": "4YZobWel"
+      },
+      {
+        "players_name": "Mechele B.",
+        "players_number": "44",
+        "Full Name": "Brandon Mechele",
+        "players_rating": 6.7,
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (28.01.1993)",
+        "Market Value": "€4.0m",
+        "unicode": "6k4GFuni"
+      },
+      {
+        "players_name": "Mignolet S. (G)",
+        "players_number": "22",
+        "Full Name": "Simon Mignolet",
+        "players_rating": 6.6,
+        "Country": "Belgium",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (06.03.1988)",
+        "Market Value": "€2.7m",
+        "unicode": "YVcnMAp6"
+      },
+      {
+        "players_name": "Nielsen C.",
+        "players_number": "27",
+        "Full Name": "Casper Nielsen",
+        "players_rating": 5.7,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (29.04.1994)",
+        "Market Value": "€4.8m",
+        "unicode": "AuAJnutg"
+      },
+      {
+        "players_name": "Odoi D.",
+        "players_number": "6",
+        "Full Name": "Denis Odoi",
+        "players_rating": 5.9,
+        "Country": "Ghana",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (27.05.1988)",
+        "Market Value": "€374k",
+        "unicode": "dKs72cj2"
+      },
+      {
+        "players_name": "Onyedika R.",
+        "players_number": "15",
+        "Full Name": "Raphael Onyedika",
+        "players_rating": 6.0,
+        "Country": "Nigeria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (19.04.2001)",
+        "Market Value": "€7.7m",
+        "unicode": "lGk4guoq"
+      },
+      {
+        "players_name": "Skov Olsen A.",
+        "players_number": "7",
+        "Full Name": "Andreas Skov Olsen",
+        "players_rating": 6.5,
+        "Country": "Denmark",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (29.12.1999)",
+        "Market Value": "€17.6m",
+        "unicode": "l2cmORl4"
+      },
+      {
+        "players_name": "Sylla A.",
+        "players_number": "94",
+        "Full Name": "Abakar Sylla",
+        "players_rating": 5.1,
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (25.12.2002)",
+        "Market Value": "€11.4m",
+        "unicode": "lOBSekrn"
+      },
+      {
+        "players_name": "Vanaken H. (C)",
+        "players_number": "20",
+        "Full Name": "Hans Vanaken",
+        "players_rating": 6.5,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (24.08.1992)",
+        "Market Value": "€8.9m",
+        "unicode": "0Cu4qHps"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Audoor L.",
+        "players_number": "89",
+        "Full Name": "Lynnt Audoor",
+        "players_rating": 6.0,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (13.10.2003)",
+        "Market Value": "€421k",
+        "unicode": "lWf9iSyh"
+      },
+      {
+        "players_name": "Balanta E.",
+        "players_number": "3",
+        "Full Name": "Eder Balanta",
+        "players_rating": 6.4,
+        "Country": "Colombia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (28.02.1993)",
+        "Market Value": "€1.4m",
+        "unicode": "fZAVdtSi"
+      },
+      {
+        "players_name": "Boyata D.",
+        "players_number": "28",
+        "Full Name": "Dedryck Boyata",
+        "players_rating": 6.2,
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (28.11.1990)",
+        "Market Value": "€749k",
+        "unicode": "WIk4rr1k"
+      },
+      {
+        "players_name": "Meijer B.",
+        "players_number": "14",
+        "Full Name": "Bjorn Meijer",
+        "players_rating": 6.3,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (18.03.2003)",
+        "Market Value": "€8.7m",
+        "unicode": "GAVDy0Sp"
+      },
+      {
+        "players_name": "Nusa A.",
+        "players_number": "32",
+        "Full Name": "Antonio Nusa",
+        "players_rating": 6.4,
+        "Country": "Norway",
+        "Role": "Forward",
+        "Age and Birthdate": "18, (17.04.2005)",
+        "Market Value": "€16.6m",
+        "unicode": "rHwRvHQp"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Lammens S. (G)",
+        "players_number": "91",
+        "Full Name": "Senne Lammens",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "21, (07.07.2002)",
+        "Market Value": "€735k",
+        "unicode": "UFssg7X4"
+      },
+      {
+        "players_name": "Larin C.",
+        "players_number": "11",
+        "Full Name": "Cyle Larin",
+        "players_rating": "",
+        "Country": "Canada",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (17.04.1995)",
+        "Market Value": "€4.7m",
+        "unicode": "vNpXFtuQ"
+      },
+      {
+        "players_name": "Sandra C.",
+        "players_number": "98",
+        "Full Name": "Cisse Sandra",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (16.12.2003)",
+        "Market Value": "€974k",
+        "unicode": "tnsadw48"
+      },
+      {
+        "players_name": "Yaremchuk R.",
+        "players_number": "70",
+        "Full Name": "Roman Yaremchuk",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (27.11.1995)",
+        "Market Value": "€2.8m",
+        "unicode": "vuhK9J78"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Conceicao S.",
+        "players_number": "",
+        "Full Name": "Sergio Conceicao",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "coach",
+        "Age and Birthdate": "49,  (15.11.1974)",
+        "Market Value": "",
+        "unicode": "O0EZjzoA"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Joao Mario",
+        "players_number": "",
+        "Full Name": "Joao Mario",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (03.01.2000)",
+        "Market Value": "€15.4m",
+        "unicode": "f5eFlQHh"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Cardoso F.",
+        "players_number": "2",
+        "Full Name": "Fabio Cardoso",
+        "players_rating": 7.2,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (19.04.1994)",
+        "Market Value": "€3.9m",
+        "unicode": "MNFUqpkd"
+      },
+      {
+        "players_name": "Carmo D.",
+        "players_number": "4",
+        "Full Name": "David Carmo",
+        "players_rating": 6.8,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (19.07.1999)",
+        "Market Value": "€13.5m",
+        "unicode": "4ANgblVo"
+      },
+      {
+        "players_name": "Costa D. (G)",
+        "players_number": "99",
+        "Full Name": "Diogo Costa",
+        "players_rating": 8.3,
+        "Country": "Portugal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "24, (19.09.1999)",
+        "Market Value": "€44.0m",
+        "unicode": "hC31Ab0c"
+      },
+      {
+        "players_name": "Eustaquio S.",
+        "players_number": "46",
+        "Full Name": "Stephen Eustaquio",
+        "players_rating": 7.3,
+        "Country": "Canada",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (21.12.1996)",
+        "Market Value": "€14.5m",
+        "unicode": "Uk00cWLU"
+      },
+      {
+        "players_name": "Evanilson",
+        "players_number": "30",
+        "Full Name": "Evanilson",
+        "players_rating": 7.4,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (06.10.1999)",
+        "Market Value": "€25.2m",
+        "unicode": "lUqxFifa"
+      },
+      {
+        "players_name": "Galeno",
+        "players_number": "13",
+        "Full Name": "Galeno",
+        "players_rating": 6.9,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (22.10.1997)",
+        "Market Value": "€22.5m",
+        "unicode": "dWU8oVh8"
+      },
+      {
+        "players_name": "Otavio (C)",
+        "players_number": "25",
+        "Full Name": "Otavio",
+        "players_rating": 9.2,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (09.02.1995)",
+        "Market Value": "€30.1m",
+        "unicode": "0rjCgsed"
+      },
+      {
+        "players_name": "Pepe",
+        "players_number": "11",
+        "Full Name": "Pepe",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "40, (26.02.1983)",
+        "Market Value": "€783k",
+        "unicode": "2y9qaipI"
+      },
+      {
+        "players_name": "Taremi M.",
+        "players_number": "9",
+        "Full Name": "Mehdi Taremi",
+        "players_rating": 9.1,
+        "Country": "Iran",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (18.07.1992)",
+        "Market Value": "€12.1m",
+        "unicode": "E9UW7Gv8"
+      },
+      {
+        "players_name": "Uribe M.",
+        "players_number": "8",
+        "Full Name": "Mateus Uribe",
+        "players_rating": 6.6,
+        "Country": "Colombia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (21.03.1991)",
+        "Market Value": "€5.0m",
+        "unicode": "bPIgR2Pn"
+      },
+      {
+        "players_name": "Zaidu",
+        "players_number": "12",
+        "Full Name": "Zaidu",
+        "players_rating": 6.8,
+        "Country": "Nigeria",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (13.07.1997)",
+        "Market Value": "€2.9m",
+        "unicode": "Wr0Iog1G"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Bruno Costa",
+        "players_number": "28",
+        "Full Name": "Bruno Costa",
+        "players_rating": 6.5,
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (19.04.1997)",
+        "Market Value": "",
+        "unicode": "6LUORNRa"
+      },
+      {
+        "players_name": "Conceicao R.",
+        "players_number": "17",
+        "Full Name": "Rodrigo Conceicao",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (02.01.2000)",
+        "Market Value": "€964k",
+        "unicode": "4plIGu69"
+      },
+      {
+        "players_name": "Gabriel Veron",
+        "players_number": "7",
+        "Full Name": "Gabriel Veron",
+        "players_rating": 6.2,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (03.09.2002)",
+        "Market Value": "€7.6m",
+        "unicode": "4tWnQgWn"
+      },
+      {
+        "players_name": "Martinez T.",
+        "players_number": "29",
+        "Full Name": "Toni Martinez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (30.06.1997)",
+        "Market Value": "€5.4m",
+        "unicode": "rw0nledT"
+      },
+      {
+        "players_name": "Wendell",
+        "players_number": "22",
+        "Full Name": "Wendell",
+        "players_rating": 6.1,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (20.07.1993)",
+        "Market Value": "",
+        "unicode": "YsRt3zJE"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Borges G.",
+        "players_number": "70",
+        "Full Name": "Goncalo Borges",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (29.03.2001)",
+        "Market Value": "€3.7m",
+        "unicode": "6uaJmpXb"
+      },
+      {
+        "players_name": "Claudio Ramos (G)",
+        "players_number": "14",
+        "Full Name": "Claudio Ramos",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (16.11.1991)",
+        "Market Value": "€1.4m",
+        "unicode": "Myzz6wYk"
+      },
+      {
+        "players_name": "Danny Namaso",
+        "players_number": "19",
+        "Full Name": "Danny Namaso",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (28.08.2000)",
+        "Market Value": "€4.5m",
+        "unicode": "hCFyjZam"
+      },
+      {
+        "players_name": "Folha B.",
+        "players_number": "87",
+        "Full Name": "Bernardo Folha",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (23.03.2002)",
+        "Market Value": "€738k",
+        "unicode": "fV6n2Ld9"
+      },
+      {
+        "players_name": "Franco A.",
+        "players_number": "20",
+        "Full Name": "Andre Franco",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (12.04.1998)",
+        "Market Value": "€3.9m",
+        "unicode": "p8N4GUIR"
+      },
+      {
+        "players_name": "Grujic M.",
+        "players_number": "16",
+        "Full Name": "Marko Grujic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (13.04.1996)",
+        "Market Value": "€7.7m",
+        "unicode": "GOLg3K3h"
+      },
+      {
+        "players_name": "Marcano I.",
+        "players_number": "5",
+        "Full Name": "Ivan Marcano",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (23.06.1987)",
+        "Market Value": "€305k",
+        "unicode": "KtLO69NH"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "04:30",
+      "comments_type": "corner",
+      "comments_text": "Otavio (FC Porto) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. The ball is out of play and the linesman points at the corner flag. Corner to FC Porto.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "05:10",
+      "comments_type": "corner",
+      "comments_text": "Otavio (FC Porto) will take the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the corner.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "14:20",
+      "comments_type": "corner",
+      "comments_text": "Otavio (FC Porto) is heading toward the corner flag to take the set piece.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "27:58",
+      "comments_type": "yellow card",
+      "comments_text": "Michael Oliver shows a yellow card to Denis Odoi (Club Brugge) for his blatant foul.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "27:58",
+      "comments_type": "yellow card",
+      "comments_text": "Stephen Eustaquio (FC Porto) makes a bad challenge and receives a yellow card. The referee had no doubt.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and receives a yellow card. The referee had no doubt.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "30:01",
+      "comments_type": "corner",
+      "comments_text": "Andreas Skov Olsen (Club Brugge) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "32:20",
+      "comments_type": "goal",
+      "comments_text": "Stunning strike! Mehdi Taremi (FC Porto) latches on to a precise through ball from Otavio before unleashing an unstoppable shot into the bottom right corner from the edge of the area. Fantastic goal. The score is now 0:1.",
+      "comments_text_anonymized": "Stunning strike! [PLAYER] ([TEAM]) latches on to a precise through ball from [PLAYER] before unleashing an unstoppable shot into the bottom right corner from the edge of the area. Fantastic goal. The score is now 0:1.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "41:16",
+      "comments_type": "yellow card",
+      "comments_text": "Otavio (FC Porto) has tested the patience of referee Michael Oliver and goes into the book for a previous late challenge.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:47",
+      "comments_type": "corner",
+      "comments_text": "The corner kick from Andreas Skov Olsen (Club Brugge) is headed out of the penalty area by one of the defenders. The ball is out of play. Club Brugge KV win a corner kick.",
+      "comments_text_anonymized": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders. The ball is out of play. [TEAM] win a corner kick.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "01:18",
+      "comments_type": "corner",
+      "comments_text": "Noa Lang (Club Brugge) launches a cross from the corner, but Diogo Costa is alert to thwart the effort.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a cross from the corner, but [PLAYER] is alert to thwart the effort.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "03:42",
+      "comments_type": "yellow card",
+      "comments_text": "David Carmo (FC Porto) will have to be careful for the rest of the match as he is shown a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will have to be careful for the rest of the match as he is shown a yellow card.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "04:20",
+      "comments_type": "penalty",
+      "comments_text": "Hans Vanaken (Club Brugge) is going to take the penalty!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "05:40",
+      "comments_type": "penalty",
+      "comments_text": "Noa Lang (Club Brugge) is heading towards the penalty spot to take it.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:27",
+      "comments_type": "corner",
+      "comments_text": "Noa Lang (Club Brugge) will take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will take a corner kick.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:00",
+      "comments_type": "corner",
+      "comments_text": "Noa Lang (Club Brugge) will deliver the ball into the penalty box from a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:54",
+      "comments_type": "yellow card",
+      "comments_text": "This is a yellow card! Abakar Sylla (Club Brugge) is not happy with the decision, but from our point of view it was clear.",
+      "comments_text_anonymized": "This is a yellow card! [PLAYER] ([TEAM]) is not happy with the decision, but from our point of view it was clear.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "09:39",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Raphael Onyedika (Club Brugge) was quite harsh and Michael Oliver didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:40",
+      "comments_type": "goal",
+      "comments_text": "Goal! Evanilson (FC Porto) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the middle of the net. It's 0:2.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the middle of the net. It's 0:2.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "14:26",
+      "comments_type": "goal",
+      "comments_text": "Stephen Eustaquio (FC Porto) is the lucky recipient of a rebound. He takes advantage of it and powers the ball into the middle of the target, leaving the goalkeeper helpless.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is the lucky recipient of a rebound. He takes advantage of it and powers the ball into the middle of the target, leaving the goalkeeper helpless.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:30",
+      "comments_type": "yellow card",
+      "comments_text": "Mateus Uribe (FC Porto) is booked after bringing down an opponent. Michael Oliver had an easy-decision to make.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "24:25",
+      "comments_type": "goal",
+      "comments_text": "Otavio is in a good shooting position, but he sees his teammate and passes the ball to him. Mehdi Taremi (FC Porto) takes it nicely and beats the goalkeeper with a precise shot into the bottom left corner to make the score 0:4.",
+      "comments_text_anonymized": "[PLAYER] is in a good shooting position, but he sees his teammate and passes the ball to him. [PLAYER] ([TEAM]) takes it nicely and beats the goalkeeper with a precise shot into the bottom left corner to make the score 0:4.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:38",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Denis Odoi leaves the pitch and Bjorn Meijer (Club Brugge) comes on.",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:33",
+      "comments_type": "substitution",
+      "comments_text": "Carl Hoefkens has decided to make a change. Dedryck Boyata (Club Brugge) replaces Abakar Sylla.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:20",
+      "comments_type": "substitution",
+      "comments_text": "Carl Hoefkens prepares a substitution. Andreas Skov Olsen is replaced by Antonio Nusa (Club Brugge).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:19",
+      "comments_type": "corner",
+      "comments_text": "Noa Lang (Club Brugge) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:14",
+      "comments_type": "substitution",
+      "comments_text": "The referee allows time for a substitution. Zaidu (FC Porto) will be replaced by Wendell.",
+      "comments_text_anonymized": "The referee allows time for a substitution. [PLAYER] ([TEAM]) will be replaced by [PLAYER].",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:40",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Stephen Eustaquio (FC Porto) is replaced by Bruno Costa.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) is replaced by [PLAYER].",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:42",
+      "comments_type": "substitution",
+      "comments_text": "Galeno (FC Porto) comes off the pitch to be replaced by Gabriel Veron.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) comes off the pitch to be replaced by [PLAYER].",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:10",
+      "comments_type": "substitution",
+      "comments_text": "Here's the change. Casper Nielsen leaves the pitch and Lynnt Audoor (Club Brugge) comes on as a substitute.",
+      "comments_text_anonymized": "Here's the change. [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on as a substitute.",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:10",
+      "comments_type": "substitution",
+      "comments_text": "Carl Hoefkens has decided to introduce fresh legs, with Eder Balanta (Club Brugge) replacing Raphael Onyedika.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:53",
+      "comments_type": "corner",
+      "comments_text": "Ferran Jutgla (Club Brugge) works the corner short instead of sending the ball into the penalty area.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area.",
+      "index": 30
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:09",
+      "comments_type": "corner",
+      "comments_text": "Ferran Jutgla (Club Brugge) decides to speed play up with a short corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+      "index": 31
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:29",
+      "comments_type": "substitution",
+      "comments_text": "Sergio Conceicao has decided to substitute Pepê and he is replaced by Toni Martinez (FC Porto).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute Pepê and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 32
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:47",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Rodrigo Conceicao (FC Porto) has come on for Evanilson.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER].",
+      "index": 33
+    }
+  ]
+}

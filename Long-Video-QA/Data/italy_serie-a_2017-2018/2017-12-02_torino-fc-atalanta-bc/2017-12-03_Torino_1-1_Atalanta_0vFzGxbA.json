@@ -1,0 +1,773 @@
+{
+  "match_info": {
+    "timestamp": "2017-12-03 03:45:00",
+    "score": "1 - 1",
+    "home_team": "Torino",
+    "away_team": "Atalanta",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "3 - 4 - 1 - 2",
+    "venue": "Stadio Olimpico di Torino (Turin)",
+    "capacity": "28 177",
+    "attendance": "14 605"
+  },
+  "referee_data": {
+    "short_name_country": "Tagliavento P. (Ita)",
+    "first_name": "Tagliavento",
+    "abbr_last_name": "P",
+    "country": "Ita",
+    "detected_name": "Paolo Tagliavento"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Gasperini G.",
+        "players_number": "",
+        "Full Name": "Gian Piero Gasperini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "65,  (26.01.1958)",
+        "Market Value": "",
+        "unicode": "EJLKYOzb"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "De Roon M.",
+        "players_number": "",
+        "Full Name": "Marten de Roon",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (29.03.1991)",
+        "Market Value": "€7.7m",
+        "unicode": "SUUtwXea"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Berisha E. (G)",
+        "players_number": "1",
+        "Full Name": "Etrit Berisha",
+        "players_rating": 7.3,
+        "Country": "Albania",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "34, (10.03.1989)",
+        "Market Value": "€503k",
+        "unicode": "UVnq6dH9"
+      },
+      {
+        "players_name": "Caldara M.",
+        "players_number": "13",
+        "Full Name": "Mattia Caldara",
+        "players_rating": 6.9,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (05.05.1994)",
+        "Market Value": "€1.1m",
+        "unicode": "h2x8H16h"
+      },
+      {
+        "players_name": "Cristante B.",
+        "players_number": "4",
+        "Full Name": "Bryan Cristante",
+        "players_rating": 7.3,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (03.03.1995)",
+        "Market Value": "€19.6m",
+        "unicode": "t6u0o3h7"
+      },
+      {
+        "players_name": "Freuler R.",
+        "players_number": "11",
+        "Full Name": "Remo Freuler",
+        "players_rating": 7.1,
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (15.04.1992)",
+        "Market Value": "€6.3m",
+        "unicode": "pETNY4Qt"
+      },
+      {
+        "players_name": "Hateboer H.",
+        "players_number": "33",
+        "Full Name": "Hans Hateboer",
+        "players_rating": 6.8,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (09.01.1994)",
+        "Market Value": "€3.8m",
+        "unicode": "Aok70rK9"
+      },
+      {
+        "players_name": "Kurtic J.",
+        "players_number": "27",
+        "Full Name": "Jasmin Kurtic",
+        "players_rating": 7.1,
+        "Country": "Slovenia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (10.01.1989)",
+        "Market Value": "€608k",
+        "unicode": "E57MEmuc"
+      },
+      {
+        "players_name": "Masiello A.",
+        "players_number": "5",
+        "Full Name": "Andrea Masiello",
+        "players_rating": 6.6,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "37, (05.02.1986)",
+        "Market Value": "€294k",
+        "unicode": "2empGF74"
+      },
+      {
+        "players_name": "Papu Gomez (C)",
+        "players_number": "10",
+        "Full Name": "Papu Gomez",
+        "players_rating": 7.4,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (15.02.1988)",
+        "Market Value": "€1.9m",
+        "unicode": "jD6cXvh5"
+      },
+      {
+        "players_name": "Petagna A.",
+        "players_number": "29",
+        "Full Name": "Andrea Petagna",
+        "players_rating": 7.5,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (30.06.1995)",
+        "Market Value": "€6.1m",
+        "unicode": "MRq91oVQ"
+      },
+      {
+        "players_name": "Spinazzola L.",
+        "players_number": "37",
+        "Full Name": "Leonardo Spinazzola",
+        "players_rating": 7.0,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (25.03.1993)",
+        "Market Value": "€7.1m",
+        "unicode": "UgYYWt1i"
+      },
+      {
+        "players_name": "Toloi R.",
+        "players_number": "3",
+        "Full Name": "Rafael Toloi",
+        "players_rating": 6.8,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (10.10.1990)",
+        "Market Value": "€3.9m",
+        "unicode": "QB1RMomj"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Cornelius A.",
+        "players_number": "9",
+        "Full Name": "Andreas Cornelius",
+        "players_rating": 6.3,
+        "Country": "Denmark",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (16.03.1993)",
+        "Market Value": "€1.4m",
+        "unicode": "CCv6fske"
+      },
+      {
+        "players_name": "Ilicic J.",
+        "players_number": "72",
+        "Full Name": "Josip Ilicic",
+        "players_rating": 8.3,
+        "Country": "Slovenia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (29.01.1988)",
+        "Market Value": "€298k",
+        "unicode": "4z2CNEqN"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Castagne T.",
+        "players_number": "21",
+        "Full Name": "Timothy Castagne",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (05.12.1995)",
+        "Market Value": "€16.4m",
+        "unicode": "xYfOMcA5"
+      },
+      {
+        "players_name": "Gollini P. (G)",
+        "players_number": "91",
+        "Full Name": "Pierluigi Gollini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (18.03.1995)",
+        "Market Value": "€4.3m",
+        "unicode": "vZY7FZwP"
+      },
+      {
+        "players_name": "Gosens R.",
+        "players_number": "8",
+        "Full Name": "Robin Gosens",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (05.07.1994)",
+        "Market Value": "€14.0m",
+        "unicode": "r1EFsksF"
+      },
+      {
+        "players_name": "Haas N.",
+        "players_number": "32",
+        "Full Name": "Nicolas Haas",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (23.01.1996)",
+        "Market Value": "€1.4m",
+        "unicode": "Q1sHUL1D"
+      },
+      {
+        "players_name": "Mancini G.",
+        "players_number": "28",
+        "Full Name": "Gianluca Mancini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (17.04.1996)",
+        "Market Value": "€19.6m",
+        "unicode": "dMy1KKlG"
+      },
+      {
+        "players_name": "Orsolini R.",
+        "players_number": "7",
+        "Full Name": "Riccardo Orsolini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (24.01.1997)",
+        "Market Value": "€11.6m",
+        "unicode": "bRV808wb"
+      },
+      {
+        "players_name": "Palomino J. L.",
+        "players_number": "6",
+        "Full Name": "Jose Luis Palomino",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (05.01.1990)",
+        "Market Value": "€936k",
+        "unicode": "2c7LCGJR"
+      },
+      {
+        "players_name": "Rossi F. (G)",
+        "players_number": "31",
+        "Full Name": "Francesco Rossi",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (27.04.1991)",
+        "Market Value": "30.06.2024",
+        "unicode": "tdfrZ6nG"
+      },
+      {
+        "players_name": "Schmidt J.",
+        "players_number": "88",
+        "Full Name": "Joao Schmidt",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (19.05.1993)",
+        "Market Value": "€794k",
+        "unicode": "80DL91oD"
+      },
+      {
+        "players_name": "Vido L.",
+        "players_number": "20",
+        "Full Name": "Luca Vido",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (03.02.1997)",
+        "Market Value": "€562k",
+        "unicode": "d0WK1pb6"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Mihajlovic S.",
+        "players_number": "",
+        "Full Name": "Sinisa Mihajlovic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "coach",
+        "Age and Birthdate": " † 53,  (20.02.1969 - 16.12.2022)",
+        "Market Value": "",
+        "unicode": "QVYrB9zG"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Ansaldi C.",
+        "players_number": "15",
+        "Full Name": "Cristian Ansaldi",
+        "players_rating": 6.3,
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "37, (20.09.1986)",
+        "Market Value": "€285k",
+        "unicode": "K8XQexVC"
+      },
+      {
+        "players_name": "Baselli D.",
+        "players_number": "8",
+        "Full Name": "Daniele Baselli",
+        "players_rating": 6.7,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (12.03.1992)",
+        "Market Value": "€366k",
+        "unicode": "nmCTZrFD"
+      },
+      {
+        "players_name": "Belotti A. (C)",
+        "players_number": "9",
+        "Full Name": "Andrea Belotti",
+        "players_rating": 7.8,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (20.12.1993)",
+        "Market Value": "€5.7m",
+        "unicode": "W6UTbSDR"
+      },
+      {
+        "players_name": "Burdisso N.",
+        "players_number": "13",
+        "Full Name": "Nicolas Burdisso",
+        "players_rating": 6.9,
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "42, (12.04.1981)",
+        "Market Value": "",
+        "unicode": "WEJGhhvr"
+      },
+      {
+        "players_name": "De Silvestri L.",
+        "players_number": "29",
+        "Full Name": "Lorenzo De Silvestri",
+        "players_rating": 7.4,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (23.05.1988)",
+        "Market Value": "€372k",
+        "unicode": "A9WpvRff"
+      },
+      {
+        "players_name": "Falque I.",
+        "players_number": "14",
+        "Full Name": "Iago Falque",
+        "players_rating": 6.6,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "34, (04.01.1990)",
+        "Market Value": "€496k",
+        "unicode": "U9NSHM06"
+      },
+      {
+        "players_name": "Ljajic A.",
+        "players_number": "10",
+        "Full Name": "Adem Ljajic",
+        "players_rating": 7.6,
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (29.09.1991)",
+        "Market Value": "€475k",
+        "unicode": "hWtRCbq7"
+      },
+      {
+        "players_name": "N'Koulou N.",
+        "players_number": "33",
+        "Full Name": "Nicolas N'Koulou",
+        "players_rating": 8.0,
+        "Country": "Cameroon",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (27.03.1990)",
+        "Market Value": "€760k",
+        "unicode": "Qkptlkyf"
+      },
+      {
+        "players_name": "Obi J.",
+        "players_number": "22",
+        "Full Name": "Joel Obi",
+        "players_rating": 6.8,
+        "Country": "Nigeria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (22.05.1991)",
+        "Market Value": "€87k",
+        "unicode": "A52KXlR1"
+      },
+      {
+        "players_name": "Rincon T.",
+        "players_number": "88",
+        "Full Name": "Tomas Rincon",
+        "players_rating": 7.1,
+        "Country": "Venezuela",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (13.01.1988)",
+        "Market Value": "€468k",
+        "unicode": "YDUMMZWp"
+      },
+      {
+        "players_name": "Sirigu S. (G)",
+        "players_number": "39",
+        "Full Name": "Salvatore Sirigu",
+        "players_rating": 8.1,
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (12.01.1987)",
+        "Market Value": "€414k",
+        "unicode": "A3ywEtVi"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Barreca A.",
+        "players_number": "23",
+        "Full Name": "Antonio Barreca",
+        "players_rating": 7.0,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (18.03.1995)",
+        "Market Value": "€545k",
+        "unicode": "6XMPoYMf"
+      },
+      {
+        "players_name": "Boye L.",
+        "players_number": "31",
+        "Full Name": "Lucas Boye",
+        "players_rating": 6.4,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (28.02.1996)",
+        "Market Value": "€6.8m",
+        "unicode": "YiAqdTFb"
+      },
+      {
+        "players_name": "Edera S.",
+        "players_number": "20",
+        "Full Name": "Simone Edera",
+        "players_rating": 6.1,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (09.01.1997)",
+        "Market Value": "30.06.2024",
+        "unicode": "WpaM6lSp"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Acquah A.",
+        "players_number": "6",
+        "Full Name": "Afriyie Acquah",
+        "players_rating": "",
+        "Country": "Ghana",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (05.01.1992)",
+        "Market Value": "",
+        "unicode": "rR0GMYbT"
+      },
+      {
+        "players_name": "Berenguer A.",
+        "players_number": "21",
+        "Full Name": "Alex Berenguer",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (04.07.1995)",
+        "Market Value": "€11.6m",
+        "unicode": "nuQn903r"
+      },
+      {
+        "players_name": "Gustafson S.",
+        "players_number": "16",
+        "Full Name": "Samuel Gustafson",
+        "players_rating": "",
+        "Country": "Sweden",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (11.01.1995)",
+        "Market Value": "€2.9m",
+        "unicode": "GfGP7FPn"
+      },
+      {
+        "players_name": "Ichazo S. (G)",
+        "players_number": "1",
+        "Full Name": "Salvador Ichazo",
+        "players_rating": "",
+        "Country": "Uruguay",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (26.01.1992)",
+        "Market Value": "€268k",
+        "unicode": "zwNTLilR"
+      },
+      {
+        "players_name": "Lyanco",
+        "players_number": "97",
+        "Full Name": "Lyanco",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (01.02.1997)",
+        "Market Value": "€3.0m",
+        "unicode": "6J71R9jG"
+      },
+      {
+        "players_name": "Milinkovic-Savic V. (G)",
+        "players_number": "32",
+        "Full Name": "Vanja Milinkovic-Savic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "26, (20.02.1997)",
+        "Market Value": "€4.8m",
+        "unicode": "Mw0wd0xM"
+      },
+      {
+        "players_name": "Molinaro C.",
+        "players_number": "3",
+        "Full Name": "Cristian Molinaro",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "40, (30.07.1983)",
+        "Market Value": "",
+        "unicode": "WdOJMccT"
+      },
+      {
+        "players_name": "Moretti E.",
+        "players_number": "24",
+        "Full Name": "Emiliano Moretti",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "42, (11.06.1981)",
+        "Market Value": "",
+        "unicode": "p4EL2sPs"
+      },
+      {
+        "players_name": "Valdifiori M.",
+        "players_number": "5",
+        "Full Name": "Mirko Valdifiori",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "37, (21.04.1986)",
+        "Market Value": "30.06.2024",
+        "unicode": "dbEK1VwD"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "15:02",
+      "comments_type": "substitution",
+      "comments_text": "Cristian Ansaldi is being substituted because of an injury. Sinisa Mihajlovic sends Antonio Barreca (Torino) on the pitch.",
+      "comments_text_anonymized": "[PLAYER] is being substituted because of an injury. [PLAYER] sends [PLAYER] ([TEAM]) on the pitch.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "28:41",
+      "comments_type": "corner",
+      "comments_text": "The ball is whipped in from the corner by Alejandro Gomez (Atalanta), but one of the defenders gets it clear.",
+      "comments_text_anonymized": "The ball is whipped in from the corner by Alejandro Gomez ([TEAM]), but one of the defenders gets it clear.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "36:30",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Alejandro Gomez (Atalanta) is cleared by the defence.",
+      "comments_text_anonymized": "The resulting corner from Alejandro Gomez ([TEAM]) is cleared by the defence.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "45:15",
+      "comments_type": "corner",
+      "comments_text": "Adem Ljajic (Torino) is heading toward the corner flag to take the set piece.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "45:46",
+      "comments_type": "goal",
+      "comments_text": "Nicolas N'Koulou (Torino) meets the corner and displays his eye for goal as he coolly plants a header from close range into the bottom left corner. The score is 1:0.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) meets the corner and displays his eye for goal as he coolly plants a header from close range into the bottom left corner. The score is 1:0.",
+      "index": 4
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:10",
+      "comments_type": "substitution",
+      "comments_text": "Half-time substitution. Jasmin Kurtic will not participate anymore and Josip Ilicic (Atalanta) is coming on.",
+      "comments_text_anonymized": "Half-time substitution. [PLAYER] will not participate anymore and [PLAYER] ([TEAM]) is coming on.",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "03:25",
+      "comments_type": "corner",
+      "comments_text": "Torino have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "03:48",
+      "comments_type": "yellow card",
+      "comments_text": "Today's referee Paolo Tagliavento rightly decides to book Joel Obi (Torino) for his harsh tackle.",
+      "comments_text_anonymized": "Today's referee [REFEREE] rightly decides to book [PLAYER] ([TEAM]) for his harsh tackle.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "04:58",
+      "comments_type": "corner",
+      "comments_text": "Jasmin Kurtic (Atalanta) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:27",
+      "comments_type": "goal",
+      "comments_text": "Josip Ilicic (Atalanta) finds himself in a very promising position after getting on the end of a brilliant pass and fires the ball inside the right post!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself in a very promising position after getting on the end of a brilliant pass and fires the ball inside the right post!",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:02",
+      "comments_type": "corner",
+      "comments_text": "Alejandro Gomez (Atalanta) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+      "comments_text_anonymized": "Alejandro Gomez ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:44",
+      "comments_type": "corner",
+      "comments_text": "Alejandro Gomez (Atalanta) steps up to send the ball in.",
+      "comments_text_anonymized": "Alejandro Gomez ([TEAM]) steps up to send the ball in.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:37",
+      "comments_type": "yellow card",
+      "comments_text": "Andrea Masiello (Atalanta) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Paolo Tagliavento ignores the protests.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:33",
+      "comments_type": "corner",
+      "comments_text": "Adem Ljajic (Torino) floats the free kick into the box, but it's easily cleared by the first man. The referee and his assistant both point at the corner flag. Torino will have an opportunity to threaten the opposition's goal.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the free kick into the box, but it's easily cleared by the first man. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:16",
+      "comments_type": "corner",
+      "comments_text": "Torino take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "24:59",
+      "comments_type": "corner",
+      "comments_text": "Torino failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:10",
+      "comments_type": "substitution",
+      "comments_text": "That will be all from Joel Obi who is being replaced by the fresh legs of Lucas Boye (Torino).",
+      "comments_text_anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:05",
+      "comments_type": "substitution",
+      "comments_text": "Gian Piero Gasperini has decided to make a change. Andreas Cornelius (Atalanta) replaces Andrea Petagna.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:06",
+      "comments_type": "corner",
+      "comments_text": "The resulting set piece from Atalanta is comfortably intercepted by one of the defending players.",
+      "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:02",
+      "comments_type": "yellow card",
+      "comments_text": "The referee has issued a yellow card to Daniele Baselli (Torino).",
+      "comments_text_anonymized": "The referee has issued a yellow card to [PLAYER] ([TEAM]).",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:21",
+      "comments_type": "substitution",
+      "comments_text": "A substitution has been made. Iago Falque goes off and Simone Edera (Torino) comes on.",
+      "comments_text_anonymized": "A substitution has been made. [PLAYER] goes off and [PLAYER] ([TEAM]) comes on.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:05",
+      "comments_type": "corner",
+      "comments_text": "Alejandro Gomez (Atalanta) takes the corner which is cleared.",
+      "comments_text_anonymized": "Alejandro Gomez ([TEAM]) takes the corner which is cleared.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:50",
+      "comments_type": "yellow card",
+      "comments_text": "A yellow card for a tackle by Rafael Toloi (Atalanta). Paolo Tagliavento doesn't hesitate at all to make this decision.",
+      "comments_text_anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:35",
+      "comments_type": "corner",
+      "comments_text": "Torino failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 23
+    }
+  ]
+}

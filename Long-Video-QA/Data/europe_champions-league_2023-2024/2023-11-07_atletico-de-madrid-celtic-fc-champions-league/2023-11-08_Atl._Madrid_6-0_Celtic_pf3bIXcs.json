@@ -1,0 +1,926 @@
+{
+  "match_info": {
+    "timestamp": "2023-11-08 04:00:00",
+    "score": "6 - 0",
+    "home_team": "Atl. Madrid",
+    "away_team": "Celtic",
+    "home_formation": "5 - 3 - 2",
+    "away_formation": "4 - 3 - 3",
+    "venue": "Metropolitano Stadium (Madrid)",
+    "capacity": "70 460",
+    "attendance": "60 863"
+  },
+  "referee_data": {
+    "short_name_country": "Kruzliak I. (Svk)",
+    "first_name": "Kruzliak",
+    "abbr_last_name": "I",
+    "country": "Svk",
+    "detected_name": "Ivan Kruzliak"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Simeone D.",
+        "players_number": "",
+        "Full Name": "Diego Simeone",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "coach",
+        "Age and Birthdate": "53,  (28.04.1970)",
+        "Market Value": "",
+        "unicode": "AZ18LjKN"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "de Paul R.",
+        "players_number": "",
+        "Full Name": "Rodrigo de Paul",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (24.05.1994)",
+        "Market Value": "€30.2m",
+        "unicode": "AZ6TTjDC"
+      },
+      {
+        "players_name": "Depay M.",
+        "players_number": "",
+        "Full Name": "Memphis Depay",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (13.02.1994)",
+        "Market Value": "€11.7m",
+        "unicode": "zo1h8MrD"
+      },
+      {
+        "players_name": "Lemar T.",
+        "players_number": "",
+        "Full Name": "Thomas Lemar",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (12.11.1995)",
+        "Market Value": "€11.2m",
+        "unicode": "jX8PENMO"
+      },
+      {
+        "players_name": "Mandava R.",
+        "players_number": "",
+        "Full Name": "Reinildo Mandava",
+        "players_rating": "",
+        "Country": "Mozambique",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (21.01.1994)",
+        "Market Value": "€15.2m",
+        "unicode": "zekFd0M8"
+      },
+      {
+        "players_name": "Vitolo",
+        "players_number": "",
+        "Full Name": "Vitolo",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (02.11.1989)",
+        "Market Value": "€272k",
+        "unicode": "QuSgm0F2"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Barrios P.",
+        "players_number": "24",
+        "Full Name": "Pablo Barrios",
+        "players_rating": 7.2,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (15.06.2003)",
+        "Market Value": "€24.1m",
+        "unicode": "AaZiGJ9E"
+      },
+      {
+        "players_name": "Correa A.",
+        "players_number": "10",
+        "Full Name": "Angel Correa",
+        "players_rating": 7.6,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (09.03.1995)",
+        "Market Value": "€18.4m",
+        "unicode": "McWkid34"
+      },
+      {
+        "players_name": "Gimenez J. M.",
+        "players_number": "2",
+        "Full Name": "Jose Maria Gimenez",
+        "players_rating": 7.7,
+        "Country": "Uruguay",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (20.01.1995)",
+        "Market Value": "€28.9m",
+        "unicode": "IgRLzKhM"
+      },
+      {
+        "players_name": "Griezmann A.",
+        "players_number": "7",
+        "Full Name": "Antoine Griezmann",
+        "players_rating": 9.3,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (21.03.1991)",
+        "Market Value": "€26.9m",
+        "unicode": "OxCa1jdT"
+      },
+      {
+        "players_name": "Hermoso M.",
+        "players_number": "22",
+        "Full Name": "Mario Hermoso",
+        "players_rating": 7.7,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (18.06.1995)",
+        "Market Value": "€25.2m",
+        "unicode": "OUjnz4Ab"
+      },
+      {
+        "players_name": "Koke (C)",
+        "players_number": "6",
+        "Full Name": "Koke",
+        "players_rating": 7.9,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (08.01.1992)",
+        "Market Value": "€13.3m",
+        "unicode": "v9hLv1xJ"
+      },
+      {
+        "players_name": "Molina N.",
+        "players_number": "16",
+        "Full Name": "Nahuel Molina",
+        "players_rating": 7.0,
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (06.04.1998)",
+        "Market Value": "€43.4m",
+        "unicode": "M3TzoLot"
+      },
+      {
+        "players_name": "Morata A.",
+        "players_number": "19",
+        "Full Name": "Alvaro Morata",
+        "players_rating": 8.1,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (23.10.1992)",
+        "Market Value": "€19.6m",
+        "unicode": "fmkHs3aU"
+      },
+      {
+        "players_name": "Oblak J. (G)",
+        "players_number": "13",
+        "Full Name": "Jan Oblak",
+        "players_rating": 6.8,
+        "Country": "Slovenia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (07.01.1993)",
+        "Market Value": "€32.8m",
+        "unicode": "SYy8ZHN9"
+      },
+      {
+        "players_name": "Riquelme R.",
+        "players_number": "25",
+        "Full Name": "Rodrigo Riquelme",
+        "players_rating": 7.7,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (02.04.2000)",
+        "Market Value": "€23.4m",
+        "unicode": "2iQMPvBg"
+      },
+      {
+        "players_name": "Witsel A.",
+        "players_number": "20",
+        "Full Name": "Axel Witsel",
+        "players_rating": 7.3,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (12.01.1989)",
+        "Market Value": "€4.8m",
+        "unicode": "2JsUqijl"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Azpilicueta C.",
+        "players_number": "3",
+        "Full Name": "Cesar Azpilicueta",
+        "players_rating": 6.8,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (28.08.1989)",
+        "Market Value": "€3.8m",
+        "unicode": "CMGUADgt"
+      },
+      {
+        "players_name": "Lino S.",
+        "players_number": "12",
+        "Full Name": "Samuel Lino",
+        "players_rating": 8.5,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (23.12.1999)",
+        "Market Value": "€24.5m",
+        "unicode": "vTPgNn01"
+      },
+      {
+        "players_name": "Llorente M.",
+        "players_number": "14",
+        "Full Name": "Marcos Llorente",
+        "players_rating": 7.0,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (30.01.1995)",
+        "Market Value": "€28.5m",
+        "unicode": "z3D5zvbD"
+      },
+      {
+        "players_name": "Niguez S.",
+        "players_number": "8",
+        "Full Name": "Saul Niguez",
+        "players_rating": 7.2,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (21.11.1994)",
+        "Market Value": "€11.4m",
+        "unicode": "hSbvVwW7"
+      },
+      {
+        "players_name": "Soyuncu C.",
+        "players_number": "4",
+        "Full Name": "Caglar Soyuncu",
+        "players_rating": 6.3,
+        "Country": "Turkey",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (23.05.1996)",
+        "Market Value": "€11.4m",
+        "unicode": "GKPbIMVk"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Galan J.",
+        "players_number": "17",
+        "Full Name": "Javi Galan",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (19.11.1994)",
+        "Market Value": "€6.6m",
+        "unicode": "t8GDN709"
+      },
+      {
+        "players_name": "Gomis A. (G)",
+        "players_number": "31",
+        "Full Name": "Antonio Gomis",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "20, (20.05.2003)",
+        "Market Value": "30.06.2025",
+        "unicode": "0rBkNdYp"
+      },
+      {
+        "players_name": "Grbic I. (G)",
+        "players_number": "1",
+        "Full Name": "Ivo Grbic",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (18.01.1996)",
+        "Market Value": "€3.4m",
+        "unicode": "xtH6Sx9F"
+      },
+      {
+        "players_name": "Savic S.",
+        "players_number": "15",
+        "Full Name": "Stefan Savic",
+        "players_rating": "",
+        "Country": "Montenegro",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (08.01.1991)",
+        "Market Value": "€4.8m",
+        "unicode": "rXcV9ZCT"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Rodgers B.",
+        "players_number": "",
+        "Full Name": "Brendan Rodgers",
+        "players_rating": "",
+        "Country": "Northern Ireland",
+        "Role": "coach",
+        "Age and Birthdate": "50,  (26.01.1973)",
+        "Market Value": "",
+        "unicode": "GGXMvd0k"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Abada L.",
+        "players_number": "",
+        "Full Name": "Liel Abada",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (03.10.2001)",
+        "Market Value": "€6.7m",
+        "unicode": "lObMfPz8"
+      },
+      {
+        "players_name": "Hatate R.",
+        "players_number": "",
+        "Full Name": "Reo Hatate",
+        "players_rating": "",
+        "Country": "Japan",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (21.11.1997)",
+        "Market Value": "€10.9m",
+        "unicode": "GCXUzZVG"
+      },
+      {
+        "players_name": "McCarthy J.",
+        "players_number": "",
+        "Full Name": "James McCarthy",
+        "players_rating": "",
+        "Country": "Ireland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (12.11.1990)",
+        "Market Value": "€268k",
+        "unicode": "IBy588Qo"
+      },
+      {
+        "players_name": "Tilio M.",
+        "players_number": "",
+        "Full Name": "Marco Tilio",
+        "players_rating": "",
+        "Country": "Australia",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (23.08.2001)",
+        "Market Value": "€1.5m",
+        "unicode": "Kz7POmA8"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Bernardo P.",
+        "players_number": "28",
+        "Full Name": "Paulo Bernardo",
+        "players_rating": 6.5,
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (24.01.2002)",
+        "Market Value": "€2.8m",
+        "unicode": "A7zThh7k"
+      },
+      {
+        "players_name": "Carter-Vickers C.",
+        "players_number": "20",
+        "Full Name": "Cameron Carter-Vickers",
+        "players_rating": 5.8,
+        "Country": "USA",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (31.12.1997)",
+        "Market Value": "",
+        "unicode": "fTcS9Owq"
+      },
+      {
+        "players_name": "Furuhashi K.",
+        "players_number": "8",
+        "Full Name": "Kyogo Furuhashi",
+        "players_rating": 6.0,
+        "Country": "Japan",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (20.01.1995)",
+        "Market Value": "€14.5m",
+        "unicode": "2g7jDk3l"
+      },
+      {
+        "players_name": "Hart J. (G)",
+        "players_number": "1",
+        "Full Name": "Joe Hart",
+        "players_rating": 6.3,
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "36, (19.04.1987)",
+        "Market Value": "€964k",
+        "unicode": "KWoMfbLD"
+      },
+      {
+        "players_name": "Johnston A.",
+        "players_number": "2",
+        "Full Name": "Alistair Johnston",
+        "players_rating": 6.1,
+        "Country": "Canada",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (08.10.1998)",
+        "Market Value": "€6.8m",
+        "unicode": "hzfyT3Cl"
+      },
+      {
+        "players_name": "Maeda D.",
+        "players_number": "38",
+        "Full Name": "Daizen Maeda",
+        "players_rating": 5.2,
+        "Country": "Japan",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (20.10.1997)",
+        "Market Value": "€6.2m",
+        "unicode": "6kfQTp18"
+      },
+      {
+        "players_name": "McGregor C. (C)",
+        "players_number": "42",
+        "Full Name": "Callum McGregor",
+        "players_rating": 6.6,
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (14.06.1993)",
+        "Market Value": "€8.8m",
+        "unicode": "pGXQfHlO"
+      },
+      {
+        "players_name": "O'Riley M.",
+        "players_number": "33",
+        "Full Name": "Matt O'Riley",
+        "players_rating": 6.2,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (21.11.2000)",
+        "Market Value": "€13.1m",
+        "unicode": "AZOU76Ou"
+      },
+      {
+        "players_name": "Palma L.",
+        "players_number": "7",
+        "Full Name": "Luis Palma",
+        "players_rating": 6.1,
+        "Country": "Honduras",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (17.01.2000)",
+        "Market Value": "€4.6m",
+        "unicode": "SCKoyc7I"
+      },
+      {
+        "players_name": "Scales L.",
+        "players_number": "5",
+        "Full Name": "Liam Scales",
+        "players_rating": 6.0,
+        "Country": "Ireland",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (08.08.1998)",
+        "Market Value": "€2.0m",
+        "unicode": "ziyQvljU"
+      },
+      {
+        "players_name": "Taylor G.",
+        "players_number": "3",
+        "Full Name": "Greg Taylor",
+        "players_rating": 5.7,
+        "Country": "Scotland",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (05.11.1997)",
+        "Market Value": "€6.6m",
+        "unicode": "AZEVvPZ7"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Holm O. T.",
+        "players_number": "15",
+        "Full Name": "Odin Thiago Holm",
+        "players_rating": 6.2,
+        "Country": "Norway",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (18.01.2003)",
+        "Market Value": "€2.9m",
+        "unicode": "Ew23WQWh"
+      },
+      {
+        "players_name": "Iwata T.",
+        "players_number": "24",
+        "Full Name": "Tomoki Iwata",
+        "players_rating": 6.1,
+        "Country": "Japan",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (07.04.1997)",
+        "Market Value": "€941k",
+        "unicode": "Qs56dHSA"
+      },
+      {
+        "players_name": "Oh Hyeon-Gyu",
+        "players_number": "19",
+        "Full Name": "Hyeon-Gyu Oh",
+        "players_rating": 6.5,
+        "Country": "South Korea",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (12.04.2001)",
+        "Market Value": "€1.7m",
+        "unicode": "xrhecmZN"
+      },
+      {
+        "players_name": "Turnbull D.",
+        "players_number": "14",
+        "Full Name": "David Turnbull",
+        "players_rating": 6.1,
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (10.07.1999)",
+        "Market Value": "€3.9m",
+        "unicode": "dQFSpRAn"
+      },
+      {
+        "players_name": "Yang Hyun-Jun",
+        "players_number": "13",
+        "Full Name": "Hyun-Jun Yang",
+        "players_rating": 6.0,
+        "Country": "South Korea",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (25.05.2002)",
+        "Market Value": "€1.9m",
+        "unicode": "xGCPrFwO"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Bain S. (G)",
+        "players_number": "29",
+        "Full Name": "Scott Bain",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (22.11.1991)",
+        "Market Value": "€298k",
+        "unicode": "WAjWdhAF"
+      },
+      {
+        "players_name": "Forrest J.",
+        "players_number": "49",
+        "Full Name": "James Forrest",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (07.07.1991)",
+        "Market Value": "€1.4m",
+        "unicode": "bos8vZBt"
+      },
+      {
+        "players_name": "Johnston M.",
+        "players_number": "90",
+        "Full Name": "Mikey Johnston",
+        "players_rating": "",
+        "Country": "Ireland",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (19.04.1999)",
+        "Market Value": "€1.2m",
+        "unicode": "IVbiaCkg"
+      },
+      {
+        "players_name": "Lagerbielke G.",
+        "players_number": "4",
+        "Full Name": "Gustaf Lagerbielke",
+        "players_rating": "",
+        "Country": "Sweden",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (10.04.2000)",
+        "Market Value": "€2.7m",
+        "unicode": "UwOm1wvF"
+      },
+      {
+        "players_name": "Phillips N.",
+        "players_number": "6",
+        "Full Name": "Nathaniel Phillips",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (21.03.1997)",
+        "Market Value": "€4.0m",
+        "unicode": "bHnuxZoS"
+      },
+      {
+        "players_name": "Ralston A.",
+        "players_number": "56",
+        "Full Name": "Anthony Ralston",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (16.11.1998)",
+        "Market Value": "€1.8m",
+        "unicode": "6PvBfu9D"
+      },
+      {
+        "players_name": "Welsh S.",
+        "players_number": "57",
+        "Full Name": "Stephen Welsh",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (19.01.2000)",
+        "Market Value": "€783k",
+        "unicode": "KveL0z0M"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "04:47",
+      "comments_type": "corner",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) will deliver the corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the corner kick.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "05:29",
+      "comments_type": "goal",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) breaks through before collecting a brilliant pass and producing a precise strike to beat the goalkeeper. The ball went into the bottom right corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) breaks through before collecting a brilliant pass and producing a precise strike to beat the goalkeeper. The ball went into the bottom right corner.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "17:19",
+      "comments_type": "corner",
+      "comments_text": "Luis Palma (Celtic) takes the corner but it's cleared.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "20:52",
+      "comments_type": "yellow card",
+      "comments_text": "Daizen Maeda (Celtic) violates the laws of the game and is shown a yellow card by the referee, but it could have been a straight red as well.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) violates the laws of the game and is shown a yellow card by the referee, but it could have been a straight red as well.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "22:00",
+      "comments_type": "yellow card",
+      "comments_text": "Brendan Rodgers (Celtic) picks up a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a yellow card.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "23:07",
+      "comments_type": "red card",
+      "comments_text": "After VAR review the ref signals the yellow card is cancelled but now issues a red. Daizen Maeda (Celtic) has to leave the pitch!",
+      "comments_text_anonymized": "After VAR review the ref signals the yellow card is cancelled but now issues a red. [PLAYER] ([TEAM]) has to leave the pitch!",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "24:43",
+      "comments_type": "corner",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) launches a cross from the corner, but Joe Hart is alert to thwart the effort.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a cross from the corner, but [PLAYER] is alert to thwart the effort.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "27:06",
+      "comments_type": "corner",
+      "comments_text": "Celtic take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "29:02",
+      "comments_type": "corner",
+      "comments_text": "The corner is swung in but Celtic can’t take advantage as a defender sweeps the ball away.",
+      "comments_text_anonymized": "The corner is swung in but [TEAM] can’t take advantage as a defender sweeps the ball away.",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "31:49",
+      "comments_type": "corner",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+      "index": 9
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:50",
+      "comments_type": "corner",
+      "comments_text": "A fantastic block by a defender means that the corner from Atl. Madrid comes to nothing.",
+      "comments_text_anonymized": "A fantastic block by a defender means that the corner from [TEAM] comes to nothing.",
+      "index": 10
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:20",
+      "comments_type": "yellow card",
+      "comments_text": "Luis Palma (Celtic) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision.",
+      "index": 11
+    },
+    {
+      "half": 1,
+      "time_stamp": "45:24",
+      "comments_type": "corner",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players. The referee and his assistant both point at the corner flag. Atl. Madrid will have an opportunity to threaten the opposition's goal.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+      "index": 12
+    },
+    {
+      "half": 1,
+      "time_stamp": "45:43",
+      "comments_type": "corner",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) works the corner short.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short.",
+      "index": 13
+    },
+    {
+      "half": 1,
+      "time_stamp": "46:45",
+      "comments_type": "goal",
+      "comments_text": "Jose Maria Gimenez produces a sweet pass and picks out Alvaro Morata (Atl. Madrid) inside the box. He quickly takes a shot which goes into the bottom right corner and leaves the goalkeeper helpless. He makes it 2:0!",
+      "comments_text_anonymized": "[PLAYER] produces a sweet pass and picks out [PLAYER] ([TEAM]) inside the box. He quickly takes a shot which goes into the bottom right corner and leaves the goalkeeper helpless. He makes it 2:0!",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:10",
+      "comments_type": "substitution",
+      "comments_text": "There will be a change on the pitch for the second half. Diego Simeone probably wasn't satisfied with the performance of Pablo Barrios. He is replaced by Marcos Llorente (Atl. Madrid).",
+      "comments_text_anonymized": "There will be a change on the pitch for the second half. [PLAYER] probably wasn't satisfied with the performance of [PLAYER]. He is replaced by [PLAYER] ([TEAM]).",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:00",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change after the half-time break. Matt O'Riley is replaced by Odin Thiago Holm (Celtic).",
+      "comments_text_anonymized": "Here is a change after the half-time break. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:10",
+      "comments_type": "substitution",
+      "comments_text": "The need to improve in the second half has brought about a change. Luis Palma comes off for Hyeon-Gyu Oh (Celtic).",
+      "comments_text_anonymized": "The need to improve in the second half has brought about a change. [PLAYER] comes off for [PLAYER] ([TEAM]).",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:00",
+      "comments_type": "corner",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) takes the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:03",
+      "comments_type": "corner",
+      "comments_text": "Atl. Madrid failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "14:10",
+      "comments_type": "goal",
+      "comments_text": "Goal! Antoine Griezmann (Atl. Madrid) shows perfect technique and produces a first-time effort from just outside the box that goes into the bottom left corner. It's 3:0.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) shows perfect technique and produces a first-time effort from just outside the box that goes into the bottom left corner. It's 3:0.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:19",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Kyogo Furuhashi is going off and Brendan Rodgers gives the last tactical orders to Hyun-Jun Yang (Celtic).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:20",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. David Turnbull (Celtic) on for Paulo Bernardo.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) on for [PLAYER].",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:37",
+      "comments_type": "goal",
+      "comments_text": "Ivan Kruzliak sticks with his original decision after the VAR review. No infringement and the goal stands!",
+      "comments_text_anonymized": "[REFEREE] sticks with his original decision after the VAR review. No infringement and the goal stands!",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:55",
+      "comments_type": "substitution",
+      "comments_text": "Diego Simeone prepares a substitution. Rodrigo Riquelme is replaced by Samuel Lino (Atl. Madrid).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:01",
+      "comments_type": "substitution",
+      "comments_text": "We are about to witness a substitution. Saul Niguez (Atl. Madrid) is replacing Antoine Griezmann.",
+      "comments_text_anonymized": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER].",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:39",
+      "comments_type": "goal",
+      "comments_text": "Samuel Lino (Atl. Madrid) quickly gets to a rebound. He is not worried how far out he is and slams the ball towards the goal. To the amazement of all, it goes inside the right post. He makes it 4:0 with this magnificent strike.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) quickly gets to a rebound. He is not worried how far out he is and slams the ball towards the goal. To the amazement of all, it goes inside the right post. He makes it 4:0 with this magnificent strike.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:26",
+      "comments_type": "substitution",
+      "comments_text": "Here comes a substitution. Callum McGregor is given a rest as he is replaced by Tomoki Iwata (Celtic).",
+      "comments_text_anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM]).",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:48",
+      "comments_type": "substitution",
+      "comments_text": "Diego Simeone decides to make a substitution. Nahuel Molina will be replaced by Cesar Azpilicueta (Atl. Madrid).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:00",
+      "comments_type": "goal",
+      "comments_text": "Alvaro Morata (Atl. Madrid) collects a good pass and blasts the ball from medium range into the top left corner, giving the goalkeeper no chance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a good pass and blasts the ball from medium range into the top left corner, giving the goalkeeper no chance.",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:10",
+      "comments_type": "substitution",
+      "comments_text": "It's time for a substitution. Caglar Soyuncu (Atl. Madrid) comes on in place of Jose Maria Gimenez.",
+      "comments_text_anonymized": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER].",
+      "index": 30
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:58",
+      "comments_type": "goal",
+      "comments_text": "Goal! After receiving a sweet pass, Saul Niguez (Atl. Madrid) unleashes a shot straight into the roof of the net. Good team effort!",
+      "comments_text_anonymized": "Goal! After receiving a sweet pass, [PLAYER] ([TEAM]) unleashes a shot straight into the roof of the net. Good team effort!",
+      "index": 31
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:17",
+      "comments_type": "corner",
+      "comments_text": "A quickly taken corner by Atl. Madrid.",
+      "comments_text_anonymized": "A quickly taken corner by [TEAM].",
+      "index": 32
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:21",
+      "comments_type": "corner",
+      "comments_text": "Saul Niguez (Atl. Madrid) decides to speed play up with a short corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+      "index": 33
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:38",
+      "comments_type": "yellow card",
+      "comments_text": "Caglar Soyuncu (Atl. Madrid) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+      "index": 34
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:53",
+      "comments_type": "corner",
+      "comments_text": "Atl. Madrid take a short corner kick.",
+      "comments_text_anonymized": "[TEAM] take a short corner kick.",
+      "index": 35
+    }
+  ]
+}

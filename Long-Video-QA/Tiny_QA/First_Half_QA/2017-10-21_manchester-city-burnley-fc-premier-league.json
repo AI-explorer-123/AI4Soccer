@@ -1,0 +1,549 @@
+[
+  {
+    "question": "How many goals have occurred so far in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals in the first half up to now?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams have scored equally",
+      "D. No goals yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Has Sergio Aguero scored any goals yet in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the first half?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams scored equally",
+      "D. No goals"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who was the only player to score in the first half?",
+    "choices": [
+      "A. Sergio Aguero",
+      "B. Kevin De Bruyne",
+      "C. Raheem Sterling",
+      "D. No goals"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 5,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both equally likely",
+      "D. No more goals"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 5,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will Sergio Aguero be involved in another goal before half-time?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 5,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far in the first half up to James Tarkowski's booking?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 0"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had a player booked first in the first half?",
+    "choices": [
+      "A. Burnley",
+      "B. Manchester City",
+      "C. Neither",
+      "D. Both"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who was the first player to receive a yellow card in the first half?",
+    "choices": [
+      "A. James Tarkowski",
+      "B. Leroy Sane",
+      "C. Fernandinho",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many yellow cards have occurred so far in the first half up to Leroy Sane's booking?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 0"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      3,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had more yellow cards in the first half up to Leroy Sane's booking?",
+    "choices": [
+      "A. Burnley",
+      "B. Manchester City",
+      "C. Equal",
+      "D. Neither"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      3,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who received a yellow card immediately after James Tarkowski in the first half?",
+    "choices": [
+      "A. James Tarkowski",
+      "B. Leroy Sane",
+      "C. Fernandinho",
+      "D. None"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      3,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 0"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      3,
+      4,
+      7
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the first half?",
+    "choices": [
+      "A. Burnley",
+      "B. Manchester City",
+      "C. Equal",
+      "D. Neither"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      3,
+      4,
+      7
+    ],
+    "current_event_index": null,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player was involved in the most yellow cards in the first half?",
+    "choices": [
+      "A. James Tarkowski",
+      "B. Leroy Sane",
+      "C. Fernandinho",
+      "D. None"
+    ],
+    "answer": "D",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      3,
+      4,
+      7
+    ],
+    "current_event_index": null,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in the first half after James Tarkowski's booking?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      4,
+      7
+    ],
+    "current_event_index": 3,
+    "index": 9,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card after James Tarkowski's booking?",
+    "choices": [
+      "A. Burnley",
+      "B. Manchester City",
+      "C. Neither",
+      "D. Both"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 3,
+    "index": 10,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card after James Tarkowski's booking?",
+    "choices": [
+      "A. James Tarkowski",
+      "B. Leroy Sane",
+      "C. Fernandinho",
+      "D. None"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 3,
+    "index": 11,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 14:17 mark?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 0"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 14:17 mark?",
+    "choices": [
+      "A. Manchester City",
+      "B. Burnley",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken any corners"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners for Manchester City up to the 14:17 mark?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. David Silva",
+      "C. Both have taken equal corners",
+      "D. Neither has taken any corners"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      6
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Manchester City",
+      "B. Burnley",
+      "C. Both teams had equal corners",
+      "D. Neither team had any corners"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      6
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. David Silva",
+      "C. Both were involved equally",
+      "D. No player was specified for Burnley"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      6
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 14:17 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Two more"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 1,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 14:17 mark?",
+    "choices": [
+      "A. Manchester City",
+      "B. Burnley",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 1,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after the 14:17 mark?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. David Silva",
+      "C. A Burnley player (unspecified)",
+      "D. No player will be involved"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 1,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

@@ -1,0 +1,937 @@
+{
+  "match_info": {
+    "timestamp": "2022-11-09 03:45:00",
+    "score": "0 - 0",
+    "home_team": "Cremonese",
+    "away_team": "AC Milan",
+    "home_formation": "3 - 5 - 2",
+    "away_formation": "3 - 4 - 1 - 2",
+    "venue": "Stadio Giovanni Zini (Cremona)",
+    "capacity": "20 641",
+    "attendance": "14 758"
+  },
+  "referee_data": {
+    "short_name_country": "Rapuano A. (Ita)",
+    "first_name": "Rapuano",
+    "abbr_last_name": "A",
+    "country": "Ita",
+    "detected_name": "Antonio Rapuano"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Pioli S.",
+        "players_number": "",
+        "Full Name": "Stefano Pioli",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "58,  (20.10.1965)",
+        "Market Value": "",
+        "unicode": "A72TGDlt"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Calabria D.",
+        "players_number": "",
+        "Full Name": "Davide Calabria",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (06.12.1996)",
+        "Market Value": "€14.9m",
+        "unicode": "OKPvQBOR"
+      },
+      {
+        "players_name": "Dest S.",
+        "players_number": "",
+        "Full Name": "Sergino Dest",
+        "players_rating": "",
+        "Country": "USA",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (03.11.2000)",
+        "Market Value": "€17.6m",
+        "unicode": "lOQwOgTR"
+      },
+      {
+        "players_name": "Florenzi A.",
+        "players_number": "",
+        "Full Name": "Alessandro Florenzi",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (11.03.1991)",
+        "Market Value": "€1.9m",
+        "unicode": "8UwHPuvH"
+      },
+      {
+        "players_name": "Giroud O.",
+        "players_number": "",
+        "Full Name": "Olivier Giroud",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "37, (30.09.1986)",
+        "Market Value": "€4.0m",
+        "unicode": "AJPBp2as"
+      },
+      {
+        "players_name": "Hernandez T.",
+        "players_number": "",
+        "Full Name": "Theo Hernandez",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (06.10.1997)",
+        "Market Value": "€56.9m",
+        "unicode": "ATurLHr0"
+      },
+      {
+        "players_name": "Ibrahimovic Z.",
+        "players_number": "",
+        "Full Name": "Zlatan Ibrahimovic",
+        "players_rating": "",
+        "Country": "Sweden",
+        "Role": "Forward",
+        "Age and Birthdate": "42, (03.10.1981)",
+        "Market Value": "",
+        "unicode": "AiH2zDve"
+      },
+      {
+        "players_name": "Maignan M.",
+        "players_number": "",
+        "Full Name": "Mike Maignan",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (03.07.1995)",
+        "Market Value": "€43.4m",
+        "unicode": "S6gN2QNC"
+      },
+      {
+        "players_name": "Saelemaekers A.",
+        "players_number": "",
+        "Full Name": "Alexis Saelemaekers",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (27.06.1999)",
+        "Market Value": "€9.5m",
+        "unicode": "n5cPVwks"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Ballo-Toure F.",
+        "players_number": "5",
+        "Full Name": "Fode Ballo-Toure",
+        "players_rating": 7.1,
+        "Country": "Senegal",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (03.01.1997)",
+        "Market Value": "€2.9m",
+        "unicode": "OGD2Gj7o"
+      },
+      {
+        "players_name": "Bennacer I. (C)",
+        "players_number": "4",
+        "Full Name": "Ismael Bennacer",
+        "players_rating": 7.3,
+        "Country": "Algeria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (01.12.1997)",
+        "Market Value": "€34.3m",
+        "unicode": "KS8ySjGG"
+      },
+      {
+        "players_name": "Diaz B.",
+        "players_number": "10",
+        "Full Name": "Brahim Diaz",
+        "players_rating": 6.9,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (03.08.1999)",
+        "Market Value": "€19.9m",
+        "unicode": "nm2Qvnyk"
+      },
+      {
+        "players_name": "Kjaer S.",
+        "players_number": "24",
+        "Full Name": "Simon Kjaer",
+        "players_rating": 7.0,
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (26.03.1989)",
+        "Market Value": "€2.0m",
+        "unicode": "8KUMvm5f"
+      },
+      {
+        "players_name": "Messias J.",
+        "players_number": "30",
+        "Full Name": "Junior Messias",
+        "players_rating": 7.6,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (13.05.1991)",
+        "Market Value": "€2.9m",
+        "unicode": "8l36RdAF"
+      },
+      {
+        "players_name": "Origi D.",
+        "players_number": "27",
+        "Full Name": "Divock Origi",
+        "players_rating": 6.4,
+        "Country": "Belgium",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (18.04.1995)",
+        "Market Value": "€4.5m",
+        "unicode": "jeRaNgKg"
+      },
+      {
+        "players_name": "Rebic A.",
+        "players_number": "12",
+        "Full Name": "Ante Rebic",
+        "players_rating": 6.6,
+        "Country": "Croatia",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (21.09.1993)",
+        "Market Value": "€3.9m",
+        "unicode": "GWSMlnRk"
+      },
+      {
+        "players_name": "Tatarusanu C. (G)",
+        "players_number": "1",
+        "Full Name": "Ciprian Tatarusanu",
+        "players_rating": 6.8,
+        "Country": "Romania",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (09.02.1986)",
+        "Market Value": "€380k",
+        "unicode": "OMyqC9DS"
+      },
+      {
+        "players_name": "Thiaw M.",
+        "players_number": "28",
+        "Full Name": "Malick Thiaw",
+        "players_rating": 7.3,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (08.08.2001)",
+        "Market Value": "€28.9m",
+        "unicode": "0vSsR1xI"
+      },
+      {
+        "players_name": "Tomori F.",
+        "players_number": "23",
+        "Full Name": "Fikayo Tomori",
+        "players_rating": 7.9,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (19.12.1997)",
+        "Market Value": "€38.6m",
+        "unicode": "AZn3ZNeI"
+      },
+      {
+        "players_name": "Tonali S.",
+        "players_number": "8",
+        "Full Name": "Sandro Tonali",
+        "players_rating": 7.0,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (08.05.2000)",
+        "Market Value": "€39.3m",
+        "unicode": "fmQVO5TQ"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "De Ketelaere C.",
+        "players_number": "90",
+        "Full Name": "Charles De Ketelaere",
+        "players_rating": 5.9,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (10.03.2001)",
+        "Market Value": "€23.8m",
+        "unicode": "2eOa3r1T"
+      },
+      {
+        "players_name": "Kalulu P.",
+        "players_number": "20",
+        "Full Name": "Pierre Kalulu",
+        "players_rating": 6.6,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (05.06.2000)",
+        "Market Value": "€23.5m",
+        "unicode": "E5UKRKOH"
+      },
+      {
+        "players_name": "Krunic R.",
+        "players_number": "33",
+        "Full Name": "Rade Krunic",
+        "players_rating": "",
+        "Country": "Bosnia and Herzegovina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (07.10.1993)",
+        "Market Value": "€8.3m",
+        "unicode": "ANvd0rCA"
+      },
+      {
+        "players_name": "Lazetic M.",
+        "players_number": "22",
+        "Full Name": "Marko Lazetic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Forward",
+        "Age and Birthdate": "19, (22.01.2004)",
+        "Market Value": "€1.3m",
+        "unicode": "hIzTt5gt"
+      },
+      {
+        "players_name": "Leao R.",
+        "players_number": "17",
+        "Full Name": "Rafael Leao",
+        "players_rating": 6.2,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (10.06.1999)",
+        "Market Value": "€90.6m",
+        "unicode": "AqOPWN5s"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Adli Y.",
+        "players_number": "7",
+        "Full Name": "Yacine Adli",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (29.07.2000)",
+        "Market Value": "€7.5m",
+        "unicode": "6kCEy6hD"
+      },
+      {
+        "players_name": "Bakayoko T.",
+        "players_number": "14",
+        "Full Name": "Tiemoue Bakayoko",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (17.08.1994)",
+        "Market Value": "€1.8m",
+        "unicode": "GAk8lVsQ"
+      },
+      {
+        "players_name": "Gabbia M.",
+        "players_number": "46",
+        "Full Name": "Matteo Gabbia",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (21.10.1999)",
+        "Market Value": "€3.8m",
+        "unicode": "Sl6O3rbN"
+      },
+      {
+        "players_name": "Jungdal A. (G)",
+        "players_number": "96",
+        "Full Name": "Andreas Jungdal",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "21, (22.02.2002)",
+        "Market Value": "€391k",
+        "unicode": "rg2GWgeM"
+      },
+      {
+        "players_name": "Mirante A. (G)",
+        "players_number": "83",
+        "Full Name": "Antonio Mirante",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "40, (08.07.1983)",
+        "Market Value": "€95k",
+        "unicode": "2u1zBSC4"
+      },
+      {
+        "players_name": "Pobega T.",
+        "players_number": "32",
+        "Full Name": "Tommaso Pobega",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (15.07.1999)",
+        "Market Value": "€11.1m",
+        "unicode": "06IMJkrL"
+      },
+      {
+        "players_name": "Vranckx A.",
+        "players_number": "40",
+        "Full Name": "Aster Vranckx",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (04.10.2002)",
+        "Market Value": "€11.4m",
+        "unicode": "EqNGX6pE"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Alvini M.",
+        "players_number": "",
+        "Full Name": "Massimiliano Alvini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "53,  (20.04.1970)",
+        "Market Value": "",
+        "unicode": "Yika9O16"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Ascacibar S.",
+        "players_number": "",
+        "Full Name": "Santiago Ascacibar",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (25.02.1997)",
+        "Market Value": "€5.3m",
+        "unicode": "YuQHAKgl"
+      },
+      {
+        "players_name": "Chiriches V.",
+        "players_number": "",
+        "Full Name": "Vlad Chiriches",
+        "players_rating": "",
+        "Country": "Romania",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (14.11.1989)",
+        "Market Value": "€608k",
+        "unicode": "WEmOjj2K"
+      },
+      {
+        "players_name": "Dessers C.",
+        "players_number": "",
+        "Full Name": "Cyriel Dessers",
+        "players_rating": "",
+        "Country": "Nigeria",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (08.12.1994)",
+        "Market Value": "€3.9m",
+        "unicode": "Srk6p31d"
+      },
+      {
+        "players_name": "Radu I.",
+        "players_number": "",
+        "Full Name": "Ionut Radu",
+        "players_rating": "",
+        "Country": "Romania",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "26, (28.05.1997)",
+        "Market Value": "€2.9m",
+        "unicode": "4xYjfkEG"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Afena-Gyan F.",
+        "players_number": "20",
+        "Full Name": "Felix Afena-Gyan",
+        "players_rating": 5.5,
+        "Country": "Ghana",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (19.01.2003)",
+        "Market Value": "€4.1m",
+        "unicode": "G4pacAW7"
+      },
+      {
+        "players_name": "Aiwu E.",
+        "players_number": "4",
+        "Full Name": "Emanuel Aiwu",
+        "players_rating": 7.3,
+        "Country": "Austria",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (25.12.2000)",
+        "Market Value": "€2.8m",
+        "unicode": "z9fCZ8eL"
+      },
+      {
+        "players_name": "Bianchetti M.",
+        "players_number": "15",
+        "Full Name": "Matteo Bianchetti",
+        "players_rating": 7.0,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (17.03.1993)",
+        "Market Value": "€665k",
+        "unicode": "8hcuiE2b"
+      },
+      {
+        "players_name": "Carnesecchi M. (G)",
+        "players_number": "12",
+        "Full Name": "Marco Carnesecchi",
+        "players_rating": 7.7,
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "23, (01.07.2000)",
+        "Market Value": "€12.7m",
+        "unicode": "8WujtCJF"
+      },
+      {
+        "players_name": "Castagnetti M.",
+        "players_number": "19",
+        "Full Name": "Michele Castagnetti",
+        "players_rating": 6.6,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (27.12.1989)",
+        "Market Value": "€587k",
+        "unicode": "4KEjxptI"
+      },
+      {
+        "players_name": "Ciofani D. (C)",
+        "players_number": "9",
+        "Full Name": "Daniel Ciofani",
+        "players_rating": 6.2,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "38, (31.07.1985)",
+        "Market Value": "€190k",
+        "unicode": "lE6KSRGJ"
+      },
+      {
+        "players_name": "Escalante G.",
+        "players_number": "32",
+        "Full Name": "Gonzalo Escalante",
+        "players_rating": 6.8,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (27.03.1993)",
+        "Market Value": "€1.9m",
+        "unicode": "ferBlfmN"
+      },
+      {
+        "players_name": "Ghiglione P.",
+        "players_number": "18",
+        "Full Name": "Paolo Ghiglione",
+        "players_rating": 6.4,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (02.02.1997)",
+        "Market Value": "€1.0m",
+        "unicode": "Im8vPlLt"
+      },
+      {
+        "players_name": "Meite S.",
+        "players_number": "28",
+        "Full Name": "Soualiho Meite",
+        "players_rating": 6.8,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (17.03.1994)",
+        "Market Value": "€2.9m",
+        "unicode": "Kvd8h5z7"
+      },
+      {
+        "players_name": "Valeri E.",
+        "players_number": "3",
+        "Full Name": "Emanuele Valeri",
+        "players_rating": 6.7,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (07.12.1998)",
+        "Market Value": "€2.2m",
+        "unicode": "l8UQT6rE"
+      },
+      {
+        "players_name": "Vasquez J.",
+        "players_number": "5",
+        "Full Name": "Johan Vasquez",
+        "players_rating": 6.5,
+        "Country": "Mexico",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (22.10.1998)",
+        "Market Value": "€6.0m",
+        "unicode": "Qydfoeer"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Buonaiuto C.",
+        "players_number": "10",
+        "Full Name": "Cristian Buonaiuto",
+        "players_rating": 6.4,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (29.12.1992)",
+        "Market Value": "€665k",
+        "unicode": "jN7arfI0"
+      },
+      {
+        "players_name": "Okereke D.",
+        "players_number": "77",
+        "Full Name": "David Okereke",
+        "players_rating": 6.3,
+        "Country": "Nigeria",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (29.08.1997)",
+        "Market Value": "€2.5m",
+        "unicode": "Mgh0KIVu"
+      },
+      {
+        "players_name": "Pickel C.",
+        "players_number": "6",
+        "Full Name": "Charles Pickel",
+        "players_rating": 6.3,
+        "Country": "DR Congo",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (15.05.1997)",
+        "Market Value": "€2.6m",
+        "unicode": "AoykjoMB"
+      },
+      {
+        "players_name": "Quagliata G.",
+        "players_number": "33",
+        "Full Name": "Giacomo Quagliata",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (19.02.2000)",
+        "Market Value": "€1.3m",
+        "unicode": "pdJ2qg8l"
+      },
+      {
+        "players_name": "Sernicola L.",
+        "players_number": "17",
+        "Full Name": "Leonardo Sernicola",
+        "players_rating": 6.2,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (30.07.1997)",
+        "Market Value": "€2.0m",
+        "unicode": "xIUCaSh4"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Acella C.",
+        "players_number": "23",
+        "Full Name": "Christian Acella",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (07.07.2002)",
+        "Market Value": "€88k",
+        "unicode": "WWZrfs7J"
+      },
+      {
+        "players_name": "Baez J.",
+        "players_number": "7",
+        "Full Name": "Jaime Baez Stabile",
+        "players_rating": "",
+        "Country": "Uruguay",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (25.04.1995)",
+        "Market Value": "€1.1m",
+        "unicode": "bw6nL9HJ"
+      },
+      {
+        "players_name": "Hendry J.",
+        "players_number": "2",
+        "Full Name": "Jack Hendry",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (07.05.1995)",
+        "Market Value": "€2.5m",
+        "unicode": "StUI6cWs"
+      },
+      {
+        "players_name": "Lochoshvili L.",
+        "players_number": "44",
+        "Full Name": "Luka Lochoshvili",
+        "players_rating": "",
+        "Country": "Georgia",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (29.05.1998)",
+        "Market Value": "€1.2m",
+        "unicode": "fLyWlO5j"
+      },
+      {
+        "players_name": "Milanese T.",
+        "players_number": "62",
+        "Full Name": "Tommaso Milanese",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (31.07.2002)",
+        "Market Value": "€922k",
+        "unicode": "UspinGse"
+      },
+      {
+        "players_name": "Ndiaye M.",
+        "players_number": "60",
+        "Full Name": "Maissa Ndiaye",
+        "players_rating": "",
+        "Country": "Senegal",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (28.01.2002)",
+        "Market Value": "",
+        "unicode": "jRxkv8VF"
+      },
+      {
+        "players_name": "Saro G. (G)",
+        "players_number": "13",
+        "Full Name": "Gianluca Saro",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "23, (25.06.2000)",
+        "Market Value": "",
+        "unicode": "8IlcJpOd"
+      },
+      {
+        "players_name": "Sarr M. (G)",
+        "players_number": "45",
+        "Full Name": "Mouhamadou Sarr",
+        "players_rating": "",
+        "Country": "Senegal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "27, (05.01.1997)",
+        "Market Value": "€403k",
+        "unicode": "4ry5sueR"
+      },
+      {
+        "players_name": "Tsadjout F.",
+        "players_number": "74",
+        "Full Name": "Frank Tsadjout",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (28.07.1999)",
+        "Market Value": "€842k",
+        "unicode": "QunHCDU2"
+      },
+      {
+        "players_name": "Zanimacchia L.",
+        "players_number": "98",
+        "Full Name": "Luca Zanimacchia",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (19.07.1998)",
+        "Market Value": "€1.4m",
+        "unicode": "rglBThG1"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "17:17",
+      "comments_type": "red card",
+      "comments_text": "It looks like Ante Rebic (AC Milan) saw red with that tackle. Antonio Rapuano won't tolerate such behaviour on the pitch and blows for a foul.",
+      "comments_text_anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "33:21",
+      "comments_type": "corner",
+      "comments_text": "Ismael Bennacer (AC Milan) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:08",
+      "comments_type": "corner",
+      "comments_text": "Corner kick. Brahim Diaz (AC Milan) is ready to send the ball into the box.",
+      "comments_text_anonymized": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box.",
+      "index": 2
+    },
+    {
+      "half": 2,
+      "time_stamp": "01:50",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Paolo Ghiglione (Cremonese) was quite harsh and Antonio Rapuano didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 3
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:09",
+      "comments_type": "goal",
+      "comments_text": "Goal! After receiving a sweet pass, Divock Origi (AC Milan) unleashes a quick low drive into the middle of the net and past the goalkeeper. Here is an example of luck being on your side.",
+      "comments_text_anonymized": "Goal! After receiving a sweet pass, [PLAYER] ([TEAM]) unleashes a quick low drive into the middle of the net and past the goalkeeper. Here is an example of luck being on your side.",
+      "index": 4
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:51",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Pierre Kalulu (AC Milan) replaces Malick Thiaw.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:51",
+      "comments_type": "substitution",
+      "comments_text": "Stefano Pioli has decided to make a change. Rafael Leao (AC Milan) replaces Divock Origi.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:24",
+      "comments_type": "corner",
+      "comments_text": "Sandro Tonali (AC Milan) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:39",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals that it is time for a substitution and Cristian Buonaiuto comes onto the pitch so that Felix Afena-Gyan (Cremonese) can be given a rest.",
+      "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] comes onto the pitch so that [PLAYER] ([TEAM]) can be given a rest.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:24",
+      "comments_type": "substitution",
+      "comments_text": "Massimiliano Alvini has decided to substitute Paolo Ghiglione and he is replaced by Leonardo Sernicola (Cremonese).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:00",
+      "comments_type": "substitution",
+      "comments_text": "It will be a substitution. David Okereke (Cremonese) is ready to enter the pitch as Daniel Ciofani walks off.",
+      "comments_text_anonymized": "It will be a substitution. [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:04",
+      "comments_type": "corner",
+      "comments_text": "Sandro Tonali (AC Milan) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:57",
+      "comments_type": "yellow card",
+      "comments_text": "Antonio Rapuano shows a yellow card to Johan Vasquez (Cremonese) for his blatant foul.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "24:16",
+      "comments_type": "substitution",
+      "comments_text": "That's the end of the game for Michele Castagnetti, who is replaced by Charles Pickel (Cremonese).",
+      "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM]).",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:32",
+      "comments_type": "substitution",
+      "comments_text": "Stefano Pioli prepares a substitution. Brahim Diaz is replaced by Charles De Ketelaere (AC Milan).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:23",
+      "comments_type": "yellow card",
+      "comments_text": "Yellow card! It's like Rafael Leao (AC Milan) was asking for a caution with his behaviour. Antonio Rapuano agrees and books him.",
+      "comments_text_anonymized": "Yellow card! It's like [PLAYER] ([TEAM]) was asking for a caution with his behaviour. [REFEREE] agrees and books him.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:00",
+      "comments_type": "corner",
+      "comments_text": "The resulting set piece from Cremonese is comfortably intercepted by one of the defending players.",
+      "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:00",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Ante Rebic makes his way off the pitch and Marko Lazetic (AC Milan) comes on as his replacement.",
+      "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:40",
+      "comments_type": "substitution",
+      "comments_text": "Stefano Pioli has decided to introduce fresh legs, with Rade Krunic (AC Milan) replacing Sandro Tonali.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:57",
+      "comments_type": "corner",
+      "comments_text": "A fantastic block by a defender means that the corner from Cremonese comes to nothing.",
+      "comments_text_anonymized": "A fantastic block by a defender means that the corner from [TEAM] comes to nothing.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:50",
+      "comments_type": "yellow card",
+      "comments_text": "Emanuele Valeri (Cremonese) has tested the patience of referee Antonio Rapuano and goes into the book for a previous late challenge.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:18",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Giacomo Quagliata (Cremonese) has come on for Emanuele Valeri.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER].",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:12",
+      "comments_type": "yellow card",
+      "comments_text": "Marko Lazetic (AC Milan) receives a harsh yellow card from the referee after committing a minor foul on his opponent.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a harsh yellow card from the referee after committing a minor foul on his opponent.",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:30",
+      "comments_type": "yellow card",
+      "comments_text": "Soualiho Meite (Cremonese) is cautioned and receives a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is cautioned and receives a yellow card.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "47:02",
+      "comments_type": "yellow card",
+      "comments_text": "Charles De Ketelaere (AC Milan) commits a foul and is shown a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card.",
+      "index": 24
+    }
+  ]
+}

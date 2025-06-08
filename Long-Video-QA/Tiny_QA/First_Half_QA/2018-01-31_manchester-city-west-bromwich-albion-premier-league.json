@@ -1,0 +1,484 @@
+[
+  {
+    "question": "Who scored the first goal in the first half?",
+    "choices": [
+      "A. Fernandinho",
+      "B. Kevin De Bruyne",
+      "C. Raheem Sterling",
+      "D. Sergio Aguero"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": null,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the first goal in the first half?",
+    "choices": [
+      "A. Manchester City",
+      "B. Liverpool",
+      "C. Chelsea",
+      "D. Arsenal"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": null,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals were scored in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": null,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who was the first player to score in the match?",
+    "choices": [
+      "A. Fernandinho",
+      "B. Kevin De Bruyne",
+      "C. Raheem Sterling",
+      "D. Sergio Aguero"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals in the first half up to now?",
+    "choices": [
+      "A. Manchester City",
+      "B. Liverpool",
+      "C. Chelsea",
+      "D. Arsenal"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred so far in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 3,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Manchester City",
+      "B. Liverpool",
+      "C. Chelsea",
+      "D. Arsenal"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 3,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Fernandinho",
+      "B. Kevin De Bruyne",
+      "C. Raheem Sterling",
+      "D. Sergio Aguero"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 3,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more cards in the first half up to now?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who was the first player to receive a yellow card in the first half?",
+    "choices": [
+      "A. David Silva",
+      "B. Opponent Player 1",
+      "C. Opponent Player 2",
+      "D. No one yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the first half?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in first half yellow cards?",
+    "choices": [
+      "A. David Silva",
+      "B. Opponent Player 1",
+      "C. Both A and B",
+      "D. No one"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 4,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 4,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. David Silva",
+      "B. Opponent Player 1",
+      "C. Opponent Player 2",
+      "D. No one"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 4,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 5:20 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 11:50 mark?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners in the first half up to the 18:10 mark?",
+    "choices": [
+      "A. David Silva",
+      "B. Kevin De Bruyne",
+      "C. Both have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      6
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams had equal corners",
+      "D. No corners in the first half"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      6
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. David Silva",
+      "B. Kevin De Bruyne",
+      "C. Both were involved equally",
+      "D. No corners in the first half"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      6
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 18:10 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 2,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 18:10 mark?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams equally likely",
+      "D. No more corners"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 2,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after the 18:10 mark?",
+    "choices": [
+      "A. David Silva",
+      "B. Kevin De Bruyne",
+      "C. Another player",
+      "D. No more corners"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 2,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

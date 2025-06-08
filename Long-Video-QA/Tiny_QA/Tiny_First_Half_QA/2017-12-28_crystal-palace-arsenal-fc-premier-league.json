@@ -1,0 +1,129 @@
+[
+  {
+    "question": "How many corners have occurred so far in the first half up to the 13:25 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who has taken more corners in the first half up to the 26:47 mark?",
+    "choices": [
+      "A. Alexis Sanchez",
+      "B. Yohan Cabaye",
+      "C. Both players have taken the same number",
+      "D. Neither player"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 13:25 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Two more"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      4
+    ],
+    "current_event_index": 0,
+    "index": 12,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many goals have occurred so far in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half after the 24th minute?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 1,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 26:47 mark?",
+    "choices": [
+      "A. Arsenal",
+      "B. Crystal Palace",
+      "C. Both teams have taken the same number",
+      "D. Neither team"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Arsenal",
+      "B. Crystal Palace",
+      "C. Both teams had the same number",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      2,
+      4
+    ],
+    "current_event_index": null,
+    "index": 10,
+    "event_type": "corner"
+  }
+]

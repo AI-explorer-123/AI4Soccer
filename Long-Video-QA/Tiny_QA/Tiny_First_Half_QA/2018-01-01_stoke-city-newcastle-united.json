@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Xherdan Shaqiri",
+      "B. Matt Ritchie",
+      "C. Charles Graham Adam",
+      "D. No player was involved in multiple corners"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      4,
+      5,
+      7,
+      8,
+      9
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 5th event?",
+    "choices": [
+      "A. Newcastle",
+      "B. Stoke City",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken any corners"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "corner"
+  }
+]

@@ -1,0 +1,915 @@
+{
+  "match_info": {
+    "timestamp": "2021-10-21 03:00:00",
+    "score": "3 - 2",
+    "home_team": "Manchester Utd",
+    "away_team": "Atalanta",
+    "home_formation": "4 - 2 - 3 - 1",
+    "away_formation": "3 - 4 - 1 - 2",
+    "venue": "Old Trafford (Manchester)",
+    "capacity": "75 635",
+    "attendance": "72 279"
+  },
+  "referee_data": {
+    "short_name_country": "Marciniak S. (Pol)",
+    "first_name": "Marciniak",
+    "abbr_last_name": "S",
+    "country": "Pol",
+    "detected_name": "Szymon Marciniak"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Gasperini G.",
+        "players_number": "",
+        "Full Name": "Gian Piero Gasperini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "65,  (26.01.1958)",
+        "Market Value": "",
+        "unicode": "EJLKYOzb"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Djimsiti B.",
+        "players_number": "",
+        "Full Name": "Berat Djimsiti",
+        "players_rating": "",
+        "Country": "Albania",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (19.02.1993)",
+        "Market Value": "€10.1m",
+        "unicode": "pW01mTt9"
+      },
+      {
+        "players_name": "Gosens R.",
+        "players_number": "",
+        "Full Name": "Robin Gosens",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (05.07.1994)",
+        "Market Value": "€14.0m",
+        "unicode": "r1EFsksF"
+      },
+      {
+        "players_name": "Hateboer H.",
+        "players_number": "",
+        "Full Name": "Hans Hateboer",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (09.01.1994)",
+        "Market Value": "€3.8m",
+        "unicode": "Aok70rK9"
+      },
+      {
+        "players_name": "Pessina M.",
+        "players_number": "",
+        "Full Name": "Matteo Pessina",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (21.04.1997)",
+        "Market Value": "€15.5m",
+        "unicode": "Wj6lXM52"
+      },
+      {
+        "players_name": "Toloi R.",
+        "players_number": "",
+        "Full Name": "Rafael Toloi",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (10.10.1990)",
+        "Market Value": "€3.9m",
+        "unicode": "QB1RMomj"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "De Roon M.",
+        "players_number": "15",
+        "Full Name": "Marten de Roon",
+        "players_rating": 5.6,
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (29.03.1991)",
+        "Market Value": "€7.7m",
+        "unicode": "SUUtwXea"
+      },
+      {
+        "players_name": "Demiral M.",
+        "players_number": "28",
+        "Full Name": "Merih Demiral",
+        "players_rating": 7.7,
+        "Country": "Turkey",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (05.03.1998)",
+        "Market Value": "€17.4m",
+        "unicode": "MRw4A5FO"
+      },
+      {
+        "players_name": "Freuler R. (C)",
+        "players_number": "11",
+        "Full Name": "Remo Freuler",
+        "players_rating": 6.5,
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (15.04.1992)",
+        "Market Value": "€6.3m",
+        "unicode": "pETNY4Qt"
+      },
+      {
+        "players_name": "Ilicic J.",
+        "players_number": "72",
+        "Full Name": "Josip Ilicic",
+        "players_rating": 6.2,
+        "Country": "Slovenia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (29.01.1988)",
+        "Market Value": "€298k",
+        "unicode": "4z2CNEqN"
+      },
+      {
+        "players_name": "Koopmeiners T.",
+        "players_number": "7",
+        "Full Name": "Teun Koopmeiners",
+        "players_rating": 7.2,
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (28.02.1998)",
+        "Market Value": "€39.1m",
+        "unicode": "lOCjQkeo"
+      },
+      {
+        "players_name": "Maehle J.",
+        "players_number": "3",
+        "Full Name": "Joakim Maehle",
+        "players_rating": 6.6,
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (20.05.1997)",
+        "Market Value": "€13.7m",
+        "unicode": "QscOyy8Q"
+      },
+      {
+        "players_name": "Muriel L.",
+        "players_number": "9",
+        "Full Name": "Luis Muriel",
+        "players_rating": 6.6,
+        "Country": "Colombia",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (16.04.1991)",
+        "Market Value": "€3.3m",
+        "unicode": "ltpb2uSG"
+      },
+      {
+        "players_name": "Musso J. (G)",
+        "players_number": "1",
+        "Full Name": "Juan Musso",
+        "players_rating": 6.6,
+        "Country": "Argentina",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "29, (06.05.1994)",
+        "Market Value": "€7.7m",
+        "unicode": "zB5O8dXn"
+      },
+      {
+        "players_name": "Palomino J. L.",
+        "players_number": "6",
+        "Full Name": "Jose Luis Palomino",
+        "players_rating": 6.1,
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (05.01.1990)",
+        "Market Value": "€936k",
+        "unicode": "2c7LCGJR"
+      },
+      {
+        "players_name": "Pasalic M.",
+        "players_number": "88",
+        "Full Name": "Mario Pasalic",
+        "players_rating": 7.0,
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (09.02.1995)",
+        "Market Value": "€12.4m",
+        "unicode": "ld4iyqYa"
+      },
+      {
+        "players_name": "Zappacosta D.",
+        "players_number": "77",
+        "Full Name": "Davide Zappacosta",
+        "players_rating": 7.1,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (11.06.1992)",
+        "Market Value": "€5.8m",
+        "unicode": "G6AuiwvH"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Lovato M.",
+        "players_number": "66",
+        "Full Name": "Matteo Lovato",
+        "players_rating": 5.8,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (14.02.2000)",
+        "Market Value": "€4.1m",
+        "unicode": "QiWQsVa5"
+      },
+      {
+        "players_name": "Malinovsky R.",
+        "players_number": "18",
+        "Full Name": "Ruslan Malinovsky",
+        "players_rating": 6.4,
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (04.05.1993)",
+        "Market Value": "€9.2m",
+        "unicode": "GGkyU0bT"
+      },
+      {
+        "players_name": "Miranchuk Al.",
+        "players_number": "59",
+        "Full Name": "Aleksey Miranchuk",
+        "players_rating": 6.1,
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (17.10.1995)",
+        "Market Value": "€7.4m",
+        "unicode": "2Dqy3eXn"
+      },
+      {
+        "players_name": "Pezzella G.",
+        "players_number": "13",
+        "Full Name": "Giuseppe Pezzella",
+        "players_rating": 6.2,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (29.11.1997)",
+        "Market Value": "€2.0m",
+        "unicode": "zJD6Mdr3"
+      },
+      {
+        "players_name": "Zapata D.",
+        "players_number": "91",
+        "Full Name": "Duvan Zapata",
+        "players_rating": 6.4,
+        "Country": "Colombia",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (01.04.1991)",
+        "Market Value": "€7.9m",
+        "unicode": "v7zQxVoD"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Piccoli R.",
+        "players_number": "99",
+        "Full Name": "Roberto Piccoli",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (27.01.2001)",
+        "Market Value": "€3.1m",
+        "unicode": "CK8QgVjh"
+      },
+      {
+        "players_name": "Rossi F. (G)",
+        "players_number": "31",
+        "Full Name": "Francesco Rossi",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (27.04.1991)",
+        "Market Value": "30.06.2024",
+        "unicode": "tdfrZ6nG"
+      },
+      {
+        "players_name": "Scalvini G.",
+        "players_number": "42",
+        "Full Name": "Giorgio Scalvini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (11.12.2003)",
+        "Market Value": "€38.6m",
+        "unicode": "hvC4gron"
+      },
+      {
+        "players_name": "Sportiello M. (G)",
+        "players_number": "57",
+        "Full Name": "Marco Sportiello",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (10.05.1992)",
+        "Market Value": "€1.5m",
+        "unicode": "EiVDoV04"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Solskjaer O. G.",
+        "players_number": "",
+        "Full Name": "Ole Gunnar Solskjaer",
+        "players_rating": "",
+        "Country": "Norway",
+        "Role": "coach",
+        "Age and Birthdate": "50,  (26.02.1973)",
+        "Market Value": "",
+        "unicode": "bmlavhkb"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Diallo A.",
+        "players_number": "",
+        "Full Name": "Amad Diallo",
+        "players_rating": "",
+        "Country": "Ivory Coast",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (11.07.2002)",
+        "Market Value": "€16.8m",
+        "unicode": "I5Rhq1WL"
+      },
+      {
+        "players_name": "Martial A.",
+        "players_number": "",
+        "Full Name": "Anthony Martial",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (05.12.1995)",
+        "Market Value": "€14.3m",
+        "unicode": "GrS6Vr75"
+      },
+      {
+        "players_name": "Varane R.",
+        "players_number": "",
+        "Full Name": "Raphael Varane",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (25.04.1993)",
+        "Market Value": "€24.1m",
+        "unicode": "t20vQIvC"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "de Gea D. (G)",
+        "players_number": "1",
+        "Full Name": "David de Gea",
+        "players_rating": 6.7,
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (07.11.1990)",
+        "Market Value": "",
+        "unicode": "d6AEQ6OD"
+      },
+      {
+        "players_name": "Fernandes B.",
+        "players_number": "18",
+        "Full Name": "Bruno Fernandes",
+        "players_rating": 9.4,
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (08.09.1994)",
+        "Market Value": "€77.4m",
+        "unicode": "GYvAMDm2"
+      },
+      {
+        "players_name": "Fred",
+        "players_number": "17",
+        "Full Name": "Fred",
+        "players_rating": 6.9,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (05.03.1993)",
+        "Market Value": "€18.3m",
+        "unicode": "2kuP6src"
+      },
+      {
+        "players_name": "Greenwood M.",
+        "players_number": "11",
+        "Full Name": "Mason Greenwood",
+        "players_rating": 6.4,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (01.10.2001)",
+        "Market Value": "€7.4m",
+        "unicode": "hxe108Jl"
+      },
+      {
+        "players_name": "Lindelof V.",
+        "players_number": "2",
+        "Full Name": "Victor Lindelof",
+        "players_rating": 6.4,
+        "Country": "Sweden",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (17.07.1994)",
+        "Market Value": "€17.4m",
+        "unicode": "OIp0Le1f"
+      },
+      {
+        "players_name": "Maguire H. (C)",
+        "players_number": "5",
+        "Full Name": "Harry Maguire",
+        "players_rating": 7.5,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (05.03.1993)",
+        "Market Value": "€19.6m",
+        "unicode": "xG8v3YRA"
+      },
+      {
+        "players_name": "McTominay S.",
+        "players_number": "39",
+        "Full Name": "Scott McTominay",
+        "players_rating": 6.8,
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (08.12.1996)",
+        "Market Value": "€27.8m",
+        "unicode": "A7S3y397"
+      },
+      {
+        "players_name": "Rashford M.",
+        "players_number": "10",
+        "Full Name": "Marcus Rashford",
+        "players_rating": 7.1,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (31.10.1997)",
+        "Market Value": "€69.5m",
+        "unicode": "COnT2Lh0"
+      },
+      {
+        "players_name": "Ronaldo C.",
+        "players_number": "7",
+        "Full Name": "Cristiano Ronaldo",
+        "players_rating": 8.0,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "38, (05.02.1985)",
+        "Market Value": "€15.7m",
+        "unicode": "WGOY4FSt"
+      },
+      {
+        "players_name": "Shaw L.",
+        "players_number": "23",
+        "Full Name": "Luke Shaw",
+        "players_rating": 7.6,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (12.07.1995)",
+        "Market Value": "€37.2m",
+        "unicode": "88iLXV0O"
+      },
+      {
+        "players_name": "Wan-Bissaka A.",
+        "players_number": "29",
+        "Full Name": "Aaron Wan-Bissaka",
+        "players_rating": 6.9,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (26.11.1997)",
+        "Market Value": "€19.6m",
+        "unicode": "faGmGOOh"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Cavani E.",
+        "players_number": "21",
+        "Full Name": "Edinson Cavani",
+        "players_rating": 6.4,
+        "Country": "Uruguay",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (14.02.1987)",
+        "Market Value": "€1.8m",
+        "unicode": "Qgx2trzH"
+      },
+      {
+        "players_name": "Matic N.",
+        "players_number": "31",
+        "Full Name": "Nemanja Matic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (01.08.1988)",
+        "Market Value": "€3.4m",
+        "unicode": "Kty10JVG"
+      },
+      {
+        "players_name": "Pogba P.",
+        "players_number": "6",
+        "Full Name": "Paul Pogba",
+        "players_rating": 6.5,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (15.03.1993)",
+        "Market Value": "€13.7m",
+        "unicode": "MTNGv0hT"
+      },
+      {
+        "players_name": "Sancho J.",
+        "players_number": "25",
+        "Full Name": "Jadon Sancho",
+        "players_rating": 6.4,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (25.03.2000)",
+        "Market Value": "€24.5m",
+        "unicode": "n5mG9yn6"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Bailly E.",
+        "players_number": "3",
+        "Full Name": "Eric Bailly",
+        "players_rating": "",
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (12.04.1994)",
+        "Market Value": "€3.2m",
+        "unicode": "G8VcNrxU"
+      },
+      {
+        "players_name": "Dalot D.",
+        "players_number": "20",
+        "Full Name": "Diogo Dalot",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (18.03.1999)",
+        "Market Value": "€34.7m",
+        "unicode": "rZZKJVOS"
+      },
+      {
+        "players_name": "Elanga A.",
+        "players_number": "36",
+        "Full Name": "Anthony Elanga",
+        "players_rating": "",
+        "Country": "Sweden",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (27.04.2002)",
+        "Market Value": "€17.6m",
+        "unicode": "dOlRWlZ6"
+      },
+      {
+        "players_name": "Henderson D. (G)",
+        "players_number": "26",
+        "Full Name": "Dean Henderson",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "26, (12.03.1997)",
+        "Market Value": "€11.6m",
+        "unicode": "OpFOJojt"
+      },
+      {
+        "players_name": "Lingard J.",
+        "players_number": "14",
+        "Full Name": "Jesse Lingard",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "€5.5m, (15.12.1992)",
+        "Market Value": "",
+        "unicode": "xpqeeiSB"
+      },
+      {
+        "players_name": "Mata J.",
+        "players_number": "8",
+        "Full Name": "Juan Manuel Mata",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (28.04.1988)",
+        "Market Value": "€908k",
+        "unicode": "nHlv2UfS"
+      },
+      {
+        "players_name": "Telles A.",
+        "players_number": "27",
+        "Full Name": "Alex Telles",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (15.12.1992)",
+        "Market Value": "€6.7m",
+        "unicode": "G0TATC32"
+      },
+      {
+        "players_name": "van de Beek D.",
+        "players_number": "34",
+        "Full Name": "Donny van de Beek",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (18.04.1997)",
+        "Market Value": "€8.0m",
+        "unicode": "bs2gvblF"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "11:16",
+      "comments_type": "corner",
+      "comments_text": "Bruno Fernandes (Manchester United) swings in the corner, but it's comfortably cleared away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "14:36",
+      "comments_type": "goal",
+      "comments_text": "Davide Zappacosta is in a good shooting position, but he sees his teammate and passes the ball to him. Mario Pasalic (Atalanta) takes it nicely and beats the goalkeeper with a precise shot into the bottom left corner to make the score 0:1.",
+      "comments_text_anonymized": "[PLAYER] is in a good shooting position, but he sees his teammate and passes the ball to him. [PLAYER] ([TEAM]) takes it nicely and beats the goalkeeper with a precise shot into the bottom left corner to make the score 0:1.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "15:50",
+      "comments_type": "goal",
+      "comments_text": "Referee Szymon Marciniak points to the centre spot to indicate that the goal stands after the VAR review. The Atalanta players celebrate.",
+      "comments_text_anonymized": "Referee [REFEREE] points to the centre spot to indicate that the goal stands after the VAR review. The [TEAM] players celebrate.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "19:50",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner, taken by Luke Shaw (Manchester United), comes to nothing.",
+      "comments_text_anonymized": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "24:02",
+      "comments_type": "corner",
+      "comments_text": "Bruno Fernandes (Manchester United) decides to take a short corner instead of crossing into the box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "27:42",
+      "comments_type": "corner",
+      "comments_text": "The ball goes out for a corner. Atalanta can continue in their attacking effort.",
+      "comments_text_anonymized": "The ball goes out for a corner. [TEAM] can continue in their attacking effort.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "28:01",
+      "comments_type": "goal",
+      "comments_text": "Goal! The corner is whipped in and Merih Demiral (Atalanta) is in the right place at the right time, planting his header perfectly into the left side of the goal. He makes it 0:2.",
+      "comments_text_anonymized": "Goal! The corner is whipped in and [PLAYER] ([TEAM]) is in the right place at the right time, planting his header perfectly into the left side of the goal. He makes it 0:2.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:30",
+      "comments_type": "substitution",
+      "comments_text": "The teams are back out for the second half and here is a change on the pitch. Gian Piero Gasperini gives a chance to Matteo Lovato and Merih Demiral (Atalanta) is off.",
+      "comments_text_anonymized": "The teams are back out for the second half and here is a change on the pitch. [PLAYER] gives a chance to [PLAYER] and [PLAYER] ([TEAM]) is off.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "05:15",
+      "comments_type": "corner",
+      "comments_text": "Manchester Utd have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:08",
+      "comments_type": "goal",
+      "comments_text": "Marcus Rashford (Manchester United) receives a killer pass, finds himself one-on-one with the goalkeeper and drills the ball into the bottom left corner. Magnificent finish!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a killer pass, finds himself one-on-one with the goalkeeper and drills the ball into the bottom left corner. Magnificent finish!",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "09:12",
+      "comments_type": "yellow card",
+      "comments_text": "Matteo Lovato (Atalanta) is booked after bringing down an opponent. Szymon Marciniak had an easy-decision to make.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:21",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Luis Muriel is going off and Gian Piero Gasperini gives the last tactical orders to Duvan Zapata (Atalanta).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:57",
+      "comments_type": "yellow card",
+      "comments_text": "Mario Pasalic (Atalanta) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Szymon Marciniak ignores the protests.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:40",
+      "comments_type": "yellow card",
+      "comments_text": "Marten de Roon (Atalanta) takes his opponent down and receives a yellow card from the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes his opponent down and receives a yellow card from the referee.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:19",
+      "comments_type": "yellow card",
+      "comments_text": "Szymon Marciniak shows a yellow card to Luke Shaw (Manchester United), who isn't surprised as the tackle was really hard and late.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:40",
+      "comments_type": "substitution",
+      "comments_text": "Scott McTominay will be replaced by Paul Pogba (Manchester United).",
+      "comments_text_anonymized": "[PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:39",
+      "comments_type": "substitution",
+      "comments_text": "Ole Gunnar Solskjaer has decided to introduce fresh legs, with Edinson Cavani (Manchester United) replacing Marcus Rashford.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:13",
+      "comments_type": "substitution",
+      "comments_text": "The referee allows time for a substitution. Josip Ilicic will be replaced by Aleksey Miranchuk (Atalanta).",
+      "comments_text_anonymized": "The referee allows time for a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:10",
+      "comments_type": "substitution",
+      "comments_text": "Gian Piero Gasperini decides to make a substitution. Mario Pasalic will be replaced by Ruslan Malinovsky (Atalanta).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:00",
+      "comments_type": "corner",
+      "comments_text": "Atalanta take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:26",
+      "comments_type": "corner",
+      "comments_text": "The corner by Teun Koopmeiners (Atalanta) lacks accuracy as it's hit with too much power. The ball is off of the pitch and it's a goal kick for Manchester Utd.",
+      "comments_text_anonymized": "The corner by [PLAYER] ([TEAM]) lacks accuracy as it's hit with too much power. The ball is off of the pitch and it's a goal kick for [TEAM].",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:00",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Jadon Sancho (Manchester United) in, Mason Greenwood out.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:33",
+      "comments_type": "corner",
+      "comments_text": "Good work from Manchester Utd as they win a corner.",
+      "comments_text_anonymized": "Good work from [TEAM] as they win a corner.",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:52",
+      "comments_type": "corner",
+      "comments_text": "The resulting set piece from Manchester Utd is comfortably intercepted by one of the defending players.",
+      "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:26",
+      "comments_type": "goal",
+      "comments_text": "Harry Maguire (Manchester United) latches onto a cross in the penalty area and fires the ball into the bottom right corner!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) latches onto a cross in the penalty area and fires the ball into the bottom right corner!",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:55",
+      "comments_type": "yellow card",
+      "comments_text": "Szymon Marciniak shows the yellow card to Jose Luis Palomino (Atalanta) for a heavy challenge.",
+      "comments_text_anonymized": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:56",
+      "comments_type": "substitution",
+      "comments_text": "It's time for a substitution. Giuseppe Pezzella (Atalanta) comes on in place of Teun Koopmeiners.",
+      "comments_text_anonymized": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER].",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:00",
+      "comments_type": "corner",
+      "comments_text": "Bruno Fernandes (Manchester United) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:41",
+      "comments_type": "goal",
+      "comments_text": "It's in! Cristiano Ronaldo (Manchester United) finds space in the box and from close range powers an unstoppable header into the right of the goal after a cheeky lofted pass from Luke Shaw. 3:2.",
+      "comments_text_anonymized": "It's in! [PLAYER] ([TEAM]) finds space in the box and from close range powers an unstoppable header into the right of the goal after a cheeky lofted pass from [PLAYER]. 3:2.",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:05",
+      "comments_type": "corner",
+      "comments_text": "Bruno Fernandes (Manchester United) works the corner short.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short.",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:10",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Fred is replaced by Nemanja Matic (Manchester United).",
+      "comments_text_anonymized": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 30
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:00",
+      "comments_type": "corner",
+      "comments_text": "Ruslan Malinovsky (Atalanta) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat. The ball is out of play and the linesman points at the corner flag. Corner to Atalanta.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+      "index": 31
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:21",
+      "comments_type": "corner",
+      "comments_text": "Ruslan Malinovsky (Atalanta) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+      "index": 32
+    },
+    {
+      "half": 2,
+      "time_stamp": "47:34",
+      "comments_type": "red card",
+      "comments_text": "It looks like Jose Luis Palomino (Atalanta) saw red with that tackle. Szymon Marciniak won't tolerate such behaviour on the pitch and blows for a foul. Manchester Utd win a free kick.",
+      "comments_text_anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul. [TEAM] win a free kick.",
+      "index": 33
+    },
+    {
+      "half": 2,
+      "time_stamp": "47:30",
+      "comments_type": "yellow card",
+      "comments_text": "Nemanja Matic (Manchester United) is awarded a yellow card. The referee showed him no mercy.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card. The referee showed him no mercy.",
+      "index": 34
+    },
+    {
+      "half": 2,
+      "time_stamp": "49:00",
+      "comments_type": "yellow card",
+      "comments_text": "Szymon Marciniak shows a yellow card to Edinson Cavani (Manchester United) for a tough tackle.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle.",
+      "index": 35
+    }
+  ]
+}

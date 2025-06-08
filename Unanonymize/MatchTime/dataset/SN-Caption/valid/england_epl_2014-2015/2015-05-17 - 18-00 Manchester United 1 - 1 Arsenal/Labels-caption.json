@@ -1,0 +1,1684 @@
+{
+    "timestamp": "1431874800",
+    "score": "1 - 1",
+    "round": "37",
+    "teams": [
+        "Arsenal",
+        "Manchester United"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-1-4-1",
+            "players": [
+                {
+                    "hash": "U5mPqlh6",
+                    "name": "Blind D.",
+                    "captain": "",
+                    "detail_link": "/player/blind-daley/U5mPqlh6/",
+                    "short_name": "Blind",
+                    "shirt_number": "17",
+                    "country": "Netherlands",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Daley Blind"
+                },
+                {
+                    "hash": "d6AEQ6OD",
+                    "name": "de Gea D.",
+                    "captain": "",
+                    "detail_link": "/player/de-gea-david/d6AEQ6OD/",
+                    "short_name": "de Gea",
+                    "shirt_number": "1",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "74'",
+                            "description": "Valdes V.",
+                            "linked_player_hash": "nkfZl0h4"
+                        }
+                    ],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "David de Gea"
+                },
+                {
+                    "hash": "2oMimkAU",
+                    "name": "Falcao R.",
+                    "captain": "",
+                    "detail_link": "/player/falcao/2oMimkAU/",
+                    "short_name": "Falcao",
+                    "shirt_number": "9",
+                    "country": "Colombia",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "61'",
+                            "description": "van Persie R.",
+                            "linked_player_hash": "0vgcq6un"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Radamel Falcao"
+                },
+                {
+                    "hash": "nJoIy5ih",
+                    "name": "Fellaini M.",
+                    "captain": "",
+                    "detail_link": "/player/fellaini-marouane/nJoIy5ih/",
+                    "short_name": "Fellaini",
+                    "shirt_number": "31",
+                    "country": "Belgium",
+                    "facts": [],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Marouane Fellaini"
+                },
+                {
+                    "hash": "jyzWX8yk",
+                    "name": "Herrera A.",
+                    "captain": "",
+                    "detail_link": "/player/herrera-ander/jyzWX8yk/",
+                    "short_name": "Herrera",
+                    "shirt_number": "21",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "30' Herrera A. (Young A.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "90+5' Herrera A. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Ander Herrera"
+                },
+                {
+                    "hash": "tOqz9FFa",
+                    "name": "Jones P.",
+                    "captain": "",
+                    "detail_link": "/player/jones-phil/tOqz9FFa/",
+                    "short_name": "Jones",
+                    "shirt_number": "4",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Phil Jones"
+                },
+                {
+                    "hash": "nHlv2UfS",
+                    "name": "Mata J.",
+                    "captain": "",
+                    "detail_link": "/player/mata-juan/nHlv2UfS/",
+                    "short_name": "Mata",
+                    "shirt_number": "8",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Juan Manuel Mata"
+                },
+                {
+                    "hash": "UZCWoIyB",
+                    "name": "Rojo M.",
+                    "captain": "",
+                    "detail_link": "/player/rojo-marcos/UZCWoIyB/",
+                    "short_name": "Rojo",
+                    "shirt_number": "5",
+                    "country": "Argentina",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "73'",
+                            "description": "Blackett T.",
+                            "linked_player_hash": "8EI0Tyyr"
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Marcos Rojo"
+                },
+                {
+                    "hash": "QHtOVJzh",
+                    "name": "Smalling C.",
+                    "captain": "(C)",
+                    "detail_link": "/player/smalling-chris/QHtOVJzh/",
+                    "short_name": "Smalling",
+                    "shirt_number": "12",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Chris Smalling"
+                },
+                {
+                    "hash": "Ecu9nqDs",
+                    "name": "Valencia A.",
+                    "captain": "",
+                    "detail_link": "/player/valencia-antonio/Ecu9nqDs/",
+                    "short_name": "Valencia",
+                    "shirt_number": "25",
+                    "country": "Ecuador",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Antonio Valencia"
+                },
+                {
+                    "hash": "tdmI0fpF",
+                    "name": "Young A.",
+                    "captain": "",
+                    "detail_link": "/player/young-ashley/tdmI0fpF/",
+                    "short_name": "Young",
+                    "shirt_number": "18",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "30' Herrera A. (Young A.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Ashley Young"
+                },
+                {
+                    "hash": "8EI0Tyyr",
+                    "name": "Blackett T.",
+                    "captain": "",
+                    "detail_link": "/player/blackett-tyler/8EI0Tyyr/",
+                    "short_name": "Blackett",
+                    "shirt_number": "42",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "73'",
+                            "description": "Rojo M.",
+                            "linked_player_hash": "UZCWoIyB"
+                        },
+                        {
+                            "type": "4",
+                            "time": "82' Blackett T.",
+                            "description": "Own goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Tyler Blackett"
+                },
+                {
+                    "hash": "SISkkDSQ",
+                    "name": "Di Maria A.",
+                    "captain": "",
+                    "detail_link": "/player/di-maria-angel/SISkkDSQ/",
+                    "short_name": "Di Maria",
+                    "shirt_number": "7",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Angel Di Maria"
+                },
+                {
+                    "hash": "6qyeYCYO",
+                    "name": "Januzaj A.",
+                    "captain": "",
+                    "detail_link": "/player/januzaj-adnan/6qyeYCYO/",
+                    "short_name": "Januzaj",
+                    "shirt_number": "11",
+                    "country": "Belgium",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Adnan Januzaj"
+                },
+                {
+                    "hash": "A7pgD1ZN",
+                    "name": "McNair P.",
+                    "captain": "",
+                    "detail_link": "/player/mcnair-paddy/A7pgD1ZN/",
+                    "short_name": "McNair",
+                    "shirt_number": "33",
+                    "country": "Northern Ireland",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Paddy McNair"
+                },
+                {
+                    "hash": "nkfZl0h4",
+                    "name": "Valdes V.",
+                    "captain": "",
+                    "detail_link": "/player/valdes-victor/nkfZl0h4/",
+                    "short_name": "Valdes",
+                    "shirt_number": "32",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "74'",
+                            "description": "de Gea D.",
+                            "linked_player_hash": "d6AEQ6OD"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Victor Valdes"
+                },
+                {
+                    "hash": "0vgcq6un",
+                    "name": "van Persie R.",
+                    "captain": "",
+                    "detail_link": "/player/van-persie-robin/0vgcq6un/",
+                    "short_name": "van Persie",
+                    "shirt_number": "20",
+                    "country": "Netherlands",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "61'",
+                            "description": "Falcao R.",
+                            "linked_player_hash": "2oMimkAU"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Robin van Persie"
+                },
+                {
+                    "hash": "Od5aFs4T",
+                    "name": "Wilson J.",
+                    "captain": "",
+                    "detail_link": "/player/wilson-james/Od5aFs4T/",
+                    "short_name": "Wilson",
+                    "shirt_number": "49",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "James Wilson"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "4APqpVFg",
+                    "name": "van Gaal L.",
+                    "captain": "",
+                    "detail_link": "/player/van-gaal-louis/4APqpVFg/",
+                    "short_name": "van Gaal L.",
+                    "shirt_number": "",
+                    "country": "Netherlands",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Louis van Gaal"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-2-3-1",
+            "players": [
+                {
+                    "hash": "pxq49QlK",
+                    "name": "Bellerin H.",
+                    "captain": "",
+                    "detail_link": "/player/bellerin-hector/pxq49QlK/",
+                    "short_name": "Bellerin",
+                    "shirt_number": "39",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "72'",
+                            "description": "Walcott T.",
+                            "linked_player_hash": "2cpouZhq"
+                        }
+                    ],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Hector Bellerin"
+                },
+                {
+                    "hash": "rVt0F12N",
+                    "name": "Cazorla S.",
+                    "captain": "",
+                    "detail_link": "/player/cazorla-santi/rVt0F12N/",
+                    "short_name": "Cazorla",
+                    "shirt_number": "19",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "73'",
+                            "description": "Wilshere J.",
+                            "linked_player_hash": "lYC47Z6h"
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Santi Cazorla"
+                },
+                {
+                    "hash": "2qXd9yom",
+                    "name": "Coquelin F.",
+                    "captain": "",
+                    "detail_link": "/player/coquelin-francis/2qXd9yom/",
+                    "short_name": "Coquelin",
+                    "shirt_number": "34",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Francis Coquelin"
+                },
+                {
+                    "hash": "AJPBp2as",
+                    "name": "Giroud O.",
+                    "captain": "",
+                    "detail_link": "/player/giroud-olivier/AJPBp2as/",
+                    "short_name": "Giroud",
+                    "shirt_number": "12",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Olivier Giroud"
+                },
+                {
+                    "hash": "0MoFTxk9",
+                    "name": "Koscielny L.",
+                    "captain": "",
+                    "detail_link": "/player/koscielny-laurent/0MoFTxk9/",
+                    "short_name": "Koscielny",
+                    "shirt_number": "6",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Laurent Koscielny"
+                },
+                {
+                    "hash": "tlwkgQLn",
+                    "name": "Mertesacker P.",
+                    "captain": "(C)",
+                    "detail_link": "/player/mertesacker-per/tlwkgQLn/",
+                    "short_name": "Mertesacker",
+                    "shirt_number": "4",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Per Mertesacker"
+                },
+                {
+                    "hash": "CdXPbmcp",
+                    "name": "Monreal N.",
+                    "captain": "",
+                    "detail_link": "/player/monreal-nacho/CdXPbmcp/",
+                    "short_name": "Monreal",
+                    "shirt_number": "18",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Nacho Monreal"
+                },
+                {
+                    "hash": "6PHywlJK",
+                    "name": "Ospina D.",
+                    "captain": "",
+                    "detail_link": "/player/ospina-david/6PHywlJK/",
+                    "short_name": "Ospina",
+                    "shirt_number": "13",
+                    "country": "Colombia",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "David Ospina"
+                },
+                {
+                    "hash": "U30xq9EJ",
+                    "name": "Ozil M.",
+                    "captain": "",
+                    "detail_link": "/player/ozil-mesut/U30xq9EJ/",
+                    "short_name": "Ozil",
+                    "shirt_number": "11",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Mesut Ozil"
+                },
+                {
+                    "hash": "fBD08Fin",
+                    "name": "Ramsey A.",
+                    "captain": "",
+                    "detail_link": "/player/ramsey-aaron/fBD08Fin/",
+                    "short_name": "Ramsey",
+                    "shirt_number": "16",
+                    "country": "Wales",
+                    "facts": [],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Aaron Ramsey"
+                },
+                {
+                    "hash": "QgGt7V0d",
+                    "name": "Sanchez A.",
+                    "captain": "",
+                    "detail_link": "/player/sanchez-alexis/QgGt7V0d/",
+                    "short_name": "Sanchez",
+                    "shirt_number": "17",
+                    "country": "Chile",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "90'",
+                            "description": "Flamini M.",
+                            "linked_player_hash": "UNtWs4P4"
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Alexis Sanchez"
+                },
+                {
+                    "hash": "UNtWs4P4",
+                    "name": "Flamini M.",
+                    "captain": "",
+                    "detail_link": "/player/flamini-mathieu/UNtWs4P4/",
+                    "short_name": "Flamini",
+                    "shirt_number": "20",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "90'",
+                            "description": "Sanchez A.",
+                            "linked_player_hash": "QgGt7V0d"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Mathieu Flamini"
+                },
+                {
+                    "hash": "tCldvc6L",
+                    "name": "Gabriel Paulista",
+                    "captain": "",
+                    "detail_link": "/player/gabriel-paulista/tCldvc6L/",
+                    "short_name": "Gabriel Paulista",
+                    "shirt_number": "5",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Gabriel Paulista"
+                },
+                {
+                    "hash": "tvEj3HIu",
+                    "name": "Gibbs K.",
+                    "captain": "",
+                    "detail_link": "/player/gibbs-kieran/tvEj3HIu/",
+                    "short_name": "Gibbs",
+                    "shirt_number": "3",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Kieran Gibbs"
+                },
+                {
+                    "hash": "v50zQruO",
+                    "name": "Rosicky T.",
+                    "captain": "",
+                    "detail_link": "/player/rosicky-tomas/v50zQruO/",
+                    "short_name": "Rosicky",
+                    "shirt_number": "7",
+                    "country": "Czech Republic",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Tomas Rosicky"
+                },
+                {
+                    "hash": "6NtwHZ7F",
+                    "name": "Szczesny W.",
+                    "captain": "",
+                    "detail_link": "/player/szczesny-wojciech/6NtwHZ7F/",
+                    "short_name": "Szczesny",
+                    "shirt_number": "1",
+                    "country": "Poland",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Wojciech Szczesny"
+                },
+                {
+                    "hash": "2cpouZhq",
+                    "name": "Walcott T.",
+                    "captain": "",
+                    "detail_link": "/player/walcott-theo/2cpouZhq/",
+                    "short_name": "Walcott",
+                    "shirt_number": "14",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "72'",
+                            "description": "Bellerin H.",
+                            "linked_player_hash": "pxq49QlK"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Theo Walcott"
+                },
+                {
+                    "hash": "lYC47Z6h",
+                    "name": "Wilshere J.",
+                    "captain": "",
+                    "detail_link": "/player/wilshere-jack/lYC47Z6h/",
+                    "short_name": "Wilshere",
+                    "shirt_number": "10",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "73'",
+                            "description": "Cazorla S.",
+                            "linked_player_hash": "rVt0F12N"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jack Wilshere"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "8fxQ0wN8",
+                    "name": "Wenger A.",
+                    "captain": "",
+                    "detail_link": "/player/wenger-arsene/8fxQ0wN8/",
+                    "short_name": "Wenger A.",
+                    "shirt_number": "",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Arsene Wenger"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Dean M."
+    ],
+    "venue": [
+        "Old Trafford (Manchester)"
+    ],
+    "attendance": [
+        "75 323"
+    ],
+    "referee_matched": [
+        "Michael Dean"
+    ],
+    "referee_found": [
+        "Michael Dean"
+    ],
+    "coach_matched": [
+        "Louis van Gaal",
+        "Arsene Wenger"
+    ],
+    "gameHomeTeam": "Manchester United",
+    "home": {
+        "name": "Manchester United",
+        "detail_link": "/team/manchester-united/ppjDR086",
+        "hash": "ppjDR086",
+        "names": [
+            "Manchester United",
+            "Manchester Utd",
+            "Manchester Utd (Eng)",
+            "manchester united"
+        ]
+    },
+    "gameAwayTeam": "Arsenal",
+    "away": {
+        "name": "Arsenal",
+        "detail_link": "/team/arsenal/hA1Zm19f",
+        "hash": "hA1Zm19f",
+        "names": [
+            "Arsenal",
+            "Arsenal (Eng)",
+            "arsenal"
+        ]
+    },
+    "gameDate": "17/05/2015 - 17:00",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 50:59",
+            "label": "",
+            "description": "We saw a few chances and nice plays, but the overall impression of the game is uninspiring and not hugely entertaining. A very even game was seen on the pitch today. Both sides tried to combine well and to keep the ball at their feet.",
+            "identified": "We saw a few chances and nice plays, but the overall impression of the game is uninspiring and not hugely entertaining. A very even game was seen on the pitch today. Both sides tried to combine well and to keep the ball at their feet.",
+            "anonymized": "We saw a few chances and nice plays, but the overall impression of the game is uninspiring and not hugely entertaining. A very even game was seen on the pitch today. Both sides tried to combine well and to keep the ball at their feet.",
+            "visibility": "shown",
+            "position": "3059000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 50:30",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time.",
+            "identified": "Nothing more will happen in this game as the referee blows for full time.",
+            "anonymized": "Nothing more will happen in this game as the referee blows for full time.",
+            "visibility": "shown",
+            "position": "3030000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 49:58",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Ander Herrera (Manchester United) was quite harsh and Michael Dean didn't hesitate to show him a yellow card.",
+            "identified": "This yellow card was deserved. The tackle by [PLAYER_jyzWX8yk] ([TEAM_]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+            "anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+            "visibility": "shown",
+            "position": "2998000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 48:50",
+            "label": "",
+            "description": "Antonio Valencia (Manchester United) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "identified": "[PLAYER_Ecu9nqDs] ([TEAM_]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "visibility": "shown",
+            "position": "2930000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 47:15",
+            "label": "",
+            "description": "Flag up against Juan Manuel Mata (Manchester United). He had space to move into behind the defence, but he went too soon.",
+            "identified": "Flag up against [PLAYER_nHlv2UfS] ([TEAM_]). He had space to move into behind the defence, but he went too soon.",
+            "anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon.",
+            "visibility": "shown",
+            "position": "2835000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 46:19",
+            "label": "",
+            "description": "The resulting set piece, sent into the penalty area by Mesut Ozil (Arsenal), was easily dealt with by one of the defenders.",
+            "identified": "The resulting set piece, sent into the penalty area by [PLAYER_U30xq9EJ] ([TEAM_]), was easily dealt with by one of the defenders.",
+            "anonymized": "The resulting set piece, sent into the penalty area by [PLAYER] ([TEAM]), was easily dealt with by one of the defenders.",
+            "visibility": "shown",
+            "position": "2779000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 46:11",
+            "label": "",
+            "description": "Antonio Valencia (Manchester United) makes a rough challenge and Michael Dean blows his whistle for a foul. It's a free kick to Arsenal, but they probably won't attempt a direct shot on goal from here.",
+            "identified": "[PLAYER_Ecu9nqDs] ([TEAM_]) makes a rough challenge and [REFEREE] blows his whistle for a foul. It's a free kick to [TEAM_], but they probably won't attempt a direct shot on goal from here.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul. It's a free kick to [TEAM], but they probably won't attempt a direct shot on goal from here.",
+            "visibility": "shown",
+            "position": "2771000"
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "5 additional min. will be played.",
+            "identified": "5 additional min. will be played.",
+            "anonymized": "5 additional min. will be played.",
+            "visibility": "shown",
+            "position": "0"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 44:57",
+            "label": "substitution",
+            "description": "Substitution. Alexis Sanchez leaves the pitch and is replaced by Mathieu Flamini (Arsenal).",
+            "identified": "Substitution. [PLAYER_QgGt7V0d] leaves the pitch and is replaced by [PLAYER_UNtWs4P4] ([TEAM_]).",
+            "anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2697000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 44:28",
+            "label": "",
+            "description": "Robin van Persie (Manchester United) is flagged for offside.",
+            "identified": "[PLAYER_0vgcq6un] ([TEAM_]) is flagged for offside.",
+            "anonymized": "[PLAYER] ([TEAM]) is flagged for offside.",
+            "visibility": "shown",
+            "position": "2668000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 43:39",
+            "label": "",
+            "description": "A neat pass is well received by Alexis Sanchez (Arsenal), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot.",
+            "identified": "A neat pass is well received by [PLAYER_QgGt7V0d] ([TEAM_]), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot.",
+            "anonymized": "A neat pass is well received by [PLAYER] ([TEAM]), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot.",
+            "visibility": "shown",
+            "position": "2619000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:45",
+            "label": "",
+            "description": "David Ospina doesn't have to worry about this one. Marouane Fellaini plays a pass into the feet of Robin van Persie (Manchester United), who is unable to find the target as his effort from inside the box goes high over the bar.",
+            "identified": "[PLAYER_6PHywlJK] doesn't have to worry about this one. [PLAYER_nJoIy5ih] plays a pass into the feet of [PLAYER_0vgcq6un] ([TEAM_]), who is unable to find the target as his effort from inside the box goes high over the bar.",
+            "anonymized": "[PLAYER] doesn't have to worry about this one. [PLAYER] plays a pass into the feet of [PLAYER] ([TEAM]), who is unable to find the target as his effort from inside the box goes high over the bar.",
+            "visibility": "shown",
+            "position": "2565000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:39",
+            "label": "",
+            "description": "Ander Herrera (Manchester United) makes a reckless foul in order to win the ball from his opponent. Michael Dean has a clear sight of it and blows his whistle.",
+            "identified": "[PLAYER_jyzWX8yk] ([TEAM_]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle.",
+            "visibility": "shown",
+            "position": "2499000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 38:57",
+            "label": "",
+            "description": "Olivier Giroud (Arsenal) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies narrowly wide of the left post.",
+            "identified": "[PLAYER_AJPBp2as] ([TEAM_]) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies narrowly wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies narrowly wide of the left post.",
+            "visibility": "shown",
+            "position": "2337000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 38:30",
+            "label": "",
+            "description": "David Ospina makes a superb save to deny a header which was nodded by Chris Smalling (Manchester United) after a cross from the side.",
+            "identified": "[PLAYER_6PHywlJK] makes a superb save to deny a header which was nodded by [PLAYER_QHtOVJzh] ([TEAM_]) after a cross from the side.",
+            "anonymized": "[PLAYER] makes a superb save to deny a header which was nodded by [PLAYER] ([TEAM]) after a cross from the side.",
+            "visibility": "shown",
+            "position": "2310000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 36:58",
+            "label": "soccer-ball-own",
+            "description": "What a bad luck! Tyler Blackett (Manchester United) got in the way of a pass and unintentionally sent the ball past his own goalkeeper. The score is 1:1.",
+            "identified": "What a bad luck! [PLAYER_8EI0Tyyr] ([TEAM_]) got in the way of a pass and unintentionally sent the ball past his own goalkeeper. The score is 1:1.",
+            "anonymized": "What a bad luck! [PLAYER] ([TEAM]) got in the way of a pass and unintentionally sent the ball past his own goalkeeper. The score is 1:1.",
+            "visibility": "shown",
+            "position": "2218000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:30",
+            "label": "",
+            "description": "Michael Dean blows his whistle after Juan Manuel Mata (Manchester United) brings one of his opponents down with a strong tackle.",
+            "identified": "[REFEREE] blows his whistle after [PLAYER_nHlv2UfS] ([TEAM_]) brings one of his opponents down with a strong tackle.",
+            "anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle.",
+            "visibility": "shown",
+            "position": "2190000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 35:15",
+            "label": "corner",
+            "description": "Ashley Young (Manchester United) decides to take a short corner instead of crossing into the box.",
+            "identified": "[PLAYER_tdmI0fpF] ([TEAM_]) decides to take a short corner instead of crossing into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box.",
+            "visibility": "shown",
+            "position": "2115000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 34:54",
+            "label": "",
+            "description": "Antonio Valencia (Manchester United) fails to send a pass into the box as his effort is cut out. Manchester Utd have a corner.",
+            "identified": "[PLAYER_Ecu9nqDs] ([TEAM_]) fails to send a pass into the box as his effort is cut out. [TEAM_ppjDR086] have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. [TEAM] have a corner.",
+            "visibility": "shown",
+            "position": "2094000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 34:34",
+            "label": "",
+            "description": "It looks like Francis Coquelin (Arsenal) saw red with that tackle. Michael Dean won't tolerate such behaviour on the pitch and blows for a foul.",
+            "identified": "It looks like [PLAYER_2qXd9yom] ([TEAM_]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul.",
+            "anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul.",
+            "visibility": "shown",
+            "position": "2074000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:47",
+            "label": "",
+            "description": "Chris Smalling (Manchester United) sends a long ball across the pitch, but it misses its target.",
+            "identified": "[PLAYER_QHtOVJzh] ([TEAM_]) sends a long ball across the pitch, but it misses its target.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a long ball across the pitch, but it misses its target.",
+            "visibility": "shown",
+            "position": "2027000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 31:13",
+            "label": "corner",
+            "description": "Juan Manuel Mata (Manchester United) takes the corner but it's cleared.",
+            "identified": "[PLAYER_nHlv2UfS] ([TEAM_]) takes the corner but it's cleared.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared.",
+            "visibility": "shown",
+            "position": "1873000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:47",
+            "label": "",
+            "description": "Ashley Young (Manchester United) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. Manchester Utd force a corner. Their opponents will face another attacking threat.",
+            "identified": "[PLAYER_tdmI0fpF] ([TEAM_]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. [TEAM_ppjDR086] force a corner. Their opponents will face another attacking threat.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. [TEAM] force a corner. Their opponents will face another attacking threat.",
+            "visibility": "shown",
+            "position": "1847000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:10",
+            "label": "",
+            "description": "Theo Walcott (Arsenal) is adjudged offside.",
+            "identified": "[PLAYER_2cpouZhq] ([TEAM_]) is adjudged offside.",
+            "anonymized": "[PLAYER] ([TEAM]) is adjudged offside.",
+            "visibility": "shown",
+            "position": "1810000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 28:58",
+            "label": "substitution",
+            "description": "Louis van Gaal is forced to make a change. David de Gea is unable to continue due to injury, Victor Valdes (Manchester United) comes on.",
+            "identified": "[COACH_4APqpVFg] is forced to make a change. [PLAYER_d6AEQ6OD] is unable to continue due to injury, [PLAYER_nkfZl0h4] ([TEAM_]) comes on.",
+            "anonymized": "[COACH] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on.",
+            "visibility": "shown",
+            "position": "1738000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 27:56",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Tyler Blackett (Manchester United) comes onto the pitch for Marcos Rojo.",
+            "identified": "The referee stops play so that a substitution can be made and [PLAYER_8EI0Tyyr] ([TEAM_]) comes onto the pitch for [PLAYER_UZCWoIyB].",
+            "anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) comes onto the pitch for [PLAYER].",
+            "visibility": "shown",
+            "position": "1676000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 27:30",
+            "label": "substitution",
+            "description": "Arsene Wenger has decided to make a change. Jack Wilshere (Arsenal) replaces Santi Cazorla.",
+            "identified": "[COACH_8fxQ0wN8] has decided to make a change. [PLAYER_lYC47Z6h] ([TEAM_]) replaces [PLAYER_rVt0F12N].",
+            "anonymized": "[COACH] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+            "visibility": "shown",
+            "position": "1650000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 26:58",
+            "label": "substitution",
+            "description": "Here comes a substitution. Theo Walcott (Arsenal) is brought on as a substitute for Hector Bellerin.",
+            "identified": "Here comes a substitution. [PLAYER_2cpouZhq] ([TEAM_]) is brought on as a substitute for [PLAYER_pxq49QlK].",
+            "anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+            "visibility": "shown",
+            "position": "1618000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 26:50",
+            "label": "injury",
+            "description": "David de Gea (Manchester United) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "identified": "[PLAYER_d6AEQ6OD] ([TEAM_]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "visibility": "shown",
+            "position": "1610000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:34",
+            "label": "corner",
+            "description": "The resulting corner, taken by Mesut Ozil (Arsenal), comes to nothing.",
+            "identified": "The resulting corner, taken by [PLAYER_U30xq9EJ] ([TEAM_]), comes to nothing.",
+            "anonymized": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing.",
+            "visibility": "shown",
+            "position": "1534000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:17",
+            "label": "",
+            "description": "Aaron Ramsey (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Arsenal force a corner. They send men into the box.",
+            "identified": "[PLAYER_fBD08Fin] ([TEAM_]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM_] force a corner. They send men into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM] force a corner. They send men into the box.",
+            "visibility": "shown",
+            "position": "1517000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 24:45",
+            "label": "",
+            "description": "Juan Manuel Mata (Manchester United) trips an opposition player and Michael Dean signals a foul.",
+            "identified": "[PLAYER_nHlv2UfS] ([TEAM_]) trips an opposition player and [REFEREE] signals a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul.",
+            "visibility": "shown",
+            "position": "1485000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 23:35",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Ashley Young (Manchester United) heads on.",
+            "identified": "The linesman raises his flag for offside before [PLAYER_tdmI0fpF] ([TEAM_]) heads on.",
+            "anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on.",
+            "visibility": "shown",
+            "position": "1415000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 23:10",
+            "label": "",
+            "description": "A poorly executed mid-range free kick by Mesut Ozil (Arsenal) as he fails to deliver a decent cross.",
+            "identified": "A poorly executed mid-range free kick by [PLAYER_U30xq9EJ] ([TEAM_]) as he fails to deliver a decent cross.",
+            "anonymized": "A poorly executed mid-range free kick by [PLAYER] ([TEAM]) as he fails to deliver a decent cross.",
+            "visibility": "shown",
+            "position": "1390000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 22:48",
+            "label": "",
+            "description": "Ander Herrera (Manchester United) makes a slide tackle, but referee Michael Dean blows for a foul. Free kick. Arsenal will probably just try to cross the ball in from here.",
+            "identified": "[PLAYER_jyzWX8yk] ([TEAM_]) makes a slide tackle, but referee [REFEREE] blows for a foul. Free kick. [TEAM_] will probably just try to cross the ball in from here.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [REFEREE] blows for a foul. Free kick. [TEAM] will probably just try to cross the ball in from here.",
+            "visibility": "shown",
+            "position": "1368000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:29",
+            "label": "",
+            "description": "Robin van Persie (Manchester United) is adjudged to have been offside when making his run.",
+            "identified": "[PLAYER_0vgcq6un] ([TEAM_]) is adjudged to have been offside when making his run.",
+            "anonymized": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run.",
+            "visibility": "shown",
+            "position": "1289000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:14",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "identified": "[PLAYER_QgGt7V0d] ([TEAM_]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "visibility": "shown",
+            "position": "1274000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:08",
+            "label": "",
+            "description": "Santi Cazorla (Arsenal)'s poor effort is easily saved by David de Gea. He connects well with a cross, but mistimes it a little, and it heads towards the middle of the target and straight into the grateful hands of the goalkeeper.",
+            "identified": "[PLAYER_rVt0F12N] ([TEAM_])'s poor effort is easily saved by [PLAYER_d6AEQ6OD]. He connects well with a cross, but mistimes it a little, and it heads towards the middle of the target and straight into the grateful hands of the goalkeeper.",
+            "anonymized": "[PLAYER] ([TEAM])'s poor effort is easily saved by [PLAYER]. He connects well with a cross, but mistimes it a little, and it heads towards the middle of the target and straight into the grateful hands of the goalkeeper.",
+            "visibility": "shown",
+            "position": "1208000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:45",
+            "label": "corner",
+            "description": "Santi Cazorla (Arsenal) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "identified": "[PLAYER_rVt0F12N] ([TEAM_]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "anonymized": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "visibility": "shown",
+            "position": "1185000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:22",
+            "label": "",
+            "description": "Mesut Ozil (Arsenal) slides a pass forward, but one of the defenders cuts it out. Arsenal force their opponents to concede a corner.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) slides a pass forward, but one of the defenders cuts it out. [TEAM_] force their opponents to concede a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out. [TEAM] force their opponents to concede a corner.",
+            "visibility": "shown",
+            "position": "1162000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:03",
+            "label": "corner",
+            "description": "The corner from Mesut Ozil (Arsenal) is cleared away by the defence.",
+            "identified": "The corner from [PLAYER_U30xq9EJ] ([TEAM_]) is cleared away by the defence.",
+            "anonymized": "The corner from [PLAYER] ([TEAM]) is cleared away by the defence.",
+            "visibility": "shown",
+            "position": "1143000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 17:28",
+            "label": "",
+            "description": "Olivier Giroud (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but David de Gea is alert and denies him. Arsenal have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "identified": "[PLAYER_AJPBp2as] ([TEAM_]) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but [PLAYER_d6AEQ6OD] is alert and denies him. [TEAM_] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "anonymized": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but [PLAYER] is alert and denies him. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "visibility": "shown",
+            "position": "1048000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 16:41",
+            "label": "",
+            "description": "Michael Dean blows his whistle for a foul after Ashley Young (Manchester United) hacks down one of his opponents.",
+            "identified": "[REFEREE] blows his whistle for a foul after [PLAYER_tdmI0fpF] ([TEAM_]) hacks down one of his opponents.",
+            "anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents.",
+            "visibility": "shown",
+            "position": "1001000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 15:36",
+            "label": "substitution",
+            "description": "The referee allows time for a substitution. Falcao will be replaced by Robin van Persie (Manchester United).",
+            "identified": "The referee allows time for a substitution. [PLAYER_2oMimkAU] will be replaced by [PLAYER_0vgcq6un] ([TEAM_]).",
+            "anonymized": "The referee allows time for a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "936000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 14:08",
+            "label": "",
+            "description": "Mesut Ozil (Arsenal) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety.",
+            "visibility": "shown",
+            "position": "848000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 12:49",
+            "label": "",
+            "description": "Ashley Young (Manchester United) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "identified": "[PLAYER_tdmI0fpF] ([TEAM_]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "anonymized": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "visibility": "shown",
+            "position": "769000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 12:00",
+            "label": "",
+            "description": "Marouane Fellaini (Manchester United) is offside and the linesman raises his flag.",
+            "identified": "[PLAYER_nJoIy5ih] ([TEAM_]) is offside and the linesman raises his flag.",
+            "anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag.",
+            "visibility": "shown",
+            "position": "720000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:20",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) swings in the corner, but it's comfortably cleared away.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) swings in the corner, but it's comfortably cleared away.",
+            "anonymized": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away.",
+            "visibility": "shown",
+            "position": "620000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:53",
+            "label": "",
+            "description": "Hector Bellerin (Arsenal) sends a pass into the box, but his attempt is thwarted and cleared. Now Arsenal have a corner.",
+            "identified": "[PLAYER_pxq49QlK] ([TEAM_]) sends a pass into the box, but his attempt is thwarted and cleared. Now [TEAM_] have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. Now [TEAM] have a corner.",
+            "visibility": "shown",
+            "position": "593000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:48",
+            "label": "",
+            "description": "David Ospina makes a save to deny the long-range effort from Marcos Rojo (Manchester United) towards the middle of the goal.",
+            "identified": "[PLAYER_6PHywlJK] makes a save to deny the long-range effort from [PLAYER_UZCWoIyB] ([TEAM_]) towards the middle of the goal.",
+            "anonymized": "[PLAYER] makes a save to deny the long-range effort from [PLAYER] ([TEAM]) towards the middle of the goal.",
+            "visibility": "shown",
+            "position": "528000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:28",
+            "label": "",
+            "description": "Juan Manuel Mata (Manchester United) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "identified": "[PLAYER_nHlv2UfS] ([TEAM_]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "visibility": "shown",
+            "position": "508000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:38",
+            "label": "",
+            "description": "A crossfield pass from Aaron Ramsey (Arsenal) fails to find any of his teammates.",
+            "identified": "A crossfield pass from [PLAYER_fBD08Fin] ([TEAM_]) fails to find any of his teammates.",
+            "anonymized": "A crossfield pass from [PLAYER] ([TEAM]) fails to find any of his teammates.",
+            "visibility": "shown",
+            "position": "458000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 06:12",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) strikes the rebound, but it goes well over the bar.",
+            "identified": "[PLAYER_QgGt7V0d] ([TEAM_]) strikes the rebound, but it goes well over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) strikes the rebound, but it goes well over the bar.",
+            "visibility": "shown",
+            "position": "372000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 05:58",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) takes the corner but fails to find any of his teammates.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) takes the corner but fails to find any of his teammates.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates.",
+            "visibility": "shown",
+            "position": "358000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 05:44",
+            "label": "",
+            "description": "Nacho Monreal (Arsenal) flights in the cross, but the defender is alert and clears to safety. The linesman makes the right call and Arsenal will have a corner.",
+            "identified": "[PLAYER_CdXPbmcp] ([TEAM_]) flights in the cross, but the defender is alert and clears to safety. The linesman makes the right call and [TEAM_] will have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety. The linesman makes the right call and [TEAM] will have a corner.",
+            "visibility": "shown",
+            "position": "344000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 04:17",
+            "label": "",
+            "description": "A pass from Ashley Young (Manchester United) is intercepted by David Ospina and the move breaks down.",
+            "identified": "A pass from [PLAYER_tdmI0fpF] ([TEAM_]) is intercepted by [PLAYER_6PHywlJK] and the move breaks down.",
+            "anonymized": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down.",
+            "visibility": "shown",
+            "position": "257000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:47",
+            "label": "",
+            "description": "Antonio Valencia (Manchester United) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "identified": "[PLAYER_Ecu9nqDs] ([TEAM_]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "visibility": "shown",
+            "position": "227000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:41",
+            "label": "",
+            "description": "Falcao (Manchester United) takes a short free kick.",
+            "identified": "[PLAYER_2oMimkAU] ([TEAM_]) takes a short free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a short free kick.",
+            "visibility": "shown",
+            "position": "221000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:23",
+            "label": "",
+            "description": "Per Mertesacker (Arsenal) commits a rough foul. Michael Dean stops the game and makes a call. That's a free kick to Manchester Utd.",
+            "identified": "[PLAYER_tlwkgQLn] ([TEAM_]) commits a rough foul. [REFEREE] stops the game and makes a call. That's a free kick to [TEAM_ppjDR086].",
+            "anonymized": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call. That's a free kick to [TEAM].",
+            "visibility": "shown",
+            "position": "203000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 01:11",
+            "label": "",
+            "description": "Antonio Valencia (Manchester United) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "identified": "[PLAYER_Ecu9nqDs] ([TEAM_]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "anonymized": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "visibility": "shown",
+            "position": "71000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:44",
+            "label": "",
+            "description": "Francis Coquelin (Arsenal) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "identified": "[PLAYER_2qXd9yom] ([TEAM_]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "anonymized": "[PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "visibility": "shown",
+            "position": "44000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started.",
+            "identified": "The second half has just started.",
+            "anonymized": "The second half has just started.",
+            "visibility": "shown",
+            "position": "1000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "Today's clash hasn't been that attractive up to now, but it hasn't been a total borefest. There have been a few nice movements for both sides. Manchester Utd dominated the opening period and easily created the most chances. The home players have grown in confidence and started to string some passes together. The visiting side have relied on their defence and counter-attacks.",
+            "identified": "Today's clash hasn't been that attractive up to now, but it hasn't been a total borefest. There have been a few nice movements for both sides. [TEAM_ppjDR086] dominated the opening period and easily created the most chances. The home players have grown in confidence and started to string some passes together. The visiting side have relied on their defence and counter-attacks.",
+            "anonymized": "Today's clash hasn't been that attractive up to now, but it hasn't been a total borefest. There have been a few nice movements for both sides. [TEAM] dominated the opening period and easily created the most chances. The home players have grown in confidence and started to string some passes together. The visiting side have relied on their defence and counter-attacks.",
+            "visibility": "shown",
+            "position": "2819000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 46:24",
+            "label": "whistle",
+            "description": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",
+            "identified": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",
+            "anonymized": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",
+            "visibility": "shown",
+            "position": "2784000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 46:03",
+            "label": "",
+            "description": "Juan Manuel Mata (Manchester United) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+            "identified": "[PLAYER_nHlv2UfS] ([TEAM_]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+            "visibility": "shown",
+            "position": "2763000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:51",
+            "label": "corner",
+            "description": "Ashley Young (Manchester United) takes the corner with a short pass.",
+            "identified": "[PLAYER_tdmI0fpF] ([TEAM_]) takes the corner with a short pass.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner with a short pass.",
+            "visibility": "shown",
+            "position": "2751000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:40",
+            "label": "",
+            "description": "Daley Blind (Manchester United) sees his long-range effort blocked. The referee and his assistant both point at the corner flag. Manchester Utd will have an opportunity to threaten the opposition's goal.",
+            "identified": "[PLAYER_U5mPqlh6] ([TEAM_]) sees his long-range effort blocked. The referee and his assistant both point at the corner flag. [TEAM_ppjDR086] will have an opportunity to threaten the opposition's goal.",
+            "anonymized": "[PLAYER] ([TEAM]) sees his long-range effort blocked. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "visibility": "shown",
+            "position": "2740000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:18",
+            "label": "",
+            "description": "Daley Blind (Manchester United) gets in a good position to shoot just outside the box after a nice pass, but his effort is unintentionally blocked by one of his teammate.",
+            "identified": "[PLAYER_U5mPqlh6] ([TEAM_]) gets in a good position to shoot just outside the box after a nice pass, but his effort is unintentionally blocked by one of his teammate.",
+            "anonymized": "[PLAYER] ([TEAM]) gets in a good position to shoot just outside the box after a nice pass, but his effort is unintentionally blocked by one of his teammate.",
+            "visibility": "shown",
+            "position": "2718000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:00",
+            "label": "time",
+            "description": "Fourth official shows 1 min. of added time.",
+            "identified": "Fourth official shows 1 min. of added time.",
+            "anonymized": "Fourth official shows 1 min. of added time.",
+            "visibility": "shown",
+            "position": "0"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 44:27",
+            "label": "",
+            "description": "Francis Coquelin (Arsenal) gives away a foul for a clumsy challenge. Referee Michael Dean saw the whole situation. Manchester Utd are awarded a free kick. Let's see what they create from this.",
+            "identified": "[PLAYER_2qXd9yom] ([TEAM_]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation. [TEAM_ppjDR086] are awarded a free kick. Let's see what they create from this.",
+            "anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation. [TEAM] are awarded a free kick. Let's see what they create from this.",
+            "visibility": "shown",
+            "position": "2667000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:28",
+            "label": "",
+            "description": "Ander Herrera (Manchester United) is unable to feed a through ball into the path of his teammates.",
+            "identified": "[PLAYER_jyzWX8yk] ([TEAM_]) is unable to feed a through ball into the path of his teammates.",
+            "anonymized": "[PLAYER] ([TEAM]) is unable to feed a through ball into the path of his teammates.",
+            "visibility": "shown",
+            "position": "2548000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:55",
+            "label": "",
+            "description": "Mesut Ozil (Arsenal) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "visibility": "shown",
+            "position": "2515000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:18",
+            "label": "",
+            "description": "Phil Jones (Manchester United) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again. Arsenal earn a free kick.",
+            "identified": "[PLAYER_tOqz9FFa] ([TEAM_]) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again. [TEAM_] earn a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again. [TEAM] earn a free kick.",
+            "visibility": "shown",
+            "position": "2478000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 39:35",
+            "label": "",
+            "description": "Flag goes up against Hector Bellerin (Arsenal) and the referee blows his whistle for offside.",
+            "identified": "Flag goes up against [PLAYER_pxq49QlK] ([TEAM_]) and the referee blows his whistle for offside.",
+            "anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside.",
+            "visibility": "shown",
+            "position": "2375000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 38:32",
+            "label": "",
+            "description": "Michael Dean blows his whistle and it's Falcao (Manchester United) who is penalised for an offensive foul. Good decision by the referee.",
+            "identified": "[REFEREE] blows his whistle and it's [PLAYER_2oMimkAU] ([TEAM_]) who is penalised for an offensive foul. Good decision by the referee.",
+            "anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee.",
+            "visibility": "shown",
+            "position": "2312000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:50",
+            "label": "",
+            "description": "The linesman raises his flag. Falcao (Manchester United) is adjudged offside.",
+            "identified": "The linesman raises his flag. [PLAYER_2oMimkAU] ([TEAM_]) is adjudged offside.",
+            "anonymized": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside.",
+            "visibility": "shown",
+            "position": "2270000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:47",
+            "label": "",
+            "description": "Antonio Valencia (Manchester United) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "identified": "[PLAYER_Ecu9nqDs] ([TEAM_]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "visibility": "shown",
+            "position": "2267000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:22",
+            "label": "",
+            "description": "Per Mertesacker (Arsenal) gives away a foul for a fierce tackle on an opponent.",
+            "identified": "[PLAYER_tlwkgQLn] ([TEAM_]) gives away a foul for a fierce tackle on an opponent.",
+            "anonymized": "[PLAYER] ([TEAM]) gives away a foul for a fierce tackle on an opponent.",
+            "visibility": "shown",
+            "position": "2242000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:43",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) jumps into a tackle and Michael Dean blows his whistle for a foul.",
+            "identified": "[PLAYER_QgGt7V0d] ([TEAM_]) jumps into a tackle and [REFEREE] blows his whistle for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "2143000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:41",
+            "label": "",
+            "description": "Ander Herrera (Manchester United) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "identified": "[PLAYER_jyzWX8yk] ([TEAM_]) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "visibility": "shown",
+            "position": "2081000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:03",
+            "label": "",
+            "description": "A crossfield pass from Francis Coquelin (Arsenal) fails to find any of his teammates.",
+            "identified": "A crossfield pass from [PLAYER_2qXd9yom] ([TEAM_]) fails to find any of his teammates.",
+            "anonymized": "A crossfield pass from [PLAYER] ([TEAM]) fails to find any of his teammates.",
+            "visibility": "shown",
+            "position": "2043000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:28",
+            "label": "",
+            "description": "Mesut Ozil (Arsenal) sends in a pass which fails to reach any of his teammates.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) sends in a pass which fails to reach any of his teammates.",
+            "anonymized": "[PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates.",
+            "visibility": "shown",
+            "position": "1948000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:07",
+            "label": "",
+            "description": "A pass by Ashley Young (Manchester United) ends up in no man's land, and the attacking effort comes to an end.",
+            "identified": "A pass by [PLAYER_tdmI0fpF] ([TEAM_]) ends up in no man's land, and the attacking effort comes to an end.",
+            "anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end.",
+            "visibility": "shown",
+            "position": "1927000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 31:11",
+            "label": "",
+            "description": "An attempted cross from Antonio Valencia (Manchester United) is cleared.",
+            "identified": "An attempted cross from [PLAYER_Ecu9nqDs] ([TEAM_]) is cleared.",
+            "anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared.",
+            "visibility": "shown",
+            "position": "1871000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 29:51",
+            "label": "soccer-ball",
+            "description": "It's a goal! Ander Herrera (Manchester United) scores with a brilliant shot into the bottom right corner after being released inside the box by a superb lofted pass from Ashley Young. The score is now 1:0.",
+            "identified": "It's a goal! [PLAYER_jyzWX8yk] ([TEAM_]) scores with a brilliant shot into the bottom right corner after being released inside the box by a superb lofted pass from [PLAYER_tdmI0fpF]. The score is now 1:0.",
+            "anonymized": "It's a goal! [PLAYER] ([TEAM]) scores with a brilliant shot into the bottom right corner after being released inside the box by a superb lofted pass from [PLAYER]. The score is now 1:0.",
+            "visibility": "shown",
+            "position": "1791000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:46",
+            "label": "",
+            "description": "Francis Coquelin (Arsenal) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Michael Dean blows for the foul but keeps his cards in his pocket on this occasion.",
+            "identified": "[PLAYER_2qXd9yom] ([TEAM_]) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. [REFEREE] blows for the foul but keeps his cards in his pocket on this occasion.",
+            "anonymized": "[PLAYER] ([TEAM]) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. [REFEREE] blows for the foul but keeps his cards in his pocket on this occasion.",
+            "visibility": "shown",
+            "position": "1726000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:43",
+            "label": "",
+            "description": "Laurent Koscielny (Arsenal) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "identified": "[PLAYER_0MoFTxk9] ([TEAM_]) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "visibility": "shown",
+            "position": "1603000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 25:57",
+            "label": "",
+            "description": "Marouane Fellaini (Manchester United) should know this behaviour is beyond the rules. He was too careless with his challenge and left Michael Dean no option but to blow his whistle.",
+            "identified": "[PLAYER_nJoIy5ih] ([TEAM_]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle.",
+            "anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle.",
+            "visibility": "shown",
+            "position": "1557000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:58",
+            "label": "",
+            "description": "Radamel Falcao (Manchester United) fails to beat the offside trap and the linesman puts his flag up.",
+            "identified": "[PLAYER_2oMimkAU] ([TEAM_]) fails to beat the offside trap and the linesman puts his flag up.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up.",
+            "visibility": "shown",
+            "position": "1498000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:51",
+            "label": "",
+            "description": "Ashley Young (Manchester United) fails to find a teammate across the pitch with a long ball.",
+            "identified": "[PLAYER_tdmI0fpF] ([TEAM_]) fails to find a teammate across the pitch with a long ball.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball.",
+            "visibility": "shown",
+            "position": "1431000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 20:22",
+            "label": "",
+            "description": "Marouane Fellaini (Manchester United) sends a long ball across the pitch, but it misses its target.",
+            "identified": "[PLAYER_nJoIy5ih] ([TEAM_]) sends a long ball across the pitch, but it misses its target.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a long ball across the pitch, but it misses its target.",
+            "visibility": "shown",
+            "position": "1222000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:18",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Aaron Ramsey (Arsenal).",
+            "identified": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER_fBD08Fin] ([TEAM_]).",
+            "anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1098000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:19",
+            "label": "",
+            "description": "The referee blows his whistle as Chris Smalling (Manchester United) was too aggressive in his challenge.",
+            "identified": "The referee blows his whistle as [PLAYER_QHtOVJzh] ([TEAM_]) was too aggressive in his challenge.",
+            "anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge.",
+            "visibility": "shown",
+            "position": "1039000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 16:45",
+            "label": "",
+            "description": "The Manchester Utd players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break.",
+            "identified": "The [TEAM_ppjDR086] players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break.",
+            "anonymized": "The [TEAM] players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break.",
+            "visibility": "shown",
+            "position": "1005000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:48",
+            "label": "",
+            "description": "Juan Manuel Mata (Manchester United) attempts to beat the goalkeeper with an accurate shot from the free kick, which is placed dangerously close to the penalty area. However, David Ospina pulls off a great save to deny his drilled attempt towards the middle of the goal.",
+            "identified": "[PLAYER_nHlv2UfS] ([TEAM_]) attempts to beat the goalkeeper with an accurate shot from the free kick, which is placed dangerously close to the penalty area. However, [PLAYER_6PHywlJK] pulls off a great save to deny his drilled attempt towards the middle of the goal.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to beat the goalkeeper with an accurate shot from the free kick, which is placed dangerously close to the penalty area. However, [PLAYER] pulls off a great save to deny his drilled attempt towards the middle of the goal.",
+            "visibility": "shown",
+            "position": "888000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:28",
+            "label": "",
+            "description": "Hector Bellerin (Arsenal) was trying to get to the ball but clattered into the legs of the opponent as well. Michael Dean blows his whistle for an infringement. Manchester Utd win a free kick. It's a promising situation for a direct shot.",
+            "identified": "[PLAYER_pxq49QlK] ([TEAM_]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement. [TEAM_ppjDR086] win a free kick. It's a promising situation for a direct shot.",
+            "anonymized": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement. [TEAM] win a free kick. It's a promising situation for a direct shot.",
+            "visibility": "shown",
+            "position": "808000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 12:45",
+            "label": "",
+            "description": "Ashley Young (Manchester United) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "identified": "[PLAYER_tdmI0fpF] ([TEAM_]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "visibility": "shown",
+            "position": "765000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:32",
+            "label": "",
+            "description": "The game is interrupted, a clear handball by Marouane Fellaini (Manchester United).",
+            "identified": "The game is interrupted, a clear handball by [PLAYER_nJoIy5ih] ([TEAM_]).",
+            "anonymized": "The game is interrupted, a clear handball by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "692000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:27",
+            "label": "",
+            "description": "Ashley Young (Manchester United) delivers a promising cross into the box, but it's cleared.",
+            "identified": "[PLAYER_tdmI0fpF] ([TEAM_]) delivers a promising cross into the box, but it's cleared.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a promising cross into the box, but it's cleared.",
+            "visibility": "shown",
+            "position": "627000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:18",
+            "label": "corner",
+            "description": "Juan Manuel Mata (Manchester United) quickly takes the corner kick with a short pass.",
+            "identified": "[PLAYER_nHlv2UfS] ([TEAM_]) quickly takes the corner kick with a short pass.",
+            "anonymized": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass.",
+            "visibility": "shown",
+            "position": "618000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:12",
+            "label": "",
+            "description": "Chris Smalling (Manchester United) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. The referee blows his whistle, Manchester Utd are awarded a corner kick.",
+            "identified": "[PLAYER_QHtOVJzh] ([TEAM_]) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. The referee blows his whistle, [TEAM_ppjDR086] are awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "612000"
+        }
+    ]
+}

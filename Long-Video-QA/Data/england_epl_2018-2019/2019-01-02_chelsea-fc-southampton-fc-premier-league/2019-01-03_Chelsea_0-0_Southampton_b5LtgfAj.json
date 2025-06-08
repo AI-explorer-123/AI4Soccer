@@ -1,0 +1,697 @@
+{
+  "match_info": {
+    "timestamp": "2019-01-03 03:45:00",
+    "score": "0 - 0",
+    "home_team": "Chelsea",
+    "away_team": "Southampton",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "5 - 4 - 1",
+    "venue": "Stamford Bridge (London)",
+    "capacity": "40 341",
+    "attendance": "40 668"
+  },
+  "referee_data": {
+    "short_name_country": "Moss J. (Eng)",
+    "first_name": "Moss",
+    "abbr_last_name": "J",
+    "country": "Eng",
+    "detected_name": "Jonathan Moss"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Sarri M.",
+        "players_number": "",
+        "Full Name": "Maurizio Sarri",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "65,  (10.01.1959)",
+        "Market Value": "",
+        "unicode": "pvzTXTMR"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Drinkwater D.",
+        "players_number": "",
+        "Full Name": "Daniel Drinkwater",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (05.03.1990)",
+        "Market Value": "",
+        "unicode": "0fL2Mgvj"
+      },
+      {
+        "players_name": "Giroud O.",
+        "players_number": "",
+        "Full Name": "Olivier Giroud",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "37, (30.09.1986)",
+        "Market Value": "€4.0m",
+        "unicode": "AJPBp2as"
+      },
+      {
+        "players_name": "Hudson-Odoi C.",
+        "players_number": "",
+        "Full Name": "Callum Hudson-Odoi",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (07.11.2000)",
+        "Market Value": "€11.4m",
+        "unicode": "dtU5eexQ"
+      },
+      {
+        "players_name": "Pedro",
+        "players_number": "",
+        "Full Name": "Pedro",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (28.07.1987)",
+        "Market Value": "€1.3m",
+        "unicode": "0f1tMqQl"
+      },
+      {
+        "players_name": "van Ginkel M.",
+        "players_number": "",
+        "Full Name": "Marco van Ginkel",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (01.12.1992)",
+        "Market Value": "€979k",
+        "unicode": "jsXWRzFB"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Alonso M.",
+        "players_number": "3",
+        "Full Name": "Marcos Alonso",
+        "players_rating": 7.5,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (28.12.1990)",
+        "Market Value": "€2.9m",
+        "unicode": "MLHPrlrj"
+      },
+      {
+        "players_name": "Arrizabalaga K. (G)",
+        "players_number": "1",
+        "Full Name": "Kepa Arrizabalaga",
+        "players_rating": 7.3,
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "29, (03.10.1994)",
+        "Market Value": "€19.3m",
+        "unicode": "Yq2dyUwN"
+      },
+      {
+        "players_name": "Azpilicueta C. (C)",
+        "players_number": "28",
+        "Full Name": "Cesar Azpilicueta",
+        "players_rating": 6.9,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (28.08.1989)",
+        "Market Value": "€3.8m",
+        "unicode": "CMGUADgt"
+      },
+      {
+        "players_name": "Barkley R.",
+        "players_number": "8",
+        "Full Name": "Ross Barkley",
+        "players_rating": 7.0,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (05.12.1993)",
+        "Market Value": "€6.9m",
+        "unicode": "Stsozgbg"
+      },
+      {
+        "players_name": "David Luiz",
+        "players_number": "30",
+        "Full Name": "David Luiz",
+        "players_rating": 7.3,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (22.04.1987)",
+        "Market Value": "€482k",
+        "unicode": "G04qmSno"
+      },
+      {
+        "players_name": "Hazard E.",
+        "players_number": "10",
+        "Full Name": "Eden Hazard",
+        "players_rating": 7.5,
+        "Country": "Belgium",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (07.01.1991)",
+        "Market Value": "",
+        "unicode": "QH2of5sJ"
+      },
+      {
+        "players_name": "Jorginho",
+        "players_number": "5",
+        "Full Name": "Jorginho",
+        "players_rating": 7.7,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (20.12.1991)",
+        "Market Value": "€14.3m",
+        "unicode": "t80QsVOt"
+      },
+      {
+        "players_name": "Kante N.",
+        "players_number": "7",
+        "Full Name": "N'Golo Kante",
+        "players_rating": 7.5,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (29.03.1991)",
+        "Market Value": "€10.1m",
+        "unicode": "IkmsHsOR"
+      },
+      {
+        "players_name": "Morata A.",
+        "players_number": "29",
+        "Full Name": "Alvaro Morata",
+        "players_rating": 6.8,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (23.10.1992)",
+        "Market Value": "€19.6m",
+        "unicode": "fmkHs3aU"
+      },
+      {
+        "players_name": "Rudiger A.",
+        "players_number": "2",
+        "Full Name": "Antonio Rudiger",
+        "players_rating": 7.2,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (03.03.1993)",
+        "Market Value": "€24.5m",
+        "unicode": "rZHXvTho"
+      },
+      {
+        "players_name": "Willian",
+        "players_number": "22",
+        "Full Name": "Willian",
+        "players_rating": 6.6,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (09.08.1988)",
+        "Market Value": "€3.0m",
+        "unicode": "GSzdOhPI"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Fabregas C.",
+        "players_number": "4",
+        "Full Name": "Cesc Fabregas",
+        "players_rating": 6.6,
+        "Country": "Spain",
+        "Role": "Coach",
+        "Age and Birthdate": "36, (04.05.1987)",
+        "Market Value": "",
+        "unicode": "YXIDwoe5"
+      },
+      {
+        "players_name": "Loftus-Cheek R.",
+        "players_number": "12",
+        "Full Name": "Ruben Loftus-Cheek",
+        "players_rating": 7.0,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (23.01.1996)",
+        "Market Value": "€24.1m",
+        "unicode": "6DpURWF8"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Ampadu E.",
+        "players_number": "44",
+        "Full Name": "Ethan Ampadu",
+        "players_rating": "",
+        "Country": "Wales",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (14.09.2000)",
+        "Market Value": "€11.7m",
+        "unicode": "bH6VQUwF"
+      },
+      {
+        "players_name": "Caballero W. (G)",
+        "players_number": "13",
+        "Full Name": "Wilfredo Caballero",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "42, (28.09.1981)",
+        "Market Value": "",
+        "unicode": "h2HdUznS"
+      },
+      {
+        "players_name": "Christensen A.",
+        "players_number": "27",
+        "Full Name": "Andreas Christensen",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (10.04.1996)",
+        "Market Value": "€39.7m",
+        "unicode": "ShxiZhJI"
+      },
+      {
+        "players_name": "Emerson",
+        "players_number": "33",
+        "Full Name": "Emerson",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (03.08.1994)",
+        "Market Value": "€12.3m",
+        "unicode": "MHViZ5fg"
+      },
+      {
+        "players_name": "Zappacosta D.",
+        "players_number": "21",
+        "Full Name": "Davide Zappacosta",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (11.06.1992)",
+        "Market Value": "€5.8m",
+        "unicode": "G6AuiwvH"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Hasenhuttl R.",
+        "players_number": "",
+        "Full Name": "Ralph Hasenhuttl",
+        "players_rating": "",
+        "Country": "Austria",
+        "Role": "coach",
+        "Age and Birthdate": "56,  (09.08.1967)",
+        "Market Value": "",
+        "unicode": "f3ddUIXs"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Bertrand R.",
+        "players_number": "",
+        "Full Name": "Ryan Bertrand",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (05.08.1989)",
+        "Market Value": "",
+        "unicode": "8ra7I5SI"
+      },
+      {
+        "players_name": "Hojbjerg P.",
+        "players_number": "",
+        "Full Name": "Pierre-Emile Hojbjerg",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (05.08.1995)",
+        "Market Value": "€27.4m",
+        "unicode": "ITwS8wMo"
+      },
+      {
+        "players_name": "Obafemi M.",
+        "players_number": "",
+        "Full Name": "Michael Obafemi",
+        "players_rating": "",
+        "Country": "Ireland",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (06.07.2000)",
+        "Market Value": "€3.3m",
+        "unicode": "l4b14SHS"
+      },
+      {
+        "players_name": "Targett M.",
+        "players_number": "",
+        "Full Name": "Matt Targett",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (18.09.1995)",
+        "Market Value": "€9.4m",
+        "unicode": "I1mjFtoP"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Armstrong S.",
+        "players_number": "17",
+        "Full Name": "Stuart Armstrong",
+        "players_rating": 7.3,
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (30.03.1992)",
+        "Market Value": "€1.9m",
+        "unicode": "bNMGoy7K"
+      },
+      {
+        "players_name": "Bednarek J.",
+        "players_number": "35",
+        "Full Name": "Jan Bednarek",
+        "players_rating": 7.0,
+        "Country": "Poland",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (12.04.1996)",
+        "Market Value": "€10.6m",
+        "unicode": "l4MMmL5S"
+      },
+      {
+        "players_name": "Cedric",
+        "players_number": "2",
+        "Full Name": "Cedric",
+        "players_rating": 6.8,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (31.08.1991)",
+        "Market Value": "€1.9m",
+        "unicode": "CEWQBLuG"
+      },
+      {
+        "players_name": "Gunn A. (G)",
+        "players_number": "28",
+        "Full Name": "Angus Gunn",
+        "players_rating": 8.1,
+        "Country": "Scotland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "27, (22.01.1996)",
+        "Market Value": "€2.3m",
+        "unicode": "zaREt4aJ"
+      },
+      {
+        "players_name": "Ings D.",
+        "players_number": "9",
+        "Full Name": "Danny Ings",
+        "players_rating": 6.6,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (23.07.1992)",
+        "Market Value": "€8.3m",
+        "unicode": "S0QG044b"
+      },
+      {
+        "players_name": "Redmond N.",
+        "players_number": "22",
+        "Full Name": "Nathan Redmond",
+        "players_rating": 6.5,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (06.03.1994)",
+        "Market Value": "€6.6m",
+        "unicode": "APp1STK6"
+      },
+      {
+        "players_name": "Romeu O. (C)",
+        "players_number": "14",
+        "Full Name": "Oriol Romeu",
+        "players_rating": 6.7,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (24.09.1991)",
+        "Market Value": "€2.9m",
+        "unicode": "WCC5IrWg"
+      },
+      {
+        "players_name": "Valery Y.",
+        "players_number": "43",
+        "Full Name": "Yan Valery",
+        "players_rating": 8.2,
+        "Country": "Tunisia",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (22.02.1999)",
+        "Market Value": "€1.9m",
+        "unicode": "Icg1ZumF"
+      },
+      {
+        "players_name": "Vestergaard J.",
+        "players_number": "4",
+        "Full Name": "Jannik Vestergaard",
+        "players_rating": 7.6,
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (03.08.1992)",
+        "Market Value": "€3.6m",
+        "unicode": "2mkPasKP"
+      },
+      {
+        "players_name": "Ward-Prowse J.",
+        "players_number": "16",
+        "Full Name": "James Ward-Prowse",
+        "players_rating": 7.3,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (01.11.1994)",
+        "Market Value": "€41.5m",
+        "unicode": "GxdkTszJ"
+      },
+      {
+        "players_name": "Yoshida M.",
+        "players_number": "3",
+        "Full Name": "Maya Yoshida",
+        "players_rating": 8.0,
+        "Country": "Japan",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (24.08.1988)",
+        "Market Value": "€492k",
+        "unicode": "z1DyVikh"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Austin C.",
+        "players_number": "10",
+        "Full Name": "Charlie Austin",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "34, (05.07.1989)",
+        "Market Value": "€147k",
+        "unicode": "6wyog5KP"
+      },
+      {
+        "players_name": "Long S.",
+        "players_number": "7",
+        "Full Name": "Shane Long",
+        "players_rating": 6.7,
+        "Country": "Ireland",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (22.01.1987)",
+        "Market Value": "",
+        "unicode": "GnXeFdKC"
+      },
+      {
+        "players_name": "Stephens J.",
+        "players_number": "5",
+        "Full Name": "Jack Stephens",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (27.01.1994)",
+        "Market Value": "€2.4m",
+        "unicode": "lxFOy0k5"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Elyounoussi M.",
+        "players_number": "11",
+        "Full Name": "Mohamed Elyounoussi",
+        "players_rating": "",
+        "Country": "Norway",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (04.08.1994)",
+        "Market Value": "€5.8m",
+        "unicode": "jmod3iU2"
+      },
+      {
+        "players_name": "McCarthy A. (G)",
+        "players_number": "1",
+        "Full Name": "Alex McCarthy",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "34, (03.12.1989)",
+        "Market Value": "€440k",
+        "unicode": "WIqv3LGU"
+      },
+      {
+        "players_name": "Ramsay K.",
+        "players_number": "66",
+        "Full Name": "Kayne Ramsay",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (10.10.2000)",
+        "Market Value": "€196k",
+        "unicode": "zon8WadT"
+      },
+      {
+        "players_name": "Slattery C.",
+        "players_number": "55",
+        "Full Name": "Callum Slattery",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (08.02.1999)",
+        "Market Value": "€448k",
+        "unicode": "rorNY7zP"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "08:30",
+      "comments_type": "corner",
+      "comments_text": "Willian (Chelsea) floats the ball in from the corner but it's intercepted.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "30:09",
+      "comments_type": "yellow card",
+      "comments_text": "Jan Bednarek (Southampton) is booked after bringing down an opponent. Jonathan Moss had an easy-decision to make.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "30:12",
+      "comments_type": "corner",
+      "comments_text": "Willian (Chelsea) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "36:00",
+      "comments_type": "substitution",
+      "comments_text": "Willian is substituted due to injury. Maurizio Sarri gives a chance to Ruben Loftus-Cheek (Chelsea).",
+      "comments_text_anonymized": "[PLAYER] is substituted due to injury. [PLAYER] gives a chance to [PLAYER] ([TEAM]).",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "39:50",
+      "comments_type": "corner",
+      "comments_text": "Eden Hazard (Chelsea) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "42:02",
+      "comments_type": "corner",
+      "comments_text": "Eden Hazard (Chelsea) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "42:00",
+      "comments_type": "corner",
+      "comments_text": "Eden Hazard (Chelsea) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:00",
+      "comments_type": "substitution",
+      "comments_text": "There will be a change on the pitch for the second half. Ralph Hasenhuttl probably wasn't satisfied with the performance of Danny Ings. He is replaced by Shane Long (Southampton).",
+      "comments_text_anonymized": "There will be a change on the pitch for the second half. [PLAYER] probably wasn't satisfied with the performance of [PLAYER]. He is replaced by [PLAYER] ([TEAM]).",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "01:53",
+      "comments_type": "corner",
+      "comments_text": "James Ward-Prowse (Southampton) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:04",
+      "comments_type": "corner",
+      "comments_text": "Eden Hazard (Chelsea) works the corner short.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:48",
+      "comments_type": "corner",
+      "comments_text": "James Ward-Prowse (Southampton) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:14",
+      "comments_type": "substitution",
+      "comments_text": "It will be a substitution. Cesc Fabregas (Chelsea) is ready to enter the pitch as Ross Barkley walks off.",
+      "comments_text_anonymized": "It will be a substitution. [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:37",
+      "comments_type": "yellow card",
+      "comments_text": "Jonathan Moss shows a yellow card to Antonio Rudiger (Chelsea) for his blatant foul.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:47",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Oriol Romeu (Southampton) was quite harsh and Jonathan Moss didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:40",
+      "comments_type": "substitution",
+      "comments_text": "Charlie Austin (Southampton) joins the action as a substitute, replacing Stuart Armstrong.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER].",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "48:55",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Jack Stephens (Southampton) has come on for Nathan Redmond.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER].",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "49:33",
+      "comments_type": "corner",
+      "comments_text": "Cesc Fabregas (Chelsea) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+      "index": 16
+    }
+  ]
+}

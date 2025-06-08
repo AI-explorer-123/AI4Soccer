@@ -1,0 +1,344 @@
+[
+  {
+    "question": "How many corners have occurred so far in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opposition",
+      "C. Both teams have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners so far in the first half?",
+    "choices": [
+      "A. Ashley Young",
+      "B. Jesse Lingard",
+      "C. Both have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opposition",
+      "C. Both teams have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners so far in the first half?",
+    "choices": [
+      "A. Ashley Young",
+      "B. Jesse Lingard",
+      "C. Both have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opposition",
+      "C. Both teams have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners so far in the first half?",
+    "choices": [
+      "A. Ashley Young",
+      "B. Jesse Lingard",
+      "C. Both have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 8,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": null,
+    "index": 9,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opposition",
+      "C. Both teams had equal corners",
+      "D. No corners taken"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": null,
+    "index": 10,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Ashley Young",
+      "B. Jesse Lingard",
+      "C. Both were involved equally",
+      "D. No corners taken"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": null,
+    "index": 11,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Two more"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      2
+    ],
+    "current_event_index": 0,
+    "index": 12,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opposition",
+      "C. Both teams equally likely",
+      "D. No more corners"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      2
+    ],
+    "current_event_index": 0,
+    "index": 13,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Ashley Young",
+      "B. Jesse Lingard",
+      "C. Another player",
+      "D. No more corners"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      2
+    ],
+    "current_event_index": 0,
+    "index": 14,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Two more"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 1,
+    "index": 15,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opposition",
+      "C. Both teams equally likely",
+      "D. No more corners"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 1,
+    "index": 16,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Ashley Young",
+      "B. Jesse Lingard",
+      "C. Another player",
+      "D. No more corners"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 1,
+    "index": 17,
+    "event_type": "corner"
+  }
+]

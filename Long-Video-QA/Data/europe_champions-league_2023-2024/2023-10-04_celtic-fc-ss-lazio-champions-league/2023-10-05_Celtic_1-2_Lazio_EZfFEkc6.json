@@ -1,0 +1,844 @@
+{
+  "match_info": {
+    "timestamp": "2023-10-05 03:00:00",
+    "score": "1 - 2",
+    "home_team": "Celtic",
+    "away_team": "Lazio",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 3 - 3",
+    "venue": "Celtic Park (Glasgow)",
+    "capacity": "60 411",
+    "attendance": "56 063"
+  },
+  "referee_data": {
+    "short_name_country": "Rumsas D. (Ltu)",
+    "first_name": "Rumsas",
+    "abbr_last_name": "D",
+    "country": "Ltu",
+    "detected_name": "Donatas Rumsas"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Rodgers B.",
+        "players_number": "",
+        "Full Name": "Brendan Rodgers",
+        "players_rating": "",
+        "Country": "Northern Ireland",
+        "Role": "coach",
+        "Age and Birthdate": "50,  (26.01.1973)",
+        "Market Value": "",
+        "unicode": "GGXMvd0k"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Abada L.",
+        "players_number": "",
+        "Full Name": "Liel Abada",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (03.10.2001)",
+        "Market Value": "€6.7m",
+        "unicode": "lObMfPz8"
+      },
+      {
+        "players_name": "Holm O. T.",
+        "players_number": "",
+        "Full Name": "Odin Thiago Holm",
+        "players_rating": "",
+        "Country": "Norway",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (18.01.2003)",
+        "Market Value": "€2.9m",
+        "unicode": "Ew23WQWh"
+      },
+      {
+        "players_name": "Lagerbielke G.",
+        "players_number": "",
+        "Full Name": "Gustaf Lagerbielke",
+        "players_rating": "",
+        "Country": "Sweden",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (10.04.2000)",
+        "Market Value": "€2.7m",
+        "unicode": "UwOm1wvF"
+      },
+      {
+        "players_name": "McCarthy J.",
+        "players_number": "",
+        "Full Name": "James McCarthy",
+        "players_rating": "",
+        "Country": "Ireland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (12.11.1990)",
+        "Market Value": "€268k",
+        "unicode": "IBy588Qo"
+      },
+      {
+        "players_name": "Nawrocki M.",
+        "players_number": "",
+        "Full Name": "Maik Nawrocki",
+        "players_rating": "",
+        "Country": "Poland",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (07.02.2001)",
+        "Market Value": "€3.9m",
+        "unicode": "GGeMJSqE"
+      },
+      {
+        "players_name": "Tilio M.",
+        "players_number": "",
+        "Full Name": "Marco Tilio",
+        "players_rating": "",
+        "Country": "Australia",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (23.08.2001)",
+        "Market Value": "€1.5m",
+        "unicode": "Kz7POmA8"
+      },
+      {
+        "players_name": "Welsh S.",
+        "players_number": "",
+        "Full Name": "Stephen Welsh",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (19.01.2000)",
+        "Market Value": "€783k",
+        "unicode": "KveL0z0M"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Furuhashi K.",
+        "players_number": "8",
+        "Full Name": "Kyogo Furuhashi",
+        "players_rating": 6.9,
+        "Country": "Japan",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (20.01.1995)",
+        "Market Value": "€14.5m",
+        "unicode": "2g7jDk3l"
+      },
+      {
+        "players_name": "Hart J. (G)",
+        "players_number": "1",
+        "Full Name": "Joe Hart",
+        "players_rating": 6.2,
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "36, (19.04.1987)",
+        "Market Value": "€957k",
+        "unicode": "KWoMfbLD"
+      },
+      {
+        "players_name": "Hatate R.",
+        "players_number": "41",
+        "Full Name": "Reo Hatate",
+        "players_rating": 6.6,
+        "Country": "Japan",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (21.11.1997)",
+        "Market Value": "€10.9m",
+        "unicode": "GCXUzZVG"
+      },
+      {
+        "players_name": "Johnston A.",
+        "players_number": "2",
+        "Full Name": "Alistair Johnston",
+        "players_rating": 6.8,
+        "Country": "Canada",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (08.10.1998)",
+        "Market Value": "€6.8m",
+        "unicode": "hzfyT3Cl"
+      },
+      {
+        "players_name": "Maeda D.",
+        "players_number": "38",
+        "Full Name": "Daizen Maeda",
+        "players_rating": 6.7,
+        "Country": "Japan",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (20.10.1997)",
+        "Market Value": "€6.2m",
+        "unicode": "6kfQTp18"
+      },
+      {
+        "players_name": "McGregor C. (C)",
+        "players_number": "42",
+        "Full Name": "Callum McGregor",
+        "players_rating": 6.6,
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (14.06.1993)",
+        "Market Value": "€8.8m",
+        "unicode": "pGXQfHlO"
+      },
+      {
+        "players_name": "O'Riley M.",
+        "players_number": "33",
+        "Full Name": "Matt O'Riley",
+        "players_rating": 7.3,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (21.11.2000)",
+        "Market Value": "€13.1m",
+        "unicode": "AZOU76Ou"
+      },
+      {
+        "players_name": "Phillips N.",
+        "players_number": "6",
+        "Full Name": "Nathaniel Phillips",
+        "players_rating": 6.4,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (21.03.1997)",
+        "Market Value": "€4.0m",
+        "unicode": "bHnuxZoS"
+      },
+      {
+        "players_name": "Scales L.",
+        "players_number": "5",
+        "Full Name": "Liam Scales",
+        "players_rating": 7.3,
+        "Country": "Ireland",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (08.08.1998)",
+        "Market Value": "€2.0m",
+        "unicode": "ziyQvljU"
+      },
+      {
+        "players_name": "Taylor G.",
+        "players_number": "3",
+        "Full Name": "Greg Taylor",
+        "players_rating": 6.7,
+        "Country": "Scotland",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (05.11.1997)",
+        "Market Value": "€6.6m",
+        "unicode": "AZEVvPZ7"
+      },
+      {
+        "players_name": "Yang Hyun-Jun",
+        "players_number": "13",
+        "Full Name": "Hyun-Jun Yang",
+        "players_rating": 6.3,
+        "Country": "South Korea",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (25.05.2002)",
+        "Market Value": "€1.9m",
+        "unicode": "xGCPrFwO"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Bernardo P.",
+        "players_number": "28",
+        "Full Name": "Paulo Bernardo",
+        "players_rating": 6.3,
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (24.01.2002)",
+        "Market Value": "€2.8m",
+        "unicode": "A7zThh7k"
+      },
+      {
+        "players_name": "Carter-Vickers C.",
+        "players_number": "20",
+        "Full Name": "Cameron Carter-Vickers",
+        "players_rating": 6.8,
+        "Country": "USA",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (31.12.1997)",
+        "Market Value": "",
+        "unicode": "fTcS9Owq"
+      },
+      {
+        "players_name": "Oh Hyeon-Gyu",
+        "players_number": "19",
+        "Full Name": "Hyeon-Gyu Oh",
+        "players_rating": "",
+        "Country": "South Korea",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (12.04.2001)",
+        "Market Value": "€1.7m",
+        "unicode": "xrhecmZN"
+      },
+      {
+        "players_name": "Palma L.",
+        "players_number": "7",
+        "Full Name": "Luis Palma",
+        "players_rating": 6.1,
+        "Country": "Honduras",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (17.01.2000)",
+        "Market Value": "€4.6m",
+        "unicode": "SCKoyc7I"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Bain S. (G)",
+        "players_number": "29",
+        "Full Name": "Scott Bain",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (22.11.1991)",
+        "Market Value": "€296k",
+        "unicode": "WAjWdhAF"
+      },
+      {
+        "players_name": "Forrest J.",
+        "players_number": "49",
+        "Full Name": "James Forrest",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (07.07.1991)",
+        "Market Value": "€1.4m",
+        "unicode": "bos8vZBt"
+      },
+      {
+        "players_name": "Iwata T.",
+        "players_number": "24",
+        "Full Name": "Tomoki Iwata",
+        "players_rating": "",
+        "Country": "Japan",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (07.04.1997)",
+        "Market Value": "€941k",
+        "unicode": "Qs56dHSA"
+      },
+      {
+        "players_name": "Johnston M.",
+        "players_number": "90",
+        "Full Name": "Mikey Johnston",
+        "players_rating": "",
+        "Country": "Ireland",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (19.04.1999)",
+        "Market Value": "€1.2m",
+        "unicode": "IVbiaCkg"
+      },
+      {
+        "players_name": "Morrison J. (G)",
+        "players_number": "43",
+        "Full Name": "Joe Morrison",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "19, (01.06.2004)",
+        "Market Value": "31.05.2025",
+        "unicode": "p2VEdaKj"
+      },
+      {
+        "players_name": "Ralston A.",
+        "players_number": "56",
+        "Full Name": "Anthony Ralston",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (16.11.1998)",
+        "Market Value": "€1.8m",
+        "unicode": "6PvBfu9D"
+      },
+      {
+        "players_name": "Turnbull D.",
+        "players_number": "14",
+        "Full Name": "David Turnbull",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (10.07.1999)",
+        "Market Value": "€3.9m",
+        "unicode": "dQFSpRAn"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Sarri M.",
+        "players_number": "",
+        "Full Name": "Maurizio Sarri",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "65,  (10.01.1959)",
+        "Market Value": "",
+        "unicode": "pvzTXTMR"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Felipe Anderson",
+        "players_number": "7",
+        "Full Name": "Felipe Anderson",
+        "players_rating": 6.9,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (15.04.1993)",
+        "Market Value": "€9.9m",
+        "unicode": "xA2w3xCo"
+      },
+      {
+        "players_name": "Hysaj E.",
+        "players_number": "23",
+        "Full Name": "Elseid Hysaj",
+        "players_rating": 6.6,
+        "Country": "Albania",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (02.02.1994)",
+        "Market Value": "€3.8m",
+        "unicode": "8z6PLSII"
+      },
+      {
+        "players_name": "Immobile C. (C)",
+        "players_number": "17",
+        "Full Name": "Ciro Immobile",
+        "players_rating": 6.5,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (20.02.1990)",
+        "Market Value": "€9.5m",
+        "unicode": "4S9fNUYh"
+      },
+      {
+        "players_name": "Kamada D.",
+        "players_number": "6",
+        "Full Name": "Daichi Kamada",
+        "players_rating": 7.1,
+        "Country": "Japan",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (05.08.1996)",
+        "Market Value": "€19.3m",
+        "unicode": "bayITLyE"
+      },
+      {
+        "players_name": "Lazzari M.",
+        "players_number": "29",
+        "Full Name": "Manuel Lazzari",
+        "players_rating": 6.9,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (29.11.1993)",
+        "Market Value": "€6.0m",
+        "unicode": "WlqJxlIT"
+      },
+      {
+        "players_name": "Luis Alberto",
+        "players_number": "10",
+        "Full Name": "Luis Alberto",
+        "players_rating": 7.0,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (28.09.1992)",
+        "Market Value": "€16.8m",
+        "unicode": "xbmYgaCa"
+      },
+      {
+        "players_name": "Patric",
+        "players_number": "4",
+        "Full Name": "Patric",
+        "players_rating": 7.3,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (17.04.1993)",
+        "Market Value": "€3.9m",
+        "unicode": "YXwSY2Ef"
+      },
+      {
+        "players_name": "Provedel I. (G)",
+        "players_number": "94",
+        "Full Name": "Ivan Provedel",
+        "players_rating": 7.6,
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "29, (17.03.1994)",
+        "Market Value": "€13.7m",
+        "unicode": "C6m92DF7"
+      },
+      {
+        "players_name": "Romagnoli A.",
+        "players_number": "13",
+        "Full Name": "Alessio Romagnoli",
+        "players_rating": 7.5,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (12.01.1995)",
+        "Market Value": "€14.7m",
+        "unicode": "Wr49C0j4"
+      },
+      {
+        "players_name": "Vecino M.",
+        "players_number": "5",
+        "Full Name": "Matias Vecino",
+        "players_rating": 8.0,
+        "Country": "Uruguay",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (24.08.1991)",
+        "Market Value": "€2.8m",
+        "unicode": "AVysqrBE"
+      },
+      {
+        "players_name": "Zaccagni M.",
+        "players_number": "20",
+        "Full Name": "Mattia Zaccagni",
+        "players_rating": 7.0,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (16.06.1995)",
+        "Market Value": "€25.2m",
+        "unicode": "MJ7sACQ8"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Castellanos T.",
+        "players_number": "19",
+        "Full Name": "Taty Castellanos",
+        "players_rating": 5.7,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (03.10.1998)",
+        "Market Value": "€14.3m",
+        "unicode": "ET4rsqIP"
+      },
+      {
+        "players_name": "Guendouzi M.",
+        "players_number": "8",
+        "Full Name": "Matteo Guendouzi",
+        "players_rating": 7.0,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (14.04.1999)",
+        "Market Value": "€18.4m",
+        "unicode": "6ZesE86o"
+      },
+      {
+        "players_name": "Isaksen G.",
+        "players_number": "18",
+        "Full Name": "Gustav Isaksen",
+        "players_rating": 6.2,
+        "Country": "Denmark",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (19.04.2001)",
+        "Market Value": "€11.6m",
+        "unicode": "d0vohCHH"
+      },
+      {
+        "players_name": "Marusic A.",
+        "players_number": "77",
+        "Full Name": "Adam Marusic",
+        "players_rating": "",
+        "Country": "Montenegro",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (17.10.1992)",
+        "Market Value": "€4.7m",
+        "unicode": "tC46HZrA"
+      },
+      {
+        "players_name": "Pedro",
+        "players_number": "9",
+        "Full Name": "Pedro",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (28.07.1987)",
+        "Market Value": "€1.3m",
+        "unicode": "0f1tMqQl"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Casale N.",
+        "players_number": "15",
+        "Full Name": "Nicolo Casale",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (14.02.1998)",
+        "Market Value": "€19.0m",
+        "unicode": "WAb3qgda"
+      },
+      {
+        "players_name": "Cataldi D.",
+        "players_number": "32",
+        "Full Name": "Danilo Cataldi",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (06.08.1994)",
+        "Market Value": "€7.4m",
+        "unicode": "IcuAZWW1"
+      },
+      {
+        "players_name": "Gila M.",
+        "players_number": "34",
+        "Full Name": "Mario Gila",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (29.08.2000)",
+        "Market Value": "€2.9m",
+        "unicode": "dQqXDhtf"
+      },
+      {
+        "players_name": "Magro F. (G)",
+        "players_number": "53",
+        "Full Name": "Federico Magro",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "19, (10.01.2005)",
+        "Market Value": "",
+        "unicode": "OQqLliP4"
+      },
+      {
+        "players_name": "Pellegrini Lu.",
+        "players_number": "3",
+        "Full Name": "Luca Pellegrini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (07.03.1999)",
+        "Market Value": "€3.7m",
+        "unicode": "WKey0InR"
+      },
+      {
+        "players_name": "Rovella N.",
+        "players_number": "65",
+        "Full Name": "Nicolo Rovella",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (04.12.2001)",
+        "Market Value": "€16.8m",
+        "unicode": "bPQZKve0"
+      },
+      {
+        "players_name": "Sepe L. (G)",
+        "players_number": "33",
+        "Full Name": "Luigi Sepe",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (08.05.1991)",
+        "Market Value": "€881k",
+        "unicode": "dvzcWaun"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "09:53",
+      "comments_type": "corner",
+      "comments_text": "Matt O'Riley (Celtic) takes the corner but fails to find any of his teammates as he overhits the effort.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates as he overhits the effort.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "11:46",
+      "comments_type": "goal",
+      "comments_text": "Goal! Matt O'Riley displays great vision and sends a pass to Kyogo Furuhashi (Celtic), who shows brilliant composure inside the box to bury the ball into the back of the net. The score is 1:0.",
+      "comments_text_anonymized": "Goal! [PLAYER] displays great vision and sends a pass to [PLAYER] ([TEAM]), who shows brilliant composure inside the box to bury the ball into the back of the net. The score is 1:0.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "18:02",
+      "comments_type": "corner",
+      "comments_text": "Luis Alberto (Lazio) takes the corner which is cleared by the opposition's defence.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared by the opposition's defence.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "27:00",
+      "comments_type": "corner",
+      "comments_text": "The ball is whipped in from the corner by Luis Alberto (Lazio), but one of the defenders gets it clear. Lazio have been awarded a corner kick.",
+      "comments_text_anonymized": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear. [TEAM] have been awarded a corner kick.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "28:18",
+      "comments_type": "corner",
+      "comments_text": "Luis Alberto (Lazio) takes the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "29:20",
+      "comments_type": "goal",
+      "comments_text": "Goal! Alessio Romagnoli gets up really well from the corner and heads the ball into the six-yard box where Matias Vecino (Lazio) glances a header into the net. 1:1.",
+      "comments_text_anonymized": "Goal! [PLAYER] gets up really well from the corner and heads the ball into the six-yard box where [PLAYER] ([TEAM]) glances a header into the net. 1:1.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "46:00",
+      "comments_type": "yellow card",
+      "comments_text": "Donatas Rumsas shows a yellow card to Nathaniel Phillips (Celtic) for his blatant foul.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:04",
+      "comments_type": "corner",
+      "comments_text": "Matt O'Riley (Celtic) takes the corner kick but the ball only finds the head of an opponent.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:58",
+      "comments_type": "corner",
+      "comments_text": "Matt O'Riley (Celtic) will take the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the corner.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:20",
+      "comments_type": "yellow card",
+      "comments_text": "Luis Alberto (Lazio) will have to be careful for the rest of the match as he is shown a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will have to be careful for the rest of the match as he is shown a yellow card.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:17",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Hyun-Jun Yang leaves the pitch and is replaced by Luis Palma (Celtic).",
+      "comments_text_anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM]).",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:01",
+      "comments_type": "substitution",
+      "comments_text": "Brendan Rodgers decides to make a substitution. Nathaniel Phillips will be replaced by Cameron Carter-Vickers (Celtic).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:09",
+      "comments_type": "substitution",
+      "comments_text": "The substitution has been made. Gustav Isaksen (Lazio) has replaced Felipe Anderson.",
+      "comments_text_anonymized": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER].",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:17",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Luis Alberto is going off and Maurizio Sarri gives the last tactical orders to Matteo Guendouzi (Lazio).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:53",
+      "comments_type": "substitution",
+      "comments_text": "That will be all from Ciro Immobile who is being replaced by the fresh legs of Taty Castellanos (Lazio).",
+      "comments_text_anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] ([TEAM]).",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:19",
+      "comments_type": "substitution",
+      "comments_text": "Brendan Rodgers has decided to make a change. Paulo Bernardo (Celtic) replaces Reo Hatate.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:50",
+      "comments_type": "yellow card",
+      "comments_text": "Taty Castellanos (Lazio) violates the laws of the game and is shown a yellow card by the referee, but it could have been a straight red as well.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) violates the laws of the game and is shown a yellow card by the referee, but it could have been a straight red as well.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:36",
+      "comments_type": "corner",
+      "comments_text": "Matt O'Riley (Celtic) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:44",
+      "comments_type": "goal",
+      "comments_text": "Luis Palma (Celtic) converts a killer cross with a precise low shot that goes into the bottom left corner. What a brilliant finish!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) converts a killer cross with a precise low shot that goes into the bottom left corner. What a brilliant finish!",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:50",
+      "comments_type": "yellow card",
+      "comments_text": "Luis Palma (Celtic) is booked after bringing down an opponent. Donatas Rumsas had an easy-decision to make.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:23",
+      "comments_type": "substitution",
+      "comments_text": "Maurizio Sarri prepares a substitution. Manuel Lazzari is replaced by Adam Marusic (Lazio).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:55",
+      "comments_type": "substitution",
+      "comments_text": "The game has come to an end for Mattia Zaccagni. He has contributed as much as he could today. He will be replaced by the fresh legs of Pedro (Lazio).",
+      "comments_text_anonymized": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:55",
+      "comments_type": "substitution",
+      "comments_text": "A substitution has been made. Kyogo Furuhashi goes off and Hyeon-Gyu Oh (Celtic) comes on.",
+      "comments_text_anonymized": "A substitution has been made. [PLAYER] goes off and [PLAYER] ([TEAM]) comes on.",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "47:33",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Matias Vecino (Lazio) was quite harsh and Donatas Rumsas didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "50:00",
+      "comments_type": "goal",
+      "comments_text": "Goal! Matteo Guendouzi is the provider and Pedro (Lazio) is the executioner, dispatching the cross into the right of the goal from close in with his head. 1:2.",
+      "comments_text_anonymized": "Goal! [PLAYER] is the provider and [PLAYER] ([TEAM]) is the executioner, dispatching the cross into the right of the goal from close in with his head. 1:2.",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "51:00",
+      "comments_type": "yellow card",
+      "comments_text": "Having seen unsporting behavior, Donatas Rumsas shows a yellow card to one of the players sitting on the bench. And Luigi Sepe (Lazio) is the recipient.",
+      "comments_text_anonymized": "Having seen unsporting behavior, [REFEREE] shows a yellow card to one of the players sitting on the bench. And [PLAYER] ([TEAM]) is the recipient.",
+      "index": 25
+    }
+  ]
+}

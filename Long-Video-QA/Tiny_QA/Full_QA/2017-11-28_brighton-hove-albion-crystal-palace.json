@@ -1,0 +1,407 @@
+[
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Brighton",
+      "B. Opponent",
+      "C. Both teams have the same",
+      "D. No yellow cards yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. Jose Izquierdo",
+      "B. Lewis Dunk",
+      "C. No yellow cards yet",
+      "D. Unknown"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      4,
+      11
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Brighton",
+      "B. Opponent",
+      "C. Both teams have the same",
+      "D. No yellow cards"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      4,
+      11
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in yellow cards?",
+    "choices": [
+      "A. Jose Izquierdo",
+      "B. Lewis Dunk",
+      "C. Both A and B",
+      "D. No players"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      4,
+      11
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      11
+    ],
+    "current_event_index": 4,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Brighton",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      11
+    ],
+    "current_event_index": 4,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Jose Izquierdo",
+      "B. Lewis Dunk",
+      "C. Another player",
+      "D. No one"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      11
+    ],
+    "current_event_index": 4,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Brighton",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Pascal Gross",
+      "B. Anthony Knockaert",
+      "C. Yohan Cabaye",
+      "D. Dale Stephens"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 8",
+      "B. 10",
+      "C. 12",
+      "D. 14"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      13,
+      15,
+      17,
+      18,
+      19
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Brighton",
+      "C. Both teams had the same number",
+      "D. Neither team had any corners"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      13,
+      15,
+      17,
+      18,
+      19
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Pascal Gross",
+      "B. Anthony Knockaert",
+      "C. Yohan Cabaye",
+      "D. Dale Stephens"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      13,
+      15,
+      17,
+      18,
+      19
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. It's uncertain"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      13,
+      15,
+      17,
+      18,
+      19
+    ],
+    "current_event_index": 2,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Brighton",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      13,
+      15,
+      17,
+      18,
+      19
+    ],
+    "current_event_index": 2,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Pascal Gross",
+      "B. Anthony Knockaert",
+      "C. Yohan Cabaye",
+      "D. Dale Stephens"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      13,
+      15,
+      17,
+      18,
+      19
+    ],
+    "current_event_index": 2,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

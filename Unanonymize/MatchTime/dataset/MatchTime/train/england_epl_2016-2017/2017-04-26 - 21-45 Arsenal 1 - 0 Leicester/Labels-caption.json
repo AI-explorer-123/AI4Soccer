@@ -1,0 +1,1579 @@
+{
+    "timestamp": "1493232300",
+    "score": "1 - 0",
+    "round": "28",
+    "teams": [
+        "Arsenal",
+        "Leicester"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-3-4-2-1",
+            "players": [
+                {
+                    "hash": "pxq49QlK",
+                    "name": "Bellerin H.",
+                    "captain": "",
+                    "detail_link": "/player/bellerin-hector/pxq49QlK/",
+                    "short_name": "Bellerin",
+                    "shirt_number": "24",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Hector Bellerin"
+                },
+                {
+                    "hash": "fTjQ34vo",
+                    "name": "Cech P.",
+                    "captain": "",
+                    "detail_link": "/player/cech-petr/fTjQ34vo/",
+                    "short_name": "Cech",
+                    "shirt_number": "33",
+                    "country": "Czech Republic",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Petr Cech"
+                },
+                {
+                    "hash": "2qXd9yom",
+                    "name": "Coquelin F.",
+                    "captain": "",
+                    "detail_link": "/player/coquelin-francis/2qXd9yom/",
+                    "short_name": "Coquelin",
+                    "shirt_number": "34",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "75'",
+                            "description": "Ramsey A.",
+                            "linked_player_hash": "fBD08Fin"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Francis Coquelin"
+                },
+                {
+                    "hash": "tCldvc6L",
+                    "name": "Gabriel Paulista",
+                    "captain": "",
+                    "detail_link": "/player/gabriel-paulista/tCldvc6L/",
+                    "short_name": "Gabriel Paulista",
+                    "shirt_number": "5",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Gabriel Paulista"
+                },
+                {
+                    "hash": "tvEj3HIu",
+                    "name": "Gibbs K.",
+                    "captain": "",
+                    "detail_link": "/player/gibbs-kieran/tvEj3HIu/",
+                    "short_name": "Gibbs",
+                    "shirt_number": "3",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "68'",
+                            "description": "Welbeck D.",
+                            "linked_player_hash": "86PvpO11"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Kieran Gibbs"
+                },
+                {
+                    "hash": "0MoFTxk9",
+                    "name": "Koscielny L.",
+                    "captain": "(C)",
+                    "detail_link": "/player/koscielny-laurent/0MoFTxk9/",
+                    "short_name": "Koscielny",
+                    "shirt_number": "6",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Laurent Koscielny"
+                },
+                {
+                    "hash": "CdXPbmcp",
+                    "name": "Monreal N.",
+                    "captain": "",
+                    "detail_link": "/player/monreal-nacho/CdXPbmcp/",
+                    "short_name": "Monreal",
+                    "shirt_number": "18",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Nacho Monreal"
+                },
+                {
+                    "hash": "U30xq9EJ",
+                    "name": "Ozil M.",
+                    "captain": "",
+                    "detail_link": "/player/ozil-mesut/U30xq9EJ/",
+                    "short_name": "Ozil",
+                    "shirt_number": "11",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Mesut Ozil"
+                },
+                {
+                    "hash": "QgGt7V0d",
+                    "name": "Sanchez A.",
+                    "captain": "",
+                    "detail_link": "/player/sanchez-alexis/QgGt7V0d/",
+                    "short_name": "Sanchez",
+                    "shirt_number": "7",
+                    "country": "Chile",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "90+3' Sanchez A. (Unsportsmanlike conduct)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Alexis Sanchez"
+                },
+                {
+                    "hash": "2cpouZhq",
+                    "name": "Walcott T.",
+                    "captain": "",
+                    "detail_link": "/player/walcott-theo/2cpouZhq/",
+                    "short_name": "Walcott",
+                    "shirt_number": "14",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "75'",
+                            "description": "Giroud O.",
+                            "linked_player_hash": "AJPBp2as"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Theo Walcott"
+                },
+                {
+                    "hash": "QBHCDKff",
+                    "name": "Xhaka G.",
+                    "captain": "",
+                    "detail_link": "/player/xhaka-granit/QBHCDKff/",
+                    "short_name": "Xhaka",
+                    "shirt_number": "29",
+                    "country": "Switzerland",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "82' Xhaka G. (Holding)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Granit Xhaka"
+                },
+                {
+                    "hash": "MwhMibOo",
+                    "name": "Elneny M.",
+                    "captain": "",
+                    "detail_link": "/player/elneny-mohamed/MwhMibOo/",
+                    "short_name": "Elneny",
+                    "shirt_number": "35",
+                    "country": "Egypt",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Mohamed Elneny"
+                },
+                {
+                    "hash": "AJPBp2as",
+                    "name": "Giroud O.",
+                    "captain": "",
+                    "detail_link": "/player/giroud-olivier/AJPBp2as/",
+                    "short_name": "Giroud",
+                    "shirt_number": "12",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "75'",
+                            "description": "Walcott T.",
+                            "linked_player_hash": "2cpouZhq"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Olivier Giroud"
+                },
+                {
+                    "hash": "2L5gbR8M",
+                    "name": "Iwobi A.",
+                    "captain": "",
+                    "detail_link": "/player/iwobi-alex/2L5gbR8M/",
+                    "short_name": "Iwobi",
+                    "shirt_number": "17",
+                    "country": "Nigeria",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Alex Iwobi"
+                },
+                {
+                    "hash": "ziCcc5jM",
+                    "name": "Martinez E.",
+                    "captain": "",
+                    "detail_link": "/player/martinez-emiliano/ziCcc5jM/",
+                    "short_name": "Martinez",
+                    "shirt_number": "26",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Emiliano Martinez"
+                },
+                {
+                    "hash": "WzNLf7VR",
+                    "name": "Oxlade-Chamberlain A.",
+                    "captain": "",
+                    "detail_link": "/player/oxlade-chamberlain-alex/WzNLf7VR/",
+                    "short_name": "Oxlade-Chamberlain",
+                    "shirt_number": "15",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Alex Oxlade-Chamberlain"
+                },
+                {
+                    "hash": "fBD08Fin",
+                    "name": "Ramsey A.",
+                    "captain": "",
+                    "detail_link": "/player/ramsey-aaron/fBD08Fin/",
+                    "short_name": "Ramsey",
+                    "shirt_number": "8",
+                    "country": "Wales",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "75'",
+                            "description": "Coquelin F.",
+                            "linked_player_hash": "2qXd9yom"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Aaron Ramsey"
+                },
+                {
+                    "hash": "86PvpO11",
+                    "name": "Welbeck D.",
+                    "captain": "",
+                    "detail_link": "/player/welbeck-danny/86PvpO11/",
+                    "short_name": "Welbeck",
+                    "shirt_number": "23",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "68'",
+                            "description": "Gibbs K.",
+                            "linked_player_hash": "tvEj3HIu"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Danny Welbeck"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "8fxQ0wN8",
+                    "name": "Wenger A.",
+                    "captain": "",
+                    "detail_link": "/player/wenger-arsene/8fxQ0wN8/",
+                    "short_name": "Wenger A.",
+                    "shirt_number": "",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Arsene Wenger"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-4-2",
+            "players": [
+                {
+                    "hash": "fLz0nwDI",
+                    "name": "Albrighton M.",
+                    "captain": "",
+                    "detail_link": "/player/albrighton-marc/fLz0nwDI/",
+                    "short_name": "Albrighton",
+                    "shirt_number": "11",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Marc Albrighton"
+                },
+                {
+                    "hash": "YJDV1hD3",
+                    "name": "Benalouane Y.",
+                    "captain": "",
+                    "detail_link": "/player/benalouane-yohan/YJDV1hD3/",
+                    "short_name": "Benalouane",
+                    "shirt_number": "29",
+                    "country": "Tunisia",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "80' Benalouane Y. (Roughing)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "90'",
+                            "description": "Gray D.",
+                            "linked_player_hash": "AF2iqxB6"
+                        }
+                    ],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Yohan Benalouane"
+                },
+                {
+                    "hash": "0fL2Mgvj",
+                    "name": "Drinkwater D.",
+                    "captain": "",
+                    "detail_link": "/player/drinkwater-daniel/0fL2Mgvj/",
+                    "short_name": "Drinkwater",
+                    "shirt_number": "4",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Daniel Drinkwater"
+                },
+                {
+                    "hash": "C6EATqht",
+                    "name": "Fuchs Ch.",
+                    "captain": "",
+                    "detail_link": "/player/fuchs-christian/C6EATqht/",
+                    "short_name": "Fuchs",
+                    "shirt_number": "28",
+                    "country": "Austria",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "52' Fuchs Ch. (Roughing)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Christian Fuchs"
+                },
+                {
+                    "hash": "I90mNtHF",
+                    "name": "Huth R.",
+                    "captain": "",
+                    "detail_link": "/player/huth-robert/I90mNtHF/",
+                    "short_name": "Huth",
+                    "shirt_number": "6",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "4",
+                            "time": "86' Huth R.",
+                            "description": "Own goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "90+4' Huth R. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Robert Huth"
+                },
+                {
+                    "hash": "AkzHA2kB",
+                    "name": "Mahrez R.",
+                    "captain": "",
+                    "detail_link": "/player/mahrez-riyad/AkzHA2kB/",
+                    "short_name": "Mahrez",
+                    "shirt_number": "26",
+                    "country": "Algeria",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Riyad Mahrez"
+                },
+                {
+                    "hash": "E71XyFGi",
+                    "name": "Ndidi W.",
+                    "captain": "",
+                    "detail_link": "/player/ndidi-wilfred/E71XyFGi/",
+                    "short_name": "Ndidi",
+                    "shirt_number": "25",
+                    "country": "Nigeria",
+                    "facts": [],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Wilfred Ndidi"
+                },
+                {
+                    "hash": "WM5fllIl",
+                    "name": "Schmeichel K.",
+                    "captain": "",
+                    "detail_link": "/player/schmeichel-kasper/WM5fllIl/",
+                    "short_name": "Schmeichel",
+                    "shirt_number": "1",
+                    "country": "Denmark",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Kasper Schmeichel"
+                },
+                {
+                    "hash": "IHI1bGoM",
+                    "name": "Simpson D.",
+                    "captain": "",
+                    "detail_link": "/player/simpson-danny/IHI1bGoM/",
+                    "short_name": "Simpson",
+                    "shirt_number": "17",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "38' Simpson D. (Foul)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Danny Simpson"
+                },
+                {
+                    "hash": "KbQi9AJj",
+                    "name": "Ulloa L.",
+                    "captain": "",
+                    "detail_link": "/player/ulloa-leonardo/KbQi9AJj/",
+                    "short_name": "Ulloa",
+                    "shirt_number": "23",
+                    "country": "Argentina",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "70'",
+                            "description": "Okazaki S.",
+                            "linked_player_hash": "U5aDPZ44"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Leonardo Ulloa"
+                },
+                {
+                    "hash": "fP3OohgD",
+                    "name": "Vardy J.",
+                    "captain": "",
+                    "detail_link": "/player/vardy-jamie/fP3OohgD/",
+                    "short_name": "Vardy",
+                    "shirt_number": "9",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Jamie Vardy"
+                },
+                {
+                    "hash": "pAWZAt4F",
+                    "name": "Amartey D.",
+                    "captain": "",
+                    "detail_link": "/player/amartey-daniel/pAWZAt4F/",
+                    "short_name": "Amartey",
+                    "shirt_number": "13",
+                    "country": "Ghana",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Daniel Amartey"
+                },
+                {
+                    "hash": "txvuTaNB",
+                    "name": "Chilwell B.",
+                    "captain": "",
+                    "detail_link": "/player/chilwell-benjamin/txvuTaNB/",
+                    "short_name": "Chilwell",
+                    "shirt_number": "3",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ben Chilwell"
+                },
+                {
+                    "hash": "AF2iqxB6",
+                    "name": "Gray D.",
+                    "captain": "",
+                    "detail_link": "/player/gray-demarai/AF2iqxB6/",
+                    "short_name": "Gray",
+                    "shirt_number": "22",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "90'",
+                            "description": "Benalouane Y.",
+                            "linked_player_hash": "YJDV1hD3"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Demarai Gray"
+                },
+                {
+                    "hash": "K4XlvQFq",
+                    "name": "King A.",
+                    "captain": "",
+                    "detail_link": "/player/king-andy/K4XlvQFq/",
+                    "short_name": "King",
+                    "shirt_number": "10",
+                    "country": "Wales",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Andy King"
+                },
+                {
+                    "hash": "tnCLpeMQ",
+                    "name": "Musa A.",
+                    "captain": "",
+                    "detail_link": "/player/musa-ahmed/tnCLpeMQ/",
+                    "short_name": "Musa",
+                    "shirt_number": "7",
+                    "country": "Nigeria",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ahmed Musa"
+                },
+                {
+                    "hash": "U5aDPZ44",
+                    "name": "Okazaki S.",
+                    "captain": "",
+                    "detail_link": "/player/okazaki-shinji/U5aDPZ44/",
+                    "short_name": "Okazaki",
+                    "shirt_number": "20",
+                    "country": "Japan",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "70'",
+                            "description": "Ulloa L.",
+                            "linked_player_hash": "KbQi9AJj"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Shinji Okazaki"
+                },
+                {
+                    "hash": "pGbfkpdp",
+                    "name": "Zieler R.",
+                    "captain": "",
+                    "detail_link": "/player/zieler-ron-robert/pGbfkpdp/",
+                    "short_name": "Zieler",
+                    "shirt_number": "21",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ron-Robert Zieler"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "dtAQLnOF",
+                    "name": "Shakespeare C.",
+                    "captain": "",
+                    "detail_link": "/player/shakespeare-craig/dtAQLnOF/",
+                    "short_name": "Shakespeare C.",
+                    "shirt_number": "",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Craig Shakespeare"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Jones M."
+    ],
+    "venue": [
+        "Emirates Stadium (London)"
+    ],
+    "attendance": [
+        "59 829"
+    ],
+    "referee_matched": [
+        "Mike Jones"
+    ],
+    "referee_found": [
+        "Mike Jones"
+    ],
+    "coach_matched": [
+        "Arsene Wenger",
+        "Craig Shakespeare"
+    ],
+    "gameHomeTeam": "Arsenal",
+    "home": {
+        "name": "Arsenal",
+        "detail_link": "/team/arsenal/hA1Zm19f",
+        "hash": "hA1Zm19f",
+        "names": [
+            "Arsenal",
+            "Arsenal (Eng)",
+            "arsenal"
+        ]
+    },
+    "gameAwayTeam": "Leicester",
+    "away": {
+        "name": "Leicester",
+        "detail_link": "/team/leicester/KrrdAMyI",
+        "hash": "KrrdAMyI",
+        "names": [
+            "Leicester",
+            "leicester"
+        ]
+    },
+    "gameDate": "26/04/2017 - 20:45",
+    "annotations": [
+        {
+            "important": true,
+            "gameTime": "2 - 51:10",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time.",
+            "identified": "Nothing more will happen in this game as the referee blows for full time.",
+            "anonymized": "Nothing more will happen in this game as the referee blows for full time.",
+            "visibility": "shown",
+            "position": "3070000",
+            "event_aligned_gameTime": "2 - 50:40",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 50:00",
+            "label": "",
+            "description": "An opponent rises to his feet after being downed by Robert Huth (Leicester). Mike Jones saw the sliding tackle and blows for a foul. Arsenal will take a free kick near the side line.",
+            "identified": "An opponent rises to his feet after being downed by [PLAYER_I90mNtHF] ([TEAM_]). [REFEREE] saw the sliding tackle and blows for a foul. [TEAM_] will take a free kick near the side line.",
+            "anonymized": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [REFEREE] saw the sliding tackle and blows for a foul. [TEAM] will take a free kick near the side line.",
+            "visibility": "shown",
+            "position": "3000000",
+            "event_aligned_gameTime": "2 - 50:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 49:00",
+            "label": "y-card",
+            "description": "Robert Huth (Leicester) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision.",
+            "identified": "[PLAYER_I90mNtHF] ([TEAM_]) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision.",
+            "anonymized": "[PLAYER] ([TEAM]) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision.",
+            "visibility": "shown",
+            "position": "2940000",
+            "event_aligned_gameTime": "2 - 48:40",
+            "contrastive_aligned_gameTime": "2 - 49:01"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 48:23",
+            "label": "",
+            "description": "Riyad Mahrez (Leicester) puts a cross into the box from the free kick, but the defender gets there first.",
+            "identified": "[PLAYER_AkzHA2kB] ([TEAM_]) puts a cross into the box from the free kick, but the defender gets there first.",
+            "anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick, but the defender gets there first.",
+            "visibility": "shown",
+            "position": "2903000",
+            "event_aligned_gameTime": "2 - 48:10",
+            "contrastive_aligned_gameTime": "2 - 48:18"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 47:57",
+            "label": "y-card",
+            "description": "A yellow card is awarded to Alexis Sanchez (Arsenal).",
+            "identified": "A yellow card is awarded to [PLAYER_QgGt7V0d] ([TEAM_]).",
+            "anonymized": "A yellow card is awarded to [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2877000",
+            "event_aligned_gameTime": "2 - 47:30",
+            "contrastive_aligned_gameTime": "2 - 46:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 45:19",
+            "label": "",
+            "description": "Olivier Giroud (Arsenal) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "identified": "[PLAYER_AJPBp2as] ([TEAM_]) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "visibility": "shown",
+            "position": "2719000",
+            "event_aligned_gameTime": "2 - 45:10",
+            "contrastive_aligned_gameTime": "2 - 44:52"
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "We will have 4 min. of added time.",
+            "identified": "We will have 4 min. of added time.",
+            "anonymized": "We will have 4 min. of added time.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:20",
+            "contrastive_aligned_gameTime": "2 - 45:00"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 44:54",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Yohan Benalouane departs the field of play to be replaced by Demarai Gray (Leicester).",
+            "identified": "The referee stops play so that a substitution can be made and [PLAYER_YJDV1hD3] departs the field of play to be replaced by [PLAYER_AF2iqxB6] ([TEAM_]).",
+            "anonymized": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2694000",
+            "event_aligned_gameTime": "2 - 44:50",
+            "contrastive_aligned_gameTime": "2 - 44:25"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 43:45",
+            "label": "",
+            "description": "The assistant referee raises his flag and the referee blows his whistle. Mesut Ozil (Arsenal) puts the ball into the net, but he is flagged for offside.",
+            "identified": "The assistant referee raises his flag and the referee blows his whistle. [PLAYER_U30xq9EJ] ([TEAM_]) puts the ball into the net, but he is flagged for offside.",
+            "anonymized": "The assistant referee raises his flag and the referee blows his whistle. [PLAYER] ([TEAM]) puts the ball into the net, but he is flagged for offside.",
+            "visibility": "shown",
+            "position": "2625000",
+            "event_aligned_gameTime": "2 - 43:45",
+            "contrastive_aligned_gameTime": "2 - 43:30"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 41:00",
+            "label": "soccer-ball-own",
+            "description": "Robert Huth (Leicester) scores an unfortunate own goal after deflecting the ball into his own net!",
+            "identified": "[PLAYER_I90mNtHF] ([TEAM_]) scores an unfortunate own goal after deflecting the ball into his own net!",
+            "anonymized": "[PLAYER] ([TEAM]) scores an unfortunate own goal after deflecting the ball into his own net!",
+            "visibility": "shown",
+            "position": "2460000",
+            "event_aligned_gameTime": "2 - 41:00",
+            "contrastive_aligned_gameTime": "2 - 40:19"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 40:55",
+            "label": "",
+            "description": "Nacho Monreal (Arsenal) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender.",
+            "identified": "[PLAYER_CdXPbmcp] ([TEAM_]) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender.",
+            "visibility": "shown",
+            "position": "2455000",
+            "event_aligned_gameTime": "2 - 40:55",
+            "contrastive_aligned_gameTime": "2 - 40:43"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 39:14",
+            "label": "",
+            "description": "The foul by Olivier Giroud (Arsenal) was seen by Mike Jones who didn't hesitate to blow the whistle. Leicester are awarded the free kick.",
+            "identified": "The foul by [PLAYER_AJPBp2as] ([TEAM_]) was seen by [REFEREE] who didn't hesitate to blow the whistle. [TEAM_] are awarded the free kick.",
+            "anonymized": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle. [TEAM] are awarded the free kick.",
+            "visibility": "shown",
+            "position": "2354000",
+            "event_aligned_gameTime": "2 - 38:50",
+            "contrastive_aligned_gameTime": "2 - 38:12"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 39:05",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+            "anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+            "visibility": "shown",
+            "position": "2345000",
+            "event_aligned_gameTime": "2 - 38:40",
+            "contrastive_aligned_gameTime": "2 - 39:15"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 38:42",
+            "label": "",
+            "description": "Mesut Ozil (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag and Arsenal will take a corner.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag and [TEAM_] will take a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag and [TEAM] will take a corner.",
+            "visibility": "shown",
+            "position": "2322000",
+            "event_aligned_gameTime": "2 - 38:40",
+            "contrastive_aligned_gameTime": "2 - 38:29"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 36:34",
+            "label": "y-card",
+            "description": "The foul by Granit Xhaka (Arsenal) is worthy of a card and a yellow is duly shown by Mike Jones.",
+            "identified": "The foul by [PLAYER_QBHCDKff] ([TEAM_]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+            "anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+            "visibility": "shown",
+            "position": "2194000",
+            "event_aligned_gameTime": "2 - 36:20",
+            "contrastive_aligned_gameTime": "2 - 35:52"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 34:46",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Yohan Benalouane (Leicester). Mike Jones doesn't hesitate at all to make this decision.",
+            "identified": "A yellow card for a tackle by [PLAYER_YJDV1hD3] ([TEAM_]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "visibility": "shown",
+            "position": "2086000",
+            "event_aligned_gameTime": "2 - 34:40",
+            "contrastive_aligned_gameTime": "2 - 34:51"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 34:26",
+            "label": "",
+            "description": "Laurent Koscielny (Arsenal) is able to continue to play.",
+            "identified": "[PLAYER_0MoFTxk9] ([TEAM_]) is able to continue to play.",
+            "anonymized": "[PLAYER] ([TEAM]) is able to continue to play.",
+            "visibility": "shown",
+            "position": "2066000",
+            "event_aligned_gameTime": "2 - 33:50",
+            "contrastive_aligned_gameTime": "2 - 33:48"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:22",
+            "label": "injury",
+            "description": "Laurent Koscielny (Arsenal) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "identified": "[PLAYER_0MoFTxk9] ([TEAM_]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "visibility": "shown",
+            "position": "2002000",
+            "event_aligned_gameTime": "2 - 32:50",
+            "contrastive_aligned_gameTime": "2 - 32:10"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 32:43",
+            "label": "",
+            "description": "Shinji Okazaki (Leicester) breaks into the penalty area but his shot is blocked.",
+            "identified": "[PLAYER_U5aDPZ44] ([TEAM_]) breaks into the penalty area but his shot is blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) breaks into the penalty area but his shot is blocked.",
+            "visibility": "shown",
+            "position": "1963000",
+            "event_aligned_gameTime": "2 - 32:20",
+            "contrastive_aligned_gameTime": "2 - 32:30"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:11",
+            "label": "",
+            "description": "This was a piece of cake for Petr Cech. Jamie Vardy (Leicester) found himself some space after latching on to a pass, but his strike only went low to the middle of the goal and into the gloves of the prepared keeper.",
+            "identified": "This was a piece of cake for [PLAYER_fTjQ34vo]. [PLAYER_fP3OohgD] ([TEAM_]) found himself some space after latching on to a pass, but his strike only went low to the middle of the goal and into the gloves of the prepared keeper.",
+            "anonymized": "This was a piece of cake for [PLAYER]. [PLAYER] ([TEAM]) found himself some space after latching on to a pass, but his strike only went low to the middle of the goal and into the gloves of the prepared keeper.",
+            "visibility": "shown",
+            "position": "1811000",
+            "event_aligned_gameTime": "2 - 30:10",
+            "contrastive_aligned_gameTime": "2 - 30:01"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 29:38",
+            "label": "substitution",
+            "description": "Arsene Wenger has decided to make a change. Olivier Giroud (Arsenal) replaces Theo Walcott.",
+            "identified": "[COACH_8fxQ0wN8] has decided to make a change. [PLAYER_AJPBp2as] ([TEAM_]) replaces [PLAYER_2cpouZhq].",
+            "anonymized": "[COACH] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+            "visibility": "shown",
+            "position": "1778000",
+            "event_aligned_gameTime": "2 - 29:10",
+            "contrastive_aligned_gameTime": "2 - 29:17"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 29:22",
+            "label": "substitution",
+            "description": "Substitution. Aaron Ramsey (Arsenal) on for Francis Coquelin.",
+            "identified": "Substitution. [PLAYER_fBD08Fin] ([TEAM_]) on for [PLAYER_2qXd9yom].",
+            "anonymized": "Substitution. [PLAYER] ([TEAM]) on for [PLAYER].",
+            "visibility": "shown",
+            "position": "1762000",
+            "event_aligned_gameTime": "2 - 29:00",
+            "contrastive_aligned_gameTime": "2 - 29:26"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:41",
+            "label": "attendance",
+            "description": "The attendance for today's match is 59829.",
+            "identified": "The attendance for today's match is 59829.",
+            "anonymized": "The attendance for today's match is 59829.",
+            "visibility": "shown",
+            "position": "1661000",
+            "event_aligned_gameTime": "2 - 27:40",
+            "contrastive_aligned_gameTime": "2 - 28:18"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 26:33",
+            "label": "",
+            "description": "Granit Xhaka (Arsenal) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "identified": "[PLAYER_QBHCDKff] ([TEAM_]) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "visibility": "shown",
+            "position": "1593000",
+            "event_aligned_gameTime": "2 - 26:40",
+            "contrastive_aligned_gameTime": "2 - 26:05"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 26:15",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "anonymized": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "visibility": "shown",
+            "position": "1575000",
+            "event_aligned_gameTime": "2 - 25:50",
+            "contrastive_aligned_gameTime": "2 - 26:04"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:52",
+            "label": "",
+            "description": "Danny Welbeck (Arsenal) produces a poor pass. He attempts to get the ball into the box but it's hacked away. It will be a corner kick for Arsenal.",
+            "identified": "[PLAYER_86PvpO11] ([TEAM_]) produces a poor pass. He attempts to get the ball into the box but it's hacked away. It will be a corner kick for [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) produces a poor pass. He attempts to get the ball into the box but it's hacked away. It will be a corner kick for [TEAM].",
+            "visibility": "shown",
+            "position": "1552000",
+            "event_aligned_gameTime": "2 - 25:10",
+            "contrastive_aligned_gameTime": "2 - 24:41"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 24:18",
+            "label": "substitution",
+            "description": "Here is a change. Leonardo Ulloa is going off and Craig Shakespeare gives the last tactical orders to Shinji Okazaki (Leicester).",
+            "identified": "Here is a change. [PLAYER_KbQi9AJj] is going off and [COACH_dtAQLnOF] gives the last tactical orders to [PLAYER_U5aDPZ44] ([TEAM_]).",
+            "anonymized": "Here is a change. [PLAYER] is going off and [COACH] gives the last tactical orders to [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1458000",
+            "event_aligned_gameTime": "2 - 23:40",
+            "contrastive_aligned_gameTime": "2 - 23:19"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 22:52",
+            "label": "substitution",
+            "description": "A substitution has been made. Kieran Gibbs goes off and Danny Welbeck (Arsenal) comes on.",
+            "identified": "A substitution has been made. [PLAYER_tvEj3HIu] goes off and [PLAYER_86PvpO11] ([TEAM_]) comes on.",
+            "anonymized": "A substitution has been made. [PLAYER] goes off and [PLAYER] ([TEAM]) comes on.",
+            "visibility": "shown",
+            "position": "1372000",
+            "event_aligned_gameTime": "2 - 22:20",
+            "contrastive_aligned_gameTime": "2 - 22:45"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:34",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) is adjudged to have been offside when making his run.",
+            "identified": "[PLAYER_QgGt7V0d] ([TEAM_]) is adjudged to have been offside when making his run.",
+            "anonymized": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run.",
+            "visibility": "shown",
+            "position": "1294000",
+            "event_aligned_gameTime": "2 - 21:30",
+            "contrastive_aligned_gameTime": "2 - 22:12"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:08",
+            "label": "",
+            "description": "Jamie Vardy (Leicester) is offside and the linesman raises his flag.",
+            "identified": "[PLAYER_fP3OohgD] ([TEAM_]) is offside and the linesman raises his flag.",
+            "anonymized": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag.",
+            "visibility": "shown",
+            "position": "1268000",
+            "event_aligned_gameTime": "2 - 21:00",
+            "contrastive_aligned_gameTime": "2 - 21:34"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:39",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. Kasper Schmeichel has a clear sight of it and makes a comfortable save.",
+            "identified": "[PLAYER_QgGt7V0d] ([TEAM_]) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. [PLAYER_WM5fllIl] has a clear sight of it and makes a comfortable save.",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. [PLAYER] has a clear sight of it and makes a comfortable save.",
+            "visibility": "shown",
+            "position": "1239000",
+            "event_aligned_gameTime": "2 - 20:30",
+            "contrastive_aligned_gameTime": "2 - 20:19"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:25",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "visibility": "shown",
+            "position": "1225000",
+            "event_aligned_gameTime": "2 - 20:10",
+            "contrastive_aligned_gameTime": "2 - 20:01"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:11",
+            "label": "",
+            "description": "Hector Bellerin (Arsenal) looks to break free, but an opposing player clears the ball away. Arsenal will take a corner kick.",
+            "identified": "[PLAYER_pxq49QlK] ([TEAM_]) looks to break free, but an opposing player clears the ball away. [TEAM_] will take a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. [TEAM] will take a corner kick.",
+            "visibility": "shown",
+            "position": "1211000",
+            "event_aligned_gameTime": "2 - 19:50",
+            "contrastive_aligned_gameTime": "2 - 20:27"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:26",
+            "label": "",
+            "description": "Laurent Koscielny (Arsenal) attempts to convert a cross into a goal, but his promising header from near the penalty spot low towards the middle of the net is denied by Kasper Schmeichel. This effort didn't really trouble him.",
+            "identified": "[PLAYER_0MoFTxk9] ([TEAM_]) attempts to convert a cross into a goal, but his promising header from near the penalty spot low towards the middle of the net is denied by [PLAYER_WM5fllIl]. This effort didn't really trouble him.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to convert a cross into a goal, but his promising header from near the penalty spot low towards the middle of the net is denied by [PLAYER]. This effort didn't really trouble him.",
+            "visibility": "shown",
+            "position": "1166000",
+            "event_aligned_gameTime": "2 - 19:30",
+            "contrastive_aligned_gameTime": "2 - 19:59"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:17",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) takes the ball to the corner flag and sends it into the box.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) takes the ball to the corner flag and sends it into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the ball to the corner flag and sends it into the box.",
+            "visibility": "shown",
+            "position": "1157000",
+            "event_aligned_gameTime": "2 - 19:10",
+            "contrastive_aligned_gameTime": "2 - 18:46"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:59",
+            "label": "",
+            "description": "Mesut Ozil (Arsenal) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. Arsenal have been awarded a corner kick.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. [TEAM_] have been awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "1139000",
+            "event_aligned_gameTime": "2 - 18:40",
+            "contrastive_aligned_gameTime": "2 - 18:02"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 16:25",
+            "label": "corner",
+            "description": "A dangerous looking corner kick from Mesut Ozil (Arsenal) is cleared to safety by the defence.",
+            "identified": "A dangerous looking corner kick from [PLAYER_U30xq9EJ] ([TEAM_]) is cleared to safety by the defence.",
+            "anonymized": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence.",
+            "visibility": "shown",
+            "position": "985000",
+            "event_aligned_gameTime": "2 - 16:20",
+            "contrastive_aligned_gameTime": "2 - 16:20"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 16:10",
+            "label": "",
+            "description": "A cross into the box from Theo Walcott (Arsenal) is cleared. Arsenal will have a chance to score from a corner kick.",
+            "identified": "A cross into the box from [PLAYER_2cpouZhq] ([TEAM_]) is cleared. [TEAM_] will have a chance to score from a corner kick.",
+            "anonymized": "A cross into the box from [PLAYER] ([TEAM]) is cleared. [TEAM] will have a chance to score from a corner kick.",
+            "visibility": "shown",
+            "position": "970000",
+            "event_aligned_gameTime": "2 - 16:10",
+            "contrastive_aligned_gameTime": "2 - 16:20"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:03",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Leonardo Ulloa (Leicester) heads on.",
+            "identified": "The linesman raises his flag for offside before [PLAYER_KbQi9AJj] ([TEAM_]) heads on.",
+            "anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on.",
+            "visibility": "shown",
+            "position": "903000",
+            "event_aligned_gameTime": "2 - 15:00",
+            "contrastive_aligned_gameTime": "2 - 15:37"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 13:35",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "visibility": "shown",
+            "position": "815000",
+            "event_aligned_gameTime": "2 - 12:40",
+            "contrastive_aligned_gameTime": "2 - 13:22"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 13:10",
+            "label": "",
+            "description": "Granit Xhaka (Arsenal) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the right post. Kasper Schmeichel has a clear sight of it and makes a comfortable save. The linesman makes the right call and Arsenal will have a corner.",
+            "identified": "[PLAYER_QBHCDKff] ([TEAM_]) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the right post. [PLAYER_WM5fllIl] has a clear sight of it and makes a comfortable save. The linesman makes the right call and [TEAM_] will have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the right post. [PLAYER] has a clear sight of it and makes a comfortable save. The linesman makes the right call and [TEAM] will have a corner.",
+            "visibility": "shown",
+            "position": "790000",
+            "event_aligned_gameTime": "2 - 13:10",
+            "contrastive_aligned_gameTime": "2 - 13:15"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:39",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "visibility": "shown",
+            "position": "639000",
+            "event_aligned_gameTime": "2 - 10:20",
+            "contrastive_aligned_gameTime": "2 - 10:22"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:51",
+            "label": "",
+            "description": "Wilfred Ndidi (Leicester) creates himself some space around the penalty spot and connects with the free kick. His header would probably have ended up low inside the middle of the goal, but Petr Cech pulls off a comfortable save to thwart him.",
+            "identified": "[PLAYER_E71XyFGi] ([TEAM_]) creates himself some space around the penalty spot and connects with the free kick. His header would probably have ended up low inside the middle of the goal, but [PLAYER_fTjQ34vo] pulls off a comfortable save to thwart him.",
+            "anonymized": "[PLAYER] ([TEAM]) creates himself some space around the penalty spot and connects with the free kick. His header would probably have ended up low inside the middle of the goal, but [PLAYER] pulls off a comfortable save to thwart him.",
+            "visibility": "shown",
+            "position": "531000",
+            "event_aligned_gameTime": "2 - 07:50",
+            "contrastive_aligned_gameTime": "2 - 07:17"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 06:30",
+            "label": "y-card",
+            "description": "Christian Fuchs (Leicester) sees a yellow card from Mike Jones after he sent one of the opposing players to the ground.",
+            "identified": "[PLAYER_C6EATqht] ([TEAM_]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground.",
+            "anonymized": "[PLAYER] ([TEAM]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground.",
+            "visibility": "shown",
+            "position": "390000",
+            "event_aligned_gameTime": "2 - 06:20",
+            "contrastive_aligned_gameTime": "2 - 06:36"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:46",
+            "label": "",
+            "description": "Mike Jones blows his whistle and it's Theo Walcott (Arsenal) who is penalised for an offensive foul. Good decision by the referee. Leicester get a free kick.",
+            "identified": "[REFEREE] blows his whistle and it's [PLAYER_2cpouZhq] ([TEAM_]) who is penalised for an offensive foul. Good decision by the referee. [TEAM_] get a free kick.",
+            "anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee. [TEAM] get a free kick.",
+            "visibility": "shown",
+            "position": "226000",
+            "event_aligned_gameTime": "2 - 03:40",
+            "contrastive_aligned_gameTime": "2 - 03:15"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 01:01",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "visibility": "shown",
+            "position": "61000",
+            "event_aligned_gameTime": "2 - 00:40",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:44",
+            "label": "",
+            "description": "Hector Bellerin (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball is out of play and the linesman points at the corner flag. Corner to Arsenal.",
+            "identified": "[PLAYER_pxq49QlK] ([TEAM_]) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+            "visibility": "shown",
+            "position": "44000",
+            "event_aligned_gameTime": "2 - 00:40",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Mike Jones blows his whistle and the second half starts.",
+            "identified": "[REFEREE] blows his whistle and the second half starts.",
+            "anonymized": "[REFEREE] blows his whistle and the second half starts.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:20",
+            "contrastive_aligned_gameTime": "2 - 00:01"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 46:07",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "identified": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "anonymized": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "visibility": "shown",
+            "position": "2767000",
+            "event_aligned_gameTime": "1 - 46:07",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 45:15",
+            "label": "",
+            "description": "OFF THE CROSSBAR! Alexis Sanchez (Arsenal) runs towards the goal to give his teammate support. He receives a fantastic pass and shoots from the edge of the box, but it crashes against the crossbar. It could have been a brilliant goal, unlucky.",
+            "identified": "OFF THE CROSSBAR! [PLAYER_QgGt7V0d] ([TEAM_]) runs towards the goal to give his teammate support. He receives a fantastic pass and shoots from the edge of the box, but it crashes against the crossbar. It could have been a brilliant goal, unlucky.",
+            "anonymized": "OFF THE CROSSBAR! [PLAYER] ([TEAM]) runs towards the goal to give his teammate support. He receives a fantastic pass and shoots from the edge of the box, but it crashes against the crossbar. It could have been a brilliant goal, unlucky.",
+            "visibility": "shown",
+            "position": "2715000",
+            "event_aligned_gameTime": "1 - 44:30",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:00",
+            "label": "time",
+            "description": "1 min. of stoppage-time to be played.",
+            "identified": "1 min. of stoppage-time to be played.",
+            "anonymized": "1 min. of stoppage-time to be played.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "2 - 00:20",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:07",
+            "label": "",
+            "description": "Flag up against Nacho Monreal (Arsenal). He had space to move into behind the defence, but he went too soon.",
+            "identified": "Flag up against [PLAYER_CdXPbmcp] ([TEAM_]). He had space to move into behind the defence, but he went too soon.",
+            "anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon.",
+            "visibility": "shown",
+            "position": "2527000",
+            "event_aligned_gameTime": "1 - 42:00",
+            "contrastive_aligned_gameTime": "1 - 42:05"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:31",
+            "label": "",
+            "description": "Theo Walcott (Arsenal) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "identified": "[PLAYER_2cpouZhq] ([TEAM_]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "anonymized": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "visibility": "shown",
+            "position": "2491000",
+            "event_aligned_gameTime": "1 - 41:30",
+            "contrastive_aligned_gameTime": "1 - 41:06"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 39:05",
+            "label": "",
+            "description": "Riyad Mahrez (Leicester) and his stunning dribble! He zig-zags through the defence and gets in front of the keeper. He faints to shoot and then suddenly strikes goalwards, but his effort misses the target by a whisker. Very unlucky for Riyad Mahrez (Leicester). This could have been a legendary goal.",
+            "identified": "[PLAYER_AkzHA2kB] ([TEAM_]) and his stunning dribble! He zig-zags through the defence and gets in front of the keeper. He faints to shoot and then suddenly strikes goalwards, but his effort misses the target by a whisker. Very unlucky for [PLAYER_AkzHA2kB] ([TEAM_]). This could have been a legendary goal.",
+            "anonymized": "[PLAYER] ([TEAM]) and his stunning dribble! He zig-zags through the defence and gets in front of the keeper. He faints to shoot and then suddenly strikes goalwards, but his effort misses the target by a whisker. Very unlucky for [PLAYER] ([TEAM]). This could have been a legendary goal.",
+            "visibility": "shown",
+            "position": "2345000",
+            "event_aligned_gameTime": "1 - 39:10",
+            "contrastive_aligned_gameTime": "1 - 39:09"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 37:30",
+            "label": "y-card",
+            "description": "Mike Jones shows the yellow card to Danny Simpson (Leicester) for a heavy challenge.",
+            "identified": "[REFEREE] shows the yellow card to [PLAYER_IHI1bGoM] ([TEAM_]) for a heavy challenge.",
+            "anonymized": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge.",
+            "visibility": "shown",
+            "position": "2250000",
+            "event_aligned_gameTime": "1 - 37:10",
+            "contrastive_aligned_gameTime": "1 - 36:34"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:44",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) is caught offside!",
+            "identified": "[PLAYER_QgGt7V0d] ([TEAM_]) is caught offside!",
+            "anonymized": "[PLAYER] ([TEAM]) is caught offside!",
+            "visibility": "shown",
+            "position": "2144000",
+            "event_aligned_gameTime": "1 - 35:40",
+            "contrastive_aligned_gameTime": "1 - 35:29"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:28",
+            "label": "",
+            "description": "Mesut Ozil (Arsenal) whips a long ball in from the free kick which is intercepted by Kasper Schmeichel.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) whips a long ball in from the free kick which is intercepted by [PLAYER_WM5fllIl].",
+            "anonymized": "[PLAYER] ([TEAM]) whips a long ball in from the free kick which is intercepted by [PLAYER].",
+            "visibility": "shown",
+            "position": "2068000",
+            "event_aligned_gameTime": "1 - 33:50",
+            "contrastive_aligned_gameTime": "1 - 34:20"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:03",
+            "label": "",
+            "description": "Daniel Drinkwater (Leicester) pulls the jersey of one of the opposition players and Mike Jones blows his whistle for a foul. A free kick has been awarded to Arsenal.",
+            "identified": "[PLAYER_0fL2Mgvj] ([TEAM_]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. A free kick has been awarded to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. A free kick has been awarded to [TEAM].",
+            "visibility": "shown",
+            "position": "2043000",
+            "event_aligned_gameTime": "1 - 33:50",
+            "contrastive_aligned_gameTime": "1 - 33:27"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 31:17",
+            "label": "",
+            "description": "The linesman signals that Francis Coquelin (Arsenal) is offside and the referee confirms the decision.",
+            "identified": "The linesman signals that [PLAYER_2qXd9yom] ([TEAM_]) is offside and the referee confirms the decision.",
+            "anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision.",
+            "visibility": "shown",
+            "position": "1877000",
+            "event_aligned_gameTime": "1 - 31:20",
+            "contrastive_aligned_gameTime": "1 - 30:37"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:59",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) takes the corner but it's cleared.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) takes the corner but it's cleared.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared.",
+            "visibility": "shown",
+            "position": "1859000",
+            "event_aligned_gameTime": "1 - 30:50",
+            "contrastive_aligned_gameTime": "1 - 30:27"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:35",
+            "label": "",
+            "description": "Hector Bellerin (Arsenal) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. The ball goes out of play. Arsenal are awarded a corner kick.",
+            "identified": "[PLAYER_pxq49QlK] ([TEAM_]) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. The ball goes out of play. [TEAM_] are awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "1835000",
+            "event_aligned_gameTime": "1 - 30:30",
+            "contrastive_aligned_gameTime": "1 - 29:57"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:05",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) takes the corner, but it's intercepted by the defender.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) takes the corner, but it's intercepted by the defender.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner, but it's intercepted by the defender.",
+            "visibility": "shown",
+            "position": "1685000",
+            "event_aligned_gameTime": "1 - 28:05",
+            "contrastive_aligned_gameTime": "1 - 28:03"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:53",
+            "label": "",
+            "description": "Hector Bellerin (Arsenal) tries to pass the ball into the penalty area but it's blocked. The referee and his assistant both point at the corner flag. Arsenal will have an opportunity to threaten the opposition's goal.",
+            "identified": "[PLAYER_pxq49QlK] ([TEAM_]) tries to pass the ball into the penalty area but it's blocked. The referee and his assistant both point at the corner flag. [TEAM_] will have an opportunity to threaten the opposition's goal.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to pass the ball into the penalty area but it's blocked. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "visibility": "shown",
+            "position": "1673000",
+            "event_aligned_gameTime": "1 - 27:50",
+            "contrastive_aligned_gameTime": "1 - 27:45"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:27",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "identified": "[PLAYER_U30xq9EJ] ([TEAM_]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "visibility": "shown",
+            "position": "1647000",
+            "event_aligned_gameTime": "1 - 27:20",
+            "contrastive_aligned_gameTime": "1 - 27:52"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 27:05",
+            "label": "",
+            "description": "Theo Walcott (Arsenal) unleashes a promising shot towards the right side of the goal after his wonderful solo run, but Kasper Schmeichel thwarts the effort with a fabulous save. The score remains the same. Corner kick. Arsenal will have an opportunity.",
+            "identified": "[PLAYER_2cpouZhq] ([TEAM_]) unleashes a promising shot towards the right side of the goal after his wonderful solo run, but [PLAYER_WM5fllIl] thwarts the effort with a fabulous save. The score remains the same. Corner kick. [TEAM_] will have an opportunity.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a promising shot towards the right side of the goal after his wonderful solo run, but [PLAYER] thwarts the effort with a fabulous save. The score remains the same. Corner kick. [TEAM] will have an opportunity.",
+            "visibility": "shown",
+            "position": "1625000",
+            "event_aligned_gameTime": "1 - 26:50",
+            "contrastive_aligned_gameTime": "1 - 27:31"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:00",
+            "label": "",
+            "description": "Gabriel (Arsenal) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "identified": "[PLAYER_tCldvc6L] ([TEAM_]) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "anonymized": "[PLAYER] ([TEAM]) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "visibility": "shown",
+            "position": "1620000",
+            "event_aligned_gameTime": "1 - 27:00",
+            "contrastive_aligned_gameTime": "1 - 26:56"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 25:24",
+            "label": "injury",
+            "description": "Gabriel (Arsenal) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "identified": "[PLAYER_tCldvc6L] ([TEAM_]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "visibility": "shown",
+            "position": "1524000",
+            "event_aligned_gameTime": "1 - 25:20",
+            "contrastive_aligned_gameTime": "1 - 25:17"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:16",
+            "label": "",
+            "description": "Kieran Gibbs (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "identified": "[PLAYER_tvEj3HIu] ([TEAM_]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "visibility": "shown",
+            "position": "1456000",
+            "event_aligned_gameTime": "1 - 24:10",
+            "contrastive_aligned_gameTime": "1 - 23:58"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:24",
+            "label": "corner",
+            "description": "The corner from Riyad Mahrez (Leicester) is intercepted by the defence.",
+            "identified": "The corner from [PLAYER_AkzHA2kB] ([TEAM_]) is intercepted by the defence.",
+            "anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by the defence.",
+            "visibility": "shown",
+            "position": "1344000",
+            "event_aligned_gameTime": "1 - 22:00",
+            "contrastive_aligned_gameTime": "1 - 22:20"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 21:56",
+            "label": "",
+            "description": "Well-positioned Riyad Mahrez (Leicester) was first to the rebound and fired in a shot towards the top of the net, but Petr Cech reacted superbly to keep the ball out. The fans could not believe their eyes. It was a miraculous stop! Leicester force a corner. Their opponents will face another attacking threat.",
+            "identified": "Well-positioned [PLAYER_AkzHA2kB] ([TEAM_]) was first to the rebound and fired in a shot towards the top of the net, but [PLAYER_fTjQ34vo] reacted superbly to keep the ball out. The fans could not believe their eyes. It was a miraculous stop! [TEAM_] force a corner. Their opponents will face another attacking threat.",
+            "anonymized": "Well-positioned [PLAYER] ([TEAM]) was first to the rebound and fired in a shot towards the top of the net, but [PLAYER] reacted superbly to keep the ball out. The fans could not believe their eyes. It was a miraculous stop! [TEAM] force a corner. Their opponents will face another attacking threat.",
+            "visibility": "shown",
+            "position": "1316000",
+            "event_aligned_gameTime": "1 - 21:50",
+            "contrastive_aligned_gameTime": "1 - 21:46"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 20:48",
+            "label": "",
+            "description": "The Arsenal players are exchanging some short passes and control the game at the moment, but one of the defending players steps in and intercepts the ball. The ball is out of play. Leicester will take a throw-in.",
+            "identified": "The [TEAM_] players are exchanging some short passes and control the game at the moment, but one of the defending players steps in and intercepts the ball. The ball is out of play. [TEAM_] will take a throw-in.",
+            "anonymized": "The [TEAM] players are exchanging some short passes and control the game at the moment, but one of the defending players steps in and intercepts the ball. The ball is out of play. [TEAM] will take a throw-in.",
+            "visibility": "shown",
+            "position": "1248000",
+            "event_aligned_gameTime": "1 - 20:40",
+            "contrastive_aligned_gameTime": "1 - 20:41"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:12",
+            "label": "",
+            "description": "Granit Xhaka (Arsenal) attempts to put the ball in from a rebound with his long-range shot, but it isn't accurate enough, and the ball goes high over the crossbar.",
+            "identified": "[PLAYER_QBHCDKff] ([TEAM_]) attempts to put the ball in from a rebound with his long-range shot, but it isn't accurate enough, and the ball goes high over the crossbar.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to put the ball in from a rebound with his long-range shot, but it isn't accurate enough, and the ball goes high over the crossbar.",
+            "visibility": "shown",
+            "position": "1092000",
+            "event_aligned_gameTime": "1 - 17:50",
+            "contrastive_aligned_gameTime": "1 - 17:16"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 16:27",
+            "label": "corner",
+            "description": "Theo Walcott (Arsenal) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "identified": "[PLAYER_2cpouZhq] ([TEAM_]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "visibility": "shown",
+            "position": "987000",
+            "event_aligned_gameTime": "1 - 16:20",
+            "contrastive_aligned_gameTime": "1 - 16:22"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:51",
+            "label": "",
+            "description": "Kasper Schmeichel blocks a long-range effort from Francis Coquelin (Arsenal) towards the bottom left corner. Arsenal have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "identified": "[PLAYER_WM5fllIl] blocks a long-range effort from [PLAYER_2qXd9yom] ([TEAM_]) towards the bottom left corner. [TEAM_] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "anonymized": "[PLAYER] blocks a long-range effort from [PLAYER] ([TEAM]) towards the bottom left corner. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "visibility": "shown",
+            "position": "951000",
+            "event_aligned_gameTime": "1 - 15:30",
+            "contrastive_aligned_gameTime": "1 - 15:24"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:58",
+            "label": "",
+            "description": "Hector Bellerin (Arsenal) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee and the linesman both signal a throw-in for Arsenal.",
+            "identified": "[PLAYER_pxq49QlK] ([TEAM_]) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee and the linesman both signal a throw-in for [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee and the linesman both signal a throw-in for [TEAM].",
+            "visibility": "shown",
+            "position": "658000",
+            "event_aligned_gameTime": "1 - 10:30",
+            "contrastive_aligned_gameTime": "1 - 10:47"
+        }
+    ]
+}

@@ -1,0 +1,900 @@
+{
+  "match_info": {
+    "timestamp": "2022-10-12 00:45:00",
+    "score": "2 - 0",
+    "home_team": "Maccabi Haifa",
+    "away_team": "Juventus",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 4 - 2",
+    "venue": "Sammy Ofer Stadium (Haifa)",
+    "capacity": "30 942",
+    "attendance": "30 074"
+  },
+  "referee_data": {
+    "short_name_country": "Lahoz A. (Esp)",
+    "first_name": "Lahoz",
+    "abbr_last_name": "A",
+    "country": "Esp",
+    "detected_name": "Antonio Mateu Lahoz"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Allegri M.",
+        "players_number": "",
+        "Full Name": "Massimiliano Allegri",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "56,  (11.08.1967)",
+        "Market Value": "",
+        "unicode": "lUkw2EZn"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Ake M.",
+        "players_number": "",
+        "Full Name": "Marley Ake",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (05.01.2001)",
+        "Market Value": "€1.5m",
+        "unicode": "MmF52GHt"
+      },
+      {
+        "players_name": "Chiesa F.",
+        "players_number": "",
+        "Full Name": "Federico Chiesa",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (25.10.1997)",
+        "Market Value": "€50.3m",
+        "unicode": "jHMlMUC4"
+      },
+      {
+        "players_name": "De Sciglio M.",
+        "players_number": "",
+        "Full Name": "Mattia De Sciglio",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (20.10.1992)",
+        "Market Value": "€1.9m",
+        "unicode": "Ua5srQK6"
+      },
+      {
+        "players_name": "Kaio Jorge",
+        "players_number": "",
+        "Full Name": "Kaio Jorge",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (24.01.2002)",
+        "Market Value": "€2.7m",
+        "unicode": "jJeTHCLs"
+      },
+      {
+        "players_name": "Peeters D.",
+        "players_number": "",
+        "Full Name": "Daouda Peeters",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (26.01.1999)",
+        "Market Value": "€421k",
+        "unicode": "fBhZlRef"
+      },
+      {
+        "players_name": "Pogba P.",
+        "players_number": "",
+        "Full Name": "Paul Pogba",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (15.03.1993)",
+        "Market Value": "€13.7m",
+        "unicode": "MTNGv0hT"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Alex Sandro",
+        "players_number": "12",
+        "Full Name": "Alex Sandro",
+        "players_rating": 6.4,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (26.01.1991)",
+        "Market Value": "€2.0m",
+        "unicode": "hrkni8NN"
+      },
+      {
+        "players_name": "Bonucci L. (C)",
+        "players_number": "19",
+        "Full Name": "Leonardo Bonucci",
+        "players_rating": 6.4,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (01.05.1987)",
+        "Market Value": "€1.4m",
+        "unicode": "zmOGDSwg"
+      },
+      {
+        "players_name": "Cuadrado J.",
+        "players_number": "11",
+        "Full Name": "Juan Cuadrado",
+        "players_rating": 7.6,
+        "Country": "Colombia",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (26.05.1988)",
+        "Market Value": "€2.0m",
+        "unicode": "AFefBpwI"
+      },
+      {
+        "players_name": "Danilo",
+        "players_number": "6",
+        "Full Name": "Danilo",
+        "players_rating": 6.4,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (15.07.1991)",
+        "Market Value": "€11.9m",
+        "unicode": "KUjvgUhB"
+      },
+      {
+        "players_name": "Di Maria A.",
+        "players_number": "22",
+        "Full Name": "Angel Di Maria",
+        "players_rating": 6.1,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (14.02.1988)",
+        "Market Value": "€5.3m",
+        "unicode": "SISkkDSQ"
+      },
+      {
+        "players_name": "McKennie W.",
+        "players_number": "8",
+        "Full Name": "Weston McKennie",
+        "players_rating": 5.8,
+        "Country": "USA",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (28.08.1998)",
+        "Market Value": "€22.8m",
+        "unicode": "jZHxRi2A"
+      },
+      {
+        "players_name": "Paredes L.",
+        "players_number": "32",
+        "Full Name": "Leandro Paredes",
+        "players_rating": 6.3,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (29.06.1994)",
+        "Market Value": "€7.7m",
+        "unicode": "lbNnSBiA"
+      },
+      {
+        "players_name": "Rabiot A.",
+        "players_number": "25",
+        "Full Name": "Adrien Rabiot",
+        "players_rating": 6.7,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (03.04.1995)",
+        "Market Value": "€40.3m",
+        "unicode": "l08EAP2Q"
+      },
+      {
+        "players_name": "Rugani D.",
+        "players_number": "24",
+        "Full Name": "Daniele Rugani",
+        "players_rating": 7.2,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (29.07.1994)",
+        "Market Value": "€4.0m",
+        "unicode": "zyoOMhpU"
+      },
+      {
+        "players_name": "Szczesny W. (G)",
+        "players_number": "1",
+        "Full Name": "Wojciech Szczesny",
+        "players_rating": 6.1,
+        "Country": "Poland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (18.04.1990)",
+        "Market Value": "€8.4m",
+        "unicode": "6NtwHZ7F"
+      },
+      {
+        "players_name": "Vlahovic D.",
+        "players_number": "9",
+        "Full Name": "Dusan Vlahovic",
+        "players_rating": 6.3,
+        "Country": "Serbia",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (28.01.2000)",
+        "Market Value": "€56.2m",
+        "unicode": "Ct0rhfn7"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Kean M.",
+        "players_number": "18",
+        "Full Name": "Moise Kean",
+        "players_rating": 6.4,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (28.02.2000)",
+        "Market Value": "€16.6m",
+        "unicode": "QPclX9Uq"
+      },
+      {
+        "players_name": "Kostic F.",
+        "players_number": "17",
+        "Full Name": "Filip Kostic",
+        "players_rating": 6.5,
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (01.11.1992)",
+        "Market Value": "€11.2m",
+        "unicode": "zTWzdAKe"
+      },
+      {
+        "players_name": "Locatelli M.",
+        "players_number": "5",
+        "Full Name": "Manuel Locatelli",
+        "players_rating": 6.5,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (08.01.1998)",
+        "Market Value": "€32.8m",
+        "unicode": "6RgXRdd8"
+      },
+      {
+        "players_name": "Milik A.",
+        "players_number": "14",
+        "Full Name": "Arkadiusz Milik",
+        "players_rating": 6.1,
+        "Country": "Poland",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (28.02.1994)",
+        "Market Value": "€6.6m",
+        "unicode": "EskCwiLE"
+      },
+      {
+        "players_name": "Soule M.",
+        "players_number": "30",
+        "Full Name": "Matias Soule",
+        "players_rating": 6.5,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "20, (15.04.2003)",
+        "Market Value": "€24.5m",
+        "unicode": "fXK87Cpf"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Bremer",
+        "players_number": "3",
+        "Full Name": "Bremer",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (18.03.1997)",
+        "Market Value": "€48.9m",
+        "unicode": "INWVBb0R"
+      },
+      {
+        "players_name": "Fagioli N.",
+        "players_number": "44",
+        "Full Name": "Nicolo Fagioli",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (12.02.2001)",
+        "Market Value": "€14.5m",
+        "unicode": "4rFy4PRQ"
+      },
+      {
+        "players_name": "Gatti F.",
+        "players_number": "15",
+        "Full Name": "Federico Gatti",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (24.06.1998)",
+        "Market Value": "€17.6m",
+        "unicode": "SCvJDma8"
+      },
+      {
+        "players_name": "Miretti F.",
+        "players_number": "20",
+        "Full Name": "Fabio Miretti",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (03.08.2003)",
+        "Market Value": "€13.8m",
+        "unicode": "tSUumbUT"
+      },
+      {
+        "players_name": "Perin M. (G)",
+        "players_number": "36",
+        "Full Name": "Mattia Perin",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (10.11.1992)",
+        "Market Value": "€2.9m",
+        "unicode": "A3ZJNQg1"
+      },
+      {
+        "players_name": "Pinsoglio C. (G)",
+        "players_number": "23",
+        "Full Name": "Carlo Pinsoglio",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (16.03.1990)",
+        "Market Value": "30.06.2025",
+        "unicode": "Uii1AJuK"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Bakhar B.",
+        "players_number": "",
+        "Full Name": "Barak Bakhar",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "coach",
+        "Age and Birthdate": "44,  (21.09.1979)",
+        "Market Value": "",
+        "unicode": "lp25XgPo"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Haziza D.",
+        "players_number": "",
+        "Full Name": "Dolev Haziza",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (05.07.1995)",
+        "Market Value": "€1.4m",
+        "unicode": "hnpwB3zb"
+      },
+      {
+        "players_name": "Jaber M.",
+        "players_number": "",
+        "Full Name": "Mahmoud Jaber",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (05.10.1999)",
+        "Market Value": "€715k",
+        "unicode": "r7JxsB98"
+      },
+      {
+        "players_name": "Podgoreanu S.",
+        "players_number": "",
+        "Full Name": "Suf Podgoreanu",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (20.01.2002)",
+        "Market Value": "€272k",
+        "unicode": "z3qzXnV5"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Atzili O.",
+        "players_number": "7",
+        "Full Name": "Omer Atzili",
+        "players_rating": 8.3,
+        "Country": "Israel",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (27.07.1993)",
+        "Market Value": "€2.5m",
+        "unicode": "t4ECGo0O"
+      },
+      {
+        "players_name": "Batubinsika D.",
+        "players_number": "19",
+        "Full Name": "Dylan Batubinsika",
+        "players_rating": 7.3,
+        "Country": "DR Congo",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (15.02.1996)",
+        "Market Value": "€1.4m",
+        "unicode": "QcLd3bL1"
+      },
+      {
+        "players_name": "Chery T.",
+        "players_number": "10",
+        "Full Name": "Tjarron Chery",
+        "players_rating": 7.1,
+        "Country": "Suriname",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (04.06.1988)",
+        "Market Value": "€408k",
+        "unicode": "dtN3i4T7"
+      },
+      {
+        "players_name": "Cohen J. (G)",
+        "players_number": "44",
+        "Full Name": "Josh Cohen",
+        "players_rating": 7.8,
+        "Country": "USA",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (18.08.1992)",
+        "Market Value": "",
+        "unicode": "A5qnVvGT"
+      },
+      {
+        "players_name": "Cornud P.",
+        "players_number": "27",
+        "Full Name": "Pierre Cornud",
+        "players_rating": 7.8,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (12.12.1996)",
+        "Market Value": "€1.2m",
+        "unicode": "67mIaVqd"
+      },
+      {
+        "players_name": "David D.",
+        "players_number": "21",
+        "Full Name": "Dean David",
+        "players_rating": 6.6,
+        "Country": "Israel",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (14.03.1996)",
+        "Market Value": "",
+        "unicode": "xvBWpnLr"
+      },
+      {
+        "players_name": "Goldberg S.",
+        "players_number": "3",
+        "Full Name": "Shon Goldberg",
+        "players_rating": 7.2,
+        "Country": "Israel",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (13.06.1995)",
+        "Market Value": "€760k",
+        "unicode": "QeYNZadj"
+      },
+      {
+        "players_name": "Lavi N. (C)",
+        "players_number": "6",
+        "Full Name": "Neta Lavi",
+        "players_rating": 7.9,
+        "Country": "Israel",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (25.08.1996)",
+        "Market Value": "€1.5m",
+        "unicode": "x2hxtNut"
+      },
+      {
+        "players_name": "Mohamed A.",
+        "players_number": "4",
+        "Full Name": "Ali Mohamed",
+        "players_rating": 6.9,
+        "Country": "Niger",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (07.10.1995)",
+        "Market Value": "€2.1m",
+        "unicode": "SbLEG2Oa"
+      },
+      {
+        "players_name": "Pierrot F.",
+        "players_number": "9",
+        "Full Name": "Frantzdy Pierrot",
+        "players_rating": 8.0,
+        "Country": "Haiti",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (29.03.1995)",
+        "Market Value": "€2.8m",
+        "unicode": "Q7ptRtTl"
+      },
+      {
+        "players_name": "Sundgren D.",
+        "players_number": "2",
+        "Full Name": "Daniel Sundgren",
+        "players_rating": 7.7,
+        "Country": "Sweden",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (22.11.1990)",
+        "Market Value": "€430k",
+        "unicode": "b3TZyOF0"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Abu Fani M.",
+        "players_number": "16",
+        "Full Name": "Mohammed Abu Fani",
+        "players_rating": 6.5,
+        "Country": "Israel",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (27.04.1998)",
+        "Market Value": "€2.5m",
+        "unicode": "ruqQ6m9f"
+      },
+      {
+        "players_name": "Menahem S.",
+        "players_number": "12",
+        "Full Name": "Sun Menahem",
+        "players_rating": 6.2,
+        "Country": "Israel",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (07.09.1993)",
+        "Market Value": "€220k",
+        "unicode": "K0W8ViM5"
+      },
+      {
+        "players_name": "Rukavytsya N.",
+        "players_number": "13",
+        "Full Name": "Nikita Rukavytsya",
+        "players_rating": "",
+        "Country": "Australia",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (22.06.1987)",
+        "Market Value": "€87k",
+        "unicode": "tdXL23Rt"
+      },
+      {
+        "players_name": "Seck A.",
+        "players_number": "30",
+        "Full Name": "Abdoulaye Seck",
+        "players_rating": 6.4,
+        "Country": "Senegal",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (04.06.1992)",
+        "Market Value": "€1.4m",
+        "unicode": "nLaO6snF"
+      },
+      {
+        "players_name": "Tchibota M.",
+        "players_number": "11",
+        "Full Name": "Mavis Tchibota",
+        "players_rating": "",
+        "Country": "Republic of the Congo",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (07.05.1996)",
+        "Market Value": "€433k",
+        "unicode": "4UlSYibK"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Arad O.",
+        "players_number": "15",
+        "Full Name": "Ofri Arad",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (11.09.1998)",
+        "Market Value": "€272k",
+        "unicode": "d2Vl9j3q"
+      },
+      {
+        "players_name": "Eliyahu I.",
+        "players_number": "36",
+        "Full Name": "Inon Eliyahu",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (01.11.1993)",
+        "Market Value": "€238k",
+        "unicode": "j7TsNvI8"
+      },
+      {
+        "players_name": "Fucs R. (G)",
+        "players_number": "77",
+        "Full Name": "Royie Fucs",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "25, (14.12.1998)",
+        "Market Value": "",
+        "unicode": "vFhhVtKo"
+      },
+      {
+        "players_name": "Gershon R.",
+        "players_number": "55",
+        "Full Name": "Rami Gershon",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (12.08.1988)",
+        "Market Value": "€138k",
+        "unicode": "dWDuBHdo"
+      },
+      {
+        "players_name": "Levi M.",
+        "players_number": "33",
+        "Full Name": "Maor Levi",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (18.06.2000)",
+        "Market Value": "€281k",
+        "unicode": "jXMpukvL"
+      },
+      {
+        "players_name": "Meir R.",
+        "players_number": "22",
+        "Full Name": "Raz Meir",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (30.11.1996)",
+        "Market Value": "€246k",
+        "unicode": "xAE6LBSG"
+      },
+      {
+        "players_name": "Mishpati R. (G)",
+        "players_number": "90",
+        "Full Name": "Roi Mishpati",
+        "players_rating": "",
+        "Country": "Israel",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (23.11.1992)",
+        "Market Value": "€193k",
+        "unicode": "v9uZpWFd"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "05:53",
+      "comments_type": "corner",
+      "comments_text": "The ball is whipped in from the corner by Tjarron Chery (Maccabi Haifa), but one of the defenders gets it clear.",
+      "comments_text_anonymized": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "06:04",
+      "comments_type": "goal",
+      "comments_text": "Goal! Pierre Cornud clips a neat ball into the box in the direction of Omer Atzili (Maccabi Haifa), who jumps highest and steers a bullet header from the centre of the box into the bottom right corner. Wojciech Szczesny had no chance of stopping that. 1:0.",
+      "comments_text_anonymized": "Goal! [PLAYER] clips a neat ball into the box in the direction of [PLAYER] ([TEAM]), who jumps highest and steers a bullet header from the centre of the box into the bottom right corner. [PLAYER] had no chance of stopping that. 1:0.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:10",
+      "comments_type": "corner",
+      "comments_text": "Omer Atzili (Maccabi Haifa) takes the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "16:14",
+      "comments_type": "corner",
+      "comments_text": "Angel Di Maria (Juventus) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "17:30",
+      "comments_type": "corner",
+      "comments_text": "Angel Di Maria (Juventus) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear. The ball goes out for a corner. Juventus can continue in their attacking effort.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear. The ball goes out for a corner. [TEAM] can continue in their attacking effort.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "18:19",
+      "comments_type": "corner",
+      "comments_text": "The corner from Leandro Paredes (Juventus) is hurriedly cleared.",
+      "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is hurriedly cleared.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "20:57",
+      "comments_type": "corner",
+      "comments_text": "Omer Atzili (Maccabi Haifa) works the corner short.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "24:18",
+      "comments_type": "substitution",
+      "comments_text": "Massimiliano Allegri is forced to make a change. Angel Di Maria is unable to continue due to injury, Arkadiusz Milik (Juventus) comes on.",
+      "comments_text_anonymized": "[PLAYER] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "26:10",
+      "comments_type": "yellow card",
+      "comments_text": "Pierre Cornud (Maccabi Haifa) earns the yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) earns the yellow card.",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "30:14",
+      "comments_type": "corner",
+      "comments_text": "There's an opportunity for Omer Atzili (Maccabi Haifa) to deliver the ball into the box from a corner.",
+      "comments_text_anonymized": "There's an opportunity for [PLAYER] ([TEAM]) to deliver the ball into the box from a corner.",
+      "index": 9
+    },
+    {
+      "half": 1,
+      "time_stamp": "41:51",
+      "comments_type": "goal",
+      "comments_text": "Goal! Great link up play between Omer Atzili (Maccabi Haifa) and Frantzdy Pierrot gives the former a clear sight of goal on the edge of the box. He doesn't disappoint and beats the keeper in the top right corner. 2:0.",
+      "comments_text_anonymized": "Goal! Great link up play between [PLAYER] ([TEAM]) and [PLAYER] gives the former a clear sight of goal on the edge of the box. He doesn't disappoint and beats the keeper in the top right corner. 2:0.",
+      "index": 10
+    },
+    {
+      "half": 1,
+      "time_stamp": "47:06",
+      "comments_type": "yellow card",
+      "comments_text": "Weston McKennie (Juventus) goes into the referee's book for dissent.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes into the referee's book for dissent.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:20",
+      "comments_type": "substitution",
+      "comments_text": "Massimiliano Allegri has made a change at the break. Filip Kostic has come on in place of Weston McKennie (Juventus).",
+      "comments_text_anonymized": "[PLAYER] has made a change at the break. [PLAYER] has come on in place of [PLAYER] ([TEAM]).",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:20",
+      "comments_type": "substitution",
+      "comments_text": "The need to improve in the second half has brought about a change. Leandro Paredes (Juventus) comes off for Manuel Locatelli.",
+      "comments_text_anonymized": "The need to improve in the second half has brought about a change. [PLAYER] ([TEAM]) comes off for [PLAYER].",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "03:21",
+      "comments_type": "corner",
+      "comments_text": "Juan Cuadrado (Juventus) takes the corner with a short pass.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner with a short pass.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "04:13",
+      "comments_type": "corner",
+      "comments_text": "Juan Cuadrado (Juventus) takes the corner but it's cleared.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:16",
+      "comments_type": "corner",
+      "comments_text": "Manuel Locatelli (Juventus) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:36",
+      "comments_type": "corner",
+      "comments_text": "Juan Cuadrado (Juventus) will take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will take a corner kick.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:52",
+      "comments_type": "corner",
+      "comments_text": "Manuel Locatelli (Juventus) whips in the corner, but one of the defending players gets a head on it and intercepts. The ball goes out of play and Maccabi Haifa will have a goal kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts. The ball goes out of play and [TEAM] will have a goal kick.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "09:40",
+      "comments_type": "corner",
+      "comments_text": "Filip Kostic (Juventus) takes the ball to the corner flag and sends it into the box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the ball to the corner flag and sends it into the box.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:33",
+      "comments_type": "substitution",
+      "comments_text": "Barak Bakhar prepares a substitution. Omer Atzili is replaced by Abdoulaye Seck (Maccabi Haifa).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:26",
+      "comments_type": "substitution",
+      "comments_text": "That will be all from Danilo who is being replaced by the fresh legs of Moise Kean (Juventus).",
+      "comments_text_anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:50",
+      "comments_type": "substitution",
+      "comments_text": "Barak Bakhar has decided to substitute Pierre Cornud and he is replaced by Sun Menahem (Maccabi Haifa).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:38",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Dean David is replaced by Mohammed Abu Fani (Maccabi Haifa).",
+      "comments_text_anonymized": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:21",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Alex Sandro makes his way off the pitch and Matias Soule (Juventus) comes on as his replacement.",
+      "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement.",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:30",
+      "comments_type": "corner",
+      "comments_text": "Tjarron Chery (Maccabi Haifa) floats the ball in from the corner but it's intercepted. The ball is out of play and Maccabi Haifa manage to earn a corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted. The ball is out of play and [TEAM] manage to earn a corner.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:41",
+      "comments_type": "yellow card",
+      "comments_text": "The referee gives a yellow card to Manuel Locatelli (Juventus) for talking back. He must be careful for the remainder of the match.",
+      "comments_text_anonymized": "The referee gives a yellow card to [PLAYER] ([TEAM]) for talking back. He must be careful for the remainder of the match.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:06",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Tjarron Chery (Maccabi Haifa) is cleared.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared.",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:14",
+      "comments_type": "substitution",
+      "comments_text": "The manager makes a subsitution with Mavis Tchibota (Maccabi Haifa) coming on for Ali Mohamed.",
+      "comments_text_anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER].",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:25",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Frantzdy Pierrot is going off and Barak Bakhar gives the last tactical orders to Nikita Rukavytsya (Maccabi Haifa).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 29
+    }
+  ]
+}

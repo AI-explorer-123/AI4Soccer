@@ -1,0 +1,674 @@
+[
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Jamie Vardy",
+      "B. Mohamed Salah",
+      "C. Kasper Schmeichel",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the first goal?",
+    "choices": [
+      "A. Leicester",
+      "B. Liverpool",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the goal to make it 1:1?",
+    "choices": [
+      "A. Jamie Vardy",
+      "B. Mohamed Salah",
+      "C. Kasper Schmeichel",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 8,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals up to now?",
+    "choices": [
+      "A. Leicester",
+      "B. Liverpool",
+      "C. Both teams have scored equally",
+      "D. Neither team has scored"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      8
+    ],
+    "current_event_index": 8,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      8
+    ],
+    "current_event_index": 8,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the last goal in the match?",
+    "choices": [
+      "A. Jamie Vardy",
+      "B. Mohamed Salah",
+      "C. Kasper Schmeichel",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      18
+    ],
+    "current_event_index": 18,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the most goals in the match?",
+    "choices": [
+      "A. Leicester",
+      "B. Liverpool",
+      "C. Both teams scored equally",
+      "D. Neither team scored"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      8,
+      18
+    ],
+    "current_event_index": 18,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      8,
+      18
+    ],
+    "current_event_index": 18,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      8,
+      18
+    ],
+    "current_event_index": null,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the match?",
+    "choices": [
+      "A. Leicester",
+      "B. Liverpool",
+      "C. Both teams had equal goals",
+      "D. Neither team had goals"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      8,
+      18
+    ],
+    "current_event_index": null,
+    "index": 10,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who were all the players involved in goals?",
+    "choices": [
+      "A. Jamie Vardy and Mohamed Salah",
+      "B. Mohamed Salah and Kasper Schmeichel",
+      "C. Jamie Vardy and Kasper Schmeichel",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      8,
+      18
+    ],
+    "current_event_index": null,
+    "index": 11,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      8,
+      18
+    ],
+    "current_event_index": 0,
+    "index": 12,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Leicester",
+      "B. Liverpool",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      8,
+      18
+    ],
+    "current_event_index": 0,
+    "index": 13,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Jamie Vardy",
+      "B. Mohamed Salah",
+      "C. Kasper Schmeichel",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      8,
+      18
+    ],
+    "current_event_index": 0,
+    "index": 14,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Liverpool",
+      "B. Leicester",
+      "C. Both teams have the same",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last card?",
+    "choices": [
+      "A. James Milner",
+      "B. Harry Maguire",
+      "C. Emre Can",
+      "D. Wilfred Ndidi"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      9,
+      10,
+      12,
+      22
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Liverpool",
+      "B. Leicester",
+      "C. Both teams have the same",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      9,
+      10,
+      12,
+      22
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player was involved in the most yellow cards?",
+    "choices": [
+      "A. James Milner",
+      "B. Emre Can",
+      "C. Andrew Robertson",
+      "D. Wilfred Ndidi"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      9,
+      10,
+      12,
+      22
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      9,
+      10,
+      12,
+      22
+    ],
+    "current_event_index": 1,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Liverpool",
+      "B. Leicester",
+      "C. Both teams",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      9,
+      10,
+      12,
+      22
+    ],
+    "current_event_index": 1,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. James Milner",
+      "B. Harry Maguire",
+      "C. Emre Can",
+      "D. Wilfred Ndidi"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      9,
+      10,
+      12,
+      22
+    ],
+    "current_event_index": 1,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_event_index": 5,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Liverpool",
+      "B. Leicester",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken any corners"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Philippe Coutinho",
+      "B. Riyad Mahrez",
+      "C. James Milner",
+      "D. Virgil van Dijk"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      11,
+      13,
+      14
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Liverpool",
+      "B. Leicester",
+      "C. Both teams had the same number",
+      "D. Neither team had any corners"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      11,
+      13,
+      14
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Philippe Coutinho",
+      "B. Riyad Mahrez",
+      "C. James Milner",
+      "D. Virgil van Dijk"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      11,
+      13,
+      14
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. It's uncertain"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      6,
+      7,
+      11,
+      13,
+      14
+    ],
+    "current_event_index": 5,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Liverpool",
+      "B. Leicester",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      6,
+      7,
+      11,
+      13,
+      14
+    ],
+    "current_event_index": 5,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Philippe Coutinho",
+      "B. Riyad Mahrez",
+      "C. James Milner",
+      "D. Virgil van Dijk"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      6,
+      7,
+      11,
+      13,
+      14
+    ],
+    "current_event_index": 5,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

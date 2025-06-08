@@ -1,0 +1,1484 @@
+{
+    "timestamp": "1485707400",
+    "score": "1 - 1",
+    "round": "18",
+    "teams": [
+        "Dortmund",
+        "Mainz"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-2-3-1",
+            "players": [
+                {
+                    "hash": "EilL1urA",
+                    "name": "Bell S.",
+                    "captain": "",
+                    "detail_link": "/player/bell-stefan/EilL1urA/",
+                    "short_name": "Bell",
+                    "shirt_number": "16",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Stefan Bell"
+                },
+                {
+                    "hash": "xSSkyg9o",
+                    "name": "Brosinski D.",
+                    "captain": "",
+                    "detail_link": "/player/brosinski-daniel/xSSkyg9o/",
+                    "short_name": "Brosinski",
+                    "shirt_number": "18",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Daniel Brosinski"
+                },
+                {
+                    "hash": "A5rjoos2",
+                    "name": "Bungert N.",
+                    "captain": "(C)",
+                    "detail_link": "/player/bungert-niko/A5rjoos2/",
+                    "short_name": "Bungert",
+                    "shirt_number": "26",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Niko Bungert"
+                },
+                {
+                    "hash": "z7ECMaKs",
+                    "name": "Donati G.",
+                    "captain": "",
+                    "detail_link": "/player/donati-giulio/z7ECMaKs/",
+                    "short_name": "Donati",
+                    "shirt_number": "2",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Giulio Donati"
+                },
+                {
+                    "hash": "OxGiQnSF",
+                    "name": "Frei F.",
+                    "captain": "",
+                    "detail_link": "/player/frei-fabian/OxGiQnSF/",
+                    "short_name": "Frei",
+                    "shirt_number": "20",
+                    "country": "Switzerland",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "69'",
+                            "description": "Seydel A.",
+                            "linked_player_hash": "MPOKUmG9"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Fabian Frei"
+                },
+                {
+                    "hash": "WjUrTxY1",
+                    "name": "Gbamin J.",
+                    "captain": "",
+                    "detail_link": "/player/gbamin-jean-philippe/WjUrTxY1/",
+                    "short_name": "Gbamin",
+                    "shirt_number": "25",
+                    "country": "Ivory Coast",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "54' Gbamin J. (Roughing)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "62'",
+                            "description": "Ramalho A.",
+                            "linked_player_hash": "6e460XQL"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Jean-Philippe Gbamin"
+                },
+                {
+                    "hash": "QJmn2yWs",
+                    "name": "Latza D.",
+                    "captain": "",
+                    "detail_link": "/player/latza-danny/QJmn2yWs/",
+                    "short_name": "Latza",
+                    "shirt_number": "6",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "83' Latza D. (Oztunali L.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Danny Latza"
+                },
+                {
+                    "hash": "63jKLoYD",
+                    "name": "Lossl J.",
+                    "captain": "",
+                    "detail_link": "/player/lossl-jonas/63jKLoYD/",
+                    "short_name": "Lossl",
+                    "shirt_number": "1",
+                    "country": "Denmark",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Jonas Lossl"
+                },
+                {
+                    "hash": "8bbTIqDq",
+                    "name": "Muto Y.",
+                    "captain": "",
+                    "detail_link": "/player/muto-yoshinori/8bbTIqDq/",
+                    "short_name": "Muto",
+                    "shirt_number": "9",
+                    "country": "Japan",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "74'",
+                            "description": "De Blasis P.",
+                            "linked_player_hash": "8zxfYRtn"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Yoshinori Muto"
+                },
+                {
+                    "hash": "f59jliZi",
+                    "name": "Oztunali L.",
+                    "captain": "",
+                    "detail_link": "/player/oztunali-levin/f59jliZi/",
+                    "short_name": "Oztunali",
+                    "shirt_number": "8",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "83' Latza D. (Oztunali L.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Levin Oztunali"
+                },
+                {
+                    "hash": "pA68BXUl",
+                    "name": "Samperio J.",
+                    "captain": "",
+                    "detail_link": "/player/samperio-jairo/pA68BXUl/",
+                    "short_name": "Samperio",
+                    "shirt_number": "17",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "75' Samperio J. (Roughing)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Jairo Samperio"
+                },
+                {
+                    "hash": "KEMS85bi",
+                    "name": "Bussmann G.",
+                    "captain": "",
+                    "detail_link": "/player/bussmann-gaetan/KEMS85bi/",
+                    "short_name": "Bussmann",
+                    "shirt_number": "24",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Gaetan Bussmann"
+                },
+                {
+                    "hash": "8zxfYRtn",
+                    "name": "De Blasis P.",
+                    "captain": "",
+                    "detail_link": "/player/de-blasis-pablo/8zxfYRtn/",
+                    "short_name": "De Blasis",
+                    "shirt_number": "32",
+                    "country": "Argentina",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "74'",
+                            "description": "Muto Y.",
+                            "linked_player_hash": "8bbTIqDq"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Pablo De Blasis"
+                },
+                {
+                    "hash": "CCfKuwfE",
+                    "name": "Hack A.",
+                    "captain": "",
+                    "detail_link": "/player/hack-alexander/CCfKuwfE/",
+                    "short_name": "Hack",
+                    "shirt_number": "42",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Alexander Hack"
+                },
+                {
+                    "hash": "0xmRfwtl",
+                    "name": "Holtmann G.",
+                    "captain": "",
+                    "detail_link": "/player/holtmann-gerrit/0xmRfwtl/",
+                    "short_name": "Holtmann",
+                    "shirt_number": "38",
+                    "country": "Philippines",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Gerrit Holtmann"
+                },
+                {
+                    "hash": "MqJTy7t1",
+                    "name": "Huth J.",
+                    "captain": "",
+                    "detail_link": "/player/huth-jannik/MqJTy7t1/",
+                    "short_name": "Huth",
+                    "shirt_number": "33",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jannik Huth"
+                },
+                {
+                    "hash": "6e460XQL",
+                    "name": "Ramalho A.",
+                    "captain": "",
+                    "detail_link": "/player/andre-ramalho/6e460XQL/",
+                    "short_name": "Ramalho",
+                    "shirt_number": "22",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "62'",
+                            "description": "Gbamin J.",
+                            "linked_player_hash": "WjUrTxY1"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Andre Ramalho"
+                },
+                {
+                    "hash": "MPOKUmG9",
+                    "name": "Seydel A.",
+                    "captain": "",
+                    "detail_link": "/player/seydel-aaron/MPOKUmG9/",
+                    "short_name": "Seydel",
+                    "shirt_number": "36",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "69'",
+                            "description": "Frei F.",
+                            "linked_player_hash": "OxGiQnSF"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Aaron Seydel"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "UPG73BMA",
+                    "name": "Schmidt M.",
+                    "captain": "",
+                    "detail_link": "/player/schmidt-martin/UPG73BMA/",
+                    "short_name": "Schmidt M.",
+                    "shirt_number": "",
+                    "country": "Switzerland",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Martin Schmidt"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-1-4-1",
+            "players": [
+                {
+                    "hash": "Wl4EyKZk",
+                    "name": "Aubameyang P.",
+                    "captain": "",
+                    "detail_link": "/player/aubameyang-pierre-emerick/Wl4EyKZk/",
+                    "short_name": "Aubameyang",
+                    "shirt_number": "17",
+                    "country": "Gabon",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "72'",
+                            "description": "Dembele O.",
+                            "linked_player_hash": "zsMC2Ec0"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Pierre-Emerick Aubameyang"
+                },
+                {
+                    "hash": "x6gzWUIk",
+                    "name": "Burki R.",
+                    "captain": "",
+                    "detail_link": "/player/burki-roman/x6gzWUIk/",
+                    "short_name": "Burki",
+                    "shirt_number": "38",
+                    "country": "Switzerland",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Roman Burki"
+                },
+                {
+                    "hash": "tWNcwyFS",
+                    "name": "Castro G.",
+                    "captain": "",
+                    "detail_link": "/player/castro-gonzalo/tWNcwyFS/",
+                    "short_name": "Castro",
+                    "shirt_number": "27",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "86'",
+                            "description": "Pulisic C.",
+                            "linked_player_hash": "vTuaEfRq"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Gonzalo Castro"
+                },
+                {
+                    "hash": "27fpNoQk",
+                    "name": "Ginter M.",
+                    "captain": "",
+                    "detail_link": "/player/ginter-matthias/27fpNoQk/",
+                    "short_name": "Ginter",
+                    "shirt_number": "28",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Matthias Ginter"
+                },
+                {
+                    "hash": "ImhgOoOl",
+                    "name": "Guerreiro R.",
+                    "captain": "",
+                    "detail_link": "/player/guerreiro-raphael/ImhgOoOl/",
+                    "short_name": "Guerreiro",
+                    "shirt_number": "13",
+                    "country": "Portugal",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "66'",
+                            "description": "Gotze M.",
+                            "linked_player_hash": "veaF8P5m"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Raphael Guerreiro"
+                },
+                {
+                    "hash": "AZgM33p0",
+                    "name": "Piszczek L.",
+                    "captain": "",
+                    "detail_link": "/player/piszczek-lukasz/AZgM33p0/",
+                    "short_name": "Piszczek",
+                    "shirt_number": "26",
+                    "country": "Poland",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Lukasz Piszczek"
+                },
+                {
+                    "hash": "fonESekN",
+                    "name": "Reus M.",
+                    "captain": "",
+                    "detail_link": "/player/reus-marco/fonESekN/",
+                    "short_name": "Reus",
+                    "shirt_number": "11",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "3' Reus M. (Schurrle A.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Marco Reus"
+                },
+                {
+                    "hash": "n3VwNCjb",
+                    "name": "Schmelzer M.",
+                    "captain": "(C)",
+                    "detail_link": "/player/schmelzer-marcel/n3VwNCjb/",
+                    "short_name": "Schmelzer",
+                    "shirt_number": "29",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Marcel Schmelzer"
+                },
+                {
+                    "hash": "SUtZhkKF",
+                    "name": "Schurrle A.",
+                    "captain": "",
+                    "detail_link": "/player/schurrle-andre/SUtZhkKF/",
+                    "short_name": "Schurrle",
+                    "shirt_number": "21",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "3' Reus M. (Schurrle A.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "75' Schurrle A. (Roughing)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Andre Schurrle"
+                },
+                {
+                    "hash": "SQr6hJJR",
+                    "name": "Sokratis",
+                    "captain": "",
+                    "detail_link": "/player/papastathopoulos-sokratis/SQr6hJJR/",
+                    "short_name": "Papastathopoulos",
+                    "shirt_number": "25",
+                    "country": "Greece",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Sokratis Papastathopoulos"
+                },
+                {
+                    "hash": "2wwMMwAa",
+                    "name": "Weigl J.",
+                    "captain": "",
+                    "detail_link": "/player/weigl-julian/2wwMMwAa/",
+                    "short_name": "Weigl",
+                    "shirt_number": "33",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Julian Weigl"
+                },
+                {
+                    "hash": "8K4WA9Gh",
+                    "name": "Bartra M.",
+                    "captain": "",
+                    "detail_link": "/player/bartra-marc/8K4WA9Gh/",
+                    "short_name": "Bartra",
+                    "shirt_number": "5",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marc Bartra"
+                },
+                {
+                    "hash": "zsMC2Ec0",
+                    "name": "Dembele O.",
+                    "captain": "",
+                    "detail_link": "/player/dembele-ousmane/zsMC2Ec0/",
+                    "short_name": "Dembele",
+                    "shirt_number": "7",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "72'",
+                            "description": "Aubameyang P.",
+                            "linked_player_hash": "Wl4EyKZk"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ousmane Dembele"
+                },
+                {
+                    "hash": "SCOMojXE",
+                    "name": "Durm E.",
+                    "captain": "",
+                    "detail_link": "/player/durm-erik/SCOMojXE/",
+                    "short_name": "Durm",
+                    "shirt_number": "37",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Erik Durm"
+                },
+                {
+                    "hash": "veaF8P5m",
+                    "name": "Gotze M.",
+                    "captain": "",
+                    "detail_link": "/player/gotze-mario/veaF8P5m/",
+                    "short_name": "Gotze",
+                    "shirt_number": "10",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "66'",
+                            "description": "Guerreiro R.",
+                            "linked_player_hash": "ImhgOoOl"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Mario Gotze"
+                },
+                {
+                    "hash": "zcwd2hro",
+                    "name": "Kagawa S.",
+                    "captain": "",
+                    "detail_link": "/player/kagawa-shinji/zcwd2hro/",
+                    "short_name": "Kagawa",
+                    "shirt_number": "23",
+                    "country": "Japan",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Shinji Kagawa"
+                },
+                {
+                    "hash": "vTuaEfRq",
+                    "name": "Pulisic C.",
+                    "captain": "",
+                    "detail_link": "/player/pulisic-christian/vTuaEfRq/",
+                    "short_name": "Pulisic",
+                    "shirt_number": "22",
+                    "country": "USA",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "86'",
+                            "description": "Castro G.",
+                            "linked_player_hash": "tWNcwyFS"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Christian Pulisic"
+                },
+                {
+                    "hash": "SWPWwvA4",
+                    "name": "Weidenfeller R.",
+                    "captain": "",
+                    "detail_link": "/player/weidenfeller-roman/SWPWwvA4/",
+                    "short_name": "Weidenfeller",
+                    "shirt_number": "1",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Roman Weidenfeller"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "CQTUFgPk",
+                    "name": "Tuchel T.",
+                    "captain": "",
+                    "detail_link": "/player/tuchel-thomas/CQTUFgPk/",
+                    "short_name": "Tuchel T.",
+                    "shirt_number": "",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Thomas Tuchel"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Zwayer F."
+    ],
+    "venue": [
+        "Mewa Arena (Mainz)"
+    ],
+    "attendance": [
+        "34 000"
+    ],
+    "referee_matched": [
+        "Felix Zwayer"
+    ],
+    "referee_found": [
+        "Felix Zwayer"
+    ],
+    "coach_matched": [
+        "Thomas Tuchel"
+    ],
+    "gameHomeTeam": "1. FSV Mainz 05",
+    "home": {
+        "name": "1. FSV Mainz 05",
+        "detail_link": "/team/mainz/EuakNmc1",
+        "hash": "EuakNmc1",
+        "names": [
+            "1. FSV Mainz 05",
+            "Mainz",
+            "Mainz (Ger)",
+            "mainz"
+        ]
+    },
+    "gameAwayTeam": "Dortmund",
+    "away": {
+        "name": "Dortmund",
+        "detail_link": "/team/dortmund/nP1i5US1",
+        "hash": "nP1i5US1",
+        "names": [
+            "Dortmund",
+            "Dortmund (Ger)",
+            "dortmund"
+        ]
+    },
+    "gameDate": "29/01/2017 - 17:30",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "We were witnesses to a rather ordinary game without many stirring moments. There is definitely room for improvement in future games. The game was more or less balanced. Both sides tried to combine well and to keep the ball at their feet.",
+            "identified": "We were witnesses to a rather ordinary game without many stirring moments. There is definitely room for improvement in future games. The game was more or less balanced. Both sides tried to combine well and to keep the ball at their feet.",
+            "anonymized": "We were witnesses to a rather ordinary game without many stirring moments. There is definitely room for improvement in future games. The game was more or less balanced. Both sides tried to combine well and to keep the ball at their feet.",
+            "visibility": "shown",
+            "position": "2879000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 47:12",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match.",
+            "identified": "The referee blows his whistle for the final time to end this match.",
+            "anonymized": "The referee blows his whistle for the final time to end this match.",
+            "visibility": "shown",
+            "position": "2832000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 46:58",
+            "label": "",
+            "description": "Pablo De Blasis (Mainz) unleashes a superb first-time shot from the edge of the box, but it flies narrowly wide of the left post.",
+            "identified": "[PLAYER_8zxfYRtn] ([TEAM_]) unleashes a superb first-time shot from the edge of the box, but it flies narrowly wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a superb first-time shot from the edge of the box, but it flies narrowly wide of the left post.",
+            "visibility": "shown",
+            "position": "2818000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 45:32",
+            "label": "",
+            "description": "Aaron Seydel (Mainz) fires the ball towards goal from just outside the penalty area, but it goes narrowly over the crossbar after coming very close to hitting the roof of the net.",
+            "identified": "[PLAYER_MPOKUmG9] ([TEAM_]) fires the ball towards goal from just outside the penalty area, but it goes narrowly over the crossbar after coming very close to hitting the roof of the net.",
+            "anonymized": "[PLAYER] ([TEAM]) fires the ball towards goal from just outside the penalty area, but it goes narrowly over the crossbar after coming very close to hitting the roof of the net.",
+            "visibility": "shown",
+            "position": "2732000"
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "Fourth official shows 2 min. of added time.",
+            "identified": "Fourth official shows 2 min. of added time.",
+            "anonymized": "Fourth official shows 2 min. of added time.",
+            "visibility": "shown",
+            "position": "0"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 43:37",
+            "label": "",
+            "description": "Giulio Donati (Mainz) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "identified": "[PLAYER_z7ECMaKs] ([TEAM_]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "visibility": "shown",
+            "position": "2617000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 43:15",
+            "label": "",
+            "description": "Rough tackle by Mario Gotze (Dortmund). The referee blows his whistle for a foul.",
+            "identified": "Rough tackle by [PLAYER_veaF8P5m] ([TEAM_]). The referee blows his whistle for a foul.",
+            "anonymized": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "2595000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:40",
+            "label": "",
+            "description": "Felix Zwayer blows his whistle and it's Sokratis (Dortmund) who is penalised for an offensive foul. Good decision by the referee.",
+            "identified": "[REFEREE] blows his whistle and it's [PLAYER_SQr6hJJR] ([TEAM_]) who is penalised for an offensive foul. Good decision by the referee.",
+            "anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee.",
+            "visibility": "shown",
+            "position": "2560000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:27",
+            "label": "",
+            "description": "Andre Schurrle (Dortmund) takes a direct free kick.",
+            "identified": "[PLAYER_SUtZhkKF] ([TEAM_]) takes a direct free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a direct free kick.",
+            "visibility": "shown",
+            "position": "2547000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:10",
+            "label": "",
+            "description": "Dangerous play by Niko Bungert (Mainz). Felix Zwayer blows his whistle for a foul. Dortmund are awarded a free kick from a dangerous position.",
+            "identified": "Dangerous play by [PLAYER_A5rjoos2] ([TEAM_]). [REFEREE] blows his whistle for a foul. [TEAM_] are awarded a free kick from a dangerous position.",
+            "anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul. [TEAM] are awarded a free kick from a dangerous position.",
+            "visibility": "shown",
+            "position": "2530000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 40:28",
+            "label": "substitution",
+            "description": "Substitution. Gonzalo Castro makes his way off the pitch and Christian Pulisic (Dortmund) comes on as his replacement.",
+            "identified": "Substitution. [PLAYER_tWNcwyFS] makes his way off the pitch and [PLAYER_vTuaEfRq] ([TEAM_]) comes on as his replacement.",
+            "anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement.",
+            "visibility": "shown",
+            "position": "2428000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 39:58",
+            "label": "",
+            "description": "Giulio Donati (Mainz) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball goes out of play and Dortmund will have a goal kick.",
+            "identified": "[PLAYER_z7ECMaKs] ([TEAM_]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball goes out of play and [TEAM_] will have a goal kick.",
+            "anonymized": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball goes out of play and [TEAM] will have a goal kick.",
+            "visibility": "shown",
+            "position": "2398000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 39:10",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) whips in the free kick, but one of the defenders comfortably clears the ball away.",
+            "identified": "[PLAYER_tWNcwyFS] ([TEAM_]) whips in the free kick, but one of the defenders comfortably clears the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) whips in the free kick, but one of the defenders comfortably clears the ball away.",
+            "visibility": "shown",
+            "position": "2350000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 37:46",
+            "label": "soccer-ball",
+            "description": "Danny Latza (Mainz) jumps for a cross and plants a perfect header inside the left post.",
+            "identified": "[PLAYER_QJmn2yWs] ([TEAM_]) jumps for a cross and plants a perfect header inside the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) jumps for a cross and plants a perfect header inside the left post.",
+            "visibility": "shown",
+            "position": "2266000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:02",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) attempts to threaten the opposition goal with the direct free kick. He unloads a thunderbolt strike directed to the right side of the goal. The goalkeeper stretches and makes a superb save!",
+            "identified": "[PLAYER_n3VwNCjb] ([TEAM_]) attempts to threaten the opposition goal with the direct free kick. He unloads a thunderbolt strike directed to the right side of the goal. The goalkeeper stretches and makes a superb save!",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to threaten the opposition goal with the direct free kick. He unloads a thunderbolt strike directed to the right side of the goal. The goalkeeper stretches and makes a superb save!",
+            "visibility": "shown",
+            "position": "2222000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:03",
+            "label": "",
+            "description": "Niko Bungert (Mainz) makes a rough challenge and Felix Zwayer blows his whistle for a foul. Another situation results in a direct free kick for Dortmund.",
+            "identified": "[PLAYER_A5rjoos2] ([TEAM_]) makes a rough challenge and [REFEREE] blows his whistle for a foul. Another situation results in a direct free kick for [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul. Another situation results in a direct free kick for [TEAM].",
+            "visibility": "shown",
+            "position": "2163000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:36",
+            "label": "",
+            "description": "Felix Zwayer couldn't ignore the rough tackle by Pablo De Blasis (Mainz) and blew his whistle.",
+            "identified": "[REFEREE] couldn't ignore the rough tackle by [PLAYER_8zxfYRtn] ([TEAM_]) and blew his whistle.",
+            "anonymized": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle.",
+            "visibility": "shown",
+            "position": "2016000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:06",
+            "label": "",
+            "description": "Aaron Seydel (Mainz) makes a strong challenge and Felix Zwayer blows for a foul.",
+            "identified": "[PLAYER_MPOKUmG9] ([TEAM_]) makes a strong challenge and [REFEREE] blows for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul.",
+            "visibility": "shown",
+            "position": "1986000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:53",
+            "label": "",
+            "description": "The goalkeeper pulls off a save to deny Andre Schurrle (Dortmund), whose low effort is only aimed at the middle of the goal.",
+            "identified": "The goalkeeper pulls off a save to deny [PLAYER_SUtZhkKF] ([TEAM_]), whose low effort is only aimed at the middle of the goal.",
+            "anonymized": "The goalkeeper pulls off a save to deny [PLAYER] ([TEAM]), whose low effort is only aimed at the middle of the goal.",
+            "visibility": "shown",
+            "position": "1973000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 31:38",
+            "label": "",
+            "description": "The game is interrupted as Marco Reus (Dortmund) is flagged offside.",
+            "identified": "The game is interrupted as [PLAYER_fonESekN] ([TEAM_]) is flagged offside.",
+            "anonymized": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside.",
+            "visibility": "shown",
+            "position": "1898000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:07",
+            "label": "",
+            "description": "Felix Zwayer blows his whistle for a foul after Ousmane Dembele (Dortmund) hacks down one of his opponents.",
+            "identified": "[REFEREE] blows his whistle for a foul after [PLAYER_zsMC2Ec0] ([TEAM_]) hacks down one of his opponents.",
+            "anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents.",
+            "visibility": "shown",
+            "position": "1807000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 29:15",
+            "label": "y-card",
+            "description": "Jairo Samperio (Mainz) is the one who receives a yellow card.",
+            "identified": "[PLAYER_pA68BXUl] ([TEAM_]) is the one who receives a yellow card.",
+            "anonymized": "[PLAYER] ([TEAM]) is the one who receives a yellow card.",
+            "visibility": "shown",
+            "position": "1755000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 29:14",
+            "label": "y-card",
+            "description": "Andre Schurrle (Dortmund) picks up a caution.",
+            "identified": "[PLAYER_SUtZhkKF] ([TEAM_]) picks up a caution.",
+            "anonymized": "[PLAYER] ([TEAM]) picks up a caution.",
+            "visibility": "shown",
+            "position": "1754000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 28:23",
+            "label": "substitution",
+            "description": "That will be all from Yoshinori Muto who is being replaced by the fresh legs of Pablo De Blasis (Mainz).",
+            "identified": "That will be all from [PLAYER_8bbTIqDq] who is being replaced by the fresh legs of [PLAYER_8zxfYRtn] ([TEAM_]).",
+            "anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1703000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:43",
+            "label": "",
+            "description": "A cross is clipped into the penalty area by Daniel Brosinski (Mainz) but poses no threat. The ball is off of the pitch and it's a goal kick for Dortmund.",
+            "identified": "A cross is clipped into the penalty area by [PLAYER_xSSkyg9o] ([TEAM_]) but poses no threat. The ball is off of the pitch and it's a goal kick for [TEAM_].",
+            "anonymized": "A cross is clipped into the penalty area by [PLAYER] ([TEAM]) but poses no threat. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "visibility": "shown",
+            "position": "1663000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 26:17",
+            "label": "substitution",
+            "description": "Thomas Tuchel has decided to introduce fresh legs, with Ousmane Dembele (Dortmund) replacing Pierre-Emerick Aubameyang.",
+            "identified": "[COACH_CQTUFgPk] has decided to introduce fresh legs, with [PLAYER_zsMC2Ec0] ([TEAM_]) replacing [PLAYER_Wl4EyKZk].",
+            "anonymized": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+            "visibility": "shown",
+            "position": "1577000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:54",
+            "label": "",
+            "description": "Julian Weigl (Dortmund) is obviously not following the Golden Rule: \u201eTreat others as you want to be treated.\u201c He makes a bad challenge and leaves Felix Zwayer with no other option than to blow for a foul.",
+            "identified": "[PLAYER_2wwMMwAa] ([TEAM_]) is obviously not following the Golden Rule: \u201eTreat others as you want to be treated.\u201c He makes a bad challenge and leaves [REFEREE] with no other option than to blow for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) is obviously not following the Golden Rule: \u201eTreat others as you want to be treated.\u201c He makes a bad challenge and leaves [REFEREE] with no other option than to blow for a foul.",
+            "visibility": "shown",
+            "position": "1554000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 23:34",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Aaron Seydel (Mainz) coming on for Fabian Frei.",
+            "identified": "The manager makes a subsitution with [PLAYER_MPOKUmG9] ([TEAM_]) coming on for [PLAYER_OxGiQnSF].",
+            "anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER].",
+            "visibility": "shown",
+            "position": "1414000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 22:14",
+            "label": "attendance",
+            "description": "The attendance is 34000.",
+            "identified": "The attendance is 34000.",
+            "anonymized": "The attendance is 34000.",
+            "visibility": "shown",
+            "position": "1334000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 20:52",
+            "label": "substitution",
+            "description": "Thomas Tuchel has decided to substitute Raphael Guerreiro and he is replaced by Mario Gotze (Dortmund).",
+            "identified": "[COACH_CQTUFgPk] has decided to substitute [PLAYER_ImhgOoOl] and he is replaced by [PLAYER_veaF8P5m] ([TEAM_]).",
+            "anonymized": "[COACH] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1252000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:07",
+            "label": "",
+            "description": "Pierre-Emerick Aubameyang (Dortmund) wins some space for himself around the penalty spot and manages to produce a promising header. One of the defenders stops his effort before it gets to the goalkeeper, making him redundant.",
+            "identified": "[PLAYER_Wl4EyKZk] ([TEAM_]) wins some space for himself around the penalty spot and manages to produce a promising header. One of the defenders stops his effort before it gets to the goalkeeper, making him redundant.",
+            "anonymized": "[PLAYER] ([TEAM]) wins some space for himself around the penalty spot and manages to produce a promising header. One of the defenders stops his effort before it gets to the goalkeeper, making him redundant.",
+            "visibility": "shown",
+            "position": "1207000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:33",
+            "label": "",
+            "description": "Great teamplay by Dortmund as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",
+            "identified": "Great teamplay by [TEAM_] as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",
+            "anonymized": "Great teamplay by [TEAM] as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",
+            "visibility": "shown",
+            "position": "1173000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 16:14",
+            "label": "substitution",
+            "description": "Substitution.  in, Jean-Philippe Gbamin (Mainz) out.",
+            "identified": "Substitution.  in, [PLAYER_WjUrTxY1] ([TEAM_]) out.",
+            "anonymized": "Substitution.  in, [PLAYER] ([TEAM]) out.",
+            "visibility": "shown",
+            "position": "974000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:52",
+            "label": "",
+            "description": "Lukasz Piszczek (Dortmund) gets his head on the corner, but he can't find the target as his header flies high over the crossbar.",
+            "identified": "[PLAYER_AZgM33p0] ([TEAM_]) gets his head on the corner, but he can't find the target as his header flies high over the crossbar.",
+            "anonymized": "[PLAYER] ([TEAM]) gets his head on the corner, but he can't find the target as his header flies high over the crossbar.",
+            "visibility": "shown",
+            "position": "952000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:35",
+            "label": "corner",
+            "description": "Raphael Guerreiro (Dortmund) is heading toward the corner flag to take the set piece.",
+            "identified": "[PLAYER_ImhgOoOl] ([TEAM_]) is heading toward the corner flag to take the set piece.",
+            "anonymized": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece.",
+            "visibility": "shown",
+            "position": "935000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 15:08",
+            "label": "",
+            "description": "Andre Schurrle (Dortmund) announces himself with a close-range shot after a cross, but one of the defenders gets in the way of the ball to thwart him. The referee points to the corner flag and Dortmund will take a corner.",
+            "identified": "[PLAYER_SUtZhkKF] ([TEAM_]) announces himself with a close-range shot after a cross, but one of the defenders gets in the way of the ball to thwart him. The referee points to the corner flag and [TEAM_] will take a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) announces himself with a close-range shot after a cross, but one of the defenders gets in the way of the ball to thwart him. The referee points to the corner flag and [TEAM] will take a corner.",
+            "visibility": "shown",
+            "position": "908000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 13:59",
+            "label": "",
+            "description": "Marco Reus (Dortmund) fails to send a pass into the box as his effort is cut out.",
+            "identified": "[PLAYER_fonESekN] ([TEAM_]) fails to send a pass into the box as his effort is cut out.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out.",
+            "visibility": "shown",
+            "position": "839000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:39",
+            "label": "",
+            "description": "Fabian Frei (Mainz) finds enough space to climb high and plants a header well wide of the left post. What a poor effort.",
+            "identified": "[PLAYER_OxGiQnSF] ([TEAM_]) finds enough space to climb high and plants a header well wide of the left post. What a poor effort.",
+            "anonymized": "[PLAYER] ([TEAM]) finds enough space to climb high and plants a header well wide of the left post. What a poor effort.",
+            "visibility": "shown",
+            "position": "639000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:30",
+            "label": "corner",
+            "description": "Daniel Brosinski (Mainz) will deliver the corner kick.",
+            "identified": "[PLAYER_xSSkyg9o] ([TEAM_]) will deliver the corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) will deliver the corner kick.",
+            "visibility": "shown",
+            "position": "630000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:10",
+            "label": "",
+            "description": "Jairo Samperio (Mainz) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. Mainz earn a corner.",
+            "identified": "[PLAYER_pA68BXUl] ([TEAM_]) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. [TEAM_] earn a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. [TEAM] earn a corner.",
+            "visibility": "shown",
+            "position": "610000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:53",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) is moving okay again after that injury scare.",
+            "identified": "[PLAYER_tWNcwyFS] ([TEAM_]) is moving okay again after that injury scare.",
+            "anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare.",
+            "visibility": "shown",
+            "position": "593000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:24",
+            "label": "injury",
+            "description": "Gonzalo Castro (Dortmund) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "identified": "[PLAYER_tWNcwyFS] ([TEAM_]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "visibility": "shown",
+            "position": "564000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 08:53",
+            "label": "y-card",
+            "description": "The foul by Jean-Philippe Gbamin (Mainz) is worthy of a card and a yellow is duly shown by Felix Zwayer.",
+            "identified": "The foul by [PLAYER_WjUrTxY1] ([TEAM_]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+            "anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+            "visibility": "shown",
+            "position": "533000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:10",
+            "label": "",
+            "description": "Sokratis (Dortmund) commits a rough foul. Felix Zwayer stops the game and makes a call.",
+            "identified": "[PLAYER_SQr6hJJR] ([TEAM_]) commits a rough foul. [REFEREE] stops the game and makes a call.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call.",
+            "visibility": "shown",
+            "position": "430000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 05:10",
+            "label": "",
+            "description": "Yoshinori Muto (Mainz) trips an opposition player and Felix Zwayer signals a foul.",
+            "identified": "[PLAYER_8bbTIqDq] ([TEAM_]) trips an opposition player and [REFEREE] signals a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul.",
+            "visibility": "shown",
+            "position": "310000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:51",
+            "label": "",
+            "description": "The free kick is taken by Levin Oztunali (Mainz), but ball is cleared.",
+            "identified": "The free kick is taken by [PLAYER_f59jliZi] ([TEAM_]), but ball is cleared.",
+            "anonymized": "The free kick is taken by [PLAYER] ([TEAM]), but ball is cleared.",
+            "visibility": "shown",
+            "position": "171000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:27",
+            "label": "",
+            "description": "Raphael Guerreiro (Dortmund) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "identified": "[PLAYER_ImhgOoOl] ([TEAM_]) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "anonymized": "[PLAYER] ([TEAM]) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "visibility": "shown",
+            "position": "147000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:12",
+            "label": "",
+            "description": "Levin Oztunali (Mainz) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "identified": "[PLAYER_f59jliZi] ([TEAM_]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "visibility": "shown",
+            "position": "132000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Felix Zwayer blows his whistle and the second half starts.",
+            "identified": "[REFEREE] blows his whistle and the second half starts.",
+            "anonymized": "[REFEREE] blows his whistle and the second half starts.",
+            "visibility": "shown",
+            "position": "1000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "Let's hope the players will show us more in the second half as the first one has been rather ordinary, devoid of goalscoring opportunities. The game is quite balanced. Both teams are attempting to hold onto the ball for as long as possible.",
+            "identified": "Let's hope the players will show us more in the second half as the first one has been rather ordinary, devoid of goalscoring opportunities. The game is quite balanced. Both teams are attempting to hold onto the ball for as long as possible.",
+            "anonymized": "Let's hope the players will show us more in the second half as the first one has been rather ordinary, devoid of goalscoring opportunities. The game is quite balanced. Both teams are attempting to hold onto the ball for as long as possible.",
+            "visibility": "shown",
+            "position": "2759000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 45:01",
+            "label": "whistle",
+            "description": "The end of the first half.",
+            "identified": "The end of the first half.",
+            "anonymized": "The end of the first half.",
+            "visibility": "shown",
+            "position": "2701000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 44:01",
+            "label": "",
+            "description": "Lukasz Piszczek (Dortmund) connects with the corner kick around the penalty spot, but steers his header inches over the bar.",
+            "identified": "[PLAYER_AZgM33p0] ([TEAM_]) connects with the corner kick around the penalty spot, but steers his header inches over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) connects with the corner kick around the penalty spot, but steers his header inches over the bar.",
+            "visibility": "shown",
+            "position": "2641000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:46",
+            "label": "corner",
+            "description": "Marco Reus (Dortmund) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+            "identified": "[PLAYER_fonESekN] ([TEAM_]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+            "anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+            "visibility": "shown",
+            "position": "2626000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:18",
+            "label": "",
+            "description": "Sokratis (Dortmund) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders. The referee and one of his assistants signal for a corner kick to Dortmund.",
+            "identified": "[PLAYER_SQr6hJJR] ([TEAM_]) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders. The referee and one of his assistants signal for a corner kick to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders. The referee and one of his assistants signal for a corner kick to [TEAM].",
+            "visibility": "shown",
+            "position": "2598000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:57",
+            "label": "corner",
+            "description": "Dortmund work the corner short. The ball is passed to a nearby teammate.",
+            "identified": "[TEAM_] work the corner short. The ball is passed to a nearby teammate.",
+            "anonymized": "[TEAM] work the corner short. The ball is passed to a nearby teammate.",
+            "visibility": "shown",
+            "position": "2577000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:39",
+            "label": "",
+            "description": "Pierre-Emerick Aubameyang (Dortmund) looks to break free, but an opposing player clears the ball away. The ball is out of play. Dortmund win a corner kick.",
+            "identified": "[PLAYER_Wl4EyKZk] ([TEAM_]) looks to break free, but an opposing player clears the ball away. The ball is out of play. [TEAM_] win a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The ball is out of play. [TEAM] win a corner kick.",
+            "visibility": "shown",
+            "position": "2559000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:23",
+            "label": "",
+            "description": "Marco Reus (Dortmund) fouls an opponent. At least that's what referee Felix Zwayer signals.",
+            "identified": "[PLAYER_fonESekN] ([TEAM_]) fouls an opponent. At least that's what referee [REFEREE] signals.",
+            "anonymized": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals.",
+            "visibility": "shown",
+            "position": "2483000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:09",
+            "label": "",
+            "description": "Matthias Ginter (Dortmund) sends a cross into the box, but Jonas Lossl comes off his line to gather the ball.",
+            "identified": "[PLAYER_27fpNoQk] ([TEAM_]) sends a cross into the box, but [PLAYER_63jKLoYD] comes off his line to gather the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball.",
+            "visibility": "shown",
+            "position": "2469000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 39:28",
+            "label": "",
+            "description": "The Dortmund players are exchanging some short passes.",
+            "identified": "The [TEAM_] players are exchanging some short passes.",
+            "anonymized": "The [TEAM] players are exchanging some short passes.",
+            "visibility": "shown",
+            "position": "2368000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:44",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) sends a long ball in, but Jonas Lossl comfortably gathers the ball.",
+            "identified": "[PLAYER_n3VwNCjb] ([TEAM_]) sends a long ball in, but [PLAYER_63jKLoYD] comfortably gathers the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball.",
+            "visibility": "shown",
+            "position": "2144000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:01",
+            "label": "",
+            "description": "Felix Zwayer has a clear sight and sees a foul from Yoshinori Muto (Mainz).",
+            "identified": "[REFEREE] has a clear sight and sees a foul from [PLAYER_8bbTIqDq] ([TEAM_]).",
+            "anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1921000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:20",
+            "label": "corner",
+            "description": "The resulting corner from Raphael Guerreiro (Dortmund) comes to nothing.",
+            "identified": "The resulting corner from [PLAYER_ImhgOoOl] ([TEAM_]) comes to nothing.",
+            "anonymized": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing.",
+            "visibility": "shown",
+            "position": "1760000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:03",
+            "label": "",
+            "description": "Andre Schurrle (Dortmund) sends a pass into the box, but his attempt is thwarted and cleared. The referee blows his whistle, Dortmund are awarded a corner kick.",
+            "identified": "[PLAYER_SUtZhkKF] ([TEAM_]) sends a pass into the box, but his attempt is thwarted and cleared. The referee blows his whistle, [TEAM_] are awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "1743000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:07",
+            "label": "",
+            "description": "One of the players from Mainz times his run too early and the referee blows his whistle for offside.",
+            "identified": "One of the players from [TEAM_] times his run too early and the referee blows his whistle for offside.",
+            "anonymized": "One of the players from [TEAM] times his run too early and the referee blows his whistle for offside.",
+            "visibility": "shown",
+            "position": "1567000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 25:35",
+            "label": "",
+            "description": "Marco Reus (Dortmund) commits a foul and Felix Zwayer immediately signals a free kick.",
+            "identified": "[PLAYER_fonESekN] ([TEAM_]) commits a foul and [REFEREE] immediately signals a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick.",
+            "visibility": "shown",
+            "position": "1535000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:34",
+            "label": "",
+            "description": "A pass from Raphael Guerreiro (Dortmund) is intercepted by Jonas Lossl and the move breaks down.",
+            "identified": "A pass from [PLAYER_ImhgOoOl] ([TEAM_]) is intercepted by [PLAYER_63jKLoYD] and the move breaks down.",
+            "anonymized": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down.",
+            "visibility": "shown",
+            "position": "1414000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:44",
+            "label": "",
+            "description": "Raphael Guerreiro (Dortmund) sets the ball for the free kick from 25 metres out. His attempt is aimed under the crossbar, but Jonas Lossl is alert and makes a save.",
+            "identified": "[PLAYER_ImhgOoOl] ([TEAM_]) sets the ball for the free kick from 25 metres out. His attempt is aimed under the crossbar, but [PLAYER_63jKLoYD] is alert and makes a save.",
+            "anonymized": "[PLAYER] ([TEAM]) sets the ball for the free kick from 25 metres out. His attempt is aimed under the crossbar, but [PLAYER] is alert and makes a save.",
+            "visibility": "shown",
+            "position": "1364000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 21:12",
+            "label": "",
+            "description": "It looks like Stefan Bell (Mainz) saw red with that tackle. Felix Zwayer won't tolerate such behaviour on the pitch and blows for a foul. Dortmund win a free kick. It's a promising situation for a direct shot.",
+            "identified": "It looks like [PLAYER_EilL1urA] ([TEAM_]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul. [TEAM_] win a free kick. It's a promising situation for a direct shot.",
+            "anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul. [TEAM] win a free kick. It's a promising situation for a direct shot.",
+            "visibility": "shown",
+            "position": "1272000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 20:00",
+            "label": "",
+            "description": "Andre Schurrle (Dortmund) unleashes a shot, but his effort is poor and floats high over the bar.",
+            "identified": "[PLAYER_SUtZhkKF] ([TEAM_]) unleashes a shot, but his effort is poor and floats high over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a shot, but his effort is poor and floats high over the bar.",
+            "visibility": "shown",
+            "position": "1200000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:52",
+            "label": "",
+            "description": "Levin Oztunali (Mainz) fires the ball at goal from inside the area, but it's well blocked.",
+            "identified": "[PLAYER_f59jliZi] ([TEAM_]) fires the ball at goal from inside the area, but it's well blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) fires the ball at goal from inside the area, but it's well blocked.",
+            "visibility": "shown",
+            "position": "1132000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:44",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) gets to the rebound outside the box and doesn't hesitate to shoot on goal. It was a promising attempt, but one of the defending players got in the way and blocked it.",
+            "identified": "[PLAYER_n3VwNCjb] ([TEAM_]) gets to the rebound outside the box and doesn't hesitate to shoot on goal. It was a promising attempt, but one of the defending players got in the way and blocked it.",
+            "anonymized": "[PLAYER] ([TEAM]) gets to the rebound outside the box and doesn't hesitate to shoot on goal. It was a promising attempt, but one of the defending players got in the way and blocked it.",
+            "visibility": "shown",
+            "position": "1064000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:53",
+            "label": "",
+            "description": "Marco Reus (Dortmund) times his run too early and the linesman raises his flag for offside.",
+            "identified": "[PLAYER_fonESekN] ([TEAM_]) times his run too early and the linesman raises his flag for offside.",
+            "anonymized": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside.",
+            "visibility": "shown",
+            "position": "953000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:40",
+            "label": "",
+            "description": "Jairo Samperio (Mainz) fails to beat the offside trap and the linesman puts his flag up.",
+            "identified": "[PLAYER_pA68BXUl] ([TEAM_]) fails to beat the offside trap and the linesman puts his flag up.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up.",
+            "visibility": "shown",
+            "position": "880000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 14:14",
+            "label": "",
+            "description": "The assistant referee raises his flag and the referee blows his whistle. Yoshinori Muto (Mainz) puts the ball into the net, but he is flagged for offside.",
+            "identified": "The assistant referee raises his flag and the referee blows his whistle. [PLAYER_8bbTIqDq] ([TEAM_]) puts the ball into the net, but he is flagged for offside.",
+            "anonymized": "The assistant referee raises his flag and the referee blows his whistle. [PLAYER] ([TEAM]) puts the ball into the net, but he is flagged for offside.",
+            "visibility": "shown",
+            "position": "854000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:51",
+            "label": "corner",
+            "description": "The corner from Daniel Brosinski (Mainz) is intercepted by Roman Burki.",
+            "identified": "The corner from [PLAYER_xSSkyg9o] ([TEAM_]) is intercepted by [PLAYER_x6gzWUIk].",
+            "anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by [PLAYER].",
+            "visibility": "shown",
+            "position": "831000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:26",
+            "label": "",
+            "description": "Daniel Brosinski (Mainz) has the ability to send the ball deep into the penalty area from throw-ins and it can lead to very promising situations for his team.",
+            "identified": "[PLAYER_xSSkyg9o] ([TEAM_]) has the ability to send the ball deep into the penalty area from throw-ins and it can lead to very promising situations for his team.",
+            "anonymized": "[PLAYER] ([TEAM]) has the ability to send the ball deep into the penalty area from throw-ins and it can lead to very promising situations for his team.",
+            "visibility": "shown",
+            "position": "806000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:43",
+            "label": "",
+            "description": "Giulio Donati (Mainz) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "identified": "[PLAYER_z7ECMaKs] ([TEAM_]) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "visibility": "shown",
+            "position": "703000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:13",
+            "label": "",
+            "description": "Poor challenge! Gonzalo Castro (Dortmund) is penalised for tripping and Felix Zwayer blows his whistle.",
+            "identified": "Poor challenge! [PLAYER_tWNcwyFS] ([TEAM_]) is penalised for tripping and [REFEREE] blows his whistle.",
+            "anonymized": "Poor challenge! [PLAYER] ([TEAM]) is penalised for tripping and [REFEREE] blows his whistle.",
+            "visibility": "shown",
+            "position": "673000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:48",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+            "identified": "[PLAYER_tWNcwyFS] ([TEAM_]) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+            "visibility": "shown",
+            "position": "648000"
+        }
+    ]
+}

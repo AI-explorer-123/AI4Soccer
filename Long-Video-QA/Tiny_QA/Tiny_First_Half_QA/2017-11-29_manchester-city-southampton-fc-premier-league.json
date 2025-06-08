@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Vincent Kompany",
+      "B. Player B",
+      "C. Player C",
+      "D. Player D"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 5,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Ryan Bertrand",
+      "B. Kevin De Bruyne",
+      "C. Oriol Romeu",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      3,
+      4,
+      6
+    ],
+    "current_event_index": 1,
+    "index": 8,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "D",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  }
+]

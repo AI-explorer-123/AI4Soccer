@@ -1,0 +1,352 @@
+[
+  {
+    "question": "How many goals have occurred so far in the first half up to the 43:04 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored a goal in the first half up to the 43:04 mark?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Maxim Choupo-Moting",
+      "B. Marcus Rashford",
+      "C. Mame Diouf",
+      "D. Paul Pogba"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      9
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the first half?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Both teams had equal goals",
+      "D. Neither team scored"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      7,
+      9
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who were all the players involved in first half goals?",
+    "choices": [
+      "A. Maxim Choupo-Moting and Marcus Rashford",
+      "B. Mame Diouf and Paul Pogba",
+      "C. Maxim Choupo-Moting and Paul Pogba",
+      "D. Marcus Rashford and Mame Diouf"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      7,
+      9
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half after the 43:04 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 7,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal after the 43:04 mark?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 7,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal after the 43:04 mark?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Maxim Choupo-Moting",
+      "C. Mame Diouf",
+      "D. Paul Pogba"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 7,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 3rd minute?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 5th minute?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners in the first half up to the 19th minute?",
+    "choices": [
+      "A. Xherdan Shaqiri",
+      "B. Henrikh Mkhitaryan",
+      "C. Antonio Valencia",
+      "D. Mame Diouf"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      3
+    ],
+    "current_event_index": 3,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 3",
+      "B. 5",
+      "C. 7",
+      "D. 9"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Both teams had equal corners",
+      "D. Neither team had corners"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Xherdan Shaqiri",
+      "B. Henrikh Mkhitaryan",
+      "C. Antonio Valencia",
+      "D. Mame Diouf"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 30th minute?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      6,
+      8
+    ],
+    "current_event_index": 4,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 30th minute?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      6,
+      8
+    ],
+    "current_event_index": 4,
+    "index": 8,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after the 30th minute?",
+    "choices": [
+      "A. Xherdan Shaqiri",
+      "B. Henrikh Mkhitaryan",
+      "C. Antonio Valencia",
+      "D. Mame Diouf"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      6,
+      8
+    ],
+    "current_event_index": 4,
+    "index": 9,
+    "event_type": "corner"
+  }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "question": "Who was the first player to score in the match?",
+    "choices": [
+      "A. Bernardo Silva",
+      "B. David Silva",
+      "C. Leroy Sane",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred so far in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 0"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals in the first half up to now?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Has Bernardo Silva scored multiple goals?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the second goal for Manchester City?",
+    "choices": [
+      "A. Bernardo Silva",
+      "B. David Silva",
+      "C. Leroy Sane",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred so far in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 0"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals in the first half up to now?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Has David Silva scored multiple goals?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the third goal for Manchester City?",
+    "choices": [
+      "A. Bernardo Silva",
+      "B. David Silva",
+      "C. Leroy Sane",
+      "D. None of the above"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 6,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 0"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      4,
+      6
+    ],
+    "current_event_index": null,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the first half?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      4,
+      6
+    ],
+    "current_event_index": null,
+    "index": 10,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player was involved in the most goals in the first half?",
+    "choices": [
+      "A. Bernardo Silva",
+      "B. David Silva",
+      "C. Leroy Sane",
+      "D. None of the above"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      4,
+      6
+    ],
+    "current_event_index": null,
+    "index": 11,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      4,
+      6
+    ],
+    "current_event_index": 1,
+    "index": 12,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      4,
+      6
+    ],
+    "current_event_index": 1,
+    "index": 13,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Bernardo Silva",
+      "B. David Silva",
+      "C. Leroy Sane",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 1,
+    "index": 14,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 4,
+    "index": 15,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Manchester City",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 4,
+    "index": 16,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Bernardo Silva",
+      "B. David Silva",
+      "C. Leroy Sane",
+      "D. None of the above"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 4,
+    "index": 17,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far in the first half up to the 18:17 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had a player booked first in the first half?",
+    "choices": [
+      "A. Manchester City",
+      "B. Arsenal",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": null,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be another yellow card in the first half after the 18:17 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 2,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who was the first player to receive a yellow card in the first half?",
+    "choices": [
+      "A. Nicolas Otamendi",
+      "B. Sead Kolasinac",
+      "C. No players",
+      "D. Both players"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many Manchester City players were booked in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Did Sead Kolasinac receive a yellow card before the 31:38 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team received more yellow cards in the first half?",
+    "choices": [
+      "A. Manchester City",
+      "B. Arsenal",
+      "C. Both teams had the same",
+      "D. Neither team"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will Nicolas Otamendi receive another yellow card before half-time after the 18:17 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 2,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": null,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player was involved in the second yellow card of the first half?",
+    "choices": [
+      "A. Nicolas Otamendi",
+      "B. Sead Kolasinac",
+      "C. No players",
+      "D. Both players"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": null,
+    "index": 9,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "At what point in the first half was the first yellow card awarded?",
+    "choices": [
+      "A. 18:17",
+      "B. 31:38",
+      "C. 45:00",
+      "D. No yellow cards"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": null,
+    "index": 10,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Did Arsenal have any players booked in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": null,
+    "index": 11,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will Arsenal receive another yellow card before half-time after the 31:38 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 5,
+    "index": 12,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 09:58 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 09:58 mark?",
+    "choices": [
+      "A. Manchester City",
+      "B. Arsenal",
+      "C. Neither",
+      "D. Both"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners in the first half up to the 09:58 mark?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. Granit Xhaka",
+      "C. Mesut Ozil",
+      "D. Henrikh Mkhitaryan"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      3,
+      7,
+      8,
+      9
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Manchester City",
+      "B. Arsenal",
+      "C. Neither",
+      "D. Both"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      3,
+      7,
+      8,
+      9
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. Granit Xhaka",
+      "C. Mesut Ozil",
+      "D. Henrikh Mkhitaryan"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      3,
+      7,
+      8,
+      9
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 09:58 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      3,
+      7,
+      8,
+      9
+    ],
+    "current_event_index": 0,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 09:58 mark?",
+    "choices": [
+      "A. Manchester City",
+      "B. Arsenal",
+      "C. Neither",
+      "D. Both"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      3,
+      7,
+      8,
+      9
+    ],
+    "current_event_index": 0,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after the 09:58 mark?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. Granit Xhaka",
+      "C. Mesut Ozil",
+      "D. Henrikh Mkhitaryan"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      3,
+      7,
+      8,
+      9
+    ],
+    "current_event_index": 0,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

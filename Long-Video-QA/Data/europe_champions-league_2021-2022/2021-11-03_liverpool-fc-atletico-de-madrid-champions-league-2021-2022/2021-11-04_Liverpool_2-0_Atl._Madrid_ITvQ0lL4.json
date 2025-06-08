@@ -1,0 +1,883 @@
+{
+  "match_info": {
+    "timestamp": "2021-11-04 04:00:00",
+    "score": "2 - 0",
+    "home_team": "Liverpool",
+    "away_team": "Atl. Madrid",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "3 - 5 - 2",
+    "venue": "Anfield (Liverpool)",
+    "capacity": "61 276",
+    "attendance": "51 347"
+  },
+  "referee_data": {
+    "short_name_country": "Makkelie D. (Ned)",
+    "first_name": "Makkelie",
+    "abbr_last_name": "D",
+    "country": "Ned",
+    "detected_name": "Danny Makkelie"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Simeone D.",
+        "players_number": "",
+        "Full Name": "Diego Simeone",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "coach",
+        "Age and Birthdate": "53,  (28.04.1970)",
+        "Market Value": "",
+        "unicode": "AZ18LjKN"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Griezmann A.",
+        "players_number": "",
+        "Full Name": "Antoine Griezmann",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (21.03.1991)",
+        "Market Value": "€26.9m",
+        "unicode": "OxCa1jdT"
+      },
+      {
+        "players_name": "Kondogbia G.",
+        "players_number": "",
+        "Full Name": "Geoffrey Kondogbia",
+        "players_rating": "",
+        "Country": "Central African Republic",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (15.02.1993)",
+        "Market Value": "€14.7m",
+        "unicode": "nZs03zT2"
+      },
+      {
+        "players_name": "Lemar T.",
+        "players_number": "",
+        "Full Name": "Thomas Lemar",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (12.11.1995)",
+        "Market Value": "€11.2m",
+        "unicode": "jX8PENMO"
+      },
+      {
+        "players_name": "Llorente M.",
+        "players_number": "",
+        "Full Name": "Marcos Llorente",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (30.01.1995)",
+        "Market Value": "€28.5m",
+        "unicode": "z3D5zvbD"
+      },
+      {
+        "players_name": "Saponjic I.",
+        "players_number": "",
+        "Full Name": "Ivan Saponjic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (02.08.1997)",
+        "Market Value": "€564k",
+        "unicode": "00JO1eE1"
+      },
+      {
+        "players_name": "Savic S.",
+        "players_number": "",
+        "Full Name": "Stefan Savic",
+        "players_rating": "",
+        "Country": "Montenegro",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (08.01.1991)",
+        "Market Value": "€4.8m",
+        "unicode": "rXcV9ZCT"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Carrasco Y.",
+        "players_number": "21",
+        "Full Name": "Yannick Carrasco",
+        "players_rating": 6.5,
+        "Country": "Belgium",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (04.09.1993)",
+        "Market Value": "€18.3m",
+        "unicode": "lzccuuAC"
+      },
+      {
+        "players_name": "Correa A.",
+        "players_number": "10",
+        "Full Name": "Angel Correa",
+        "players_rating": 6.5,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (09.03.1995)",
+        "Market Value": "€18.4m",
+        "unicode": "McWkid34"
+      },
+      {
+        "players_name": "de Paul R.",
+        "players_number": "5",
+        "Full Name": "Rodrigo de Paul",
+        "players_rating": 6.6,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (24.05.1994)",
+        "Market Value": "€30.2m",
+        "unicode": "AZ6TTjDC"
+      },
+      {
+        "players_name": "Felipe",
+        "players_number": "18",
+        "Full Name": "Felipe",
+        "players_rating": 4.7,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (16.05.1989)",
+        "Market Value": "€1.4m",
+        "unicode": "I36MmA04"
+      },
+      {
+        "players_name": "Gimenez J. M.",
+        "players_number": "2",
+        "Full Name": "Jose Maria Gimenez",
+        "players_rating": 5.9,
+        "Country": "Uruguay",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (20.01.1995)",
+        "Market Value": "€28.9m",
+        "unicode": "IgRLzKhM"
+      },
+      {
+        "players_name": "Hermoso M.",
+        "players_number": "22",
+        "Full Name": "Mario Hermoso",
+        "players_rating": 6.9,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (18.06.1995)",
+        "Market Value": "€25.2m",
+        "unicode": "OUjnz4Ab"
+      },
+      {
+        "players_name": "Joao Felix",
+        "players_number": "7",
+        "Full Name": "Joao Felix",
+        "players_rating": 6.1,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (10.11.1999)",
+        "Market Value": "€39.7m",
+        "unicode": "KI3YXMhi"
+      },
+      {
+        "players_name": "Koke (C)",
+        "players_number": "6",
+        "Full Name": "Koke",
+        "players_rating": 6.3,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (08.01.1992)",
+        "Market Value": "€13.3m",
+        "unicode": "v9hLv1xJ"
+      },
+      {
+        "players_name": "Oblak J. (G)",
+        "players_number": "13",
+        "Full Name": "Jan Oblak",
+        "players_rating": 6.6,
+        "Country": "Slovenia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (07.01.1993)",
+        "Market Value": "€32.8m",
+        "unicode": "SYy8ZHN9"
+      },
+      {
+        "players_name": "Suarez L.",
+        "players_number": "9",
+        "Full Name": "Luis Suarez",
+        "players_rating": 5.9,
+        "Country": "Uruguay",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (24.01.1987)",
+        "Market Value": "€3.8m",
+        "unicode": "dUShzrBp"
+      },
+      {
+        "players_name": "Trippier K.",
+        "players_number": "23",
+        "Full Name": "Kieran Trippier",
+        "players_rating": 6.5,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (19.09.1990)",
+        "Market Value": "€11.1m",
+        "unicode": "GMqWRFGS"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Cunha M.",
+        "players_number": "19",
+        "Full Name": "Matheus Cunha",
+        "players_rating": 6.4,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (27.05.1999)",
+        "Market Value": "€30.4m",
+        "unicode": "bq5QzRdb"
+      },
+      {
+        "players_name": "Herrera H.",
+        "players_number": "16",
+        "Full Name": "Hector Herrera",
+        "players_rating": 6.4,
+        "Country": "Mexico",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (19.04.1990)",
+        "Market Value": "€2.5m",
+        "unicode": "QssIzJ9S"
+      },
+      {
+        "players_name": "Lodi R.",
+        "players_number": "12",
+        "Full Name": "Renan Lodi",
+        "players_rating": 6.2,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (08.04.1998)",
+        "Market Value": "€18.7m",
+        "unicode": "6cYKHEPT"
+      },
+      {
+        "players_name": "Serrano J.",
+        "players_number": "26",
+        "Full Name": "Javier Serrano",
+        "players_rating": 6.1,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (16.01.2003)",
+        "Market Value": "€625k",
+        "unicode": "8CCR7W2Q"
+      },
+      {
+        "players_name": "Vrsaljko S.",
+        "players_number": "24",
+        "Full Name": "Sime Vrsaljko",
+        "players_rating": 6.3,
+        "Country": "Croatia",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (10.01.1992)",
+        "Market Value": "",
+        "unicode": "QeDP63jB"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Gonzalez F.",
+        "players_number": "38",
+        "Full Name": "Fran Gonzalez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (13.08.1998)",
+        "Market Value": "",
+        "unicode": "AJmYEzo1"
+      },
+      {
+        "players_name": "Iturbe A. (G)",
+        "players_number": "33",
+        "Full Name": "Alejandro Iturbe",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "20, (02.09.2003)",
+        "Market Value": "30.06.2027",
+        "unicode": "29aQRcre"
+      },
+      {
+        "players_name": "Lecomte B. (G)",
+        "players_number": "1",
+        "Full Name": "Benjamin Lecomte",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (26.04.1991)",
+        "Market Value": "€3.9m",
+        "unicode": "Qe5HfcWe"
+      },
+      {
+        "players_name": "Martin C.",
+        "players_number": "36",
+        "Full Name": "Carlos Martin",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (22.04.2002)",
+        "Market Value": " (Until: 30.06.2024)",
+        "unicode": "dnvBgOsP"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Klopp J.",
+        "players_number": "",
+        "Full Name": "Jurgen Klopp",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "56,  (16.06.1967)",
+        "Market Value": "",
+        "unicode": "x6CvOHH9"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Elliott H.",
+        "players_number": "",
+        "Full Name": "Harvey Elliott",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (04.04.2003)",
+        "Market Value": "€28.9m",
+        "unicode": "nBSzcorC"
+      },
+      {
+        "players_name": "Keita N.",
+        "players_number": "",
+        "Full Name": "Naby Keita",
+        "players_rating": "",
+        "Country": "Guinea",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (10.02.1995)",
+        "Market Value": "€5.5m",
+        "unicode": "4MB78NvI"
+      },
+      {
+        "players_name": "Milner J.",
+        "players_number": "",
+        "Full Name": "James Milner",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "38, (04.01.1986)",
+        "Market Value": "€936k",
+        "unicode": "QLY3kAEt"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Alexander-Arnold T.",
+        "players_number": "66",
+        "Full Name": "Trent Alexander-Arnold",
+        "players_rating": 9.3,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (07.10.1998)",
+        "Market Value": "€71.5m",
+        "unicode": "CEVJy6Bc"
+      },
+      {
+        "players_name": "Alisson (G)",
+        "players_number": "1",
+        "Full Name": "Alisson",
+        "players_rating": 6.6,
+        "Country": "Brazil",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (02.10.1992)",
+        "Market Value": "€31.5m",
+        "unicode": "UZrQ3bwP"
+      },
+      {
+        "players_name": "Diogo Jota",
+        "players_number": "20",
+        "Full Name": "Diogo Jota",
+        "players_rating": 7.3,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (04.12.1996)",
+        "Market Value": "€50.3m",
+        "unicode": "lr5I22zF"
+      },
+      {
+        "players_name": "Fabinho",
+        "players_number": "3",
+        "Full Name": "Fabinho",
+        "players_rating": 7.3,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (23.10.1993)",
+        "Market Value": "€33.3m",
+        "unicode": "nqldMgYf"
+      },
+      {
+        "players_name": "Henderson J. (C)",
+        "players_number": "14",
+        "Full Name": "Jordan Henderson",
+        "players_rating": 7.2,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (17.06.1990)",
+        "Market Value": "€7.3m",
+        "unicode": "UFMlUD6r"
+      },
+      {
+        "players_name": "Mane S.",
+        "players_number": "10",
+        "Full Name": "Sadio Mane",
+        "players_rating": 7.2,
+        "Country": "Senegal",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (10.04.1992)",
+        "Market Value": "€21.6m",
+        "unicode": "xxskxOU0"
+      },
+      {
+        "players_name": "Matip J.",
+        "players_number": "32",
+        "Full Name": "Joel Matip",
+        "players_rating": 6.5,
+        "Country": "Cameroon",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (08.08.1991)",
+        "Market Value": "€7.8m",
+        "unicode": "tpHWp8Am"
+      },
+      {
+        "players_name": "Oxlade-Chamberlain A.",
+        "players_number": "15",
+        "Full Name": "Alex Oxlade-Chamberlain",
+        "players_rating": 7.6,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (15.08.1993)",
+        "Market Value": "€5.7m",
+        "unicode": "WzNLf7VR"
+      },
+      {
+        "players_name": "Salah M.",
+        "players_number": "11",
+        "Full Name": "Mohamed Salah",
+        "players_rating": 7.6,
+        "Country": "Egypt",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (15.06.1992)",
+        "Market Value": "€69.1m",
+        "unicode": "08FBycgB"
+      },
+      {
+        "players_name": "Tsimikas K.",
+        "players_number": "21",
+        "Full Name": "Konstantinos Tsimikas",
+        "players_rating": 8.4,
+        "Country": "Greece",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (12.05.1996)",
+        "Market Value": "€22.5m",
+        "unicode": "SEyNdMro"
+      },
+      {
+        "players_name": "van Dijk V.",
+        "players_number": "4",
+        "Full Name": "Virgil van Dijk",
+        "players_rating": 7.4,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (08.07.1991)",
+        "Market Value": "€32.2m",
+        "unicode": "U59RNqOr"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Firmino R.",
+        "players_number": "9",
+        "Full Name": "Roberto Firmino",
+        "players_rating": 6.3,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (02.10.1991)",
+        "Market Value": "€9.7m",
+        "unicode": "CCNtplZe"
+      },
+      {
+        "players_name": "Minamino T.",
+        "players_number": "18",
+        "Full Name": "Takumi Minamino",
+        "players_rating": 6.4,
+        "Country": "Japan",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (16.01.1995)",
+        "Market Value": "€11.7m",
+        "unicode": "hIwtloy3"
+      },
+      {
+        "players_name": "Origi D.",
+        "players_number": "27",
+        "Full Name": "Divock Origi",
+        "players_rating": 6.2,
+        "Country": "Belgium",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (18.04.1995)",
+        "Market Value": "€4.5m",
+        "unicode": "jeRaNgKg"
+      },
+      {
+        "players_name": "Phillips N.",
+        "players_number": "47",
+        "Full Name": "Nathaniel Phillips",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (21.03.1997)",
+        "Market Value": "€4.0m",
+        "unicode": "bHnuxZoS"
+      },
+      {
+        "players_name": "Thiago",
+        "players_number": "6",
+        "Full Name": "Thiago",
+        "players_rating": 6.6,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (11.04.1991)",
+        "Market Value": "€9.8m",
+        "unicode": "vcSKqUSq"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Adrian (G)",
+        "players_number": "13",
+        "Full Name": "Adrian",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (03.01.1987)",
+        "Market Value": "30.06.2024",
+        "unicode": "CEm70uDg"
+      },
+      {
+        "players_name": "Kelleher C. (G)",
+        "players_number": "62",
+        "Full Name": "Caoimhin Kelleher",
+        "players_rating": "",
+        "Country": "Ireland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "25, (23.11.1998)",
+        "Market Value": "€14.3m",
+        "unicode": "4S8JqWN0"
+      },
+      {
+        "players_name": "Konate I.",
+        "players_number": "5",
+        "Full Name": "Ibrahima Konate",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (25.05.1999)",
+        "Market Value": "€37.7m",
+        "unicode": "QJlbDbQe"
+      },
+      {
+        "players_name": "Morton T.",
+        "players_number": "80",
+        "Full Name": "Tyler Morton",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (31.10.2002)",
+        "Market Value": "€7.9m",
+        "unicode": "40d4JF8O"
+      },
+      {
+        "players_name": "Robertson A.",
+        "players_number": "26",
+        "Full Name": "Andrew Robertson",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (11.03.1994)",
+        "Market Value": "€34.3m",
+        "unicode": "6e7Be9VI"
+      },
+      {
+        "players_name": "Williams N.",
+        "players_number": "76",
+        "Full Name": "Neco Williams",
+        "players_rating": "",
+        "Country": "Wales",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (13.04.2001)",
+        "Market Value": "€16.4m",
+        "unicode": "YVxu86Hs"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "07:48",
+      "comments_type": "yellow card",
+      "comments_text": "Mario Hermoso (Atl. Madrid) is booked by the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked by the referee.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "11:07",
+      "comments_type": "corner",
+      "comments_text": "Luis Suarez (Atl. Madrid) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Atl. Madrid have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "11:32",
+      "comments_type": "corner",
+      "comments_text": "Joao Felix (Atl. Madrid) takes a short corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a short corner kick.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "12:53",
+      "comments_type": "goal",
+      "comments_text": "It's a goal! Diogo Jota (Liverpool) bursts into the box to get on the end of a whipped in cross from Trent Alexander-Arnold and scores magnificently from close range into the left side of the goal. 1:0.",
+      "comments_text_anonymized": "It's a goal! [PLAYER] ([TEAM]) bursts into the box to get on the end of a whipped in cross from [PLAYER] and scores magnificently from close range into the left side of the goal. 1:0.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "14:39",
+      "comments_type": "yellow card",
+      "comments_text": "The main referee, Danny Makkelie, is apparently not going to tolerate any discussions. Sadio Mane (Liverpool) is given a yellow card for dissent.",
+      "comments_text_anonymized": "The main referee, [REFEREE], is apparently not going to tolerate any discussions. [PLAYER] ([TEAM]) is given a yellow card for dissent.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "16:34",
+      "comments_type": "corner",
+      "comments_text": "Konstantinos Tsimikas (Liverpool) swings in a cross from the corner, but Jan Oblak reads it well and gathers the ball.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a cross from the corner, but [PLAYER] reads it well and gathers the ball.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "19:06",
+      "comments_type": "goal",
+      "comments_text": "The defence had a hard time blocking out the strike from Sadio Mane (Liverpool). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",
+      "comments_text_anonymized": "The defence had a hard time blocking out the strike from [PLAYER] ([TEAM]). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "20:49",
+      "comments_type": "goal",
+      "comments_text": "Goal! Sadio Mane (Liverpool) unleashes a first-time shot from inside the box and beats the goalkeeper into the bottom right corner. 2:0.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) unleashes a first-time shot from inside the box and beats the goalkeeper into the bottom right corner. 2:0.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "25:27",
+      "comments_type": "corner",
+      "comments_text": "Alisson comes off his line to intercept the corner from Angel Correa (Atl. Madrid).",
+      "comments_text_anonymized": "[PLAYER] comes off his line to intercept the corner from [PLAYER] ([TEAM]).",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:55",
+      "comments_type": "red card",
+      "comments_text": "Felipe (Atl. Madrid) cannot believe that he has been told to leave the field of play after the referee blows his whistle and sends him off!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) cannot believe that he has been told to leave the field of play after the referee blows his whistle and sends him off!",
+      "index": 9
+    },
+    {
+      "half": 1,
+      "time_stamp": "36:33",
+      "comments_type": "yellow card",
+      "comments_text": "Luis Suarez (Atl. Madrid) kept talking out of turn to the referee until Danny Makkelie lost patience and pulled out a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) kept talking out of turn to the referee until [REFEREE] lost patience and pulled out a yellow card.",
+      "index": 10
+    },
+    {
+      "half": 1,
+      "time_stamp": "37:58",
+      "comments_type": "yellow card",
+      "comments_text": "Koke (Atl. Madrid) commits a foul and is shown a yellow card without any hesitation from the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card without any hesitation from the referee.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:17",
+      "comments_type": "substitution",
+      "comments_text": "Jurgen Klopp has decided to make a substitution during the half-time break. Roberto Firmino (Liverpool) comes on the pitch for Sadio Mane.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a substitution during the half-time break. [PLAYER] ([TEAM]) comes on the pitch for [PLAYER].",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "01:30",
+      "comments_type": "corner",
+      "comments_text": "Trent Alexander-Arnold (Liverpool) takes the corner which is cleared by the opposition's defence.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared by the opposition's defence.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "02:04",
+      "comments_type": "corner",
+      "comments_text": "Trent Alexander-Arnold (Liverpool) steps up to take the corner, but the ball just sails in among the defenders.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "02:55",
+      "comments_type": "goal",
+      "comments_text": "Goal! Diogo Jota (Liverpool) has a reason to celebrate.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) has a reason to celebrate.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:58",
+      "comments_type": "yellow card",
+      "comments_text": "The foul by Joao Felix (Atl. Madrid) is worthy of a card and a yellow is duly shown by Danny Makkelie.",
+      "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:10",
+      "comments_type": "corner",
+      "comments_text": "Konstantinos Tsimikas (Liverpool) steps up to send the ball in.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to send the ball in.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:26",
+      "comments_type": "goal",
+      "comments_text": "It's a goal! Luis Suarez (Atl. Madrid) converts his effort.",
+      "comments_text_anonymized": "It's a goal! [PLAYER] ([TEAM]) converts his effort.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:45",
+      "comments_type": "substitution",
+      "comments_text": "Diego Simeone has decided to introduce fresh legs, with Hector Herrera (Atl. Madrid) replacing Luis Suarez.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:47",
+      "comments_type": "substitution",
+      "comments_text": "Today's match ends for Joao Felix (Atl. Madrid) who will be replaced by Renan Lodi.",
+      "comments_text_anonymized": "Today's match ends for [PLAYER] ([TEAM]) who will be replaced by [PLAYER].",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:58",
+      "comments_type": "substitution",
+      "comments_text": "That will be all from Fabinho who is being replaced by the fresh legs of Thiago Alcantara (Liverpool).",
+      "comments_text_anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] Alcantara ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:17",
+      "comments_type": "corner",
+      "comments_text": "The corner from Konstantinos Tsimikas (Liverpool) is intercepted by Jan Oblak.",
+      "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by [PLAYER].",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:25",
+      "comments_type": "substitution",
+      "comments_text": "It's time for a substitution. Matheus Cunha comes on in place of Koke (Atl. Madrid).",
+      "comments_text_anonymized": "It's time for a substitution. [PLAYER] comes on in place of [PLAYER] ([TEAM]).",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:43",
+      "comments_type": "substitution",
+      "comments_text": "Diego Simeone prepares a substitution. Yannick Carrasco is replaced by Sime Vrsaljko (Atl. Madrid).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:40",
+      "comments_type": "corner",
+      "comments_text": "Kieran Trippier (Atl. Madrid) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:55",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Angel Correa is going off and Diego Simeone gives the last tactical orders to Javier Serrano (Atl. Madrid).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:40",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Roberto Firmino leaves the pitch and Divock Origi (Liverpool) comes on.",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:52",
+      "comments_type": "substitution",
+      "comments_text": "Jurgen Klopp decides to make a substitution. Alex Oxlade-Chamberlain will be replaced by Takumi Minamino (Liverpool).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:59",
+      "comments_type": "yellow card",
+      "comments_text": "A yellow card for a tackle by Diogo Jota (Liverpool). Danny Makkelie doesn't hesitate at all to make this decision.",
+      "comments_text_anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "46:59",
+      "comments_type": "yellow card",
+      "comments_text": "Joel Matip (Liverpool) picks up a yellow card for a foul.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a yellow card for a foul.",
+      "index": 30
+    },
+    {
+      "half": 2,
+      "time_stamp": "48:51",
+      "comments_type": "substitution",
+      "comments_text": "Jurgen Klopp has decided to substitute Trent Alexander-Arnold (Liverpool) and he is replaced by Nathaniel Phillips.",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] ([TEAM]) and he is replaced by [PLAYER].",
+      "index": 31
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+[
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 0
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. Sadio Mane",
+      "B. Trent Alexander-Arnold",
+      "C. Simon Mignolet",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 2
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      12,
+      18
+    ],
+    "current_event_index": null,
+    "index": 3
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      12,
+      18
+    ],
+    "current_event_index": null,
+    "index": 4
+  },
+  {
+    "question": "Who were all the players involved in yellow cards?",
+    "choices": [
+      "A. Sadio Mane, Trent Alexander-Arnold",
+      "B. Sadio Mane, Simon Mignolet",
+      "C. Sadio Mane, Trent Alexander-Arnold, Simon Mignolet",
+      "D. None"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      12,
+      18
+    ],
+    "current_event_index": null,
+    "index": 5
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      12,
+      18
+    ],
+    "current_event_index": 5,
+    "index": 6
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      12,
+      18
+    ],
+    "current_event_index": 5,
+    "index": 7
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Sadio Mane",
+      "B. Trent Alexander-Arnold",
+      "C. Simon Mignolet",
+      "D. None"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 5,
+    "index": 8
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      12
+    ],
+    "current_event_index": 12,
+    "index": 9
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      12
+    ],
+    "current_event_index": 12,
+    "index": 10
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. Sadio Mane",
+      "B. Trent Alexander-Arnold",
+      "C. Simon Mignolet",
+      "D. None"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      12
+    ],
+    "current_event_index": 12,
+    "index": 11
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      18
+    ],
+    "current_event_index": 12,
+    "index": 12
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      18
+    ],
+    "current_event_index": 12,
+    "index": 13
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Sadio Mane",
+      "B. Trent Alexander-Arnold",
+      "C. Simon Mignolet",
+      "D. None"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      18
+    ],
+    "current_event_index": 12,
+    "index": 14
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      12,
+      18
+    ],
+    "current_event_index": 18,
+    "index": 15
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      12,
+      18
+    ],
+    "current_event_index": 18,
+    "index": 16
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. Sadio Mane",
+      "B. Trent Alexander-Arnold",
+      "C. Simon Mignolet",
+      "D. None"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      12,
+      18
+    ],
+    "current_event_index": 18,
+    "index": 17
+  }
+]

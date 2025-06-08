@@ -1,0 +1,880 @@
+{
+  "match_info": {
+    "timestamp": "2022-10-13 03:00:00",
+    "score": "3 - 2",
+    "home_team": "Tottenham",
+    "away_team": "Eintracht Frankfurt",
+    "home_formation": "3 - 4 - 3",
+    "away_formation": "3 - 4 - 2 - 1",
+    "venue": "Tottenham Hotspur Stadium (London)",
+    "capacity": "62 850",
+    "attendance": "55 180"
+  },
+  "referee_data": {
+    "short_name_country": "Del Cerro C. (Esp)",
+    "first_name": "Del Cerro",
+    "abbr_last_name": "C",
+    "country": "Esp",
+    "detected_name": "Carlos Del Cerro"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Glasner O.",
+        "players_number": "",
+        "Full Name": "Oliver Glasner",
+        "players_rating": "",
+        "Country": "Austria",
+        "Role": "coach",
+        "Age and Birthdate": "49,  (28.08.1974)",
+        "Market Value": "",
+        "unicode": "CznGurCt"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Buta",
+        "players_number": "",
+        "Full Name": "Buta",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (10.02.1997)",
+        "Market Value": "€7.7m",
+        "unicode": "SvBsKAPE"
+      },
+      {
+        "players_name": "Knauff A.",
+        "players_number": "",
+        "Full Name": "Ansgar Knauff",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (10.01.2002)",
+        "Market Value": "€7.5m",
+        "unicode": "2ebHJb1N"
+      },
+      {
+        "players_name": "Onguene J.",
+        "players_number": "",
+        "Full Name": "Jerome Onguene",
+        "players_rating": "",
+        "Country": "Cameroon",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (22.12.1997)",
+        "Market Value": "€922k",
+        "unicode": "fXmXPe64"
+      },
+      {
+        "players_name": "Pellegrini Lu.",
+        "players_number": "",
+        "Full Name": "Luca Pellegrini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (07.03.1999)",
+        "Market Value": "€3.7m",
+        "unicode": "WKey0InR"
+      },
+      {
+        "players_name": "Toure A.",
+        "players_number": "",
+        "Full Name": "Almamy Toure",
+        "players_rating": "",
+        "Country": "Mali",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (28.04.1996)",
+        "Market Value": "€1.4m",
+        "unicode": "dQ9SqUtk"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Hasebe M.",
+        "players_number": "20",
+        "Full Name": "Makoto Hasebe",
+        "players_rating": 5.9,
+        "Country": "Japan",
+        "Role": "Midfielder",
+        "Age and Birthdate": "40, (18.01.1984)",
+        "Market Value": "€482k",
+        "unicode": "v9huBzd3"
+      },
+      {
+        "players_name": "Jakic K.",
+        "players_number": "6",
+        "Full Name": "Kristijan Jakic",
+        "players_rating": 5.5,
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (14.05.1997)",
+        "Market Value": "€5.1m",
+        "unicode": "QkJGjOO2"
+      },
+      {
+        "players_name": "Kamada D.",
+        "players_number": "15",
+        "Full Name": "Daichi Kamada",
+        "players_rating": 7.3,
+        "Country": "Japan",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (05.08.1996)",
+        "Market Value": "€19.3m",
+        "unicode": "bayITLyE"
+      },
+      {
+        "players_name": "Kolo Muani R.",
+        "players_number": "9",
+        "Full Name": "Randal Kolo Muani",
+        "players_rating": 6.2,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (05.12.1998)",
+        "Market Value": "€66.5m",
+        "unicode": "WKBRZ6Y6"
+      },
+      {
+        "players_name": "Lenz C.",
+        "players_number": "25",
+        "Full Name": "Christopher Lenz",
+        "players_rating": 6.2,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (22.09.1994)",
+        "Market Value": "€1.9m",
+        "unicode": "d0ASdOqf"
+      },
+      {
+        "players_name": "Lindstrom J.",
+        "players_number": "29",
+        "Full Name": "Jesper Lindstrom",
+        "players_rating": 6.3,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (29.02.2000)",
+        "Market Value": "€22.7m",
+        "unicode": "OEtozag4"
+      },
+      {
+        "players_name": "Ndicka E.",
+        "players_number": "2",
+        "Full Name": "Evan Ndicka",
+        "players_rating": 6.1,
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (20.08.1999)",
+        "Market Value": "€22.8m",
+        "unicode": "0ORJzjri"
+      },
+      {
+        "players_name": "Rode S. (C)",
+        "players_number": "17",
+        "Full Name": "Sebastian Rode",
+        "players_rating": 7.0,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (11.10.1990)",
+        "Market Value": "€936k",
+        "unicode": "2ukcBSGo"
+      },
+      {
+        "players_name": "Sow D.",
+        "players_number": "8",
+        "Full Name": "Djibril Sow",
+        "players_rating": 6.3,
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (06.02.1997)",
+        "Market Value": "€16.8m",
+        "unicode": "tUNr1qOE"
+      },
+      {
+        "players_name": "Trapp K. (G)",
+        "players_number": "1",
+        "Full Name": "Kevin Trapp",
+        "players_rating": 7.3,
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (08.07.1990)",
+        "Market Value": "€6.6m",
+        "unicode": "QqugudYS"
+      },
+      {
+        "players_name": "Tuta",
+        "players_number": "35",
+        "Full Name": "Tuta",
+        "players_rating": 4.8,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (04.07.1999)",
+        "Market Value": "€14.5m",
+        "unicode": "z9f8RgUQ"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Alidou F.",
+        "players_number": "11",
+        "Full Name": "Faride Alidou",
+        "players_rating": 7.4,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (18.07.2001)",
+        "Market Value": "€1.6m",
+        "unicode": "AZfDAIPf"
+      },
+      {
+        "players_name": "Borre R.",
+        "players_number": "19",
+        "Full Name": "Rafael Borre",
+        "players_rating": 6.3,
+        "Country": "Colombia",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (15.09.1995)",
+        "Market Value": "€7.6m",
+        "unicode": "CjPOl7ml"
+      },
+      {
+        "players_name": "Dina Ebimbe J.",
+        "players_number": "26",
+        "Full Name": "Junior Dina Ebimbe",
+        "players_rating": 6.5,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (21.11.2000)",
+        "Market Value": "€13.7m",
+        "unicode": "0daEaUg4"
+      },
+      {
+        "players_name": "Gotze M.",
+        "players_number": "27",
+        "Full Name": "Mario Gotze",
+        "players_rating": 7.0,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (03.06.1992)",
+        "Market Value": "€6.6m",
+        "unicode": "veaF8P5m"
+      },
+      {
+        "players_name": "Smolcic H.",
+        "players_number": "5",
+        "Full Name": "Hrvoje Smolcic",
+        "players_rating": 5.7,
+        "Country": "Croatia",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (17.08.2000)",
+        "Market Value": "€4.0m",
+        "unicode": "KWKPJoFF"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Alario L.",
+        "players_number": "21",
+        "Full Name": "Lucas Alario",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (08.10.1992)",
+        "Market Value": "€1.4m",
+        "unicode": "GC953Lzc"
+      },
+      {
+        "players_name": "Chandler T.",
+        "players_number": "22",
+        "Full Name": "Timothy Chandler",
+        "players_rating": "",
+        "Country": "USA",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (29.03.1990)",
+        "Market Value": "€475k",
+        "unicode": "KdoHDRzE"
+      },
+      {
+        "players_name": "Grahl J. (G)",
+        "players_number": "31",
+        "Full Name": "Jens Grahl",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (22.09.1988)",
+        "Market Value": "€213k",
+        "unicode": "jHXqNZCp"
+      },
+      {
+        "players_name": "Ramaj D. (G)",
+        "players_number": "40",
+        "Full Name": "Diant Ramaj",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "22, (19.09.2001)",
+        "Market Value": "€5.0m",
+        "unicode": "nc3rZ5X6"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Conte A.",
+        "players_number": "",
+        "Full Name": "Antonio Conte",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "54,  (31.07.1969)",
+        "Market Value": "",
+        "unicode": "23vSAc12"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Kulusevski D.",
+        "players_number": "",
+        "Full Name": "Dejan Kulusevski",
+        "players_rating": "",
+        "Country": "Sweden",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (25.04.2000)",
+        "Market Value": "€54.6m",
+        "unicode": "fXLqHCYi"
+      },
+      {
+        "players_name": "Tanganga J.",
+        "players_number": "",
+        "Full Name": "Japhet Tanganga",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (31.03.1999)",
+        "Market Value": "€2.7m",
+        "unicode": "SC4ftpKU"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Bentancur R.",
+        "players_number": "30",
+        "Full Name": "Rodrigo Bentancur",
+        "players_rating": 6.6,
+        "Country": "Uruguay",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (25.06.1997)",
+        "Market Value": "€34.7m",
+        "unicode": "nLRMnJtJ"
+      },
+      {
+        "players_name": "Dier E.",
+        "players_number": "15",
+        "Full Name": "Eric Dier",
+        "players_rating": 6.4,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (15.01.1994)",
+        "Market Value": "€11.2m",
+        "unicode": "MXQtjBQt"
+      },
+      {
+        "players_name": "Emerson Royal",
+        "players_number": "12",
+        "Full Name": "Emerson Royal",
+        "players_rating": 6.7,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (14.01.1999)",
+        "Market Value": "€17.9m",
+        "unicode": "zBkSUAjf"
+      },
+      {
+        "players_name": "Hojbjerg P.",
+        "players_number": "5",
+        "Full Name": "Pierre-Emile Hojbjerg",
+        "players_rating": 7.6,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (05.08.1995)",
+        "Market Value": "€27.4m",
+        "unicode": "ITwS8wMo"
+      },
+      {
+        "players_name": "Kane H.",
+        "players_number": "10",
+        "Full Name": "Harry Kane",
+        "players_rating": 8.1,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (28.07.1993)",
+        "Market Value": "€113.9m",
+        "unicode": "v5HSlEAa"
+      },
+      {
+        "players_name": "Lenglet C.",
+        "players_number": "34",
+        "Full Name": "Clement Lenglet",
+        "players_rating": 6.4,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (17.06.1995)",
+        "Market Value": "€7.8m",
+        "unicode": "rH0mL7ws"
+      },
+      {
+        "players_name": "Lloris H. (G) (C)",
+        "players_number": "1",
+        "Full Name": "Hugo Lloris",
+        "players_rating": 7.1,
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (26.12.1986)",
+        "Market Value": "€1.5m",
+        "unicode": "dlT4erCr"
+      },
+      {
+        "players_name": "Richarlison",
+        "players_number": "9",
+        "Full Name": "Richarlison",
+        "players_rating": 7.2,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (10.05.1997)",
+        "Market Value": "€33.3m",
+        "unicode": "K82Dz773"
+      },
+      {
+        "players_name": "Romero C.",
+        "players_number": "17",
+        "Full Name": "Cristian Gabriel Romero",
+        "players_rating": 7.2,
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (27.04.1998)",
+        "Market Value": "€65.5m",
+        "unicode": "jBZTWXMn"
+      },
+      {
+        "players_name": "Sessegnon R.",
+        "players_number": "19",
+        "Full Name": "Ryan Sessegnon",
+        "players_rating": 6.9,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (18.05.2000)",
+        "Market Value": "€454k",
+        "unicode": "WOecsPmi"
+      },
+      {
+        "players_name": "Son Heung-Min",
+        "players_number": "7",
+        "Full Name": "Heung-Min Son",
+        "players_rating": 8.8,
+        "Country": "South Korea",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (08.07.1992)",
+        "Market Value": "€53.9m",
+        "unicode": "Mgg9oPeM"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Bissouma Y.",
+        "players_number": "38",
+        "Full Name": "Yves Bissouma",
+        "players_rating": 6.3,
+        "Country": "Mali",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (30.08.1996)",
+        "Market Value": "€29.8m",
+        "unicode": "CSdILBh7"
+      },
+      {
+        "players_name": "Gil B.",
+        "players_number": "11",
+        "Full Name": "Bryan Gil",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (11.02.2001)",
+        "Market Value": "€14.8m",
+        "unicode": "xSXBYlvl"
+      },
+      {
+        "players_name": "Lucas Moura",
+        "players_number": "27",
+        "Full Name": "Lucas Moura",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (13.08.1992)",
+        "Market Value": "€4.8m",
+        "unicode": "EcmXnnoo"
+      },
+      {
+        "players_name": "Sanchez D.",
+        "players_number": "6",
+        "Full Name": "Davinson Sanchez",
+        "players_rating": 6.1,
+        "Country": "Colombia",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (12.06.1996)",
+        "Market Value": "€15.7m",
+        "unicode": "dbPhv0VQ"
+      },
+      {
+        "players_name": "Skipp O.",
+        "players_number": "4",
+        "Full Name": "Oliver Skipp",
+        "players_rating": 6.3,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (16.09.2000)",
+        "Market Value": "€13.8m",
+        "unicode": "KnBBxnVu"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Davies B.",
+        "players_number": "33",
+        "Full Name": "Ben Davies",
+        "players_rating": "",
+        "Country": "Wales",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (24.04.1993)",
+        "Market Value": "30.06.2025",
+        "unicode": "65AlIpKT"
+      },
+      {
+        "players_name": "Doherty M.",
+        "players_number": "2",
+        "Full Name": "Matt Doherty",
+        "players_rating": "",
+        "Country": "Ireland",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (16.01.1992)",
+        "Market Value": "€3.8m",
+        "unicode": "KC9KwhwI"
+      },
+      {
+        "players_name": "Forster F. (G)",
+        "players_number": "20",
+        "Full Name": "Fraser Forster",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (17.03.1988)",
+        "Market Value": "€1.1m",
+        "unicode": "SWLt6Trt"
+      },
+      {
+        "players_name": "Perisic I.",
+        "players_number": "14",
+        "Full Name": "Ivan Perisic",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (02.02.1989)",
+        "Market Value": "€4.1m",
+        "unicode": "4AbKyVr9"
+      },
+      {
+        "players_name": "Sarr P. M.",
+        "players_number": "29",
+        "Full Name": "Pape Matar Sarr",
+        "players_rating": "",
+        "Country": "Senegal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (14.09.2002)",
+        "Market Value": "€33.8m",
+        "unicode": "CSjTl5sR"
+      },
+      {
+        "players_name": "Spence D.",
+        "players_number": "24",
+        "Full Name": "Djed Spence",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (09.08.2000)",
+        "Market Value": "€7.5m",
+        "unicode": "GQAxKWes"
+      },
+      {
+        "players_name": "White H.",
+        "players_number": "42",
+        "Full Name": "Harvey White",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (19.09.2001)",
+        "Market Value": "€386k",
+        "unicode": "ll4BOTvm"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "11:30",
+      "comments_type": "yellow card",
+      "comments_text": "A yellow card for a tackle by Eric Dier (Tottenham). Carlos Del Cerro doesn't hesitate at all to make this decision.",
+      "comments_text_anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:23",
+      "comments_type": "goal",
+      "comments_text": "Goal! Sebastian Rode displays great vision and sends a pass to Daichi Kamada (Eintracht Frankfurt), who shows brilliant composure inside the box to bury the ball from close range in the back of the net. The score is 0:1.",
+      "comments_text_anonymized": "Goal! [PLAYER] displays great vision and sends a pass to [PLAYER] ([TEAM]), who shows brilliant composure inside the box to bury the ball from close range in the back of the net. The score is 0:1.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "15:10",
+      "comments_type": "yellow card",
+      "comments_text": "The game is interrupted. One of the players from Eintracht Frankfurt is cautioned for aggressive play.",
+      "comments_text_anonymized": "The game is interrupted. One of the players from [TEAM] is cautioned for aggressive play.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "19:01",
+      "comments_type": "goal",
+      "comments_text": "Stunning strike! Heung-Min Son (Tottenham) latches on to a precise through ball from Harry Kane before unleashing an unstoppable shot into the bottom right corner from the edge of the area. Fantastic goal. The score is now 1:1.",
+      "comments_text_anonymized": "Stunning strike! [PLAYER] ([TEAM]) latches on to a precise through ball from [PLAYER] before unleashing an unstoppable shot into the bottom right corner from the edge of the area. Fantastic goal. The score is now 1:1.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "23:50",
+      "comments_type": "corner",
+      "comments_text": "Daichi Kamada (Eintracht Frankfurt) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "27:02",
+      "comments_type": "goal",
+      "comments_text": "Goal! Kevin Trapp gets a hand on the penalty from Harry Kane (Tottenham), but can't stop it from flying inside the right post.",
+      "comments_text_anonymized": "Goal! [PLAYER] gets a hand on the penalty from [PLAYER] ([TEAM]), but can't stop it from flying inside the right post.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "31:33",
+      "comments_type": "corner",
+      "comments_text": "Corner kick. Christopher Lenz (Eintracht Frankfurt) is ready to send the ball into the box.",
+      "comments_text_anonymized": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:30",
+      "comments_type": "goal",
+      "comments_text": "Goal! Heung-Min Son (Tottenham) shows good awareness inside the box as he latches on to a brilliant pass and fires a first-time shot into the roof of the net. Pierre-Emile Hojbjerg assisted in the goal. 3:1.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) shows good awareness inside the box as he latches on to a brilliant pass and fires a first-time shot into the roof of the net. [PLAYER] assisted in the goal. 3:1.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "39:20",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Rodrigo Bentancur (Tottenham) was quite harsh and Carlos Del Cerro didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "47:07",
+      "comments_type": "corner",
+      "comments_text": "Emerson Royal (Tottenham) works the corner short instead of sending the ball into the penalty area.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:11",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Heung-Min Son (Tottenham) only finds one of the defenders, who heads it out of danger.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:46",
+      "comments_type": "yellow card",
+      "comments_text": "The foul by Tuta (Eintracht Frankfurt) is worthy of a card and a yellow is duly shown by Carlos Del Cerro.",
+      "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "14:47",
+      "comments_type": "yellow card",
+      "comments_text": "Makoto Hasebe (Eintracht Frankfurt) says more than he should have to the referee and is shown a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) says more than he should have to the referee and is shown a yellow card.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:05",
+      "comments_type": "second yellow card",
+      "comments_text": "Carlos Del Cerro blows his whistle and Tuta (Eintracht Frankfurt) is shown a second yellow card for his foul. His manager will not be pleased. He has lot of time to think about it as he walks off.",
+      "comments_text_anonymized": "[REFEREE] blows his whistle and [PLAYER] ([TEAM]) is shown a second yellow card for his foul. His manager will not be pleased. He has lot of time to think about it as he walks off.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:37",
+      "comments_type": "corner",
+      "comments_text": "Heung-Min Son (Tottenham) has a sight of goal, fires a shot in from distance towards the bottom left corner and forces a good save out of Kevin Trapp. The referee and his assistant both point at the corner flag. Tottenham will have an opportunity to threaten the opposition's goal.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has a sight of goal, fires a shot in from distance towards the bottom left corner and forces a good save out of [PLAYER]. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:10",
+      "comments_type": "corner",
+      "comments_text": "Heung-Min Son (Tottenham) takes a short corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes a short corner kick.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:11",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals that it is time for a substitution and Yves Bissouma (Tottenham) is coming onto the pitch as Rodrigo Bentancur cannot continue after picking up an injury.",
+      "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:30",
+      "comments_type": "substitution",
+      "comments_text": "Antonio Conte has decided to introduce fresh legs, with Oliver Skipp (Tottenham) replacing Richarlison.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:44",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Rafael Borre (Eintracht Frankfurt) has come on for Randal Kolo Muani.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER].",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:28",
+      "comments_type": "substitution",
+      "comments_text": "Sebastian Rode comes off the pitch to be replaced by Hrvoje Smolcic (Eintracht Frankfurt).",
+      "comments_text_anonymized": "[PLAYER] comes off the pitch to be replaced by [PLAYER] ([TEAM]).",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:59",
+      "comments_type": "substitution",
+      "comments_text": "Problems for Oliver Glasner as Makoto Hasebe is not able to play anymore. His injury is too serious and Junior Dina Ebimbe (Eintracht Frankfurt) replaces him.",
+      "comments_text_anonymized": "Problems for [PLAYER] as [PLAYER] is not able to play anymore. His injury is too serious and [PLAYER] ([TEAM]) replaces him.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:56",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Christopher Lenz leaves the pitch and Faride Alidou (Eintracht Frankfurt) comes on.",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "24:43",
+      "comments_type": "corner",
+      "comments_text": "Heung-Min Son (Tottenham) launches an inaccurate corner kick into the penalty area.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches an inaccurate corner kick into the penalty area.",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:22",
+      "comments_type": "corner",
+      "comments_text": "Daichi Kamada (Eintracht Frankfurt) takes the corner but fails to find any of his teammates.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:10",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Davinson Sanchez (Tottenham) on for Eric Dier.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) on for [PLAYER].",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:31",
+      "comments_type": "substitution",
+      "comments_text": "Oliver Glasner has decided to substitute Daichi Kamada and he is replaced by Mario Gotze (Eintracht Frankfurt).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:58",
+      "comments_type": "yellow card",
+      "comments_text": "Ryan Sessegnon (Tottenham) sees a yellow card from Carlos Del Cerro after he sent one of the opposing players to the ground.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:40",
+      "comments_type": "substitution",
+      "comments_text": "The manager makes a subsitution with Bryan Gil (Tottenham) coming on for Pierre-Emile Hojbjerg.",
+      "comments_text_anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER].",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:31",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Heung-Min Son is going off and Antonio Conte gives the last tactical orders to Lucas Moura (Tottenham).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:58",
+      "comments_type": "corner",
+      "comments_text": "Mario Gotze (Eintracht Frankfurt) steps up to send the ball in.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to send the ball in.",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:32",
+      "comments_type": "goal",
+      "comments_text": "Mario Gotze takes over corner duties and expertly finds Faride Alidou (Eintracht Frankfurt), who jumps highest and coolly plants a bullet header into the back of the net. The score is now 3:2.",
+      "comments_text_anonymized": "[PLAYER] takes over corner duties and expertly finds [PLAYER] ([TEAM]), who jumps highest and coolly plants a bullet header into the back of the net. The score is now 3:2.",
+      "index": 30
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:32",
+      "comments_type": "yellow card",
+      "comments_text": "Today's referee Carlos Del Cerro rightly decides to book Hrvoje Smolcic (Eintracht Frankfurt) for his harsh tackle.",
+      "comments_text_anonymized": "Today's referee [REFEREE] rightly decides to book [PLAYER] ([TEAM]) for his harsh tackle.",
+      "index": 31
+    },
+    {
+      "half": 2,
+      "time_stamp": "46:18",
+      "comments_type": "penalty",
+      "comments_text": "Harry Kane (Tottenham) is going to take the penalty!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!",
+      "index": 32
+    }
+  ]
+}

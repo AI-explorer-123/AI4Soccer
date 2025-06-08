@@ -1,0 +1,1581 @@
+{
+    "timestamp": "1481916600",
+    "score": "2 - 2",
+    "round": "15",
+    "teams": [
+        "Dortmund",
+        "Hoffenheim"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-3-1-4-2",
+            "players": [
+                {
+                    "hash": "b3H5VR8I",
+                    "name": "Amiri N.",
+                    "captain": "",
+                    "detail_link": "/player/amiri-nadiem/b3H5VR8I/",
+                    "short_name": "Amiri",
+                    "shirt_number": "18",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Nadiem Amiri"
+                },
+                {
+                    "hash": "MZ6BATVO",
+                    "name": "Baumann O.",
+                    "captain": "",
+                    "detail_link": "/player/baumann-oliver/MZ6BATVO/",
+                    "short_name": "Baumann",
+                    "shirt_number": "1",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Oliver Baumann"
+                },
+                {
+                    "hash": "bDxlhHxR",
+                    "name": "Demirbay K.",
+                    "captain": "",
+                    "detail_link": "/player/demirbay-kerem/bDxlhHxR/",
+                    "short_name": "Demirbay",
+                    "shirt_number": "13",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "58' Demirbay K. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "61'",
+                            "description": "Atik B.",
+                            "linked_player_hash": "YweM4agt"
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Kerem Demirbay"
+                },
+                {
+                    "hash": "WMpSoFCg",
+                    "name": "Hubner B.",
+                    "captain": "",
+                    "detail_link": "/player/hubner-benjamin/WMpSoFCg/",
+                    "short_name": "Hubner",
+                    "shirt_number": "21",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "3' Uth M. (Hubner B.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "20' Wagner S. (Hubner B.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "39' Hubner B. (Foul)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Benjamin Hubner"
+                },
+                {
+                    "hash": "MwBrqRha",
+                    "name": "Kaderabek P.",
+                    "captain": "",
+                    "detail_link": "/player/kaderabek-pavel/MwBrqRha/",
+                    "short_name": "Kaderabek",
+                    "shirt_number": "3",
+                    "country": "Czech Republic",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Pavel Kaderabek"
+                },
+                {
+                    "hash": "n9zqoehC",
+                    "name": "Rudy S.",
+                    "captain": "(C)",
+                    "detail_link": "/player/rudy-sebastian/n9zqoehC/",
+                    "short_name": "Rudy",
+                    "shirt_number": "6",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "86' Rudy S. (Unsportsmanlike conduct)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Sebastian Rudy"
+                },
+                {
+                    "hash": "G43Lp4in",
+                    "name": "Sule N.",
+                    "captain": "",
+                    "detail_link": "/player/sule-niklas/G43Lp4in/",
+                    "short_name": "Sule",
+                    "shirt_number": "25",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "30' Sule N. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Niklas Sule"
+                },
+                {
+                    "hash": "IsGWKIMq",
+                    "name": "Toljan J.",
+                    "captain": "",
+                    "detail_link": "/player/toljan-jeremy/IsGWKIMq/",
+                    "short_name": "Toljan",
+                    "shirt_number": "15",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Jeremy Toljan"
+                },
+                {
+                    "hash": "CzbQqKcT",
+                    "name": "Uth M.",
+                    "captain": "",
+                    "detail_link": "/player/uth-mark/CzbQqKcT/",
+                    "short_name": "Uth",
+                    "shirt_number": "19",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "3' Uth M. (Hubner B.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "58'",
+                            "description": "Kramaric A.",
+                            "linked_player_hash": "6V0rWuu1"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Mark Uth"
+                },
+                {
+                    "hash": "U3OLd4oq",
+                    "name": "Vogt K.",
+                    "captain": "",
+                    "detail_link": "/player/vogt-kevin/U3OLd4oq/",
+                    "short_name": "Vogt",
+                    "shirt_number": "22",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "86' Vogt K. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Kevin Vogt"
+                },
+                {
+                    "hash": "bs5wEhDE",
+                    "name": "Wagner S.",
+                    "captain": "",
+                    "detail_link": "/player/wagner-sandro/bs5wEhDE/",
+                    "short_name": "Wagner",
+                    "shirt_number": "14",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "20' Wagner S. (Hubner B.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Sandro Wagner"
+                },
+                {
+                    "hash": "YweM4agt",
+                    "name": "Atik B.",
+                    "captain": "",
+                    "detail_link": "/player/atik-baris/YweM4agt/",
+                    "short_name": "Atik",
+                    "shirt_number": "34",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "61'",
+                            "description": "Demirbay K.",
+                            "linked_player_hash": "bDxlhHxR"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Baris Atik"
+                },
+                {
+                    "hash": "0jwc2VzN",
+                    "name": "Bicakcic E.",
+                    "captain": "",
+                    "detail_link": "/player/bicakcic-ermin/0jwc2VzN/",
+                    "short_name": "Bicakcic",
+                    "shirt_number": "4",
+                    "country": "Bosnia and Herzegovina",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ermin Bicakcic"
+                },
+                {
+                    "hash": "6V0rWuu1",
+                    "name": "Kramaric A.",
+                    "captain": "",
+                    "detail_link": "/player/kramaric-andrej/6V0rWuu1/",
+                    "short_name": "Kramaric",
+                    "shirt_number": "27",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "58'",
+                            "description": "Uth M.",
+                            "linked_player_hash": "CzbQqKcT"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Andrej Kramaric"
+                },
+                {
+                    "hash": "ju0OFGU2",
+                    "name": "Polanski E.",
+                    "captain": "",
+                    "detail_link": "/player/polanski-eugen/ju0OFGU2/",
+                    "short_name": "Polanski",
+                    "shirt_number": "8",
+                    "country": "Poland",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Eugen Polanski"
+                },
+                {
+                    "hash": "rJGaKUhl",
+                    "name": "Stolz A.",
+                    "captain": "",
+                    "detail_link": "/player/stolz-alexander/rJGaKUhl/",
+                    "short_name": "Stolz",
+                    "shirt_number": "33",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Alexander Stolz"
+                },
+                {
+                    "hash": "fsSWlnkQ",
+                    "name": "Szalai A.",
+                    "captain": "",
+                    "detail_link": "/player/szalai-adam/fsSWlnkQ/",
+                    "short_name": "Szalai",
+                    "shirt_number": "28",
+                    "country": "Hungary",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Adam Szalai"
+                },
+                {
+                    "hash": "xptGX9Ol",
+                    "name": "Zuber S.",
+                    "captain": "",
+                    "detail_link": "/player/zuber-steven/xptGX9Ol/",
+                    "short_name": "Zuber",
+                    "shirt_number": "17",
+                    "country": "Switzerland",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Steven Zuber"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "WrA6TDDO",
+                    "name": "Nagelsmann J.",
+                    "captain": "",
+                    "detail_link": "/player/nagelsmann-julian/WrA6TDDO/",
+                    "short_name": "Nagelsmann J.",
+                    "shirt_number": "",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Julian Nagelsmann"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-3-4-3",
+            "players": [
+                {
+                    "hash": "Wl4EyKZk",
+                    "name": "Aubameyang P.",
+                    "captain": "",
+                    "detail_link": "/player/aubameyang-pierre-emerick/Wl4EyKZk/",
+                    "short_name": "Aubameyang",
+                    "shirt_number": "17",
+                    "country": "Gabon",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "48' Aubameyang P. (Dembele O.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "90+2'",
+                            "description": "Merino M.",
+                            "linked_player_hash": "QFt86bm1"
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Pierre-Emerick Aubameyang"
+                },
+                {
+                    "hash": "8K4WA9Gh",
+                    "name": "Bartra M.",
+                    "captain": "",
+                    "detail_link": "/player/bartra-marc/8K4WA9Gh/",
+                    "short_name": "Bartra",
+                    "shirt_number": "5",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "27' Bartra M. (Roughing)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Marc Bartra"
+                },
+                {
+                    "hash": "v1r7SOW5",
+                    "name": "Bender S.",
+                    "captain": "",
+                    "detail_link": "/player/bender-sven/v1r7SOW5/",
+                    "short_name": "Bender",
+                    "shirt_number": "6",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Sven Bender"
+                },
+                {
+                    "hash": "zsMC2Ec0",
+                    "name": "Dembele O.",
+                    "captain": "",
+                    "detail_link": "/player/dembele-ousmane/zsMC2Ec0/",
+                    "short_name": "Dembele",
+                    "shirt_number": "7",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "11' Gotze M. (Dembele O.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "48' Aubameyang P. (Dembele O.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "69'",
+                            "description": "Mor E.",
+                            "linked_player_hash": "Kd02fMXo"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Ousmane Dembele"
+                },
+                {
+                    "hash": "27fpNoQk",
+                    "name": "Ginter M.",
+                    "captain": "",
+                    "detail_link": "/player/ginter-matthias/27fpNoQk/",
+                    "short_name": "Ginter",
+                    "shirt_number": "28",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Matthias Ginter"
+                },
+                {
+                    "hash": "veaF8P5m",
+                    "name": "Gotze M.",
+                    "captain": "",
+                    "detail_link": "/player/gotze-mario/veaF8P5m/",
+                    "short_name": "Gotze",
+                    "shirt_number": "10",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "11' Gotze M. (Dembele O.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Mario Gotze"
+                },
+                {
+                    "hash": "vTuaEfRq",
+                    "name": "Pulisic C.",
+                    "captain": "",
+                    "detail_link": "/player/pulisic-christian/vTuaEfRq/",
+                    "short_name": "Pulisic",
+                    "shirt_number": "22",
+                    "country": "USA",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "83'",
+                            "description": "Ramos A.",
+                            "linked_player_hash": "YZ3fZd1q"
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Christian Pulisic"
+                },
+                {
+                    "hash": "fonESekN",
+                    "name": "Reus M.",
+                    "captain": "",
+                    "detail_link": "/player/reus-marco/fonESekN/",
+                    "short_name": "Reus",
+                    "shirt_number": "11",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "9' Reus M. (Foul)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Marco Reus"
+                },
+                {
+                    "hash": "n3VwNCjb",
+                    "name": "Schmelzer M.",
+                    "captain": "(C)",
+                    "detail_link": "/player/schmelzer-marcel/n3VwNCjb/",
+                    "short_name": "Schmelzer",
+                    "shirt_number": "29",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Marcel Schmelzer"
+                },
+                {
+                    "hash": "SWPWwvA4",
+                    "name": "Weidenfeller R.",
+                    "captain": "",
+                    "detail_link": "/player/weidenfeller-roman/SWPWwvA4/",
+                    "short_name": "Weidenfeller",
+                    "shirt_number": "1",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Roman Weidenfeller"
+                },
+                {
+                    "hash": "2wwMMwAa",
+                    "name": "Weigl J.",
+                    "captain": "",
+                    "detail_link": "/player/weigl-julian/2wwMMwAa/",
+                    "short_name": "Weigl",
+                    "shirt_number": "33",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Julian Weigl"
+                },
+                {
+                    "hash": "KxMKnLtF",
+                    "name": "Bonmann H.",
+                    "captain": "",
+                    "detail_link": "/player/bonmann-hendrik/KxMKnLtF/",
+                    "short_name": "Bonmann",
+                    "shirt_number": "39",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Hendrik Bonmann"
+                },
+                {
+                    "hash": "zcwd2hro",
+                    "name": "Kagawa S.",
+                    "captain": "",
+                    "detail_link": "/player/kagawa-shinji/zcwd2hro/",
+                    "short_name": "Kagawa",
+                    "shirt_number": "23",
+                    "country": "Japan",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Shinji Kagawa"
+                },
+                {
+                    "hash": "QFt86bm1",
+                    "name": "Merino M.",
+                    "captain": "",
+                    "detail_link": "/player/merino-mikel/QFt86bm1/",
+                    "short_name": "Merino",
+                    "shirt_number": "24",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "90+2'",
+                            "description": "Aubameyang P.",
+                            "linked_player_hash": "Wl4EyKZk"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Mikel Merino"
+                },
+                {
+                    "hash": "Kd02fMXo",
+                    "name": "Mor E.",
+                    "captain": "",
+                    "detail_link": "/player/mor-emre/Kd02fMXo/",
+                    "short_name": "Mor",
+                    "shirt_number": "9",
+                    "country": "Turkey",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "69'",
+                            "description": "Dembele O.",
+                            "linked_player_hash": "zsMC2Ec0"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Emre Mor"
+                },
+                {
+                    "hash": "rHIRgwGG",
+                    "name": "Passlack F.",
+                    "captain": "",
+                    "detail_link": "/player/passlack-felix/rHIRgwGG/",
+                    "short_name": "Passlack",
+                    "shirt_number": "30",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Felix Passlack"
+                },
+                {
+                    "hash": "YZ3fZd1q",
+                    "name": "Ramos A.",
+                    "captain": "",
+                    "detail_link": "/player/ramos-adrian/YZ3fZd1q/",
+                    "short_name": "Ramos",
+                    "shirt_number": "20",
+                    "country": "Colombia",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "83'",
+                            "description": "Pulisic C.",
+                            "linked_player_hash": "vTuaEfRq"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Adrian Ramos"
+                },
+                {
+                    "hash": "SUtZhkKF",
+                    "name": "Schurrle A.",
+                    "captain": "",
+                    "detail_link": "/player/schurrle-andre/SUtZhkKF/",
+                    "short_name": "Schurrle",
+                    "shirt_number": "21",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Andre Schurrle"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "CQTUFgPk",
+                    "name": "Tuchel T.",
+                    "captain": "",
+                    "detail_link": "/player/tuchel-thomas/CQTUFgPk/",
+                    "short_name": "Tuchel T.",
+                    "shirt_number": "",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Thomas Tuchel"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Brand B."
+    ],
+    "venue": [
+        "PreZero Arena (Sinsheim)"
+    ],
+    "attendance": [
+        "30 150"
+    ],
+    "referee_matched": [
+        "Benjamin Brand"
+    ],
+    "referee_found": [
+        "Benjamin Brand"
+    ],
+    "coach_matched": [
+        "Thomas Tuchel",
+        "The manager"
+    ],
+    "gameHomeTeam": "Hoffenheim",
+    "home": {
+        "name": "Hoffenheim",
+        "detail_link": "/team/hoffenheim/hQAtP9Sl",
+        "hash": "hQAtP9Sl",
+        "names": [
+            "Hoffenheim",
+            "Hoffenheim (Ger)",
+            "hoffenheim"
+        ]
+    },
+    "gameAwayTeam": "Dortmund",
+    "away": {
+        "name": "Dortmund",
+        "detail_link": "/team/dortmund/nP1i5US1",
+        "hash": "nP1i5US1",
+        "names": [
+            "Dortmund",
+            "Dortmund (Ger)",
+            "dortmund"
+        ]
+    },
+    "gameDate": "16/12/2016 - 20:30",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "This hugely entertaining encounter was a wonderful experience for every football lover to behold. The players did their utmost to make the game very enjoyable. It was an even match on the whole, with both sides enjoying spells in the ascendancy. The home side was creating their opportunities using lightning-fast counter-attacks. The tactic of the away side was slow build-up play.",
+            "identified": "This hugely entertaining encounter was a wonderful experience for every football lover to behold. The players did their utmost to make the game very enjoyable. It was an even match on the whole, with both sides enjoying spells in the ascendancy. The home side was creating their opportunities using lightning-fast counter-attacks. The tactic of the away side was slow build-up play.",
+            "anonymized": "This hugely entertaining encounter was a wonderful experience for every football lover to behold. The players did their utmost to make the game very enjoyable. It was an even match on the whole, with both sides enjoying spells in the ascendancy. The home side was creating their opportunities using lightning-fast counter-attacks. The tactic of the away side was slow build-up play.",
+            "visibility": "shown",
+            "position": "2879000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 47:58",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time.",
+            "identified": "Nothing more will happen in this game as the referee blows for full time.",
+            "anonymized": "Nothing more will happen in this game as the referee blows for full time.",
+            "visibility": "shown",
+            "position": "2878000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 47:50",
+            "label": "",
+            "description": "Baris Atik (Hoffenheim) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "identified": "[PLAYER_YweM4agt] ([TEAM_]) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "visibility": "shown",
+            "position": "2870000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 46:42",
+            "label": "substitution",
+            "description": "Today's match ends for Pierre-Emerick Aubameyang who will be replaced by Mikel Merino (Dortmund).",
+            "identified": "Today's match ends for [PLAYER_Wl4EyKZk] who will be replaced by [PLAYER_QFt86bm1] ([TEAM_]).",
+            "anonymized": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2802000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 45:01",
+            "label": "",
+            "description": "Adrian Ramos (Dortmund) commits a rough foul. Benjamin Brand stops the game and makes a call.",
+            "identified": "[PLAYER_YZ3fZd1q] ([TEAM_]) commits a rough foul. [REFEREE] stops the game and makes a call.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call.",
+            "visibility": "shown",
+            "position": "2701000"
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "3 min. of stoppage-time to be played.",
+            "identified": "3 min. of stoppage-time to be played.",
+            "anonymized": "3 min. of stoppage-time to be played.",
+            "visibility": "shown",
+            "position": "0"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 44:06",
+            "label": "",
+            "description": "A big opportunity is wasted by Andrej Kramaric (Hoffenheim), who makes a yard for himself and produces a mid-range rocket of a shot towards the right side of the goal. Unfortunately for him, Roman Weidenfeller pulls off a fantastic save to stop the effort.",
+            "identified": "A big opportunity is wasted by [PLAYER_6V0rWuu1] ([TEAM_]), who makes a yard for himself and produces a mid-range rocket of a shot towards the right side of the goal. Unfortunately for him, [PLAYER_SWPWwvA4] pulls off a fantastic save to stop the effort.",
+            "anonymized": "A big opportunity is wasted by [PLAYER] ([TEAM]), who makes a yard for himself and produces a mid-range rocket of a shot towards the right side of the goal. Unfortunately for him, [PLAYER] pulls off a fantastic save to stop the effort.",
+            "visibility": "shown",
+            "position": "2646000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:40",
+            "label": "attendance",
+            "description": "The attendance is 30150.",
+            "identified": "The attendance is 30150.",
+            "anonymized": "The attendance is 30150.",
+            "visibility": "shown",
+            "position": "2560000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:19",
+            "label": "",
+            "description": "Pierre-Emerick Aubameyang (Dortmund) steps up and sends the mid-range free kick miles over the bar. Strong but inaccurate shot.",
+            "identified": "[PLAYER_Wl4EyKZk] ([TEAM_]) steps up and sends the mid-range free kick miles over the bar. Strong but inaccurate shot.",
+            "anonymized": "[PLAYER] ([TEAM]) steps up and sends the mid-range free kick miles over the bar. Strong but inaccurate shot.",
+            "visibility": "shown",
+            "position": "2479000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 40:47",
+            "label": "y-card",
+            "description": "Benjamin Brand shows a yellow card to Kevin Vogt (Hoffenheim) for a tough tackle.",
+            "identified": "[REFEREE] shows a yellow card to [PLAYER_U3OLd4oq] ([TEAM_]) for a tough tackle.",
+            "anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle.",
+            "visibility": "shown",
+            "position": "2447000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 40:17",
+            "label": "y-card",
+            "description": "Caution goes to Sebastian Rudy (Hoffenheim).",
+            "identified": "Caution goes to [PLAYER_n9zqoehC] ([TEAM_]).",
+            "anonymized": "Caution goes to [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2417000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 39:29",
+            "label": "",
+            "description": "Jeremy Toljan (Hoffenheim) looks to break free, but his touch lets him down and he loses the ball.",
+            "identified": "[PLAYER_IsGWKIMq] ([TEAM_]) looks to break free, but his touch lets him down and he loses the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) looks to break free, but his touch lets him down and he loses the ball.",
+            "visibility": "shown",
+            "position": "2369000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 38:42",
+            "label": "",
+            "description": "Adrian Ramos (Dortmund) is obviously not following the Golden Rule: \u201eTreat others as you want to be treated.\u201c He makes a bad challenge and leaves Benjamin Brand with no other option than to blow for a foul.",
+            "identified": "[PLAYER_YZ3fZd1q] ([TEAM_]) is obviously not following the Golden Rule: \u201eTreat others as you want to be treated.\u201c He makes a bad challenge and leaves [REFEREE] with no other option than to blow for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) is obviously not following the Golden Rule: \u201eTreat others as you want to be treated.\u201c He makes a bad challenge and leaves [REFEREE] with no other option than to blow for a foul.",
+            "visibility": "shown",
+            "position": "2322000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 37:15",
+            "label": "substitution",
+            "description": "The manager has decided to make a substitution and Christian Pulisic walks off the pitch to be replaced by Adrian Ramos (Dortmund).",
+            "identified": "The manager has decided to make a substitution and [PLAYER_vTuaEfRq] walks off the pitch to be replaced by [PLAYER_YZ3fZd1q] ([TEAM_]).",
+            "anonymized": "The manager has decided to make a substitution and [PLAYER] walks off the pitch to be replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2235000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:41",
+            "label": "",
+            "description": "Sebastian Rudy (Hoffenheim) floats the free kick into the box, but it's easily cleared by the first man.",
+            "identified": "[PLAYER_n9zqoehC] ([TEAM_]) floats the free kick into the box, but it's easily cleared by the first man.",
+            "anonymized": "[PLAYER] ([TEAM]) floats the free kick into the box, but it's easily cleared by the first man.",
+            "visibility": "shown",
+            "position": "2201000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 35:11",
+            "label": "",
+            "description": "Mario Gotze (Dortmund) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "identified": "[PLAYER_veaF8P5m] ([TEAM_]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "anonymized": "[PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "visibility": "shown",
+            "position": "2111000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:55",
+            "label": "",
+            "description": "Sandro Wagner (Hoffenheim) receives a pass and fires a shot in from long range, but it's blocked.",
+            "identified": "[PLAYER_bs5wEhDE] ([TEAM_]) receives a pass and fires a shot in from long range, but it's blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a pass and fires a shot in from long range, but it's blocked.",
+            "visibility": "shown",
+            "position": "2035000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:03",
+            "label": "",
+            "description": "Benjamin Brand interrupts the game for a tactical foul by Pavel Kaderabek (Hoffenheim).",
+            "identified": "[REFEREE] interrupts the game for a tactical foul by [PLAYER_MwBrqRha] ([TEAM_]).",
+            "anonymized": "[REFEREE] interrupts the game for a tactical foul by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1923000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 31:13",
+            "label": "corner",
+            "description": "Emre Mor (Dortmund) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "identified": "[PLAYER_Kd02fMXo] ([TEAM_]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "anonymized": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "visibility": "shown",
+            "position": "1873000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:46",
+            "label": "",
+            "description": "Christian Pulisic (Dortmund) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee and his assistant both point at the corner flag. Dortmund will have an opportunity to threaten the opposition's goal.",
+            "identified": "[PLAYER_vTuaEfRq] ([TEAM_]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee and his assistant both point at the corner flag. [TEAM_] will have an opportunity to threaten the opposition's goal.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "visibility": "shown",
+            "position": "1846000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:11",
+            "label": "",
+            "description": "Jeremy Toljan (Hoffenheim) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "identified": "[PLAYER_IsGWKIMq] ([TEAM_]) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "visibility": "shown",
+            "position": "1811000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:48",
+            "label": "",
+            "description": "Mario Gotze (Dortmund) makes a strong challenge and Benjamin Brand blows for a foul.",
+            "identified": "[PLAYER_veaF8P5m] ([TEAM_]) makes a strong challenge and [REFEREE] blows for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul.",
+            "visibility": "shown",
+            "position": "1668000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:07",
+            "label": "",
+            "description": "Jeremy Toljan (Hoffenheim) shoots from the edge of the penalty area. The ball travels towards the left side of the target, but Roman Weidenfeller easily deals with the threat.",
+            "identified": "[PLAYER_IsGWKIMq] ([TEAM_]) shoots from the edge of the penalty area. The ball travels towards the left side of the target, but [PLAYER_SWPWwvA4] easily deals with the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) shoots from the edge of the penalty area. The ball travels towards the left side of the target, but [PLAYER] easily deals with the threat.",
+            "visibility": "shown",
+            "position": "1627000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:24",
+            "label": "corner",
+            "description": "The resulting corner from Nadiem Amiri (Hoffenheim) is cleared.",
+            "identified": "The resulting corner from [PLAYER_b3H5VR8I] ([TEAM_]) is cleared.",
+            "anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared.",
+            "visibility": "shown",
+            "position": "1524000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 24:56",
+            "label": "",
+            "description": "Pavel Kaderabek (Hoffenheim) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The referee signals a corner kick to Hoffenheim.",
+            "identified": "[PLAYER_MwBrqRha] ([TEAM_]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The referee signals a corner kick to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The referee signals a corner kick to [TEAM].",
+            "visibility": "shown",
+            "position": "1496000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 23:39",
+            "label": "substitution",
+            "description": "Ousmane Dembele is being substituted because of an injury. Thomas Tuchel sends Emre Mor (Dortmund) on the pitch.",
+            "identified": "[PLAYER_zsMC2Ec0] is being substituted because of an injury. [COACH_CQTUFgPk] sends [PLAYER_Kd02fMXo] ([TEAM_]) on the pitch.",
+            "anonymized": "[PLAYER] is being substituted because of an injury. [COACH] sends [PLAYER] ([TEAM]) on the pitch.",
+            "visibility": "shown",
+            "position": "1419000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:23",
+            "label": "injury",
+            "description": "Ousmane Dembele (Dortmund) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "identified": "[PLAYER_zsMC2Ec0] ([TEAM_]) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "anonymized": "[PLAYER] ([TEAM]) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "visibility": "shown",
+            "position": "1283000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:39",
+            "label": "",
+            "description": "Benjamin Brand couldn't ignore the rough tackle by Sebastian Rudy (Hoffenheim) and blew his whistle.",
+            "identified": "[REFEREE] couldn't ignore the rough tackle by [PLAYER_n9zqoehC] ([TEAM_]) and blew his whistle.",
+            "anonymized": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle.",
+            "visibility": "shown",
+            "position": "1239000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:09",
+            "label": "",
+            "description": "The Hoffenheim players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break.",
+            "identified": "The [TEAM_] players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break.",
+            "anonymized": "The [TEAM] players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break.",
+            "visibility": "shown",
+            "position": "1149000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 17:13",
+            "label": "",
+            "description": "Baris Atik (Hoffenheim) races towards goal but the defender gets back well to make a challenge.",
+            "identified": "[PLAYER_YweM4agt] ([TEAM_]) races towards goal but the defender gets back well to make a challenge.",
+            "anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge.",
+            "visibility": "shown",
+            "position": "1033000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 16:56",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) is moving okay again after that injury scare.",
+            "identified": "[PLAYER_zsMC2Ec0] ([TEAM_]) is moving okay again after that injury scare.",
+            "anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare.",
+            "visibility": "shown",
+            "position": "1016000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 15:22",
+            "label": "substitution",
+            "description": "Substitution. Baris Atik (Hoffenheim) receives a signal from the referee and is now allowed to enter the pitch as Kerem Demirbay walks off.",
+            "identified": "Substitution. [PLAYER_YweM4agt] ([TEAM_]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER_bDxlhHxR] walks off.",
+            "anonymized": "Substitution. [PLAYER] ([TEAM]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER] walks off.",
+            "visibility": "shown",
+            "position": "922000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 14:16",
+            "label": "injury",
+            "description": "Ousmane Dembele (Dortmund) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "identified": "[PLAYER_zsMC2Ec0] ([TEAM_]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "visibility": "shown",
+            "position": "856000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 13:56",
+            "label": "",
+            "description": "Andrej Kramaric (Hoffenheim) is flagged for offside.",
+            "identified": "[PLAYER_6V0rWuu1] ([TEAM_]) is flagged for offside.",
+            "anonymized": "[PLAYER] ([TEAM]) is flagged for offside.",
+            "visibility": "shown",
+            "position": "836000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 13:35",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) looks to break free, but an opposing player clears the ball away.",
+            "identified": "[PLAYER_zsMC2Ec0] ([TEAM_]) looks to break free, but an opposing player clears the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away.",
+            "visibility": "shown",
+            "position": "815000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 12:50",
+            "label": "substitution",
+            "description": "The substitution is prepared. Andrej Kramaric (Hoffenheim) joins the action as a substitute, replacing Mark Uth.",
+            "identified": "The substitution is prepared. [PLAYER_6V0rWuu1] ([TEAM_]) joins the action as a substitute, replacing [PLAYER_CzbQqKcT].",
+            "anonymized": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER].",
+            "visibility": "shown",
+            "position": "770000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 12:10",
+            "label": "y-card",
+            "description": "Benjamin Brand shows a yellow card to Kerem Demirbay (Hoffenheim), who isn't surprised as the tackle was really hard and late.",
+            "identified": "[REFEREE] shows a yellow card to [PLAYER_bDxlhHxR] ([TEAM_]), who isn't surprised as the tackle was really hard and late.",
+            "anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late.",
+            "visibility": "shown",
+            "position": "730000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:33",
+            "label": "",
+            "description": "Benjamin Brand has a clear sight and sees a foul from Sven Bender (Dortmund).",
+            "identified": "[REFEREE] has a clear sight and sees a foul from [PLAYER_v1r7SOW5] ([TEAM_]).",
+            "anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "693000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:53",
+            "label": "corner",
+            "description": "Ousmane Dembele (Dortmund) takes the corner but fails to find any of his teammates as he overhits the effort.",
+            "identified": "[PLAYER_zsMC2Ec0] ([TEAM_]) takes the corner but fails to find any of his teammates as he overhits the effort.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates as he overhits the effort.",
+            "visibility": "shown",
+            "position": "653000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:12",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The ball is out of play and the linesman points at the corner flag. Corner to Dortmund.",
+            "identified": "[PLAYER_zsMC2Ec0] ([TEAM_]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+            "visibility": "shown",
+            "position": "612000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:15",
+            "label": "",
+            "description": "Pavel Kaderabek (Hoffenheim) thinks that he is fouled by his opponent, but the referee deems him to be the one who commits a foul and awards a free kick to the other team.",
+            "identified": "[PLAYER_MwBrqRha] ([TEAM_]) thinks that he is fouled by his opponent, but the referee deems him to be the one who commits a foul and awards a free kick to the other team.",
+            "anonymized": "[PLAYER] ([TEAM]) thinks that he is fouled by his opponent, but the referee deems him to be the one who commits a foul and awards a free kick to the other team.",
+            "visibility": "shown",
+            "position": "555000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:30",
+            "label": "",
+            "description": "Kerem Demirbay (Hoffenheim) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "identified": "[PLAYER_bDxlhHxR] ([TEAM_]) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "visibility": "shown",
+            "position": "510000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:35",
+            "label": "",
+            "description": "Dangerous play by Sandro Wagner (Hoffenheim). Benjamin Brand blows his whistle for a foul.",
+            "identified": "Dangerous play by [PLAYER_bs5wEhDE] ([TEAM_]). [REFEREE] blows his whistle for a foul.",
+            "anonymized": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "455000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 05:35",
+            "label": "",
+            "description": "This was a piece of cake for Oliver Baumann. Pierre-Emerick Aubameyang (Dortmund) found himself some space after latching on to a pass, but his strike only went low to the middle of the goal and into the gloves of the prepared keeper.",
+            "identified": "This was a piece of cake for [PLAYER_MZ6BATVO]. [PLAYER_Wl4EyKZk] ([TEAM_]) found himself some space after latching on to a pass, but his strike only went low to the middle of the goal and into the gloves of the prepared keeper.",
+            "anonymized": "This was a piece of cake for [PLAYER]. [PLAYER] ([TEAM]) found himself some space after latching on to a pass, but his strike only went low to the middle of the goal and into the gloves of the prepared keeper.",
+            "visibility": "shown",
+            "position": "335000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 03:00",
+            "label": "soccer-ball",
+            "description": "GOAL! Pierre-Emerick Aubameyang (Dortmund) collects a pass and from inside the box he lifts the ball over Oliver Baumann, who was off his line. What a finish that is! 2:2.",
+            "identified": "GOAL! [PLAYER_Wl4EyKZk] ([TEAM_]) collects a pass and from inside the box he lifts the ball over [PLAYER_MZ6BATVO], who was off his line. What a finish that is! 2:2.",
+            "anonymized": "GOAL! [PLAYER] ([TEAM]) collects a pass and from inside the box he lifts the ball over [PLAYER], who was off his line. What a finish that is! 2:2.",
+            "visibility": "shown",
+            "position": "180000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 02:00",
+            "label": "",
+            "description": "Sandro Wagner (Hoffenheim) smashed a volley without hesitation from near the penalty spot, but it only rattled the right post!",
+            "identified": "[PLAYER_bs5wEhDE] ([TEAM_]) smashed a volley without hesitation from near the penalty spot, but it only rattled the right post!",
+            "anonymized": "[PLAYER] ([TEAM]) smashed a volley without hesitation from near the penalty spot, but it only rattled the right post!",
+            "visibility": "shown",
+            "position": "120000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 01:11",
+            "label": "",
+            "description": "Christian Pulisic (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "identified": "[PLAYER_vTuaEfRq] ([TEAM_]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "visibility": "shown",
+            "position": "71000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The half-time break is over and the second half is about to start.",
+            "identified": "The half-time break is over and the second half is about to start.",
+            "anonymized": "The half-time break is over and the second half is about to start.",
+            "visibility": "shown",
+            "position": "1000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. It's difficult to say if one side enjoyed any superiority over the other in the first half. The home team's main weapon is fast counter-attacks, while the away side attempts to hold onto the ball for as long as possible.",
+            "identified": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. It's difficult to say if one side enjoyed any superiority over the other in the first half. The home team's main weapon is fast counter-attacks, while the away side attempts to hold onto the ball for as long as possible.",
+            "anonymized": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. It's difficult to say if one side enjoyed any superiority over the other in the first half. The home team's main weapon is fast counter-attacks, while the away side attempts to hold onto the ball for as long as possible.",
+            "visibility": "shown",
+            "position": "2759000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 45:58",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "identified": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "anonymized": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "visibility": "shown",
+            "position": "2758000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:00",
+            "label": "time",
+            "description": "There will be a minimum of 1 min. of added time.",
+            "identified": "There will be a minimum of 1 min. of added time.",
+            "anonymized": "There will be a minimum of 1 min. of added time.",
+            "visibility": "shown",
+            "position": "0"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:12",
+            "label": "",
+            "description": "Sandro Wagner (Hoffenheim) gets on the ball and beats an opponent, but his run is stopped by the referee Benjamin Brand who sees an offensive foul.",
+            "identified": "[PLAYER_bs5wEhDE] ([TEAM_]) gets on the ball and beats an opponent, but his run is stopped by the referee [REFEREE] who sees an offensive foul.",
+            "anonymized": "[PLAYER] ([TEAM]) gets on the ball and beats an opponent, but his run is stopped by the referee [REFEREE] who sees an offensive foul.",
+            "visibility": "shown",
+            "position": "2592000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:46",
+            "label": "",
+            "description": "Pavel Kaderabek (Hoffenheim) serves up a nice cross, but the defence clears the danger.",
+            "identified": "[PLAYER_MwBrqRha] ([TEAM_]) serves up a nice cross, but the defence clears the danger.",
+            "anonymized": "[PLAYER] ([TEAM]) serves up a nice cross, but the defence clears the danger.",
+            "visibility": "shown",
+            "position": "2566000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 41:49",
+            "label": "",
+            "description": "What a chance that is! Sandro Wagner (Hoffenheim) displays good awareness near the penalty spot to get on the end of a cross from the free kick, but he steers his header narrowly wide of the right post.",
+            "identified": "What a chance that is! [PLAYER_bs5wEhDE] ([TEAM_]) displays good awareness near the penalty spot to get on the end of a cross from the free kick, but he steers his header narrowly wide of the right post.",
+            "anonymized": "What a chance that is! [PLAYER] ([TEAM]) displays good awareness near the penalty spot to get on the end of a cross from the free kick, but he steers his header narrowly wide of the right post.",
+            "visibility": "shown",
+            "position": "2509000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 40:29",
+            "label": "yr-card",
+            "description": "Marco Reus (Dortmund) should have been more careful. He commits a bad foul, receives his second yellow card and is sent-off!",
+            "identified": "[PLAYER_fonESekN] ([TEAM_]) should have been more careful. He commits a bad foul, receives his second yellow card and is sent-off!",
+            "anonymized": "[PLAYER] ([TEAM]) should have been more careful. He commits a bad foul, receives his second yellow card and is sent-off!",
+            "visibility": "shown",
+            "position": "2429000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 38:48",
+            "label": "y-card",
+            "description": "Benjamin Hubner (Hoffenheim) has tested the patience of referee Benjamin Brand and goes into the book for a previous late challenge.",
+            "identified": "[PLAYER_WMpSoFCg] ([TEAM_]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge.",
+            "anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge.",
+            "visibility": "shown",
+            "position": "2328000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:03",
+            "label": "",
+            "description": "Marco Reus (Dortmund) seems to be alright and is okay to carry on.",
+            "identified": "[PLAYER_fonESekN] ([TEAM_]) seems to be alright and is okay to carry on.",
+            "anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on.",
+            "visibility": "shown",
+            "position": "2223000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 36:26",
+            "label": "injury",
+            "description": "Marco Reus (Dortmund) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "identified": "[PLAYER_fonESekN] ([TEAM_]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "visibility": "shown",
+            "position": "2186000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:38",
+            "label": "corner",
+            "description": "Ousmane Dembele (Dortmund) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "identified": "[PLAYER_zsMC2Ec0] ([TEAM_]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "anonymized": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "visibility": "shown",
+            "position": "2138000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:24",
+            "label": "",
+            "description": "Pierre-Emerick Aubameyang (Dortmund) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. Dortmund have a corner.",
+            "identified": "[PLAYER_Wl4EyKZk] ([TEAM_]) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. [TEAM_] have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. [TEAM] have a corner.",
+            "visibility": "shown",
+            "position": "2124000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:55",
+            "label": "",
+            "description": "Christian Pulisic (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "identified": "[PLAYER_vTuaEfRq] ([TEAM_]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "visibility": "shown",
+            "position": "2095000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:23",
+            "label": "",
+            "description": "Sven Bender (Dortmund) commits a foul after bringing down his opponent with a slide tackle.",
+            "identified": "[PLAYER_v1r7SOW5] ([TEAM_]) commits a foul after bringing down his opponent with a slide tackle.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a foul after bringing down his opponent with a slide tackle.",
+            "visibility": "shown",
+            "position": "2003000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:07",
+            "label": "",
+            "description": "Sven Bender (Dortmund) trips an opposition player and Benjamin Brand signals a foul.",
+            "identified": "[PLAYER_v1r7SOW5] ([TEAM_]) trips an opposition player and [REFEREE] signals a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul.",
+            "visibility": "shown",
+            "position": "1927000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 31:36",
+            "label": "",
+            "description": "Marco Reus clips a neat ball into the box towards Marcel Schmelzer (Dortmund), whose header from the centre of the box goes narrowly over the crossbar.",
+            "identified": "[PLAYER_fonESekN] clips a neat ball into the box towards [PLAYER_n3VwNCjb] ([TEAM_]), whose header from the centre of the box goes narrowly over the crossbar.",
+            "anonymized": "[PLAYER] clips a neat ball into the box towards [PLAYER] ([TEAM]), whose header from the centre of the box goes narrowly over the crossbar.",
+            "visibility": "shown",
+            "position": "1896000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:53",
+            "label": "",
+            "description": "Benjamin Brand blows his whistle after Mark Uth (Hoffenheim) brings one of his opponents down with a strong tackle.",
+            "identified": "[REFEREE] blows his whistle after [PLAYER_CzbQqKcT] ([TEAM_]) brings one of his opponents down with a strong tackle.",
+            "anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle.",
+            "visibility": "shown",
+            "position": "1853000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:36",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) gets to the rebound and shoots, but the effort is blocked.",
+            "identified": "[PLAYER_zsMC2Ec0] ([TEAM_]) gets to the rebound and shoots, but the effort is blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) gets to the rebound and shoots, but the effort is blocked.",
+            "visibility": "shown",
+            "position": "1836000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 29:26",
+            "label": "y-card",
+            "description": "Niklas Sule (Hoffenheim) sees a yellow card from Benjamin Brand after he sent one of the opposing players to the ground.",
+            "identified": "[PLAYER_G43Lp4in] ([TEAM_]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground.",
+            "anonymized": "[PLAYER] ([TEAM]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground.",
+            "visibility": "shown",
+            "position": "1766000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 27:00",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Marc Bartra (Dortmund). Benjamin Brand doesn't hesitate at all to make this decision.",
+            "identified": "A yellow card for a tackle by [PLAYER_8K4WA9Gh] ([TEAM_]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "visibility": "shown",
+            "position": "1620000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:51",
+            "label": "corner",
+            "description": "Ousmane Dembele (Dortmund) takes the corner which is cleared by the opposition's defence.",
+            "identified": "[PLAYER_zsMC2Ec0] ([TEAM_]) takes the corner which is cleared by the opposition's defence.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared by the opposition's defence.",
+            "visibility": "shown",
+            "position": "1611000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:22",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Christian Pulisic (Dortmund), is intercepted by the opposition's defence. The referee blows his whistle, Dortmund are awarded a corner kick.",
+            "identified": "A fine lofted pass into the box, sent by [PLAYER_vTuaEfRq] ([TEAM_]), is intercepted by the opposition's defence. The referee blows his whistle, [TEAM_] are awarded a corner kick.",
+            "anonymized": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "1582000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:57",
+            "label": "",
+            "description": "Sebastian Rudy (Hoffenheim) escapes without any punishment from the referee after using excessive force to foul his opponent.",
+            "identified": "[PLAYER_n9zqoehC] ([TEAM_]) escapes without any punishment from the referee after using excessive force to foul his opponent.",
+            "anonymized": "[PLAYER] ([TEAM]) escapes without any punishment from the referee after using excessive force to foul his opponent.",
+            "visibility": "shown",
+            "position": "1497000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:38",
+            "label": "",
+            "description": "Matthias Ginter (Dortmund) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence.",
+            "identified": "[PLAYER_27fpNoQk] ([TEAM_]) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence.",
+            "anonymized": "[PLAYER] ([TEAM]) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence.",
+            "visibility": "shown",
+            "position": "1478000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:42",
+            "label": "",
+            "description": "Mark Uth (Hoffenheim) gives away a foul for a clumsy challenge. Referee Benjamin Brand saw the whole situation.",
+            "identified": "[PLAYER_CzbQqKcT] ([TEAM_]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation.",
+            "anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation.",
+            "visibility": "shown",
+            "position": "1422000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:37",
+            "label": "",
+            "description": "Sebastian Rudy (Hoffenheim) makes a driving run into the box but he cannot work any space for a shot.",
+            "identified": "[PLAYER_n9zqoehC] ([TEAM_]) makes a driving run into the box but he cannot work any space for a shot.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a driving run into the box but he cannot work any space for a shot.",
+            "visibility": "shown",
+            "position": "1357000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 19:42",
+            "label": "soccer-ball",
+            "description": "Goal! Nice headed pass by Benjamin Hubner to Sandro Wagner (Hoffenheim), who latches on to it and puts the ball into the back of the net with a fine header. 2:1.",
+            "identified": "Goal! Nice headed pass by [PLAYER_WMpSoFCg] to [PLAYER_bs5wEhDE] ([TEAM_]), who latches on to it and puts the ball into the back of the net with a fine header. 2:1.",
+            "anonymized": "Goal! Nice headed pass by [PLAYER] to [PLAYER] ([TEAM]), who latches on to it and puts the ball into the back of the net with a fine header. 2:1.",
+            "visibility": "shown",
+            "position": "1182000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 19:20",
+            "label": "corner",
+            "description": "Corner kick. Sebastian Rudy (Hoffenheim) is ready to send the ball into the box.",
+            "identified": "Corner kick. [PLAYER_n9zqoehC] ([TEAM_]) is ready to send the ball into the box.",
+            "anonymized": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box.",
+            "visibility": "shown",
+            "position": "1160000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 18:43",
+            "label": "",
+            "description": "Kerem Demirbay (Hoffenheim) has a good chance to score with a mid-range attempt after collecting a pass. He aims for the right side of the goal, but he can't generate enough power to trouble Roman Weidenfeller. Good work from Hoffenheim as they win a corner.",
+            "identified": "[PLAYER_bDxlhHxR] ([TEAM_]) has a good chance to score with a mid-range attempt after collecting a pass. He aims for the right side of the goal, but he can't generate enough power to trouble [PLAYER_SWPWwvA4]. Good work from [TEAM_] as they win a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) has a good chance to score with a mid-range attempt after collecting a pass. He aims for the right side of the goal, but he can't generate enough power to trouble [PLAYER]. Good work from [TEAM] as they win a corner.",
+            "visibility": "shown",
+            "position": "1123000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:49",
+            "label": "",
+            "description": "The linesman raises his flag. Marcel Schmelzer (Dortmund) is adjudged offside.",
+            "identified": "The linesman raises his flag. [PLAYER_n3VwNCjb] ([TEAM_]) is adjudged offside.",
+            "anonymized": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside.",
+            "visibility": "shown",
+            "position": "1069000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 16:53",
+            "label": "",
+            "description": "The referee blows his whistle as Nadiem Amiri (Hoffenheim) was too aggressive in his challenge.",
+            "identified": "The referee blows his whistle as [PLAYER_b3H5VR8I] ([TEAM_]) was too aggressive in his challenge.",
+            "anonymized": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge.",
+            "visibility": "shown",
+            "position": "1013000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:19",
+            "label": "",
+            "description": "Benjamin Brand blows for a foul after Marc Bartra (Dortmund) was too aggressive in the battle for the ball.",
+            "identified": "[REFEREE] blows for a foul after [PLAYER_8K4WA9Gh] ([TEAM_]) was too aggressive in the battle for the ball.",
+            "anonymized": "[REFEREE] blows for a foul after [PLAYER] ([TEAM]) was too aggressive in the battle for the ball.",
+            "visibility": "shown",
+            "position": "919000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:57",
+            "label": "",
+            "description": "The free kick is taken by Marco Reus (Dortmund), but ball is cleared.",
+            "identified": "The free kick is taken by [PLAYER_fonESekN] ([TEAM_]), but ball is cleared.",
+            "anonymized": "The free kick is taken by [PLAYER] ([TEAM]), but ball is cleared.",
+            "visibility": "shown",
+            "position": "897000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:20",
+            "label": "",
+            "description": "The game is interrupted. Sandro Wagner (Hoffenheim) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "identified": "The game is interrupted. [PLAYER_bs5wEhDE] ([TEAM_]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "anonymized": "The game is interrupted. [PLAYER] ([TEAM]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "visibility": "shown",
+            "position": "860000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:02",
+            "label": "",
+            "description": "The defence is alert as they clear a dangerous cross from Mario Gotze (Dortmund).",
+            "identified": "The defence is alert as they clear a dangerous cross from [PLAYER_veaF8P5m] ([TEAM_]).",
+            "anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "782000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 12:48",
+            "label": "",
+            "description": "Dortmund seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",
+            "identified": "[TEAM_] seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",
+            "anonymized": "[TEAM] seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",
+            "visibility": "shown",
+            "position": "768000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 10:30",
+            "label": "soccer-ball",
+            "description": "It's in! Ousmane Dembele spots his teammate in a good position on the edge of the box and provides him with a nice pass. Mario Gotze (Dortmund) doesn't think twice and rifles a first-time shot into the bottom right corner. The score is now 1:1.",
+            "identified": "It's in! [PLAYER_zsMC2Ec0] spots his teammate in a good position on the edge of the box and provides him with a nice pass. [PLAYER_veaF8P5m] ([TEAM_]) doesn't think twice and rifles a first-time shot into the bottom right corner. The score is now 1:1.",
+            "anonymized": "It's in! [PLAYER] spots his teammate in a good position on the edge of the box and provides him with a nice pass. [PLAYER] ([TEAM]) doesn't think twice and rifles a first-time shot into the bottom right corner. The score is now 1:1.",
+            "visibility": "shown",
+            "position": "630000"
+        }
+    ]
+}

@@ -1,0 +1,641 @@
+[
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Romelu Lukaku",
+      "B. Anthony Martial",
+      "C. Marcus Rashford",
+      "D. Paul Pogba"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 14,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the first goal in the match?",
+    "choices": [
+      "A. Manchester United",
+      "B. Liverpool",
+      "C. Chelsea",
+      "D. Arsenal"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 14,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 14,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who assisted Anthony Martial's goal?",
+    "choices": [
+      "A. Romelu Lukaku",
+      "B. Paul Pogba",
+      "C. Marcus Rashford",
+      "D. Juan Mata"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 14,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals in the match?",
+    "choices": [
+      "A. Manchester United",
+      "B. Liverpool",
+      "C. Both teams have scored equally",
+      "D. No goals have been scored"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who was the first player to score in the match?",
+    "choices": [
+      "A. Anthony Martial",
+      "B. Romelu Lukaku",
+      "C. Marcus Rashford",
+      "D. Paul Pogba"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the match?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 14,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Manchester United",
+      "B. Liverpool",
+      "C. Chelsea",
+      "D. Arsenal"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 14,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Anthony Martial",
+      "B. Romelu Lukaku",
+      "C. Marcus Rashford",
+      "D. Paul Pogba"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 14,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      13
+    ],
+    "current_event_index": 13,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opponent Team",
+      "C. Both teams have the same",
+      "D. No yellow cards yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      13
+    ],
+    "current_event_index": 13,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. Antonio Valencia",
+      "B. Paul Pogba",
+      "C. Marcus Rashford",
+      "D. David De Gea"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      13
+    ],
+    "current_event_index": 13,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      13
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opponent Team",
+      "C. Both teams had the same",
+      "D. No yellow cards in the match"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      13
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player was involved in the most yellow cards?",
+    "choices": [
+      "A. Antonio Valencia",
+      "B. Paul Pogba",
+      "C. Marcus Rashford",
+      "D. No players received yellow cards"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      13
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 13,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opponent Team",
+      "C. Both teams equally",
+      "D. No more yellow cards"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 13,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Antonio Valencia",
+      "B. Paul Pogba",
+      "C. Marcus Rashford",
+      "D. No more yellow cards"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 13,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. Henrikh Mkhitaryan"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. Henrikh Mkhitaryan"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": 3,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": 3,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. Henrikh Mkhitaryan"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 8,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "current_event_index": null,
+    "index": 9,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams had the same number",
+      "D. Neither team had a corner"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "current_event_index": null,
+    "index": 10,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. Henrikh Mkhitaryan"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "current_event_index": null,
+    "index": 11,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "current_event_index": 4,
+    "index": 12,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Manchester United",
+      "B. Tottenham",
+      "C. Both teams are equally likely",
+      "D. Neither team will get a corner"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "current_event_index": 4,
+    "index": 13,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Marcus Rashford",
+      "B. Christian Eriksen",
+      "C. Ben Davies",
+      "D. Henrikh Mkhitaryan"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      6
+    ],
+    "current_event_index": 4,
+    "index": 14,
+    "event_type": "corner"
+  }
+]

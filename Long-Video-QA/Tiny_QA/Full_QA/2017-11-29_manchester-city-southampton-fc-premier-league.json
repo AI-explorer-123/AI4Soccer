@@ -1,0 +1,659 @@
+[
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. Oriol Romeu",
+      "C. Raheem Sterling",
+      "D. Sofiane Boufal"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the first goal?",
+    "choices": [
+      "A. Manchester City",
+      "B. Southampton",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the equalizing goal for Southampton?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. Oriol Romeu",
+      "C. Raheem Sterling",
+      "D. Sofiane Boufal"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      15
+    ],
+    "current_event_index": 15,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the second goal in the match?",
+    "choices": [
+      "A. Manchester City",
+      "B. Southampton",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      15
+    ],
+    "current_event_index": 15,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      15
+    ],
+    "current_event_index": 15,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the winning goal for Manchester City?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. Oriol Romeu",
+      "C. Raheem Sterling",
+      "D. Sofiane Boufal"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      22
+    ],
+    "current_event_index": 22,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the most goals in the match?",
+    "choices": [
+      "A. Manchester City",
+      "B. Southampton",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      7,
+      15,
+      22
+    ],
+    "current_event_index": 22,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals were scored in total?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      15,
+      22
+    ],
+    "current_event_index": 22,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who was the last player to score in the match?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. Oriol Romeu",
+      "C. Raheem Sterling",
+      "D. Sofiane Boufal"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      7,
+      15,
+      22
+    ],
+    "current_event_index": null,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the most goals in the match?",
+    "choices": [
+      "A. Manchester City",
+      "B. Southampton",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      7,
+      15,
+      22
+    ],
+    "current_event_index": null,
+    "index": 10,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals were scored in the second half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      15,
+      22
+    ],
+    "current_event_index": null,
+    "index": 11,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be another goal after the 50th minute?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 22,
+    "index": 12,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to score next after the 29th minute?",
+    "choices": [
+      "A. Manchester City",
+      "B. Southampton",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      22
+    ],
+    "current_event_index": 15,
+    "index": 13,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to score next after the 1st minute?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. Oriol Romeu",
+      "C. Raheem Sterling",
+      "D. Sofiane Boufal"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      22
+    ],
+    "current_event_index": 7,
+    "index": 14,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Manchester City",
+      "B. Southampton",
+      "C. Both teams have the same",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last card?",
+    "choices": [
+      "A. Vincent Kompany",
+      "B. Shane Long",
+      "C. Paul Tierney",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      11
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Manchester City",
+      "B. Southampton",
+      "C. Both teams have the same",
+      "D. Neither team"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      11
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in yellow cards?",
+    "choices": [
+      "A. Vincent Kompany and Shane Long",
+      "B. Paul Tierney and Vincent Kompany",
+      "C. Shane Long and Paul Tierney",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      11
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      11
+    ],
+    "current_event_index": 5,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Manchester City",
+      "B. Southampton",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      11
+    ],
+    "current_event_index": 5,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Vincent Kompany",
+      "B. Shane Long",
+      "C. Paul Tierney",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      11
+    ],
+    "current_event_index": 5,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Southampton",
+      "B. Manchester City",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Ryan Bertrand",
+      "B. Kevin De Bruyne",
+      "C. Oriol Romeu",
+      "D. Nathan Redmond"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 6",
+      "B. 7",
+      "C. 8",
+      "D. 9"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      8,
+      9,
+      12,
+      13,
+      16,
+      18,
+      20
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Southampton",
+      "B. Manchester City",
+      "C. Both teams had the same number",
+      "D. Neither team had any corners"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      8,
+      9,
+      12,
+      13,
+      16,
+      18,
+      20
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Ryan Bertrand",
+      "B. Kevin De Bruyne",
+      "C. Oriol Romeu",
+      "D. Nathan Redmond"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      8,
+      9,
+      12,
+      13,
+      16,
+      18,
+      20
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. It's uncertain"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      3,
+      4,
+      6,
+      8,
+      9,
+      12,
+      13,
+      16,
+      18,
+      20
+    ],
+    "current_event_index": 1,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Southampton",
+      "B. Manchester City",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      3,
+      4
+    ],
+    "current_event_index": 1,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Ryan Bertrand",
+      "B. Kevin De Bruyne",
+      "C. Oriol Romeu",
+      "D. Nathan Redmond"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      3,
+      4
+    ],
+    "current_event_index": 1,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

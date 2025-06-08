@@ -1,0 +1,366 @@
+[
+  {
+    "question": "How many yellow cards have occurred so far in the first half up to Jack Wilshere's booking?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 8,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had a player booked first in the first half?",
+    "choices": [
+      "A. Arsenal",
+      "B. Chelsea",
+      "C. Both teams at the same time",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 8,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who was the first player to receive a yellow card in the first half?",
+    "choices": [
+      "A. Jack Wilshere",
+      "B. Cesc Fabregas",
+      "C. Anthony Taylor",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 8,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      8,
+      10
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the first half?",
+    "choices": [
+      "A. Arsenal",
+      "B. Chelsea",
+      "C. Both teams had the same",
+      "D. Neither team"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      8,
+      10
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in first half yellow cards?",
+    "choices": [
+      "A. Jack Wilshere and Cesc Fabregas",
+      "B. Only Jack Wilshere",
+      "C. Only Cesc Fabregas",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      8,
+      10
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in the first half after Jack Wilshere's booking?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      10
+    ],
+    "current_event_index": 8,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card after Jack Wilshere's booking?",
+    "choices": [
+      "A. Arsenal",
+      "B. Chelsea",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      10
+    ],
+    "current_event_index": 8,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card after Jack Wilshere's booking?",
+    "choices": [
+      "A. Jack Wilshere",
+      "B. Cesc Fabregas",
+      "C. Anthony Taylor",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      10
+    ],
+    "current_event_index": 8,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to event index 0?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to event index 0?",
+    "choices": [
+      "A. Chelsea",
+      "B. Arsenal",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners in the first half up to event index 0?",
+    "choices": [
+      "A. Cesc Fabregas",
+      "B. Mesut Ozil",
+      "C. Victor Moses",
+      "D. Unknown"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "D",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      11,
+      12
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Chelsea",
+      "B. Arsenal",
+      "C. Both teams had the same number",
+      "D. Neither team had corners"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      11,
+      12
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Cesc Fabregas",
+      "B. Mesut Ozil",
+      "C. Victor Moses",
+      "D. Unknown"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      11,
+      12
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after event index 0?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      11,
+      12
+    ],
+    "current_event_index": 0,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after event index 0?",
+    "choices": [
+      "A. Chelsea",
+      "B. Arsenal",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 0,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after event index 0?",
+    "choices": [
+      "A. Cesc Fabregas",
+      "B. Mesut Ozil",
+      "C. Victor Moses",
+      "D. Unknown"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 0,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

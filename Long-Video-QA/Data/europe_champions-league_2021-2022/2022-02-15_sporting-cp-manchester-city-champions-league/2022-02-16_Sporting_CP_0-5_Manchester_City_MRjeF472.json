@@ -1,0 +1,825 @@
+{
+  "match_info": {
+    "timestamp": "2022-02-16 04:00:00",
+    "score": "0 - 5",
+    "home_team": "Sporting CP",
+    "away_team": "Manchester City",
+    "home_formation": "3 - 4 - 2 - 1",
+    "away_formation": "4 - 3 - 3",
+    "venue": "Estádio José Alvalade (Lisbon)",
+    "capacity": "50 466",
+    "attendance": "48 129"
+  },
+  "referee_data": {
+    "short_name_country": "Jovanovic S. (Srb)",
+    "first_name": "Jovanovic",
+    "abbr_last_name": "S",
+    "country": "Srb",
+    "detected_name": "Srdjan Jovanovic"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Guardiola P.",
+        "players_number": "",
+        "Full Name": "Pep Guardiola",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "coach",
+        "Age and Birthdate": "53,  (18.01.1971)",
+        "Market Value": "",
+        "unicode": "hxNijWrJ"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Gabriel Jesus",
+        "players_number": "",
+        "Full Name": "Gabriel Jesus",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (03.04.1997)",
+        "Market Value": "€68.5m",
+        "unicode": "viMb6g9n"
+      },
+      {
+        "players_name": "Grealish J.",
+        "players_number": "",
+        "Full Name": "Jack Grealish",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (10.09.1995)",
+        "Market Value": "€72.5m",
+        "unicode": "QVKaRfO9"
+      },
+      {
+        "players_name": "Mendy B.",
+        "players_number": "",
+        "Full Name": "Benjamin Mendy",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (17.07.1994)",
+        "Market Value": "€1.8m",
+        "unicode": "hG01CF6F"
+      },
+      {
+        "players_name": "Palmer C.",
+        "players_number": "",
+        "Full Name": "Cole Palmer",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (06.05.2002)",
+        "Market Value": "€44.7m",
+        "unicode": "h8agbDt7"
+      },
+      {
+        "players_name": "Steffen Z.",
+        "players_number": "",
+        "Full Name": "Zackary Steffen",
+        "players_rating": "",
+        "Country": "USA",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (02.04.1995)",
+        "Market Value": "€2.4m",
+        "unicode": "dQmyRuE7"
+      },
+      {
+        "players_name": "Walker K.",
+        "players_number": "",
+        "Full Name": "Kyle Walker",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (28.05.1990)",
+        "Market Value": "€13.1m",
+        "unicode": "QeLg6KGD"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Cancelo J.",
+        "players_number": "27",
+        "Full Name": "Joao Cancelo",
+        "players_rating": 6.9,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (27.05.1994)",
+        "Market Value": "€41.4m",
+        "unicode": "dAyeWYpm"
+      },
+      {
+        "players_name": "De Bruyne K.",
+        "players_number": "17",
+        "Full Name": "Kevin De Bruyne",
+        "players_rating": 7.6,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (28.06.1991)",
+        "Market Value": "€63.8m",
+        "unicode": "MsPs6OI5"
+      },
+      {
+        "players_name": "Dias R. (C)",
+        "players_number": "3",
+        "Full Name": "Ruben Dias",
+        "players_rating": 7.1,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (14.05.1997)",
+        "Market Value": "€78.3m",
+        "unicode": "OpVD3nmU"
+      },
+      {
+        "players_name": "Ederson (G)",
+        "players_number": "31",
+        "Full Name": "Ederson",
+        "players_rating": 6.6,
+        "Country": "Brazil",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "30, (17.08.1993)",
+        "Market Value": "€38.0m",
+        "unicode": "UDODA71I"
+      },
+      {
+        "players_name": "Foden P.",
+        "players_number": "47",
+        "Full Name": "Phil Foden",
+        "players_rating": 7.2,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (28.05.2000)",
+        "Market Value": "€112.3m",
+        "unicode": "E7XjDJns"
+      },
+      {
+        "players_name": "Laporte A.",
+        "players_number": "14",
+        "Full Name": "Aymeric Laporte",
+        "players_rating": 7.1,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (27.05.1994)",
+        "Market Value": "€24.9m",
+        "unicode": "SYnaB65s"
+      },
+      {
+        "players_name": "Mahrez R.",
+        "players_number": "26",
+        "Full Name": "Riyad Mahrez",
+        "players_rating": 9.1,
+        "Country": "Algeria",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (21.02.1991)",
+        "Market Value": "€17.0m",
+        "unicode": "AkzHA2kB"
+      },
+      {
+        "players_name": "Rodri",
+        "players_number": "16",
+        "Full Name": "Rodri",
+        "players_rating": 7.2,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (22.06.1996)",
+        "Market Value": "€115.4m",
+        "unicode": "K0G8DB00"
+      },
+      {
+        "players_name": "Silva B.",
+        "players_number": "20",
+        "Full Name": "Bernardo Silva",
+        "players_rating": 9.1,
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (10.08.1994)",
+        "Market Value": "€81.7m",
+        "unicode": "lUg03qcR"
+      },
+      {
+        "players_name": "Sterling R.",
+        "players_number": "7",
+        "Full Name": "Raheem Sterling",
+        "players_rating": 8.5,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (08.12.1994)",
+        "Market Value": "€44.0m",
+        "unicode": "pfm9avwi"
+      },
+      {
+        "players_name": "Stones J.",
+        "players_number": "5",
+        "Full Name": "John Stones",
+        "players_rating": 6.6,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (28.05.1994)",
+        "Market Value": "€36.6m",
+        "unicode": "SlLxn4xl"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Ake N.",
+        "players_number": "6",
+        "Full Name": "Nathan Ake",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (18.02.1995)",
+        "Market Value": "€39.7m",
+        "unicode": "6LBvaQoh"
+      },
+      {
+        "players_name": "Delap L.",
+        "players_number": "48",
+        "Full Name": "Liam Delap",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "20, (08.02.2003)",
+        "Market Value": "€7.4m",
+        "unicode": "6cfkytBh"
+      },
+      {
+        "players_name": "Fernandinho",
+        "players_number": "25",
+        "Full Name": "Fernandinho",
+        "players_rating": 6.3,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "38, (04.05.1985)",
+        "Market Value": "€496k",
+        "unicode": "2JwK7ZfJ"
+      },
+      {
+        "players_name": "Gundogan I.",
+        "players_number": "8",
+        "Full Name": "Ilkay Gundogan",
+        "players_rating": 6.4,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (24.10.1990)",
+        "Market Value": "€18.4m",
+        "unicode": "hCQ7jhL3"
+      },
+      {
+        "players_name": "Zinchenko O.",
+        "players_number": "11",
+        "Full Name": "Oleksandr Zinchenko",
+        "players_rating": 6.9,
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (15.12.1996)",
+        "Market Value": "€41.1m",
+        "unicode": "MwSCTKq6"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Carson S. (G)",
+        "players_number": "33",
+        "Full Name": "Scott Carson",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "38, (03.09.1985)",
+        "Market Value": "30.06.2024",
+        "unicode": "CxgywZ8L"
+      },
+      {
+        "players_name": "Kayky",
+        "players_number": "37",
+        "Full Name": "Kayky",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "20, (11.06.2003)",
+        "Market Value": "€6.6m",
+        "unicode": "I147sZk3"
+      },
+      {
+        "players_name": "Lavia R.",
+        "players_number": "90",
+        "Full Name": "Romeo Lavia",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (06.01.2004)",
+        "Market Value": "€45.4m",
+        "unicode": "UepSPHBj"
+      },
+      {
+        "players_name": "Mbete L.",
+        "players_number": "79",
+        "Full Name": "Luke Mbete",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (18.09.2003)",
+        "Market Value": "€936k",
+        "unicode": "Khr34SL6"
+      },
+      {
+        "players_name": "McAtee J.",
+        "players_number": "87",
+        "Full Name": "James McAtee",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (18.10.2002)",
+        "Market Value": "€11.6m",
+        "unicode": "zwOgsDSc"
+      },
+      {
+        "players_name": "Slicker C. (G)",
+        "players_number": "84",
+        "Full Name": "Cieran Slicker",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "21, (15.09.2002)",
+        "Market Value": "€283k",
+        "unicode": "ziwqjAVc"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Amorim R.",
+        "players_number": "",
+        "Full Name": "Ruben Amorim",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "coach",
+        "Age and Birthdate": "38,  (27.01.1985)",
+        "Market Value": "",
+        "unicode": "EiIHi8vU"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Adan A. (G)",
+        "players_number": "1",
+        "Full Name": "Antonio Adan",
+        "players_rating": 4.8,
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "36, (13.05.1987)",
+        "Market Value": "€760k",
+        "unicode": "tbjcsOoa"
+      },
+      {
+        "players_name": "Coates S. (C)",
+        "players_number": "4",
+        "Full Name": "Sebastian Coates",
+        "players_rating": 5.6,
+        "Country": "Uruguay",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (07.10.1990)",
+        "Market Value": "€4.0m",
+        "unicode": "EBYxT1SP"
+      },
+      {
+        "players_name": "Esgaio R.",
+        "players_number": "47",
+        "Full Name": "Ricardo Esgaio",
+        "players_rating": 5.1,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (16.05.1993)",
+        "Market Value": "€3.3m",
+        "unicode": "WbJa4bVs"
+      },
+      {
+        "players_name": "Goncalves P.",
+        "players_number": "28",
+        "Full Name": "Pedro Goncalves",
+        "players_rating": 6.0,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (28.06.1998)",
+        "Market Value": "€29.4m",
+        "unicode": "U9pOGrHb"
+      },
+      {
+        "players_name": "Inacio G.",
+        "players_number": "25",
+        "Full Name": "Goncalo Inacio",
+        "players_rating": 5.5,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (25.08.2001)",
+        "Market Value": "€40.8m",
+        "unicode": "0vh9xYsD"
+      },
+      {
+        "players_name": "Matheus Reis",
+        "players_number": "2",
+        "Full Name": "Matheus Reis",
+        "players_rating": 6.2,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (18.02.1995)",
+        "Market Value": "€7.6m",
+        "unicode": "YNnJEWJd"
+      },
+      {
+        "players_name": "Nunes M.",
+        "players_number": "8",
+        "Full Name": "Matheus Nunes",
+        "players_rating": 6.2,
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (27.08.1998)",
+        "Market Value": "€54.6m",
+        "unicode": "bXbvxFWS"
+      },
+      {
+        "players_name": "Palhinha J.",
+        "players_number": "6",
+        "Full Name": "Joao Palhinha",
+        "players_rating": 6.4,
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (09.07.1995)",
+        "Market Value": "€58.7m",
+        "unicode": "vFArGMai"
+      },
+      {
+        "players_name": "Paulinho",
+        "players_number": "21",
+        "Full Name": "Paulinho",
+        "players_rating": 6.4,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (09.11.1992)",
+        "Market Value": "€6.4m",
+        "unicode": "KjT6lagc"
+      },
+      {
+        "players_name": "Porro P.",
+        "players_number": "24",
+        "Full Name": "Pedro Porro",
+        "players_rating": 6.6,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (13.09.1999)",
+        "Market Value": "€44.7m",
+        "unicode": "nTebDzHC"
+      },
+      {
+        "players_name": "Sarabia P.",
+        "players_number": "17",
+        "Full Name": "Pablo Sarabia",
+        "players_rating": 5.8,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (11.05.1992)",
+        "Market Value": "€11.2m",
+        "unicode": "lSX6pGT4"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Bruno Tabata",
+        "players_number": "7",
+        "Full Name": "Bruno Tabata",
+        "players_rating": 6.1,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (30.03.1997)",
+        "Market Value": "€2.5m",
+        "unicode": "QyUQJP2O"
+      },
+      {
+        "players_name": "Neto",
+        "players_number": "13",
+        "Full Name": "Neto",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (26.05.1988)",
+        "Market Value": "€285k",
+        "unicode": "COZrpB1f"
+      },
+      {
+        "players_name": "Slimani I.",
+        "players_number": "9",
+        "Full Name": "Islam Slimani",
+        "players_rating": 6.1,
+        "Country": "Algeria",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (18.06.1988)",
+        "Market Value": "€1.2m",
+        "unicode": "IB6p5STt"
+      },
+      {
+        "players_name": "Ugarte M.",
+        "players_number": "15",
+        "Full Name": "Manuel Ugarte",
+        "players_rating": 6.4,
+        "Country": "Uruguay",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (11.04.2001)",
+        "Market Value": "€59.6m",
+        "unicode": "IksYqIr8"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Andre Paulo (G)",
+        "players_number": "22",
+        "Full Name": "Andre Paulo",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "27, (18.12.1996)",
+        "Market Value": "30.06.2024",
+        "unicode": "Iw5Iv71h"
+      },
+      {
+        "players_name": "Braganca D.",
+        "players_number": "68",
+        "Full Name": "Daniel Braganca",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (27.05.1999)",
+        "Market Value": "€4.8m",
+        "unicode": "8z0ipCSq"
+      },
+      {
+        "players_name": "Edwards M.",
+        "players_number": "23",
+        "Full Name": "Marcus Edwards",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (03.12.1998)",
+        "Market Value": "€28.2m",
+        "unicode": "QNlpU6pq"
+      },
+      {
+        "players_name": "Esteves G.",
+        "players_number": "87",
+        "Full Name": "Goncalo Esteves",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "19, (27.02.2004)",
+        "Market Value": "€2.0m",
+        "unicode": "0SEEBeWj"
+      },
+      {
+        "players_name": "Feddal Z.",
+        "players_number": "3",
+        "Full Name": "Zouhair Feddal",
+        "players_rating": "",
+        "Country": "Morocco",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (23.12.1989)",
+        "Market Value": "",
+        "unicode": "YwR0ECqk"
+      },
+      {
+        "players_name": "Santos N.",
+        "players_number": "11",
+        "Full Name": "Nuno Santos",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (13.02.1995)",
+        "Market Value": "€11.9m",
+        "unicode": "MXvyQkT6"
+      },
+      {
+        "players_name": "Vinagre R.",
+        "players_number": "16",
+        "Full Name": "Ruben Vinagre",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (09.04.1999)",
+        "Market Value": "€2.6m",
+        "unicode": "QRUaEkpd"
+      },
+      {
+        "players_name": "Virginia J. (G)",
+        "players_number": "31",
+        "Full Name": "Joao Virginia",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "24, (10.10.1999)",
+        "Market Value": "€840k",
+        "unicode": "SjkPKi7S"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "05:00",
+      "comments_type": "corner",
+      "comments_text": "Kevin De Bruyne (Manchester City) goes over to take a corner kick after one of the defenders makes a good clearance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "08:50",
+      "comments_type": "goal",
+      "comments_text": "Referee Srdjan Jovanovic points to the centre spot to indicate that the goal stands after the VAR review. That prompts big celebrations from the Manchester City players.",
+      "comments_text_anonymized": "Referee [REFEREE] points to the centre spot to indicate that the goal stands after the VAR review. That prompts big celebrations from the [TEAM] players.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "16:50",
+      "comments_type": "goal",
+      "comments_text": "GOAL - 0:2! The corner comes over and Rodri flicks on with his head to Bernardo Silva (Manchester City), who makes no mistake and fires the ball into the back of the net.",
+      "comments_text_anonymized": "GOAL - 0:2! The corner comes over and [PLAYER] flicks on with his head to [PLAYER] ([TEAM]), who makes no mistake and fires the ball into the back of the net.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "16:52",
+      "comments_type": "corner",
+      "comments_text": "Corner kick. Manchester City will have an opportunity.",
+      "comments_text_anonymized": "Corner kick. [TEAM] will have an opportunity.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "31:51",
+      "comments_type": "goal",
+      "comments_text": "Goal! Phil Foden (Manchester City) pounced on a loose ball inside the box and beats the goalkeeper with a shot inside the right post. He makes it 0:3.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) pounced on a loose ball inside the box and beats the goalkeeper with a shot inside the right post. He makes it 0:3.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "43:50",
+      "comments_type": "goal",
+      "comments_text": "Goal! Raheem Sterling plays it to Bernardo Silva (Manchester City), whose deflected shot from inside the box goes past the helpless Antonio Adan. 0:4.",
+      "comments_text_anonymized": "Goal! [PLAYER] plays it to [PLAYER] ([TEAM]), whose deflected shot from inside the box goes past the helpless [PLAYER]. 0:4.",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "04:45",
+      "comments_type": "goal",
+      "comments_text": "Bernardo Silva (Manchester City) jumps for a cross and plants a precise header low inside the left post.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) jumps for a cross and plants a precise header low inside the left post.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "04:55",
+      "comments_type": "substitution",
+      "comments_text": "It's time for a substitution. That's the last involvement from Pedro Goncalves as he is replaced by Manuel Ugarte (Sporting Lisbon).",
+      "comments_text_anonymized": "It's time for a substitution. That's the last involvement from [PLAYER] as he is replaced by [PLAYER] ([TEAM]).",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "12:59",
+      "comments_type": "goal",
+      "comments_text": "Raheem Sterling (Manchester City) scores as he latches on to a pass and unleashes a perfect strike from the edge of the box that goes into the top right corner of the goal and past the goalkeeper.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) scores as he latches on to a pass and unleashes a perfect strike from the edge of the box that goes into the top right corner of the goal and past the goalkeeper.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:44",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Phil Foden departs the field of play to be replaced by Ilkay Gundogan (Manchester City).",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM]).",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:55",
+      "comments_type": "substitution",
+      "comments_text": "Pep Guardiola has decided to introduce fresh legs, with Oleksandr Zinchenko (Manchester City) replacing John Stones.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:53",
+      "comments_type": "corner",
+      "comments_text": "A quickly taken corner by Manchester City.",
+      "comments_text_anonymized": "A quickly taken corner by [TEAM].",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:50",
+      "comments_type": "yellow card",
+      "comments_text": "Matheus (Sporting Lisbon) makes it easy for the referee to show him a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) makes it easy for the referee to show him a yellow card.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:13",
+      "comments_type": "substitution",
+      "comments_text": "That's the end of the game for Rodri, who is replaced by Fernandinho (Manchester City).",
+      "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM]).",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:51",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Ilkay Gundogan (Manchester City) was quite harsh and Srdjan Jovanovic didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:55",
+      "comments_type": "substitution",
+      "comments_text": "Ruben Amorim has decided to make a change. Tabata (Sporting Lisbon) replaces Pablo Sarabia.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. Tabata ([TEAM]) replaces [PLAYER].",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:59",
+      "comments_type": "substitution",
+      "comments_text": "We are about to witness a subsitution. Islam Slimani (Sporting Lisbon) for Paulinho.",
+      "comments_text_anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER].",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:57",
+      "comments_type": "yellow card",
+      "comments_text": "Caution goes to Ricardo Esgaio (Sporting Lisbon).",
+      "comments_text_anonymized": "Caution goes to [PLAYER] ([TEAM]).",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:11",
+      "comments_type": "corner",
+      "comments_text": "Manchester City take a short corner instead of sending the ball into the penalty area.",
+      "comments_text_anonymized": "[TEAM] take a short corner instead of sending the ball into the penalty area.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:59",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals that it is time for a substitution and Neto (Sporting Lisbon) will replace Pedro Porro.",
+      "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) will replace [PLAYER].",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:58",
+      "comments_type": "yellow card",
+      "comments_text": "Srdjan Jovanovic shows a yellow card to Manuel Ugarte (Sporting Lisbon) for his blatant foul.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:50",
+      "comments_type": "substitution",
+      "comments_text": "Pep Guardiola decides to make a substitution. Aymeric Laporte will be replaced by Nathan Ake (Manchester City).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:55",
+      "comments_type": "substitution",
+      "comments_text": "Bernardo Silva goes off the pitch and Liam Delap (Manchester City) comes on.",
+      "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:40",
+      "comments_type": "corner",
+      "comments_text": "Manchester City take a short corner kick.",
+      "comments_text_anonymized": "[TEAM] take a short corner kick.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "46:55",
+      "comments_type": "corner",
+      "comments_text": "Manchester City quickly take a corner kick with a short pass.",
+      "comments_text_anonymized": "[TEAM] quickly take a corner kick with a short pass.",
+      "index": 24
+    }
+  ]
+}

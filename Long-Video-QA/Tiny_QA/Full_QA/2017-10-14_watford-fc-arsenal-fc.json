@@ -1,0 +1,853 @@
+[
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Per Mertesacker",
+      "B. Troy Deeney",
+      "C. Tom Cleverley",
+      "D. Granit Xhaka"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the first goal?",
+    "choices": [
+      "A. Arsenal",
+      "B. Watford",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored so far in the match?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the second goal in the match?",
+    "choices": [
+      "A. Per Mertesacker",
+      "B. Troy Deeney",
+      "C. Tom Cleverley",
+      "D. Granit Xhaka"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      14
+    ],
+    "current_event_index": 14,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the second goal?",
+    "choices": [
+      "A. Arsenal",
+      "B. Watford",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      14
+    ],
+    "current_event_index": 14,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored so far in the match?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      14
+    ],
+    "current_event_index": 14,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the third goal in the match?",
+    "choices": [
+      "A. Per Mertesacker",
+      "B. Troy Deeney",
+      "C. Tom Cleverley",
+      "D. Granit Xhaka"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      14,
+      18
+    ],
+    "current_event_index": 18,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the third goal?",
+    "choices": [
+      "A. Arsenal",
+      "B. Watford",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      14,
+      18
+    ],
+    "current_event_index": 18,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored in total in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      14,
+      18
+    ],
+    "current_event_index": null,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored more goals in the match?",
+    "choices": [
+      "A. Arsenal",
+      "B. Watford",
+      "C. Neither team",
+      "D. Both teams scored equally"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      14,
+      18
+    ],
+    "current_event_index": null,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player scored the most goals in the match?",
+    "choices": [
+      "A. Per Mertesacker",
+      "B. Troy Deeney",
+      "C. Tom Cleverley",
+      "D. Granit Xhaka"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      14,
+      18
+    ],
+    "current_event_index": null,
+    "index": 10,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the match after the first goal?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      14,
+      18
+    ],
+    "current_event_index": 1,
+    "index": 11,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to score the next goal after the first goal?",
+    "choices": [
+      "A. Arsenal",
+      "B. Watford",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      14,
+      18
+    ],
+    "current_event_index": 1,
+    "index": 12,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to score the next goal after the first goal?",
+    "choices": [
+      "A. Per Mertesacker",
+      "B. Troy Deeney",
+      "C. Tom Cleverley",
+      "D. Granit Xhaka"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 1,
+    "index": 13,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the match after the second goal?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      18
+    ],
+    "current_event_index": 14,
+    "index": 14,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to score the next goal after the second goal?",
+    "choices": [
+      "A. Arsenal",
+      "B. Watford",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      18
+    ],
+    "current_event_index": 14,
+    "index": 15,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to score the next goal after the second goal?",
+    "choices": [
+      "A. Per Mertesacker",
+      "B. Troy Deeney",
+      "C. Tom Cleverley",
+      "D. Granit Xhaka"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      18
+    ],
+    "current_event_index": 14,
+    "index": 16,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 9,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Watford",
+      "B. Opponent",
+      "C. Both teams have the same",
+      "D. No yellow cards yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 9,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. Christian Kabasele",
+      "B. Opponent Player 1",
+      "C. Opponent Player 2",
+      "D. No yellow cards yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 9,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Watford",
+      "B. Opponent",
+      "C. Both teams have the same",
+      "D. No yellow cards"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in yellow cards?",
+    "choices": [
+      "A. Christian Kabasele",
+      "B. Opponent Player 1",
+      "C. Both A and B",
+      "D. No players were booked"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 9,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Watford",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 9,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Christian Kabasele",
+      "B. Opponent Player 1",
+      "C. Opponent Player 2",
+      "D. No more yellow cards"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 9,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Arsenal",
+      "B. Watford",
+      "C. Both teams have taken the same number",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Mohamed Elneny",
+      "C. Jose Holebas",
+      "D. Mesut Ozil"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Arsenal",
+      "B. Watford",
+      "C. Both teams have taken the same number",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Mohamed Elneny",
+      "C. Jose Holebas",
+      "D. Mesut Ozil"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      2,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Arsenal",
+      "B. Watford",
+      "C. Both teams have taken the same number",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      2,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Mohamed Elneny",
+      "C. Jose Holebas",
+      "D. Mesut Ozil"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      2,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 8,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      2,
+      4,
+      8,
+      10,
+      12,
+      17
+    ],
+    "current_event_index": null,
+    "index": 9,
+    "event_type": "corner"
+  },
+  {
+    "question": "In which half were more corners awarded?",
+    "choices": [
+      "A. First half",
+      "B. Second half",
+      "C. Both halves had the same number",
+      "D. No corners were awarded"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      2,
+      4,
+      8,
+      10,
+      12,
+      17
+    ],
+    "current_event_index": null,
+    "index": 10,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Arsenal",
+      "B. Watford",
+      "C. Both teams had the same number",
+      "D. No corners were taken"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      2,
+      4,
+      8,
+      10,
+      12,
+      17
+    ],
+    "current_event_index": null,
+    "index": 11,
+    "event_type": "corner"
+  },
+  {
+    "question": "Did both teams have corners in both halves?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only Arsenal had corners",
+      "D. Only Watford had corners"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      2,
+      4,
+      8,
+      10,
+      12,
+      17
+    ],
+    "current_event_index": null,
+    "index": 12,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Mohamed Elneny",
+      "C. Jose Holebas",
+      "D. Mesut Ozil"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      2,
+      4,
+      8,
+      10,
+      12,
+      17
+    ],
+    "current_event_index": null,
+    "index": 13,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who were all the players involved in corners?",
+    "choices": [
+      "A. Granit Xhaka, Mohamed Elneny, Jose Holebas, Mesut Ozil",
+      "B. Granit Xhaka, Mohamed Elneny, Jose Holebas",
+      "C. Granit Xhaka, Mohamed Elneny, Mesut Ozil",
+      "D. Granit Xhaka, Jose Holebas, Mesut Ozil"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      2,
+      4,
+      8,
+      10,
+      12,
+      17
+    ],
+    "current_event_index": null,
+    "index": 14,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Two more"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      8,
+      10,
+      12,
+      17
+    ],
+    "current_event_index": 4,
+    "index": 15,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Arsenal",
+      "B. Watford",
+      "C. Both teams equally likely",
+      "D. No more corners"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      8,
+      10,
+      12,
+      17
+    ],
+    "current_event_index": 4,
+    "index": 16,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Mohamed Elneny",
+      "C. Jose Holebas",
+      "D. Mesut Ozil"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      8,
+      10,
+      12,
+      17
+    ],
+    "current_event_index": 4,
+    "index": 17,
+    "event_type": "corner"
+  }
+]

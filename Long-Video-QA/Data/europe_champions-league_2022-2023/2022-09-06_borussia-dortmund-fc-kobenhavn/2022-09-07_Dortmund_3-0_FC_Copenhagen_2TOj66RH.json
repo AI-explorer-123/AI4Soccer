@@ -1,0 +1,849 @@
+{
+  "match_info": {
+    "timestamp": "2022-09-07 00:45:00",
+    "score": "3 - 0",
+    "home_team": "Dortmund",
+    "away_team": "FC Copenhagen",
+    "home_formation": "4 - 2 - 3 - 1",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Signal Iduna Park (Dortmund)",
+    "capacity": "81 365",
+    "attendance": "70 700"
+  },
+  "referee_data": {
+    "short_name_country": "Letexier F. (Fra)",
+    "first_name": "Letexier",
+    "abbr_last_name": "F",
+    "country": "Fra",
+    "detected_name": "Francois Letexier"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Terzic E.",
+        "players_number": "",
+        "Full Name": "Edin Terzic",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "coach",
+        "Age and Birthdate": "41,  (30.10.1982)",
+        "Market Value": "",
+        "unicode": "Q1njn0Vm"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Adeyemi K.",
+        "players_number": "",
+        "Full Name": "Karim Adeyemi",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (18.01.2002)",
+        "Market Value": "€27.0m",
+        "unicode": "GvIzwgo8"
+      },
+      {
+        "players_name": "Bynoe-Gittens J.",
+        "players_number": "",
+        "Full Name": "Jamie Bynoe-Gittens",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "19, (08.08.2004)",
+        "Market Value": "€27.0m",
+        "unicode": "zmDkHahi"
+      },
+      {
+        "players_name": "Dahoud M.",
+        "players_number": "",
+        "Full Name": "Mahmoud Dahoud",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (01.01.1996)",
+        "Market Value": "€13.1m",
+        "unicode": "YkH1Bfia"
+      },
+      {
+        "players_name": "Haller S.",
+        "players_number": "",
+        "Full Name": "Sebastien Haller",
+        "players_rating": "",
+        "Country": "Ivory Coast",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (22.06.1994)",
+        "Market Value": "€17.6m",
+        "unicode": "Ie17FSsK"
+      },
+      {
+        "players_name": "Kobel G.",
+        "players_number": "",
+        "Full Name": "Gregor Kobel",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "26, (06.12.1997)",
+        "Market Value": "€38.6m",
+        "unicode": "xlBg2ttC"
+      },
+      {
+        "players_name": "Malen D.",
+        "players_number": "",
+        "Full Name": "Donyell Malen",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (19.01.1999)",
+        "Market Value": "€33.8m",
+        "unicode": "KOdKXsao"
+      },
+      {
+        "players_name": "Morey M.",
+        "players_number": "",
+        "Full Name": "Mateu Morey",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (02.03.2000)",
+        "Market Value": "30.06.2024",
+        "unicode": "jRBXx0H4"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Bellingham J.",
+        "players_number": "22",
+        "Full Name": "Jude Bellingham",
+        "players_rating": 8.2,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (29.06.2003)",
+        "Market Value": "€199.1m",
+        "unicode": "QNvlPm7s"
+      },
+      {
+        "players_name": "Brandt J.",
+        "players_number": "19",
+        "Full Name": "Julian Brandt",
+        "players_rating": 8.5,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (02.05.1996)",
+        "Market Value": "€40.3m",
+        "unicode": "hW5Goyrc"
+      },
+      {
+        "players_name": "Guerreiro R.",
+        "players_number": "13",
+        "Full Name": "Raphael Guerreiro",
+        "players_rating": 8.7,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (22.12.1993)",
+        "Market Value": "€15.1m",
+        "unicode": "ImhgOoOl"
+      },
+      {
+        "players_name": "Hazard T.",
+        "players_number": "10",
+        "Full Name": "Thorgan Hazard",
+        "players_rating": 6.3,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (29.03.1993)",
+        "Market Value": "€5.8m",
+        "unicode": "KOq0yhLo"
+      },
+      {
+        "players_name": "Meunier T.",
+        "players_number": "24",
+        "Full Name": "Thomas Meunier",
+        "players_rating": 7.3,
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (12.09.1991)",
+        "Market Value": "€2.4m",
+        "unicode": "WUyrShAL"
+      },
+      {
+        "players_name": "Meyer A. (G)",
+        "players_number": "33",
+        "Full Name": "Alexander Meyer",
+        "players_rating": 7.1,
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (13.04.1991)",
+        "Market Value": "€760k",
+        "unicode": "0QYpaRhf"
+      },
+      {
+        "players_name": "Modeste A.",
+        "players_number": "20",
+        "Full Name": "Anthony Modeste",
+        "players_rating": 6.4,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (14.04.1988)",
+        "Market Value": "€645k",
+        "unicode": "bPslqX1I"
+      },
+      {
+        "players_name": "Ozcan S.",
+        "players_number": "6",
+        "Full Name": "Salih Ozcan",
+        "players_rating": 6.7,
+        "Country": "Turkey",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (11.01.1998)",
+        "Market Value": "€12.4m",
+        "unicode": "2sPPKXyd"
+      },
+      {
+        "players_name": "Reus M. (C)",
+        "players_number": "11",
+        "Full Name": "Marco Reus",
+        "players_rating": 8.2,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (31.05.1989)",
+        "Market Value": "€6.9m",
+        "unicode": "fonESekN"
+      },
+      {
+        "players_name": "Schlotterbeck N.",
+        "players_number": "4",
+        "Full Name": "Nico Schlotterbeck",
+        "players_rating": 7.4,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (01.12.1999)",
+        "Market Value": "€34.7m",
+        "unicode": "hKLN8mA7"
+      },
+      {
+        "players_name": "Sule N.",
+        "players_number": "25",
+        "Full Name": "Niklas Sule",
+        "players_rating": 7.0,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (03.09.1995)",
+        "Market Value": "€20.9m",
+        "unicode": "G43Lp4in"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Can E.",
+        "players_number": "23",
+        "Full Name": "Emre Can",
+        "players_rating": 6.4,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (12.01.1994)",
+        "Market Value": "€11.7m",
+        "unicode": "YJu3hSpk"
+      },
+      {
+        "players_name": "Moukoko Y.",
+        "players_number": "18",
+        "Full Name": "Youssoufa Moukoko",
+        "players_rating": 6.1,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "19, (20.11.2004)",
+        "Market Value": "€28.1m",
+        "unicode": "vZ2CcIMA"
+      },
+      {
+        "players_name": "Reyna G.",
+        "players_number": "7",
+        "Full Name": "Giovanni Reyna",
+        "players_rating": 8.1,
+        "Country": "USA",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (13.11.2002)",
+        "Market Value": "€19.9m",
+        "unicode": "zF5Q2DOk"
+      },
+      {
+        "players_name": "Rothe T.",
+        "players_number": "36",
+        "Full Name": "Tom Rothe",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "19, (29.10.2004)",
+        "Market Value": "€5.8m",
+        "unicode": "KIEP1A93"
+      },
+      {
+        "players_name": "Wolf M.",
+        "players_number": "17",
+        "Full Name": "Marius Wolf",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (27.05.1995)",
+        "Market Value": "€6.3m",
+        "unicode": "0pP8We9B"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Coulibaly S.",
+        "players_number": "44",
+        "Full Name": "Soumaila Coulibaly",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (14.10.2003)",
+        "Market Value": "€7.5m",
+        "unicode": "YLVl99Q1"
+      },
+      {
+        "players_name": "Hummels M.",
+        "players_number": "15",
+        "Full Name": "Mats Hummels",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (16.12.1988)",
+        "Market Value": "€6.1m",
+        "unicode": "2c4AueOM"
+      },
+      {
+        "players_name": "Papadopoulos A.",
+        "players_number": "47",
+        "Full Name": "Antonios Papadopoulos",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (10.09.1999)",
+        "Market Value": "€738k",
+        "unicode": "plJ8sJG0"
+      },
+      {
+        "players_name": "Passlack F.",
+        "players_number": "30",
+        "Full Name": "Felix Passlack",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (29.05.1998)",
+        "Market Value": "€1.4m",
+        "unicode": "rHIRgwGG"
+      },
+      {
+        "players_name": "Unbehaun L. (G)",
+        "players_number": "38",
+        "Full Name": "Luca Unbehaun",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "22, (27.02.2001)",
+        "Market Value": "30.06.2024",
+        "unicode": "K8WwnJus"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Thorup J.",
+        "players_number": "",
+        "Full Name": "Jess Thorup",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "coach",
+        "Age and Birthdate": "53,  (21.02.1970)",
+        "Market Value": "",
+        "unicode": "2VSFgl3c"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Grabara K.",
+        "players_number": "",
+        "Full Name": "Kamil Grabara",
+        "players_rating": "",
+        "Country": "Poland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "25, (08.01.1999)",
+        "Market Value": "€10.9m",
+        "unicode": "0MhuM4YL"
+      },
+      {
+        "players_name": "Oikonomou M.",
+        "players_number": "",
+        "Full Name": "Marios Oikonomou",
+        "players_rating": "",
+        "Country": "Greece",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (06.10.1992)",
+        "Market Value": "",
+        "unicode": "vgqzOmMD"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Claesson V.",
+        "players_number": "7",
+        "Full Name": "Viktor Claesson",
+        "players_rating": 6.9,
+        "Country": "Sweden",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (02.01.1992)",
+        "Market Value": "€4.9m",
+        "unicode": "SKEuDPoq"
+      },
+      {
+        "players_name": "Cornelius A.",
+        "players_number": "14",
+        "Full Name": "Andreas Cornelius",
+        "players_rating": 6.4,
+        "Country": "Denmark",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (16.03.1993)",
+        "Market Value": "€1.4m",
+        "unicode": "CCv6fske"
+      },
+      {
+        "players_name": "Daramy M.",
+        "players_number": "15",
+        "Full Name": "Mohamed Daramy",
+        "players_rating": 6.3,
+        "Country": "Denmark",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (07.01.2002)",
+        "Market Value": "€9.9m",
+        "unicode": "63FSiIkD"
+      },
+      {
+        "players_name": "Diks K.",
+        "players_number": "2",
+        "Full Name": "Kevin Diks",
+        "players_rating": 6.5,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (06.10.1996)",
+        "Market Value": "€3.4m",
+        "unicode": "0hwq3S9a"
+      },
+      {
+        "players_name": "Falk R.",
+        "players_number": "33",
+        "Full Name": "Rasmus Falk",
+        "players_rating": 6.5,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (15.01.1992)",
+        "Market Value": "€993k",
+        "unicode": "pdMeVSjE"
+      },
+      {
+        "players_name": "Khocholava D.",
+        "players_number": "5",
+        "Full Name": "Davit Khocholava",
+        "players_rating": 6.5,
+        "Country": "Georgia",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (08.02.1993)",
+        "Market Value": "€950k",
+        "unicode": "xr83eEXu"
+      },
+      {
+        "players_name": "Kristiansen V.",
+        "players_number": "34",
+        "Full Name": "Victor Kristiansen",
+        "players_rating": 6.4,
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (16.12.2002)",
+        "Market Value": "€11.6m",
+        "unicode": "ILwRLjcF"
+      },
+      {
+        "players_name": "Lerager L.",
+        "players_number": "12",
+        "Full Name": "Lukas Lerager",
+        "players_rating": 6.3,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (12.07.1993)",
+        "Market Value": "€3.0m",
+        "unicode": "GrCo5km3"
+      },
+      {
+        "players_name": "Ryan M. (G)",
+        "players_number": "51",
+        "Full Name": "Mathew Ryan",
+        "players_rating": 5.4,
+        "Country": "Australia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (08.04.1992)",
+        "Market Value": "€3.9m",
+        "unicode": "YBLvziIh"
+      },
+      {
+        "players_name": "Vavro D.",
+        "players_number": "3",
+        "Full Name": "Denis Vavro",
+        "players_rating": 6.7,
+        "Country": "Slovakia",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (10.04.1996)",
+        "Market Value": "€4.0m",
+        "unicode": "0QxPEivg"
+      },
+      {
+        "players_name": "Zeca (C)",
+        "players_number": "10",
+        "Full Name": "Jose Zeca",
+        "players_rating": 6.4,
+        "Country": "Greece",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (31.08.1988)",
+        "Market Value": "€277k",
+        "unicode": "IsUifqxR"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Boilesen N.",
+        "players_number": "20",
+        "Full Name": "Nicolai Boilesen",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (16.02.1992)",
+        "Market Value": "€328k",
+        "unicode": "fHtwJSLo"
+      },
+      {
+        "players_name": "Haraldsson H.",
+        "players_number": "30",
+        "Full Name": "Hakon Arnar Haraldsson",
+        "players_rating": 6.4,
+        "Country": "Iceland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (10.04.2003)",
+        "Market Value": "€7.7m",
+        "unicode": "UZDgIuNN"
+      },
+      {
+        "players_name": "Jelert E.",
+        "players_number": "19",
+        "Full Name": "Elias Jelert",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (12.06.2003)",
+        "Market Value": "€4.9m",
+        "unicode": "08YCnhbB"
+      },
+      {
+        "players_name": "Sorensen C.",
+        "players_number": "6",
+        "Full Name": "Christian Sorensen",
+        "players_rating": 6.1,
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (06.08.1992)",
+        "Market Value": "€513k",
+        "unicode": "zFxtEhKu"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Bardghji R.",
+        "players_number": "40",
+        "Full Name": "Roony Bardghji",
+        "players_rating": "",
+        "Country": "Sweden",
+        "Role": "Midfielder",
+        "Age and Birthdate": "18, (15.11.2005)",
+        "Market Value": "€8.7m",
+        "unicode": "YgzDTaqN"
+      },
+      {
+        "players_name": "Dithmer A. (G)",
+        "players_number": "41",
+        "Full Name": "Andreas Dithmer",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "18, (01.08.2005)",
+        "Market Value": "30.06.2025",
+        "unicode": "z7rRl21P"
+      },
+      {
+        "players_name": "Johannesson I.",
+        "players_number": "8",
+        "Full Name": "Isak Johannesson",
+        "players_rating": "",
+        "Country": "Iceland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (23.03.2003)",
+        "Market Value": "€3.3m",
+        "unicode": "xtsqO2z0"
+      },
+      {
+        "players_name": "Johnsson K. (G)",
+        "players_number": "21",
+        "Full Name": "Karl-Johan Johnsson",
+        "players_rating": "",
+        "Country": "Sweden",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (28.01.1990)",
+        "Market Value": "€374k",
+        "unicode": "4zY3gbw3"
+      },
+      {
+        "players_name": "Karamoko M.",
+        "players_number": "29",
+        "Full Name": "Mamoudou Karamoko",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (08.06.1999)",
+        "Market Value": "€461k",
+        "unicode": "ldMX4o3j"
+      },
+      {
+        "players_name": "Lund V.",
+        "players_number": "27",
+        "Full Name": "Valdemar Lund",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (28.05.2003)",
+        "Market Value": "€1.5m",
+        "unicode": "GjzhDIN8"
+      },
+      {
+        "players_name": "Mukairu P.",
+        "players_number": "17",
+        "Full Name": "Paul Mukairu",
+        "players_rating": "",
+        "Country": "Nigeria",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (18.01.2000)",
+        "Market Value": "€570k",
+        "unicode": "bXGTaPQK"
+      },
+      {
+        "players_name": "Stamenic M.",
+        "players_number": "35",
+        "Full Name": "Marko Stamenic",
+        "players_rating": "",
+        "Country": "New Zealand",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (19.02.2002)",
+        "Market Value": "€950k",
+        "unicode": "0bIwzZI6"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "13:13",
+      "comments_type": "corner",
+      "comments_text": "FC Copenhagen quickly take a corner kick with a short pass.",
+      "comments_text_anonymized": "[TEAM] quickly take a corner kick with a short pass.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "18:08",
+      "comments_type": "corner",
+      "comments_text": "Thomas Meunier (Dortmund) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The referee and one of his assistants signal for a corner kick to Dortmund.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The referee and one of his assistants signal for a corner kick to [TEAM].",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "18:35",
+      "comments_type": "corner",
+      "comments_text": "Julian Brandt (Dortmund) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "19:38",
+      "comments_type": "corner",
+      "comments_text": "Nothing comes of the resulting corner from Julian Brandt (Dortmund). The defence is alert and manages to cut it out.",
+      "comments_text_anonymized": "Nothing comes of the resulting corner from [PLAYER] ([TEAM]). The defence is alert and manages to cut it out.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "21:44",
+      "comments_type": "substitution",
+      "comments_text": "Edin Terzic is forced to make a change. Thorgan Hazard is unable to continue due to injury, Giovanni Reyna (Dortmund) comes on.",
+      "comments_text_anonymized": "[PLAYER] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "26:35",
+      "comments_type": "yellow card",
+      "comments_text": "Davit Khocholava (FC Copenhagen) is booked after bringing down an opponent. Francois Letexier had an easy-decision to make.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:10",
+      "comments_type": "goal",
+      "comments_text": "GOAL! Superb work from Julian Brandt, who plays a vital role in the build-up. He squares it to Marco Reus (Dortmund), who beats Mathew Ryan with a brilliant shot into the bottom right corner. 1:0.",
+      "comments_text_anonymized": "GOAL! Superb work from [PLAYER], who plays a vital role in the build-up. He squares it to [PLAYER] ([TEAM]), who beats [PLAYER] with a brilliant shot into the bottom right corner. 1:0.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "41:31",
+      "comments_type": "goal",
+      "comments_text": "Goal! Giovanni Reyna feeds Raphael Guerreiro (Dortmund), who taps the ball into an empty net. He makes it 2:0.",
+      "comments_text_anonymized": "Goal! [PLAYER] feeds [PLAYER] ([TEAM]), who taps the ball into an empty net. He makes it 2:0.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "43:17",
+      "comments_type": "corner",
+      "comments_text": "Victor Kristansen (FC Copenhagen) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+      "comments_text_anonymized": "Victor Kristansen ([TEAM]) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "01:04",
+      "comments_type": "corner",
+      "comments_text": "Victor Kristansen (FC Copenhagen) will deliver the ball into the penalty box from a corner kick.",
+      "comments_text_anonymized": "Victor Kristansen ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "01:40",
+      "comments_type": "corner",
+      "comments_text": "FC Copenhagen take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "14:35",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Mohamed Daramy will be replaced by Hakon Arnar Haraldsson (FC Copenhagen).",
+      "comments_text_anonymized": "Substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:14",
+      "comments_type": "yellow card",
+      "comments_text": "Francois Letexier shows a yellow card to Lukas Lerager (FC Copenhagen) for his blatant foul.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:27",
+      "comments_type": "substitution",
+      "comments_text": "Edin Terzic has decided to make a change. Emre Can (Dortmund) replaces Salih Ozcan.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:25",
+      "comments_type": "substitution",
+      "comments_text": "The manager makes a subsitution with Youssoufa Moukoko (Dortmund) coming on for Anthony Modeste.",
+      "comments_text_anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER].",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:14",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Jose Zeca makes his way off the pitch and Christian Sorensen (FC Copenhagen) comes on as his replacement.",
+      "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:23",
+      "comments_type": "corner",
+      "comments_text": "FC Copenhagen have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:26",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Julian Brandt (Dortmund) is cleared.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:52",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Kevin Diks is going off and Jess Thorup gives the last tactical orders to Elias Jelert (FC Copenhagen).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:30",
+      "comments_type": "substitution",
+      "comments_text": "Davit Khocholava goes off the pitch and Nicolai Boilesen (FC Copenhagen) comes on.",
+      "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:45",
+      "comments_type": "goal",
+      "comments_text": "Goal - 3:0! Giovanni Reyna tees up Jude Bellingham (Dortmund) inside the box and he rolls the ball into the bottom left corner and past Mathew Ryan.",
+      "comments_text_anonymized": "Goal - 3:0! [PLAYER] tees up [PLAYER] ([TEAM]) inside the box and he rolls the ball into the bottom left corner and past [PLAYER].",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:44",
+      "comments_type": "substitution",
+      "comments_text": "Marco Reus comes off the pitch to be replaced by Marius Wolf (Dortmund).",
+      "comments_text_anonymized": "[PLAYER] comes off the pitch to be replaced by [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:33",
+      "comments_type": "substitution",
+      "comments_text": "Edin Terzic has decided to substitute Raphael Guerreiro and he is replaced by Tom Rothe (Dortmund).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:30",
+      "comments_type": "goal",
+      "comments_text": "GOAL! Rasmus Falk Jensen (FC Copenhagen) got to the ball in front of the goal and he couldn't miss from there. His low drive went in off the right-hand post. The score is 3:1.",
+      "comments_text_anonymized": "GOAL! [PLAYER] Jensen ([TEAM]) got to the ball in front of the goal and he couldn't miss from there. His low drive went in off the right-hand post. The score is 3:1.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:48",
+      "comments_type": "corner",
+      "comments_text": "Giovanni Reyna (Dortmund) decides to take a short corner instead of crossing into the box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box.",
+      "index": 24
+    }
+  ]
+}

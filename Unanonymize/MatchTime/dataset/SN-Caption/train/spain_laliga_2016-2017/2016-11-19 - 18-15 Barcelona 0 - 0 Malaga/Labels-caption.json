@@ -1,0 +1,1621 @@
+{
+    "timestamp": "1479568500",
+    "score": "0 - 0",
+    "round": "12",
+    "teams": [
+        "Barcelona",
+        "Malaga"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-3-3",
+            "players": [
+                {
+                    "hash": "Ey0zWJG1",
+                    "name": "Alcacer P.",
+                    "captain": "",
+                    "detail_link": "/player/alcacer-paco/Ey0zWJG1/",
+                    "short_name": "Alcacer",
+                    "shirt_number": "17",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Paco Alcacer"
+                },
+                {
+                    "hash": "CU4pL3ue",
+                    "name": "Busquets S.",
+                    "captain": "(C)",
+                    "detail_link": "/player/busquets-sergio/CU4pL3ue/",
+                    "short_name": "Busquets",
+                    "shirt_number": "5",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Sergio Busquets"
+                },
+                {
+                    "hash": "v9Ux4sua",
+                    "name": "Digne L.",
+                    "captain": "",
+                    "detail_link": "/player/digne-lucas/v9Ux4sua/",
+                    "short_name": "Digne",
+                    "shirt_number": "19",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "62'",
+                            "description": "Alba J.",
+                            "linked_player_hash": "42SIX9sl"
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Lucas Digne"
+                },
+                {
+                    "hash": "ns2Bmt54",
+                    "name": "Mascherano J.",
+                    "captain": "",
+                    "detail_link": "/player/mascherano-javier/ns2Bmt54/",
+                    "short_name": "Mascherano",
+                    "shirt_number": "14",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Javier Mascherano"
+                },
+                {
+                    "hash": "jNOPwl3h",
+                    "name": "Neymar",
+                    "captain": "",
+                    "detail_link": "/player/neymar/jNOPwl3h/",
+                    "short_name": "Neymar",
+                    "shirt_number": "11",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Neymar"
+                },
+                {
+                    "hash": "fRBrHCRh",
+                    "name": "Pique G.",
+                    "captain": "",
+                    "detail_link": "/player/pique-gerard/fRBrHCRh/",
+                    "short_name": "Pique",
+                    "shirt_number": "3",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Gerard Pique"
+                },
+                {
+                    "hash": "8jE1xUrf",
+                    "name": "Rafinha",
+                    "captain": "",
+                    "detail_link": "/player/rafinha/8jE1xUrf/",
+                    "short_name": "Rafinha",
+                    "shirt_number": "12",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "77'",
+                            "description": "Rakitic I.",
+                            "linked_player_hash": "pC6dfyG5"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Rafinha"
+                },
+                {
+                    "hash": "W2R804U4",
+                    "name": "Roberto S.",
+                    "captain": "",
+                    "detail_link": "/player/roberto-sergi/W2R804U4/",
+                    "short_name": "Roberto",
+                    "shirt_number": "20",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Sergi Roberto"
+                },
+                {
+                    "hash": "xWwucZ71",
+                    "name": "Suarez D.",
+                    "captain": "",
+                    "detail_link": "/player/suarez-denis/xWwucZ71/",
+                    "short_name": "Suarez",
+                    "shirt_number": "6",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "68'",
+                            "description": "Gomes A.",
+                            "linked_player_hash": "dIFDILve"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Denis Suarez"
+                },
+                {
+                    "hash": "byxc46yl",
+                    "name": "ter Stegen M.",
+                    "captain": "",
+                    "detail_link": "/player/ter-stegen-marc-andre/byxc46yl/",
+                    "short_name": "ter Stegen",
+                    "shirt_number": "1",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Marc-Andre ter Stegen"
+                },
+                {
+                    "hash": "K0HKnqmK",
+                    "name": "Turan A.",
+                    "captain": "",
+                    "detail_link": "/player/turan-arda/K0HKnqmK/",
+                    "short_name": "Turan",
+                    "shirt_number": "7",
+                    "country": "Turkey",
+                    "facts": [],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Arda Turan"
+                },
+                {
+                    "hash": "42SIX9sl",
+                    "name": "Alba J.",
+                    "captain": "",
+                    "detail_link": "/player/alba-jordi/42SIX9sl/",
+                    "short_name": "Alba",
+                    "shirt_number": "18",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "62'",
+                            "description": "Digne L.",
+                            "linked_player_hash": "v9Ux4sua"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jordi Alba"
+                },
+                {
+                    "hash": "vP5uwPQf",
+                    "name": "Alena C.",
+                    "captain": "",
+                    "detail_link": "/player/alena-carles/vP5uwPQf/",
+                    "short_name": "Alena",
+                    "shirt_number": "28",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Carles Alena"
+                },
+                {
+                    "hash": "25zBQ1q4",
+                    "name": "Cillessen J.",
+                    "captain": "",
+                    "detail_link": "/player/cillessen-jasper/25zBQ1q4/",
+                    "short_name": "Cillessen",
+                    "shirt_number": "13",
+                    "country": "Netherlands",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jasper Cillessen"
+                },
+                {
+                    "hash": "dIFDILve",
+                    "name": "Gomes A.",
+                    "captain": "",
+                    "detail_link": "/player/gomes-andre/dIFDILve/",
+                    "short_name": "Gomes",
+                    "shirt_number": "21",
+                    "country": "Portugal",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "68'",
+                            "description": "Suarez D.",
+                            "linked_player_hash": "xWwucZ71"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Andre Gomes"
+                },
+                {
+                    "hash": "0CDZUPof",
+                    "name": "Marlon",
+                    "captain": "",
+                    "detail_link": "/player/marlon/0CDZUPof/",
+                    "short_name": "Marlon",
+                    "shirt_number": "33",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marlon"
+                },
+                {
+                    "hash": "pC6dfyG5",
+                    "name": "Rakitic I.",
+                    "captain": "",
+                    "detail_link": "/player/rakitic-ivan/pC6dfyG5/",
+                    "short_name": "Rakitic",
+                    "shirt_number": "4",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "77'",
+                            "description": "Rafinha",
+                            "linked_player_hash": "8jE1xUrf"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ivan Rakitic"
+                },
+                {
+                    "hash": "46cDKzxB",
+                    "name": "Vidal A.",
+                    "captain": "",
+                    "detail_link": "/player/vidal-aleix/46cDKzxB/",
+                    "short_name": "Vidal",
+                    "shirt_number": "22",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Aleix Vidal"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "8MdrBIUb",
+                    "name": "Enrique L.",
+                    "captain": "",
+                    "detail_link": "/player/enrique-luis/8MdrBIUb/",
+                    "short_name": "Enrique L.",
+                    "shirt_number": "",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Luis Enrique"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-2-3-1",
+            "players": [
+                {
+                    "hash": "CfghB0gf",
+                    "name": "Fornals P.",
+                    "captain": "",
+                    "detail_link": "/player/fornals-pablo/CfghB0gf/",
+                    "short_name": "Fornals",
+                    "shirt_number": "31",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "90+6'",
+                            "description": "Duda",
+                            "linked_player_hash": "pv7PQ1yJ"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Pablo Fornals"
+                },
+                {
+                    "hash": "dx3ch97D",
+                    "name": "Juankar",
+                    "captain": "",
+                    "detail_link": "/player/juankar/dx3ch97D/",
+                    "short_name": "Juankar",
+                    "shirt_number": "7",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "2",
+                            "time": "90+7' Juankar (Unsportsmanlike conduct)",
+                            "description": "Red Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Juankar"
+                },
+                {
+                    "hash": "pG5ILkBU",
+                    "name": "Juanpi",
+                    "captain": "",
+                    "detail_link": "/player/juanpi/pG5ILkBU/",
+                    "short_name": "Juanpi",
+                    "shirt_number": "10",
+                    "country": "Venezuela",
+                    "facts": [],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Juanpi"
+                },
+                {
+                    "hash": "O0QYtPkp",
+                    "name": "Kameni I. C.",
+                    "captain": "",
+                    "detail_link": "/player/kameni-idriss-carlos/O0QYtPkp/",
+                    "short_name": "Kameni",
+                    "shirt_number": "1",
+                    "country": "Cameroon",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Idriss Carlos Kameni"
+                },
+                {
+                    "hash": "2XJ8qBI1",
+                    "name": "Llorente D.",
+                    "captain": "",
+                    "detail_link": "/player/llorente-diego/2XJ8qBI1/",
+                    "short_name": "Llorente",
+                    "shirt_number": "5",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "2",
+                            "time": "68' Llorente D. (Tripping)",
+                            "description": "Red Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Diego Llorente"
+                },
+                {
+                    "hash": "lAD5z2Ck",
+                    "name": "Ontiveros J.",
+                    "captain": "",
+                    "detail_link": "/player/ontiveros-javier/lAD5z2Ck/",
+                    "short_name": "Ontiveros",
+                    "shirt_number": "39",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "62' Ontiveros J. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "69'",
+                            "description": "Munoz L.",
+                            "linked_player_hash": "MJcnwOI5"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Javier Ontiveros"
+                },
+                {
+                    "hash": "fapXP9VS",
+                    "name": "Ramirez S.",
+                    "captain": "",
+                    "detail_link": "/player/ramirez-sandro/fapXP9VS/",
+                    "short_name": "Ramirez",
+                    "shirt_number": "19",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "81'",
+                            "description": "En Nesyri Y.",
+                            "linked_player_hash": "UqBaaAqo"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Sandro Ramirez"
+                },
+                {
+                    "hash": "xUtDcXKj",
+                    "name": "Ricca F.",
+                    "captain": "",
+                    "detail_link": "/player/ricca-federico/xUtDcXKj/",
+                    "short_name": "Ricca",
+                    "shirt_number": "15",
+                    "country": "Uruguay",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "22' Ricca F. (Roughing)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Federico Ricca"
+                },
+                {
+                    "hash": "25fn69FG",
+                    "name": "Rosales R.",
+                    "captain": "",
+                    "detail_link": "/player/rosales-roberto/25fn69FG/",
+                    "short_name": "Rosales",
+                    "shirt_number": "18",
+                    "country": "Venezuela",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Roberto Rosales"
+                },
+                {
+                    "hash": "SMnR5s5S",
+                    "name": "Torres M.",
+                    "captain": "",
+                    "detail_link": "/player/torres-miguel/SMnR5s5S/",
+                    "short_name": "Torres",
+                    "shirt_number": "23",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Miguel Torres"
+                },
+                {
+                    "hash": "M75THYFj",
+                    "name": "Villanueva M.",
+                    "captain": "",
+                    "detail_link": "/player/villanueva-mikel/M75THYFj/",
+                    "short_name": "Villanueva",
+                    "shirt_number": "4",
+                    "country": "Venezuela",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Mikel Villanueva"
+                },
+                {
+                    "hash": "QgWxjcqD",
+                    "name": "Boyko D.",
+                    "captain": "",
+                    "detail_link": "/player/boyko-denys/QgWxjcqD/",
+                    "short_name": "Boyko",
+                    "shirt_number": "13",
+                    "country": "Ukraine",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Denys Boyko"
+                },
+                {
+                    "hash": "hE5OrEZ7",
+                    "name": "Castro Iriz\u00e1bal G.",
+                    "captain": "",
+                    "detail_link": "/player/castro-chory/hE5OrEZ7/",
+                    "short_name": "Castro Iriz\u00e1bal",
+                    "shirt_number": "11",
+                    "country": "Uruguay",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Gonzalo Castro Iriz\u00e1bal"
+                },
+                {
+                    "hash": "pv7PQ1yJ",
+                    "name": "Duda",
+                    "captain": "",
+                    "detail_link": "/player/duda/pv7PQ1yJ/",
+                    "short_name": "Duda",
+                    "shirt_number": "17",
+                    "country": "Portugal",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "90+6'",
+                            "description": "Fornals P.",
+                            "linked_player_hash": "CfghB0gf"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Duda"
+                },
+                {
+                    "hash": "UqBaaAqo",
+                    "name": "En Nesyri Y.",
+                    "captain": "",
+                    "detail_link": "/player/en-nesyri-youssef/UqBaaAqo/",
+                    "short_name": "En Nesyri",
+                    "shirt_number": "26",
+                    "country": "Morocco",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "81'",
+                            "description": "Ramirez S.",
+                            "linked_player_hash": "fapXP9VS"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Youssef En Nesyri"
+                },
+                {
+                    "hash": "WrKKuY3G",
+                    "name": "Jony",
+                    "captain": "",
+                    "detail_link": "/player/jony/WrKKuY3G/",
+                    "short_name": "Jony",
+                    "shirt_number": "21",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jony"
+                },
+                {
+                    "hash": "MJcnwOI5",
+                    "name": "Munoz L.",
+                    "captain": "",
+                    "detail_link": "/player/munoz-luis/MJcnwOI5/",
+                    "short_name": "Munoz",
+                    "shirt_number": "29",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "69'",
+                            "description": "Ontiveros J.",
+                            "linked_player_hash": "lAD5z2Ck"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Luis Munoz"
+                },
+                {
+                    "hash": "dAZnUEEP",
+                    "name": "Santos M.",
+                    "captain": "",
+                    "detail_link": "/player/santos-michael/dAZnUEEP/",
+                    "short_name": "Santos",
+                    "shirt_number": "8",
+                    "country": "Uruguay",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Michael Santos"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "6yBDunWo",
+                    "name": "Ramos J.",
+                    "captain": "",
+                    "detail_link": "/player/ramos-juande/6yBDunWo/",
+                    "short_name": "Ramos J.",
+                    "shirt_number": "",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Juande Ramos"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Bengoetxea R."
+    ],
+    "venue": [
+        "Camp Nou (Barcelona)"
+    ],
+    "attendance": [
+        "83 439"
+    ],
+    "referee_matched": [
+        "Ricardo de Burgos Bengoetxea"
+    ],
+    "referee_found": [
+        "Ricardo de Burgos Bengoetxea"
+    ],
+    "coach_matched": [
+        "Luis Enrique"
+    ],
+    "gameHomeTeam": "Barcelona",
+    "home": {
+        "name": "Barcelona",
+        "detail_link": "/team/barcelona/SKbpVP5K",
+        "hash": "SKbpVP5K",
+        "names": [
+            "Barcelona",
+            "barcelona"
+        ]
+    },
+    "gameAwayTeam": "Malaga",
+    "away": {
+        "name": "Malaga",
+        "detail_link": "/team/malaga/25tIqYiJ",
+        "hash": "25tIqYiJ",
+        "names": [
+            "Malaga",
+            "malaga"
+        ]
+    },
+    "gameDate": "19/11/2016 - 16:15",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 52:40",
+            "label": "",
+            "description": "The fans in the stadium certainly won't regret buying tickets as they witnessed a great game today. The host team were superior on the pitch today. The home team made a lot of passes and attempted to maintain possession, while the away side made defence their highest priority.",
+            "identified": "The fans in the stadium certainly won't regret buying tickets as they witnessed a great game today. The host team were superior on the pitch today. The home team made a lot of passes and attempted to maintain possession, while the away side made defence their highest priority.",
+            "anonymized": "The fans in the stadium certainly won't regret buying tickets as they witnessed a great game today. The host team were superior on the pitch today. The home team made a lot of passes and attempted to maintain possession, while the away side made defence their highest priority.",
+            "visibility": "shown",
+            "position": "3160000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 52:36",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match.",
+            "identified": "The referee blows his whistle for the final time to end this match.",
+            "anonymized": "The referee blows his whistle for the final time to end this match.",
+            "visibility": "shown",
+            "position": "3156000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 52:11",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "anonymized": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "visibility": "shown",
+            "position": "3131000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 51:55",
+            "label": "r-card",
+            "description": "Juankar (Malaga) leaves his team at a huge disadvantage as he is sent off.",
+            "identified": "[PLAYER_dx3ch97D] ([TEAM_]) leaves his team at a huge disadvantage as he is sent off.",
+            "anonymized": "[PLAYER] ([TEAM]) leaves his team at a huge disadvantage as he is sent off.",
+            "visibility": "shown",
+            "position": "3115000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 50:43",
+            "label": "",
+            "description": "Andre Gomes (Barcelona) rises above the defenders and places a towering header towards the middle of the goal, but Idriss Carlos Kameni is prepared to thwart his effort.",
+            "identified": "[PLAYER_dIFDILve] ([TEAM_]) rises above the defenders and places a towering header towards the middle of the goal, but [PLAYER_O0QYtPkp] is prepared to thwart his effort.",
+            "anonymized": "[PLAYER] ([TEAM]) rises above the defenders and places a towering header towards the middle of the goal, but [PLAYER] is prepared to thwart his effort.",
+            "visibility": "shown",
+            "position": "3043000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 50:18",
+            "label": "substitution",
+            "description": "It's time for a substitution. Duda (Malaga) comes on in place of Pablo Fornals.",
+            "identified": "It's time for a substitution. [PLAYER_pv7PQ1yJ] ([TEAM_]) comes on in place of [PLAYER_CfghB0gf].",
+            "anonymized": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER].",
+            "visibility": "shown",
+            "position": "3018000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 49:05",
+            "label": "corner",
+            "description": "Neymar (Barcelona) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+            "anonymized": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+            "visibility": "shown",
+            "position": "2945000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 48:29",
+            "label": "",
+            "description": "Neymar (Barcelona) picks up a lofted cross inside the box and fires a quick shot to the left post. His promising effort is kept out by Idriss Carlos Kameni, who pulls off a stunning save! Barcelona will take a corner kick.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) picks up a lofted cross inside the box and fires a quick shot to the left post. His promising effort is kept out by [PLAYER_O0QYtPkp], who pulls off a stunning save! [TEAM_] will take a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) picks up a lofted cross inside the box and fires a quick shot to the left post. His promising effort is kept out by [PLAYER], who pulls off a stunning save! [TEAM] will take a corner kick.",
+            "visibility": "shown",
+            "position": "2909000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 47:16",
+            "label": "",
+            "description": "Arda Turan (Barcelona) unleashes a powerful shot towards goal, but the ball is blocked by one of his teammates.",
+            "identified": "[PLAYER_K0HKnqmK] ([TEAM_]) unleashes a powerful shot towards goal, but the ball is blocked by one of his teammates.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a powerful shot towards goal, but the ball is blocked by one of his teammates.",
+            "visibility": "shown",
+            "position": "2836000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 46:11",
+            "label": "",
+            "description": "Idriss Carlos Kameni (Malaga) is able to continue to play.",
+            "identified": "[PLAYER_O0QYtPkp] ([TEAM_]) is able to continue to play.",
+            "anonymized": "[PLAYER] ([TEAM]) is able to continue to play.",
+            "visibility": "shown",
+            "position": "2771000"
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "We will have 4 min. of added time.",
+            "identified": "We will have 4 min. of added time.",
+            "anonymized": "We will have 4 min. of added time.",
+            "visibility": "shown",
+            "position": "0"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 44:39",
+            "label": "injury",
+            "description": "Idriss Carlos Kameni (Malaga) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "identified": "[PLAYER_O0QYtPkp] ([TEAM_]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "visibility": "shown",
+            "position": "2679000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:58",
+            "label": "attendance",
+            "description": "The attendance is 83439.",
+            "identified": "The attendance is 83439.",
+            "anonymized": "The attendance is 83439.",
+            "visibility": "shown",
+            "position": "2578000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:34",
+            "label": "",
+            "description": "Arda Turan (Barcelona) commits a foul and Ricardo de Burgos Bengoetxea immediately signals a free kick.",
+            "identified": "[PLAYER_K0HKnqmK] ([TEAM_]) commits a foul and [REFEREE] immediately signals a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick.",
+            "visibility": "shown",
+            "position": "2554000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:27",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "visibility": "shown",
+            "position": "2547000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:48",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The ball goes behind for a corner. Barcelona will have an opportunity to threaten the opposition's goal.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The ball goes behind for a corner. [TEAM_] will have an opportunity to threaten the opposition's goal.",
+            "anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "visibility": "shown",
+            "position": "2508000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 38:32",
+            "label": "",
+            "description": "Andre Gomes (Barcelona) starts his run too early and the referee blows for offside.",
+            "identified": "[PLAYER_dIFDILve] ([TEAM_]) starts his run too early and the referee blows for offside.",
+            "anonymized": "[PLAYER] ([TEAM]) starts his run too early and the referee blows for offside.",
+            "visibility": "shown",
+            "position": "2312000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:33",
+            "label": "corner",
+            "description": "The resulting corner, taken by Neymar (Barcelona), comes to nothing.",
+            "identified": "The resulting corner, taken by [PLAYER_jNOPwl3h] ([TEAM_]), comes to nothing.",
+            "anonymized": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing.",
+            "visibility": "shown",
+            "position": "2253000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:14",
+            "label": "",
+            "description": "Andre Gomes (Barcelona) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders. The ball is out of play. Barcelona will have a chance to score from a corner.",
+            "identified": "[PLAYER_dIFDILve] ([TEAM_]) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders. The ball is out of play. [TEAM_] will have a chance to score from a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders. The ball is out of play. [TEAM] will have a chance to score from a corner.",
+            "visibility": "shown",
+            "position": "2234000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:39",
+            "label": "",
+            "description": "A dangerous towering header by Ivan Rakitic (Barcelona) from around the penalty spot goes just wide of the right post. This corner kick didn't change the score.",
+            "identified": "A dangerous towering header by [PLAYER_pC6dfyG5] ([TEAM_]) from around the penalty spot goes just wide of the right post. This corner kick didn't change the score.",
+            "anonymized": "A dangerous towering header by [PLAYER] ([TEAM]) from around the penalty spot goes just wide of the right post. This corner kick didn't change the score.",
+            "visibility": "shown",
+            "position": "2199000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:16",
+            "label": "corner",
+            "description": "The ball is out of play and the linesman points at the corner flag. Corner to Barcelona.",
+            "identified": "The ball is out of play and the linesman points at the corner flag. Corner to [TEAM_].",
+            "anonymized": "The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+            "visibility": "shown",
+            "position": "2176000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:14",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",
+            "identified": "[PLAYER_42SIX9sl] ([TEAM_]) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",
+            "visibility": "shown",
+            "position": "2174000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 35:42",
+            "label": "substitution",
+            "description": "We are about to witness a subsitution. Youssef En Nesyri (Malaga) for Sandro Ramirez.",
+            "identified": "We are about to witness a subsitution. [PLAYER_UqBaaAqo] ([TEAM_]) for [PLAYER_fapXP9VS].",
+            "anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER].",
+            "visibility": "shown",
+            "position": "2142000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 34:47",
+            "label": "",
+            "description": "He should have done better. Gerard Pique (Barcelona) is afforded space to connect with a Javier Mascherano cross, but his header from the centre of the box flies well over the crossbar.",
+            "identified": "He should have done better. [PLAYER_fRBrHCRh] ([TEAM_]) is afforded space to connect with a [PLAYER_ns2Bmt54] cross, but his header from the centre of the box flies well over the crossbar.",
+            "anonymized": "He should have done better. [PLAYER] ([TEAM]) is afforded space to connect with a [PLAYER] cross, but his header from the centre of the box flies well over the crossbar.",
+            "visibility": "shown",
+            "position": "2087000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 34:03",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul.",
+            "identified": "[PLAYER_fRBrHCRh] ([TEAM_]) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "2043000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:40",
+            "label": "",
+            "description": "Roberto Rosales (Malaga) brings his opponent down. Ricardo de Burgos Bengoetxea has a clear sight of it and blows his whistle for a foul.",
+            "identified": "[PLAYER_25fn69FG] ([TEAM_]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "2020000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:49",
+            "label": "",
+            "description": "Neymar (Barcelona) unleashes a shot from a mid-range free kick that goes high over the bar. High, wide and not at all pretty.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) unleashes a shot from a mid-range free kick that goes high over the bar. High, wide and not at all pretty.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a shot from a mid-range free kick that goes high over the bar. High, wide and not at all pretty.",
+            "visibility": "shown",
+            "position": "1969000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:04",
+            "label": "",
+            "description": "Pablo Fornals (Malaga) makes a slide tackle, but referee Ricardo de Burgos Bengoetxea blows for a foul. Barcelona get a free kick.",
+            "identified": "[PLAYER_CfghB0gf] ([TEAM_]) makes a slide tackle, but referee [REFEREE] blows for a foul. [TEAM_] get a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [REFEREE] blows for a foul. [TEAM] get a free kick.",
+            "visibility": "shown",
+            "position": "1924000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 31:32",
+            "label": "",
+            "description": "Neymar (Barcelona) whips in the resulting set piece but it's cleared.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) whips in the resulting set piece but it's cleared.",
+            "anonymized": "[PLAYER] ([TEAM]) whips in the resulting set piece but it's cleared.",
+            "visibility": "shown",
+            "position": "1892000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 31:24",
+            "label": "substitution",
+            "description": "Substitution. Ivan Rakitic (Barcelona) replaces Rafinha.",
+            "identified": "Substitution. [PLAYER_pC6dfyG5] ([TEAM_]) replaces [PLAYER_8jE1xUrf].",
+            "anonymized": "Substitution. [PLAYER] ([TEAM]) replaces [PLAYER].",
+            "visibility": "shown",
+            "position": "1884000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 31:01",
+            "label": "",
+            "description": "Roberto Rosales (Malaga) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",
+            "identified": "[PLAYER_25fn69FG] ([TEAM_]) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "1861000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:30",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) sends a cross into the box, but Idriss Carlos Kameni comes off his line to gather the ball.",
+            "identified": "[PLAYER_42SIX9sl] ([TEAM_]) sends a cross into the box, but [PLAYER_O0QYtPkp] comes off his line to gather the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball.",
+            "visibility": "shown",
+            "position": "1830000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 29:50",
+            "label": "",
+            "description": "Neymar (Barcelona) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "visibility": "shown",
+            "position": "1790000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:51",
+            "label": "",
+            "description": "Neymar (Barcelona) tries to create a chance, but puts too much weight on his pass.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) tries to create a chance, but puts too much weight on his pass.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to create a chance, but puts too much weight on his pass.",
+            "visibility": "shown",
+            "position": "1731000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:48",
+            "label": "",
+            "description": "Neymar (Barcelona) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "visibility": "shown",
+            "position": "1668000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:12",
+            "label": "",
+            "description": "Andre Gomes (Barcelona) tries to send a pass but it's blocked.",
+            "identified": "[PLAYER_dIFDILve] ([TEAM_]) tries to send a pass but it's blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked.",
+            "visibility": "shown",
+            "position": "1632000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:39",
+            "label": "",
+            "description": "Rafinha (Barcelona) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball floats high over the bar.",
+            "identified": "[PLAYER_8jE1xUrf] ([TEAM_]) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball floats high over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball floats high over the bar.",
+            "visibility": "shown",
+            "position": "1539000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:32",
+            "label": "corner",
+            "description": "The referee and one of his assistants signal for a corner kick to Barcelona.",
+            "identified": "The referee and one of his assistants signal for a corner kick to [TEAM_].",
+            "anonymized": "The referee and one of his assistants signal for a corner kick to [TEAM].",
+            "visibility": "shown",
+            "position": "1532000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:16",
+            "label": "",
+            "description": "Andre Gomes (Barcelona) fails to send a pass into the box as his effort is cut out.",
+            "identified": "[PLAYER_dIFDILve] ([TEAM_]) fails to send a pass into the box as his effort is cut out.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out.",
+            "visibility": "shown",
+            "position": "1516000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 23:33",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Javier Ontiveros Parra trots off the pitch and is replaced by Luis Munoz (Malaga).",
+            "identified": "The referee stops play so that a substitution can be made and [PLAYER_lAD5z2Ck] trots off the pitch and is replaced by [PLAYER_MJcnwOI5] ([TEAM_]).",
+            "anonymized": "The referee stops play so that a substitution can be made and [PLAYER] trots off the pitch and is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1413000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 22:28",
+            "label": "r-card",
+            "description": "Diego Llorente (Malaga) receives a red card after his horrific challenge and is sent off!",
+            "identified": "[PLAYER_2XJ8qBI1] ([TEAM_]) receives a red card after his horrific challenge and is sent off!",
+            "anonymized": "[PLAYER] ([TEAM]) receives a red card after his horrific challenge and is sent off!",
+            "visibility": "shown",
+            "position": "1348000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 22:26",
+            "label": "substitution",
+            "description": "Luis Enrique prepares a substitution. Denis Suarez is replaced by Andre Gomes (Barcelona).",
+            "identified": "[COACH_8MdrBIUb] prepares a substitution. [PLAYER_xWwucZ71] is replaced by [PLAYER_dIFDILve] ([TEAM_]).",
+            "anonymized": "[COACH] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1346000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:27",
+            "label": "",
+            "description": "Barcelona enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+            "identified": "[TEAM_] enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+            "anonymized": "[TEAM] enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+            "visibility": "shown",
+            "position": "1287000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 17:21",
+            "label": "",
+            "description": "Ricardo de Burgos Bengoetxea blows his whistle and it's Gerard Pique (Barcelona) who is penalised for an offensive foul. Good decision by the referee.",
+            "identified": "[REFEREE] blows his whistle and it's [PLAYER_fRBrHCRh] ([TEAM_]) who is penalised for an offensive foul. Good decision by the referee.",
+            "anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee.",
+            "visibility": "shown",
+            "position": "1041000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 16:52",
+            "label": "substitution",
+            "description": "Today's match ends for Lucas Digne who will be replaced by Jordi Alba (Barcelona).",
+            "identified": "Today's match ends for [PLAYER_v9Ux4sua] who will be replaced by [PLAYER_42SIX9sl] ([TEAM_]).",
+            "anonymized": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1012000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 16:21",
+            "label": "y-card",
+            "description": "Ricardo de Burgos Bengoetxea shows a yellow card to Javier Ontiveros Parra (Malaga) for his blatant foul.",
+            "identified": "[REFEREE] shows a yellow card to [PLAYER_lAD5z2Ck] ([TEAM_]) for his blatant foul.",
+            "anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+            "visibility": "shown",
+            "position": "981000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:12",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) dived to the ground without any contact with the opponent.",
+            "identified": "[PLAYER_fRBrHCRh] ([TEAM_]) dived to the ground without any contact with the opponent.",
+            "anonymized": "[PLAYER] ([TEAM]) dived to the ground without any contact with the opponent.",
+            "visibility": "shown",
+            "position": "912000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 14:28",
+            "label": "corner",
+            "description": "Neymar (Barcelona) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "visibility": "shown",
+            "position": "868000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 12:58",
+            "label": "",
+            "description": "Roberto Rosales (Malaga) makes a rough challenge and the referee blows for a foul.",
+            "identified": "[PLAYER_25fn69FG] ([TEAM_]) makes a rough challenge and the referee blows for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and the referee blows for a foul.",
+            "visibility": "shown",
+            "position": "778000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:34",
+            "label": "",
+            "description": "Juanpi plays a pass to Juankar (Malaga), but he fails to get a decent shot away from inside the box and the ball flies well wide of the right post.",
+            "identified": "[PLAYER_pG5ILkBU] plays a pass to [PLAYER_dx3ch97D] ([TEAM_]), but he fails to get a decent shot away from inside the box and the ball flies well wide of the right post.",
+            "anonymized": "[PLAYER] plays a pass to [PLAYER] ([TEAM]), but he fails to get a decent shot away from inside the box and the ball flies well wide of the right post.",
+            "visibility": "shown",
+            "position": "694000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:59",
+            "label": "",
+            "description": "Lucas Digne (Barcelona) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "identified": "[PLAYER_v9Ux4sua] ([TEAM_]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "visibility": "shown",
+            "position": "659000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:13",
+            "label": "",
+            "description": "Ricardo de Burgos Bengoetxea blows his whistle as Arda Turan (Barcelona) used excessive force in the tackle during an attack.",
+            "identified": "[REFEREE] blows his whistle as [PLAYER_K0HKnqmK] ([TEAM_]) used excessive force in the tackle during an attack.",
+            "anonymized": "[REFEREE] blows his whistle as [PLAYER] ([TEAM]) used excessive force in the tackle during an attack.",
+            "visibility": "shown",
+            "position": "553000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:32",
+            "label": "",
+            "description": "The linesman signals that Neymar (Barcelona) is offside and the referee confirms the decision.",
+            "identified": "The linesman signals that [PLAYER_jNOPwl3h] ([TEAM_]) is offside and the referee confirms the decision.",
+            "anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision.",
+            "visibility": "shown",
+            "position": "452000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 06:40",
+            "label": "corner",
+            "description": "Juanpi (Malaga) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "identified": "[PLAYER_pG5ILkBU] ([TEAM_]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "visibility": "shown",
+            "position": "400000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 04:05",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the right post.",
+            "identified": "[PLAYER_ns2Bmt54] ([TEAM_]) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the right post.",
+            "anonymized": "[PLAYER] ([TEAM]) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the right post.",
+            "visibility": "shown",
+            "position": "245000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:04",
+            "label": "corner",
+            "description": "The ball goes out of play. Barcelona are awarded a corner kick.",
+            "identified": "The ball goes out of play. [TEAM_] are awarded a corner kick.",
+            "anonymized": "The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "184000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:57",
+            "label": "",
+            "description": "A cross from Arda Turan (Barcelona) fails to reach the box as the defence clears the ball away to safety.",
+            "identified": "A cross from [PLAYER_K0HKnqmK] ([TEAM_]) fails to reach the box as the defence clears the ball away to safety.",
+            "anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety.",
+            "visibility": "shown",
+            "position": "177000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 01:17",
+            "label": "",
+            "description": "Neymar (Barcelona) looks to break free, but an opposing player clears the ball away.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) looks to break free, but an opposing player clears the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away.",
+            "visibility": "shown",
+            "position": "77000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Referee Ricardo de Burgos Bengoetxea blows his whistle to start the second half.",
+            "identified": "Referee [REFEREE] blows his whistle to start the second half.",
+            "anonymized": "Referee [REFEREE] blows his whistle to start the second half.",
+            "visibility": "shown",
+            "position": "1000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 46:23",
+            "label": "",
+            "description": "The opening 45 minutes weren't very eventful and the game could be described as an average one. The home side is dominant and dictating the tempo of the game, mainly because of their work rate and accurate passing. The home team tries to prevail using combination football, while the away team adopt a defensive style of play.",
+            "identified": "The opening 45 minutes weren't very eventful and the game could be described as an average one. The home side is dominant and dictating the tempo of the game, mainly because of their work rate and accurate passing. The home team tries to prevail using combination football, while the away team adopt a defensive style of play.",
+            "anonymized": "The opening 45 minutes weren't very eventful and the game could be described as an average one. The home side is dominant and dictating the tempo of the game, mainly because of their work rate and accurate passing. The home team tries to prevail using combination football, while the away team adopt a defensive style of play.",
+            "visibility": "shown",
+            "position": "2783000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 46:03",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished.",
+            "identified": "The first half of today's match has just finished.",
+            "anonymized": "The first half of today's match has just finished.",
+            "visibility": "shown",
+            "position": "2763000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:42",
+            "label": "time",
+            "description": "There will be a minimum of 1 min. of added time.",
+            "identified": "There will be a minimum of 1 min. of added time.",
+            "anonymized": "There will be a minimum of 1 min. of added time.",
+            "visibility": "shown",
+            "position": "2742000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:17",
+            "label": "",
+            "description": "Another attempt to send the ball beyond the defence by Rafinha (Barcelona) is thwarted and cleared to safety.",
+            "identified": "Another attempt to send the ball beyond the defence by [PLAYER_8jE1xUrf] ([TEAM_]) is thwarted and cleared to safety.",
+            "anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety.",
+            "visibility": "shown",
+            "position": "2717000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 44:26",
+            "label": "",
+            "description": "Lucas Digne (Barcelona) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "identified": "[PLAYER_v9Ux4sua] ([TEAM_]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "visibility": "shown",
+            "position": "2666000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:31",
+            "label": "",
+            "description": "Lucas Digne passes to Sergio Busquets (Barcelona), but he produces a wild shot from the edge of the box which goes high over the bar.",
+            "identified": "[PLAYER_v9Ux4sua] passes to [PLAYER_CU4pL3ue] ([TEAM_]), but he produces a wild shot from the edge of the box which goes high over the bar.",
+            "anonymized": "[PLAYER] passes to [PLAYER] ([TEAM]), but he produces a wild shot from the edge of the box which goes high over the bar.",
+            "visibility": "shown",
+            "position": "2611000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:08",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "identified": "[PLAYER_fRBrHCRh] ([TEAM_]) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "anonymized": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "visibility": "shown",
+            "position": "2588000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:38",
+            "label": "corner",
+            "description": "Neymar (Barcelona) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "visibility": "shown",
+            "position": "2498000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:02",
+            "label": "",
+            "description": "Neymar (Barcelona) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee and his assistant both point at the corner flag. Barcelona will have an opportunity to threaten the opposition's goal.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee and his assistant both point at the corner flag. [TEAM_] will have an opportunity to threaten the opposition's goal.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "visibility": "shown",
+            "position": "2462000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 40:09",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Javier Ontiveros Parra (Malaga), is intercepted by the opposition's defence.",
+            "identified": "A fine lofted pass into the box, sent by [PLAYER_lAD5z2Ck] ([TEAM_]), is intercepted by the opposition's defence.",
+            "anonymized": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence.",
+            "visibility": "shown",
+            "position": "2409000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:54",
+            "label": "corner",
+            "description": "Idriss Carlos Kameni leaps to collect the ball from the corner which was sent over by Neymar (Barcelona).",
+            "identified": "[PLAYER_O0QYtPkp] leaps to collect the ball from the corner which was sent over by [PLAYER_jNOPwl3h] ([TEAM_]).",
+            "anonymized": "[PLAYER] leaps to collect the ball from the corner which was sent over by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2274000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:39",
+            "label": "",
+            "description": "Denis Suarez (Barcelona) sends a lofted cross into the box which is headed clear. Barcelona have a corner.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) sends a lofted cross into the box which is headed clear. [TEAM_] have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear. [TEAM] have a corner.",
+            "visibility": "shown",
+            "position": "2259000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 36:42",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) swings a cross into the box, but it's far too close to Idriss Carlos Kameni, who smothers the ball.",
+            "identified": "[PLAYER_ns2Bmt54] ([TEAM_]) swings a cross into the box, but it's far too close to [PLAYER_O0QYtPkp], who smothers the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball.",
+            "visibility": "shown",
+            "position": "2202000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:41",
+            "label": "",
+            "description": "Arda Turan (Barcelona) is penalised for a foul. Ricardo de Burgos Bengoetxea had a clear view and blows his whistle.",
+            "identified": "[PLAYER_K0HKnqmK] ([TEAM_]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+            "anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+            "visibility": "shown",
+            "position": "2021000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:25",
+            "label": "",
+            "description": "Denis Suarez (Barcelona) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",
+            "visibility": "shown",
+            "position": "2005000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 31:13",
+            "label": "",
+            "description": "Idriss Carlos Kameni pulls off a great save to deny Rafinha (Barcelona) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal.",
+            "identified": "[PLAYER_O0QYtPkp] pulls off a great save to deny [PLAYER_8jE1xUrf] ([TEAM_]) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal.",
+            "anonymized": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal.",
+            "visibility": "shown",
+            "position": "1873000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:20",
+            "label": "",
+            "description": "Flag up against Arda Turan (Barcelona). He had space to move into behind the defence, but he went too soon.",
+            "identified": "Flag up against [PLAYER_K0HKnqmK] ([TEAM_]). He had space to move into behind the defence, but he went too soon.",
+            "anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon.",
+            "visibility": "shown",
+            "position": "1760000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:39",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) peeled away from his marker and got on the end of the resulting corner, but he sends his header straight at the goalkeeper.",
+            "identified": "[PLAYER_fRBrHCRh] ([TEAM_]) peeled away from his marker and got on the end of the resulting corner, but he sends his header straight at the goalkeeper.",
+            "anonymized": "[PLAYER] ([TEAM]) peeled away from his marker and got on the end of the resulting corner, but he sends his header straight at the goalkeeper.",
+            "visibility": "shown",
+            "position": "1719000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:28",
+            "label": "corner",
+            "description": "Barcelona have been awarded a corner kick.",
+            "identified": "[TEAM_] have been awarded a corner kick.",
+            "anonymized": "[TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "1708000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:09",
+            "label": "",
+            "description": "The ball is cleared after Sergi Roberto (Barcelona) attempted to dribble past an opposing player.",
+            "identified": "The ball is cleared after [PLAYER_W2R804U4] ([TEAM_]) attempted to dribble past an opposing player.",
+            "anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player.",
+            "visibility": "shown",
+            "position": "1689000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:52",
+            "label": "",
+            "description": "A player from Barcelona brings down an opponent and commits a foul.",
+            "identified": "A player from [TEAM_] brings down an opponent and commits a foul.",
+            "anonymized": "A player from [TEAM] brings down an opponent and commits a foul.",
+            "visibility": "shown",
+            "position": "1612000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:47",
+            "label": "",
+            "description": "Sandro Ramirez (Malaga) had a good opportunity from long range. His shot was directed towards the middle of the goal, but Marc-Andre ter Stegen was alert and made a comfortable save.",
+            "identified": "[PLAYER_fapXP9VS] ([TEAM_]) had a good opportunity from long range. His shot was directed towards the middle of the goal, but [PLAYER_byxc46yl] was alert and made a comfortable save.",
+            "anonymized": "[PLAYER] ([TEAM]) had a good opportunity from long range. His shot was directed towards the middle of the goal, but [PLAYER] was alert and made a comfortable save.",
+            "visibility": "shown",
+            "position": "1427000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 22:13",
+            "label": "y-card",
+            "description": "Federico Ricca (Malaga) is booked after bringing down an opponent. Ricardo de Burgos Bengoetxea had an easy-decision to make.",
+            "identified": "[PLAYER_xUtDcXKj] ([TEAM_]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+            "anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+            "visibility": "shown",
+            "position": "1333000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 20:32",
+            "label": "",
+            "description": "That was close by Rafinha (Barcelona)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post.",
+            "identified": "That was close by [PLAYER_8jE1xUrf] ([TEAM_])! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post.",
+            "anonymized": "That was close by [PLAYER] ([TEAM])! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post.",
+            "visibility": "shown",
+            "position": "1232000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 19:49",
+            "label": "",
+            "description": "The Barcelona players are exchanging some short passes.",
+            "identified": "The [TEAM_] players are exchanging some short passes.",
+            "anonymized": "The [TEAM] players are exchanging some short passes.",
+            "visibility": "shown",
+            "position": "1189000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:22",
+            "label": "",
+            "description": "Arda Turan (Barcelona) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",
+            "identified": "[PLAYER_K0HKnqmK] ([TEAM_]) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",
+            "anonymized": "[PLAYER] ([TEAM]) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",
+            "visibility": "shown",
+            "position": "1042000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:06",
+            "label": "",
+            "description": "The foul by Sandro Ramirez (Malaga) was seen by Ricardo de Burgos Bengoetxea who didn't hesitate to blow the whistle.",
+            "identified": "The foul by [PLAYER_fapXP9VS] ([TEAM_]) was seen by [REFEREE] who didn't hesitate to blow the whistle.",
+            "anonymized": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle.",
+            "visibility": "shown",
+            "position": "1026000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 16:53",
+            "label": "",
+            "description": "Denis Suarez (Barcelona) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards wide of the left post.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards wide of the left post.",
+            "visibility": "shown",
+            "position": "1013000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 16:10",
+            "label": "",
+            "description": "Arda Turan (Barcelona) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety.",
+            "identified": "[PLAYER_K0HKnqmK] ([TEAM_]) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety.",
+            "visibility": "shown",
+            "position": "970000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:35",
+            "label": "",
+            "description": "The resulting free kick from Sandro Ramirez (Malaga) ends up in the gloves of the keeper.",
+            "identified": "The resulting free kick from [PLAYER_fapXP9VS] ([TEAM_]) ends up in the gloves of the keeper.",
+            "anonymized": "The resulting free kick from [PLAYER] ([TEAM]) ends up in the gloves of the keeper.",
+            "visibility": "shown",
+            "position": "935000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 12:06",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) fails to beat the offside trap and the linesman puts his flag up.",
+            "identified": "[PLAYER_ns2Bmt54] ([TEAM_]) fails to beat the offside trap and the linesman puts his flag up.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up.",
+            "visibility": "shown",
+            "position": "726000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:40",
+            "label": "corner",
+            "description": "Neymar (Barcelona) prepares to take a corner kick.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) prepares to take a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) prepares to take a corner kick.",
+            "visibility": "shown",
+            "position": "700000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:30",
+            "label": "corner",
+            "description": "The corner from Neymar (Barcelona) is cleared away by the defence. The referee blows his whistle, Barcelona are awarded a corner kick.",
+            "identified": "The corner from [PLAYER_jNOPwl3h] ([TEAM_]) is cleared away by the defence. The referee blows his whistle, [TEAM_] are awarded a corner kick.",
+            "anonymized": "The corner from [PLAYER] ([TEAM]) is cleared away by the defence. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "690000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 11:21",
+            "label": "",
+            "description": "What a wasted opportunity by Gerard Pique (Barcelona)! He creates himself some space inside the penalty box and unleashes a decent strike towards the top of the net, but Idriss Carlos Kameni makes an astonishing save to thwart him. The referee signals a corner kick to Barcelona.",
+            "identified": "What a wasted opportunity by [PLAYER_fRBrHCRh] ([TEAM_])! He creates himself some space inside the penalty box and unleashes a decent strike towards the top of the net, but [PLAYER_O0QYtPkp] makes an astonishing save to thwart him. The referee signals a corner kick to [TEAM_].",
+            "anonymized": "What a wasted opportunity by [PLAYER] ([TEAM])! He creates himself some space inside the penalty box and unleashes a decent strike towards the top of the net, but [PLAYER] makes an astonishing save to thwart him. The referee signals a corner kick to [TEAM].",
+            "visibility": "shown",
+            "position": "681000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:50",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner but it's cleared.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) takes the corner but it's cleared.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared.",
+            "visibility": "shown",
+            "position": "650000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:43",
+            "label": "",
+            "description": "Denis Suarez (Barcelona) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The ball goes out of play and Barcelona have been awarded a corner kick.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The ball goes out of play and [TEAM_] have been awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The ball goes out of play and [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "643000"
+        }
+    ]
+}

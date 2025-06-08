@@ -1,0 +1,448 @@
+[
+  {
+    "question": "How many goals have occurred so far in the first half up to Emre Can's goal?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals in the first half up to Emre Can's goal?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams have scored equally",
+      "D. No goals scored yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who was the first player to score in the first half up to Emre Can's goal?",
+    "choices": [
+      "A. Emre Can",
+      "B. Roberto Firmino",
+      "C. Mohamed Salah",
+      "D. No goals scored yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 3,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      3,
+      5
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the first half?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams have scored equally",
+      "D. No goals scored"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      3,
+      5
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player was involved in the most goals in the first half?",
+    "choices": [
+      "A. Emre Can",
+      "B. Roberto Firmino",
+      "C. Both players scored one goal each",
+      "D. No goals scored"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      3,
+      5
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half after Emre Can's goal?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more goal",
+      "D. Two more goals"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 3,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal after Emre Can's goal?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams are equally likely",
+      "D. No more goals will be scored"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 3,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal after Emre Can's goal?",
+    "choices": [
+      "A. Emre Can",
+      "B. Roberto Firmino",
+      "C. Mohamed Salah",
+      "D. No more goals will be scored"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 3,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 21:30 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 21:30 mark?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opposition",
+      "C. Both teams have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Has Mohamed Salah taken any corners yet by the 21:30 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 21:27 mark?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 21:27 mark?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opposition",
+      "C. Both teams have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Has Mohamed Salah taken any corners yet by the 21:27 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 22:06 mark?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 22:06 mark?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opposition",
+      "C. Both teams have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which Liverpool player has taken the most corners by the 22:06 mark?",
+    "choices": [
+      "A. Mohamed Salah",
+      "B. James Milner",
+      "C. Joe Gomez",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 8,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "current_event_index": null,
+    "index": 9,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opposition",
+      "C. Both teams had equal corners",
+      "D. No corners taken"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "current_event_index": null,
+    "index": 10,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Mohamed Salah",
+      "B. James Milner",
+      "C. Joe Gomez",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      2,
+      4
+    ],
+    "current_event_index": null,
+    "index": 11,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 21:30 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      2,
+      4
+    ],
+    "current_event_index": 0,
+    "index": 12,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 21:30 mark?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opposition",
+      "C. Both teams equally likely",
+      "D. No more corners"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      2,
+      4
+    ],
+    "current_event_index": 0,
+    "index": 13,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after the 21:30 mark?",
+    "choices": [
+      "A. Mohamed Salah",
+      "B. James Milner",
+      "C. Joe Gomez",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      2,
+      4
+    ],
+    "current_event_index": 0,
+    "index": 14,
+    "event_type": "corner"
+  }
+]

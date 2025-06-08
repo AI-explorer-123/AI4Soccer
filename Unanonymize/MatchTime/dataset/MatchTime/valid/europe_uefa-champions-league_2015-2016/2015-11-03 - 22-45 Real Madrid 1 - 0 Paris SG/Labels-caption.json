@@ -1,0 +1,1589 @@
+{
+    "timestamp": "1446579900",
+    "score": "1 - 0",
+    "round": "4",
+    "teams": [
+        "Real Madrid",
+        "Paris SG"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-3-3",
+            "players": [
+                {
+                    "hash": "Ukeq3c0b",
+                    "name": "Casemiro",
+                    "captain": "",
+                    "detail_link": "/player/casemiro/Ukeq3c0b/",
+                    "short_name": "Casemiro",
+                    "shirt_number": "14",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "88' Casemiro (Holding)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Casemiro"
+                },
+                {
+                    "hash": "KUjvgUhB",
+                    "name": "Danilo",
+                    "captain": "",
+                    "detail_link": "/player/danilo/KUjvgUhB/",
+                    "short_name": "Danilo",
+                    "shirt_number": "23",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Danilo"
+                },
+                {
+                    "hash": "ULLmpdEb",
+                    "name": "Isco",
+                    "captain": "",
+                    "detail_link": "/player/isco/ULLmpdEb/",
+                    "short_name": "Isco",
+                    "shirt_number": "22",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "82'",
+                            "description": "Kovacic M.",
+                            "linked_player_hash": "4f084TL7"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Isco"
+                },
+                {
+                    "hash": "6BdSXunk",
+                    "name": "Jese",
+                    "captain": "",
+                    "detail_link": "/player/jese/6BdSXunk/",
+                    "short_name": "Jese",
+                    "shirt_number": "20",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "63'",
+                            "description": "Lucas",
+                            "linked_player_hash": "pEjBDsSH"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Jese"
+                },
+                {
+                    "hash": "CloE7jjr",
+                    "name": "Kroos T.",
+                    "captain": "",
+                    "detail_link": "/player/kroos-toni/CloE7jjr/",
+                    "short_name": "Kroos",
+                    "shirt_number": "8",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Toni Kroos"
+                },
+                {
+                    "hash": "zmAm2AEH",
+                    "name": "Marcelo",
+                    "captain": "",
+                    "detail_link": "/player/marcelo/zmAm2AEH/",
+                    "short_name": "Marcelo",
+                    "shirt_number": "12",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "33'",
+                            "description": "Fernandez N.",
+                            "linked_player_hash": "8Wp8ZCLG"
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Marcelo"
+                },
+                {
+                    "hash": "bZWyoJnA",
+                    "name": "Modric L.",
+                    "captain": "",
+                    "detail_link": "/player/modric-luka/bZWyoJnA/",
+                    "short_name": "Modric",
+                    "shirt_number": "19",
+                    "country": "Croatia",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Luka Modric"
+                },
+                {
+                    "hash": "dQEusiKl",
+                    "name": "Navas K.",
+                    "captain": "",
+                    "detail_link": "/player/navas-keylor/dQEusiKl/",
+                    "short_name": "Navas",
+                    "shirt_number": "1",
+                    "country": "Costa Rica",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "90+2' Navas K. (Unsportsmanlike conduct)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Keylor Navas"
+                },
+                {
+                    "hash": "db8mbBaO",
+                    "name": "Ramos S.",
+                    "captain": "(C)",
+                    "detail_link": "/player/ramos-sergio/db8mbBaO/",
+                    "short_name": "Ramos",
+                    "shirt_number": "4",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Sergio Ramos"
+                },
+                {
+                    "hash": "WGOY4FSt",
+                    "name": "Ronaldo C.",
+                    "captain": "",
+                    "detail_link": "/player/ronaldo-cristiano/WGOY4FSt/",
+                    "short_name": "Ronaldo",
+                    "shirt_number": "7",
+                    "country": "Portugal",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Cristiano Ronaldo"
+                },
+                {
+                    "hash": "t20vQIvC",
+                    "name": "Varane R.",
+                    "captain": "",
+                    "detail_link": "/player/varane-raphael/t20vQIvC/",
+                    "short_name": "Varane",
+                    "shirt_number": "2",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Raphael Varane"
+                },
+                {
+                    "hash": "l43b8dXD",
+                    "name": "Casilla K.",
+                    "captain": "",
+                    "detail_link": "/player/casilla-francisco/l43b8dXD/",
+                    "short_name": "Casilla",
+                    "shirt_number": "13",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Kiko Casilla"
+                },
+                {
+                    "hash": "rRBOMfjm",
+                    "name": "Cheryshev D.",
+                    "captain": "",
+                    "detail_link": "/player/cheryshev-denis/rRBOMfjm/",
+                    "short_name": "Cheryshev",
+                    "shirt_number": "21",
+                    "country": "Russia",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Denis Cheryshev"
+                },
+                {
+                    "hash": "8Wp8ZCLG",
+                    "name": "Fernandez N.",
+                    "captain": "",
+                    "detail_link": "/player/nacho/8Wp8ZCLG/",
+                    "short_name": "Fernandez",
+                    "shirt_number": "6",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "33'",
+                            "description": "Marcelo",
+                            "linked_player_hash": "zmAm2AEH"
+                        },
+                        {
+                            "type": "3",
+                            "time": "35' Fernandez N.",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Nacho Fernandez"
+                },
+                {
+                    "hash": "4f084TL7",
+                    "name": "Kovacic M.",
+                    "captain": "",
+                    "detail_link": "/player/kovacic-mateo/4f084TL7/",
+                    "short_name": "Kovacic",
+                    "shirt_number": "16",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "82'",
+                            "description": "Isco",
+                            "linked_player_hash": "ULLmpdEb"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Mateo Kovacic"
+                },
+                {
+                    "hash": "pEjBDsSH",
+                    "name": "Lucas",
+                    "captain": "",
+                    "detail_link": "/player/lucas/pEjBDsSH/",
+                    "short_name": "Vazquez",
+                    "shirt_number": "18",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "63'",
+                            "description": "Jese",
+                            "linked_player_hash": "6BdSXunk"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Lucas Vazquez"
+                },
+                {
+                    "hash": "2y9qaipI",
+                    "name": "Pepe",
+                    "captain": "",
+                    "detail_link": "/player/pepe/2y9qaipI/",
+                    "short_name": "Pepe",
+                    "shirt_number": "3",
+                    "country": "Portugal",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Pepe"
+                },
+                {
+                    "hash": "MPaioN57",
+                    "name": "Rodriguez J.",
+                    "captain": "",
+                    "detail_link": "/player/rodriguez-james/MPaioN57/",
+                    "short_name": "Rodriguez",
+                    "shirt_number": "10",
+                    "country": "Colombia",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "James Rodriguez"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "4fN6car1",
+                    "name": "Benitez R.",
+                    "captain": "",
+                    "detail_link": "/player/benitez-rafael/4fN6car1/",
+                    "short_name": "Benitez R.",
+                    "shirt_number": "",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Rafael Benitez"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-3-3",
+            "players": [
+                {
+                    "hash": "6iUXQVdq",
+                    "name": "Aurier S.",
+                    "captain": "",
+                    "detail_link": "/player/aurier-serge/6iUXQVdq/",
+                    "short_name": "Aurier",
+                    "shirt_number": "19",
+                    "country": "Ivory Coast",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "45' Aurier S. (Impeding)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Serge Aurier"
+                },
+                {
+                    "hash": "Qgx2trzH",
+                    "name": "Cavani E.",
+                    "captain": "",
+                    "detail_link": "/player/cavani-edinson/Qgx2trzH/",
+                    "short_name": "Cavani",
+                    "shirt_number": "9",
+                    "country": "Uruguay",
+                    "facts": [],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Edinson Cavani"
+                },
+                {
+                    "hash": "G04qmSno",
+                    "name": "David Luiz",
+                    "captain": "",
+                    "detail_link": "/player/luiz-david/G04qmSno/",
+                    "short_name": "David Luiz",
+                    "shirt_number": "32",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "67' David Luiz (Impeding)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "David Luiz"
+                },
+                {
+                    "hash": "SISkkDSQ",
+                    "name": "Di Maria A.",
+                    "captain": "",
+                    "detail_link": "/player/di-maria-angel/SISkkDSQ/",
+                    "short_name": "Di Maria",
+                    "shirt_number": "11",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Angel Di Maria"
+                },
+                {
+                    "hash": "AiH2zDve",
+                    "name": "Ibrahimovic Z.",
+                    "captain": "",
+                    "detail_link": "/player/ibrahimovic-zlatan/AiH2zDve/",
+                    "short_name": "Ibrahimovic",
+                    "shirt_number": "10",
+                    "country": "Sweden",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Zlatan Ibrahimovic"
+                },
+                {
+                    "hash": "CAWma17n",
+                    "name": "Matuidi B.",
+                    "captain": "",
+                    "detail_link": "/player/matuidi-blaise/CAWma17n/",
+                    "short_name": "Matuidi",
+                    "shirt_number": "14",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "75'",
+                            "description": "Lucas Moura",
+                            "linked_player_hash": "EcmXnnoo"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Blaise Matuidi"
+                },
+                {
+                    "hash": "lxTgxZ9r",
+                    "name": "Maxwell",
+                    "captain": "",
+                    "detail_link": "/player/maxwell/lxTgxZ9r/",
+                    "short_name": "Maxwell",
+                    "shirt_number": "17",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Maxwell"
+                },
+                {
+                    "hash": "bBhpZV2s",
+                    "name": "Motta T.",
+                    "captain": "",
+                    "detail_link": "/player/motta-thiago/bBhpZV2s/",
+                    "short_name": "Motta",
+                    "shirt_number": "8",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Thiago Motta"
+                },
+                {
+                    "hash": "xAsJbgXA",
+                    "name": "Silva T.",
+                    "captain": "(C)",
+                    "detail_link": "/player/silva-thiago/xAsJbgXA/",
+                    "short_name": "Silva",
+                    "shirt_number": "2",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Thiago Silva"
+                },
+                {
+                    "hash": "QqugudYS",
+                    "name": "Trapp K.",
+                    "captain": "",
+                    "detail_link": "/player/trapp-kevin/QqugudYS/",
+                    "short_name": "Trapp",
+                    "shirt_number": "16",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Kevin Trapp"
+                },
+                {
+                    "hash": "fmn5agXI",
+                    "name": "Verratti M.",
+                    "captain": "",
+                    "detail_link": "/player/verratti-marco/fmn5agXI/",
+                    "short_name": "Verratti",
+                    "shirt_number": "6",
+                    "country": "Italy",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "17'",
+                            "description": "Rabiot A.",
+                            "linked_player_hash": "l08EAP2Q"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Marco Verratti"
+                },
+                {
+                    "hash": "joeqPtde",
+                    "name": "Kurzawa L.",
+                    "captain": "",
+                    "detail_link": "/player/kurzawa-layvin/joeqPtde/",
+                    "short_name": "Kurzawa",
+                    "shirt_number": "20",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Layvin Kurzawa"
+                },
+                {
+                    "hash": "6et6rxwE",
+                    "name": "Lavezzi E.",
+                    "captain": "",
+                    "detail_link": "/player/lavezzi-ezequiel/6et6rxwE/",
+                    "short_name": "Lavezzi",
+                    "shirt_number": "22",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ezequiel Lavezzi"
+                },
+                {
+                    "hash": "EcmXnnoo",
+                    "name": "Lucas Moura",
+                    "captain": "",
+                    "detail_link": "/player/lucas-moura/EcmXnnoo/",
+                    "short_name": "Lucas Moura",
+                    "shirt_number": "7",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "75'",
+                            "description": "Matuidi B.",
+                            "linked_player_hash": "CAWma17n"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Lucas Moura"
+                },
+                {
+                    "hash": "l08EAP2Q",
+                    "name": "Rabiot A.",
+                    "captain": "",
+                    "detail_link": "/player/rabiot-adrien/l08EAP2Q/",
+                    "short_name": "Rabiot",
+                    "shirt_number": "25",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "17'",
+                            "description": "Verratti M.",
+                            "linked_player_hash": "fmn5agXI"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Adrien Rabiot"
+                },
+                {
+                    "hash": "A3ywEtVi",
+                    "name": "Sirigu S.",
+                    "captain": "",
+                    "detail_link": "/player/sirigu-salvatore/A3ywEtVi/",
+                    "short_name": "Sirigu",
+                    "shirt_number": "30",
+                    "country": "Italy",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Salvatore Sirigu"
+                },
+                {
+                    "hash": "Is2SqL3S",
+                    "name": "Stambouli B.",
+                    "captain": "",
+                    "detail_link": "/player/stambouli-benjamin/Is2SqL3S/",
+                    "short_name": "Stambouli",
+                    "shirt_number": "4",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Benjamin Stambouli"
+                },
+                {
+                    "hash": "E5TBwO2T",
+                    "name": "van der Wiel G.",
+                    "captain": "",
+                    "detail_link": "/player/van-der-wiel-gregory/E5TBwO2T/",
+                    "short_name": "van der Wiel",
+                    "shirt_number": "23",
+                    "country": "Netherlands",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Gregory van der Wiel"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "697mbZk2",
+                    "name": "Blanc L.",
+                    "captain": "",
+                    "detail_link": "/player/blanc-laurent/697mbZk2/",
+                    "short_name": "Blanc L.",
+                    "shirt_number": "",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Laurent Blanc"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Clattenburg M."
+    ],
+    "venue": [
+        "Estadio Santiago Bernab\u00e9u (Madrid)"
+    ],
+    "attendance": [
+        "78 300"
+    ],
+    "referee_matched": [
+        "Mark Clattenburg"
+    ],
+    "referee_found": [
+        "Mark Clattenburg"
+    ],
+    "coach_matched": [
+        "Rafael Benitez",
+        "Laurent Blanc"
+    ],
+    "gameHomeTeam": "Real Madrid",
+    "home": {
+        "name": "Real Madrid",
+        "detail_link": "/team/real-madrid/W8mj7MDD",
+        "hash": "W8mj7MDD",
+        "names": [
+            "Real Madrid",
+            "real madrid"
+        ]
+    },
+    "gameAwayTeam": "Paris SG",
+    "away": {
+        "name": "Paris SG",
+        "detail_link": "/team/paris-sg/CjhkPw0k",
+        "hash": "CjhkPw0k",
+        "names": [
+            "Paris SG",
+            "paris sg"
+        ]
+    },
+    "gameDate": "03/11/2015 - 20:45",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "All in all that was an entertaining 90 minutes of football thanks to some decent attacking play. An impressive display from the visitors, they had the better of it. Both sides tried to combine well and to keep the ball at their feet.",
+            "identified": "All in all that was an entertaining 90 minutes of football thanks to some decent attacking play. An impressive display from the visitors, they had the better of it. Both sides tried to combine well and to keep the ball at their feet.",
+            "anonymized": "All in all that was an entertaining 90 minutes of football thanks to some decent attacking play. An impressive display from the visitors, they had the better of it. Both sides tried to combine well and to keep the ball at their feet.",
+            "visibility": "shown",
+            "position": "2879000",
+            "event_aligned_gameTime": "2 - 47:50",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 47:55",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match.",
+            "identified": "The referee blows his whistle for the final time to end this match.",
+            "anonymized": "The referee blows his whistle for the final time to end this match.",
+            "visibility": "shown",
+            "position": "2875000",
+            "event_aligned_gameTime": "2 - 47:30",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 46:40",
+            "label": "y-card",
+            "description": "The referee demonstrates he won't tolerate this behaviour. Keylor Navas (Real Madrid) is given a yellow card.",
+            "identified": "The referee demonstrates he won't tolerate this behaviour. [PLAYER_dQEusiKl] ([TEAM_]) is given a yellow card.",
+            "anonymized": "The referee demonstrates he won't tolerate this behaviour. [PLAYER] ([TEAM]) is given a yellow card.",
+            "visibility": "shown",
+            "position": "2800000",
+            "event_aligned_gameTime": "2 - 46:40",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "3 min. of stoppage-time to be played.",
+            "identified": "3 min. of stoppage-time to be played.",
+            "anonymized": "3 min. of stoppage-time to be played.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:20",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 43:41",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) stands over the resulting free kick from around 20 metres out, but his terrific effort smashes against the crossbar!",
+            "identified": "[PLAYER_SISkkDSQ] ([TEAM_]) stands over the resulting free kick from around 20 metres out, but his terrific effort smashes against the crossbar!",
+            "anonymized": "[PLAYER] ([TEAM]) stands over the resulting free kick from around 20 metres out, but his terrific effort smashes against the crossbar!",
+            "visibility": "shown",
+            "position": "2621000",
+            "event_aligned_gameTime": "2 - 43:40",
+            "contrastive_aligned_gameTime": "2 - 43:12"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 42:32",
+            "label": "y-card",
+            "description": "Casemiro (Real Madrid) infringed the rules and goes into the book. Mark Clattenburg pulls out a yellow card. Paris SG have a free kick from a promising distance.",
+            "identified": "[PLAYER_Ukeq3c0b] ([TEAM_]) infringed the rules and goes into the book. [REFEREE] pulls out a yellow card. [TEAM_] have a free kick from a promising distance.",
+            "anonymized": "[PLAYER] ([TEAM]) infringed the rules and goes into the book. [REFEREE] pulls out a yellow card. [TEAM] have a free kick from a promising distance.",
+            "visibility": "shown",
+            "position": "2552000",
+            "event_aligned_gameTime": "2 - 42:10",
+            "contrastive_aligned_gameTime": "2 - 42:56"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:52",
+            "label": "",
+            "description": "Kevin Trapp (Paris SG) is alert and has a clear sight of a long through ball from . Easy save!",
+            "identified": "[PLAYER_QqugudYS] ([TEAM_]) is alert and has a clear sight of a long through ball from . Easy save!",
+            "anonymized": "[PLAYER] ([TEAM]) is alert and has a clear sight of a long through ball from . Easy save!",
+            "visibility": "shown",
+            "position": "2512000",
+            "event_aligned_gameTime": "2 - 41:52",
+            "contrastive_aligned_gameTime": "2 - 42:12"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 39:01",
+            "label": "",
+            "description": "A spell of possession for Paris SG in an attempt to control the game.",
+            "identified": "A spell of possession for [TEAM_] in an attempt to control the game.",
+            "anonymized": "A spell of possession for [TEAM] in an attempt to control the game.",
+            "visibility": "shown",
+            "position": "2341000",
+            "event_aligned_gameTime": "2 - 39:00",
+            "contrastive_aligned_gameTime": "2 - 39:15"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 36:04",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Mateo Kovacic (Real Madrid) is coming onto the pitch as Isco cannot continue after picking up an injury.",
+            "identified": "The referee signals that it is time for a substitution and [PLAYER_4f084TL7] ([TEAM_]) is coming onto the pitch as [PLAYER_ULLmpdEb] cannot continue after picking up an injury.",
+            "anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury.",
+            "visibility": "shown",
+            "position": "2164000",
+            "event_aligned_gameTime": "2 - 36:10",
+            "contrastive_aligned_gameTime": "2 - 36:07"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 35:31",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) latches on to a precise pass and one-on-one with the keeper slams the ball towards the right-hand post. Kevin Trapp is alert, though, and leaps like a salmon to deny him.",
+            "identified": "[PLAYER_CloE7jjr] ([TEAM_]) latches on to a precise pass and one-on-one with the keeper slams the ball towards the right-hand post. [PLAYER_QqugudYS] is alert, though, and leaps like a salmon to deny him.",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a precise pass and one-on-one with the keeper slams the ball towards the right-hand post. [PLAYER] is alert, though, and leaps like a salmon to deny him.",
+            "visibility": "shown",
+            "position": "2131000",
+            "event_aligned_gameTime": "2 - 36:00",
+            "contrastive_aligned_gameTime": "2 - 35:04"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 34:46",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) swings in the corner, but it's comfortably cleared away.",
+            "identified": "[PLAYER_CloE7jjr] ([TEAM_]) swings in the corner, but it's comfortably cleared away.",
+            "anonymized": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away.",
+            "visibility": "shown",
+            "position": "2086000",
+            "event_aligned_gameTime": "2 - 34:10",
+            "contrastive_aligned_gameTime": "2 - 34:41"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 34:21",
+            "label": "",
+            "description": "sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The linesman makes the right call and Real Madrid will have a corner.",
+            "identified": "sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The linesman makes the right call and [TEAM_] will have a corner.",
+            "anonymized": "sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The linesman makes the right call and [TEAM] will have a corner.",
+            "visibility": "shown",
+            "position": "2061000",
+            "event_aligned_gameTime": "2 - 34:10",
+            "contrastive_aligned_gameTime": "2 - 34:18"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:17",
+            "label": "corner",
+            "description": "Angel Di Maria (Paris SG) will take the corner.",
+            "identified": "[PLAYER_SISkkDSQ] ([TEAM_]) will take the corner.",
+            "anonymized": "[PLAYER] ([TEAM]) will take the corner.",
+            "visibility": "shown",
+            "position": "1937000",
+            "event_aligned_gameTime": "2 - 32:30",
+            "contrastive_aligned_gameTime": "2 - 32:14"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:04",
+            "label": "",
+            "description": "Serge Aurier (Paris SG) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. It will be a corner kick for Paris SG.",
+            "identified": "[PLAYER_6iUXQVdq] ([TEAM_]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. It will be a corner kick for [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. It will be a corner kick for [TEAM].",
+            "visibility": "shown",
+            "position": "1924000",
+            "event_aligned_gameTime": "2 - 32:00",
+            "contrastive_aligned_gameTime": "2 - 31:55"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:56",
+            "label": "",
+            "description": "The flag is raised and Zlatan Ibrahimovic (Paris SG) is offside again, not for the first time today.",
+            "identified": "The flag is raised and [PLAYER_AiH2zDve] ([TEAM_]) is offside again, not for the first time today.",
+            "anonymized": "The flag is raised and [PLAYER] ([TEAM]) is offside again, not for the first time today.",
+            "visibility": "shown",
+            "position": "1856000",
+            "event_aligned_gameTime": "2 - 30:56",
+            "contrastive_aligned_gameTime": "2 - 30:56"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 29:23",
+            "label": "substitution",
+            "description": "The substitution has been made. Lucas (Paris SG) has replaced Blaise Matuidi.",
+            "identified": "The substitution has been made. [PLAYER_EcmXnnoo] ([TEAM_]) has replaced [PLAYER_CAWma17n].",
+            "anonymized": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER].",
+            "visibility": "shown",
+            "position": "1763000",
+            "event_aligned_gameTime": "2 - 29:20",
+            "contrastive_aligned_gameTime": "2 - 28:38"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 29:01",
+            "label": "",
+            "description": "Mark Clattenburg blows his whistle and it's Sergio Ramos (Real Madrid) who is penalised for an offensive foul. Good decision by the referee.",
+            "identified": "[REFEREE] blows his whistle and it's [PLAYER_db8mbBaO] ([TEAM_]) who is penalised for an offensive foul. Good decision by the referee.",
+            "anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee.",
+            "visibility": "shown",
+            "position": "1741000",
+            "event_aligned_gameTime": "2 - 29:00",
+            "contrastive_aligned_gameTime": "2 - 28:41"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:37",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+            "identified": "[PLAYER_CloE7jjr] ([TEAM_]) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+            "anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+            "visibility": "shown",
+            "position": "1717000",
+            "event_aligned_gameTime": "2 - 28:37",
+            "contrastive_aligned_gameTime": "2 - 28:27"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 28:04",
+            "label": "",
+            "description": "Isco (Real Madrid) makes a good run inside the box to meet a precise cross. He latches on to it and shoots, but the goalkeeper pulls off an excellent save. Real Madrid force a corner. They send men into the box.",
+            "identified": "[PLAYER_ULLmpdEb] ([TEAM_]) makes a good run inside the box to meet a precise cross. He latches on to it and shoots, but the goalkeeper pulls off an excellent save. [TEAM_] force a corner. They send men into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a good run inside the box to meet a precise cross. He latches on to it and shoots, but the goalkeeper pulls off an excellent save. [TEAM] force a corner. They send men into the box.",
+            "visibility": "shown",
+            "position": "1684000",
+            "event_aligned_gameTime": "2 - 28:00",
+            "contrastive_aligned_gameTime": "2 - 28:24"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 26:47",
+            "label": "funfact",
+            "description": "13:16 \u2013 this is the total number of shots produced by both teams.",
+            "identified": "13:16 \u2013 this is the total number of shots produced by both teams.",
+            "anonymized": "13:16 \u2013 this is the total number of shots produced by both teams.",
+            "visibility": "shown",
+            "position": "1607000",
+            "event_aligned_gameTime": "2 - 26:30",
+            "contrastive_aligned_gameTime": "2 - 25:56"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 23:33",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Edinson Cavani (Paris SG) heads on.",
+            "identified": "The linesman raises his flag for offside before [PLAYER_Qgx2trzH] ([TEAM_]) heads on.",
+            "anonymized": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on.",
+            "visibility": "shown",
+            "position": "1413000",
+            "event_aligned_gameTime": "2 - 23:30",
+            "contrastive_aligned_gameTime": "2 - 24:07"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 22:09",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Paris SG) is adjudged offside.",
+            "identified": "[PLAYER_AiH2zDve] ([TEAM_]) is adjudged offside.",
+            "anonymized": "[PLAYER] ([TEAM]) is adjudged offside.",
+            "visibility": "shown",
+            "position": "1329000",
+            "event_aligned_gameTime": "2 - 21:50",
+            "contrastive_aligned_gameTime": "2 - 21:36"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 21:18",
+            "label": "y-card",
+            "description": "Yellow card! It's like David Luiz (Paris SG) was asking for a caution with his behaviour. Mark Clattenburg agrees and books him.",
+            "identified": "Yellow card! It's like [PLAYER_G04qmSno] ([TEAM_]) was asking for a caution with his behaviour. [REFEREE] agrees and books him.",
+            "anonymized": "Yellow card! It's like [PLAYER] ([TEAM]) was asking for a caution with his behaviour. [REFEREE] agrees and books him.",
+            "visibility": "shown",
+            "position": "1278000",
+            "event_aligned_gameTime": "2 - 21:00",
+            "contrastive_aligned_gameTime": "2 - 21:46"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:38",
+            "label": "corner",
+            "description": "Angel Di Maria (Paris SG) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "identified": "[PLAYER_SISkkDSQ] ([TEAM_]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "visibility": "shown",
+            "position": "1238000",
+            "event_aligned_gameTime": "2 - 20:30",
+            "contrastive_aligned_gameTime": "2 - 20:22"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:27",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) tries to send the ball in front of the goal, but the opposition's defence averts the threat. Paris SG will have a chance to score from a corner kick.",
+            "identified": "[PLAYER_SISkkDSQ] ([TEAM_]) tries to send the ball in front of the goal, but the opposition's defence averts the threat. [TEAM_] will have a chance to score from a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to send the ball in front of the goal, but the opposition's defence averts the threat. [TEAM] will have a chance to score from a corner kick.",
+            "visibility": "shown",
+            "position": "1227000",
+            "event_aligned_gameTime": "2 - 20:20",
+            "contrastive_aligned_gameTime": "2 - 20:32"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:48",
+            "label": "",
+            "description": "Isco (Real Madrid) receives a lofted pass and is given time inside the box to unleash a shot goalwards. The ball is directed towards the middle of the goal, but it lacks power and Kevin Trapp pulls off a comfortable save to thwart the effort.",
+            "identified": "[PLAYER_ULLmpdEb] ([TEAM_]) receives a lofted pass and is given time inside the box to unleash a shot goalwards. The ball is directed towards the middle of the goal, but it lacks power and [PLAYER_QqugudYS] pulls off a comfortable save to thwart the effort.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a lofted pass and is given time inside the box to unleash a shot goalwards. The ball is directed towards the middle of the goal, but it lacks power and [PLAYER] pulls off a comfortable save to thwart the effort.",
+            "visibility": "shown",
+            "position": "1188000",
+            "event_aligned_gameTime": "2 - 19:10",
+            "contrastive_aligned_gameTime": "2 - 18:17"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:51",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) is going to send the ball in from the free kick.",
+            "identified": "[PLAYER_CloE7jjr] ([TEAM_]) is going to send the ball in from the free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) is going to send the ball in from the free kick.",
+            "visibility": "shown",
+            "position": "1131000",
+            "event_aligned_gameTime": "2 - 18:50",
+            "contrastive_aligned_gameTime": "2 - 18:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:08",
+            "label": "",
+            "description": "Mark Clattenburg blows his whistle after Maxwell (Paris SG) brings one of his opponents down with a strong tackle. A free kick is awarded to Real Madrid.",
+            "identified": "[REFEREE] blows his whistle after [PLAYER_lxTgxZ9r] ([TEAM_]) brings one of his opponents down with a strong tackle. A free kick is awarded to [TEAM_].",
+            "anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle. A free kick is awarded to [TEAM].",
+            "visibility": "shown",
+            "position": "1088000",
+            "event_aligned_gameTime": "2 - 18:00",
+            "contrastive_aligned_gameTime": "2 - 17:58"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 17:27",
+            "label": "substitution",
+            "description": "Rafael Benitez has decided to make a change. Lucas (Real Madrid) replaces Jese.",
+            "identified": "[COACH_4fN6car1] has decided to make a change. [PLAYER_EcmXnnoo] ([TEAM_]) replaces [PLAYER_6BdSXunk].",
+            "anonymized": "[COACH] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+            "visibility": "shown",
+            "position": "1047000",
+            "event_aligned_gameTime": "2 - 17:00",
+            "contrastive_aligned_gameTime": "2 - 17:05"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:05",
+            "label": "",
+            "description": "Jese (Real Madrid) skips past his man but can't keep the ball in play.",
+            "identified": "[PLAYER_6BdSXunk] ([TEAM_]) skips past his man but can't keep the ball in play.",
+            "anonymized": "[PLAYER] ([TEAM]) skips past his man but can't keep the ball in play.",
+            "visibility": "shown",
+            "position": "905000",
+            "event_aligned_gameTime": "2 - 14:30",
+            "contrastive_aligned_gameTime": "2 - 14:22"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 14:24",
+            "label": "",
+            "description": "A pass into the penalty area from Zlatan Ibrahimovic (Paris SG) is intercepted by the defence.",
+            "identified": "A pass into the penalty area from [PLAYER_AiH2zDve] ([TEAM_]) is intercepted by the defence.",
+            "anonymized": "A pass into the penalty area from [PLAYER] ([TEAM]) is intercepted by the defence.",
+            "visibility": "shown",
+            "position": "864000",
+            "event_aligned_gameTime": "2 - 14:10",
+            "contrastive_aligned_gameTime": "2 - 14:53"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:16",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) takes the corner but fails to find any of his teammates.",
+            "identified": "[PLAYER_CloE7jjr] ([TEAM_]) takes the corner but fails to find any of his teammates.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates.",
+            "visibility": "shown",
+            "position": "676000",
+            "event_aligned_gameTime": "2 - 11:00",
+            "contrastive_aligned_gameTime": "2 - 11:19"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 11:05",
+            "label": "",
+            "description": "Isco (Real Madrid) picks up a pass, lines up a shot and strikes from 19 metres out, but Kevin Trapp thwarts the effort which is headed to the roof of the net. The referee signals a corner kick to Real Madrid.",
+            "identified": "[PLAYER_ULLmpdEb] ([TEAM_]) picks up a pass, lines up a shot and strikes from 19 metres out, but [PLAYER_QqugudYS] thwarts the effort which is headed to the roof of the net. The referee signals a corner kick to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) picks up a pass, lines up a shot and strikes from 19 metres out, but [PLAYER] thwarts the effort which is headed to the roof of the net. The referee signals a corner kick to [TEAM].",
+            "visibility": "shown",
+            "position": "665000",
+            "event_aligned_gameTime": "2 - 10:30",
+            "contrastive_aligned_gameTime": "2 - 10:22"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:00",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Paris SG) has a go from a long way out but it sails way over.",
+            "identified": "[PLAYER_AiH2zDve] ([TEAM_]) has a go from a long way out but it sails way over.",
+            "anonymized": "[PLAYER] ([TEAM]) has a go from a long way out but it sails way over.",
+            "visibility": "shown",
+            "position": "540000",
+            "event_aligned_gameTime": "2 - 08:30",
+            "contrastive_aligned_gameTime": "2 - 09:04"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:41",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",
+            "identified": "[PLAYER_SISkkDSQ] ([TEAM_]) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",
+            "visibility": "shown",
+            "position": "461000",
+            "event_aligned_gameTime": "2 - 07:20",
+            "contrastive_aligned_gameTime": "2 - 06:27"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:19",
+            "label": "",
+            "description": "Maxwell (Paris SG) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",
+            "identified": "[PLAYER_lxTgxZ9r] ([TEAM_]) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",
+            "visibility": "shown",
+            "position": "439000",
+            "event_aligned_gameTime": "2 - 07:00",
+            "contrastive_aligned_gameTime": "2 - 06:27"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 06:26",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) is having a lively performance. He is causing problems and wanting the ball at every opportunity.",
+            "identified": "[PLAYER_SISkkDSQ] ([TEAM_]) is having a lively performance. He is causing problems and wanting the ball at every opportunity.",
+            "anonymized": "[PLAYER] ([TEAM]) is having a lively performance. He is causing problems and wanting the ball at every opportunity.",
+            "visibility": "shown",
+            "position": "386000",
+            "event_aligned_gameTime": "2 - 06:30",
+            "contrastive_aligned_gameTime": "2 - 06:30"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 04:40",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) attempted to pick out a free teammate inside the box, but Keylor Navas comes off the line to clear the ball away.",
+            "identified": "[PLAYER_SISkkDSQ] ([TEAM_]) attempted to pick out a free teammate inside the box, but [PLAYER_dQEusiKl] comes off the line to clear the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away.",
+            "visibility": "shown",
+            "position": "280000",
+            "event_aligned_gameTime": "2 - 04:40",
+            "contrastive_aligned_gameTime": "2 - 04:22"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:21",
+            "label": "",
+            "description": "The keeper doesn't have to worry about this one. Cristiano Ronaldo (Real Madrid) sacrificed accuracy for power, and thus his attempt went well over the bar.",
+            "identified": "The keeper doesn't have to worry about this one. [PLAYER_WGOY4FSt] ([TEAM_]) sacrificed accuracy for power, and thus his attempt went well over the bar.",
+            "anonymized": "The keeper doesn't have to worry about this one. [PLAYER] ([TEAM]) sacrificed accuracy for power, and thus his attempt went well over the bar.",
+            "visibility": "shown",
+            "position": "201000",
+            "event_aligned_gameTime": "2 - 03:20",
+            "contrastive_aligned_gameTime": "2 - 03:20"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:48",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) receives a lofted cross on the edge of the box and sends a shot to the middle of the goal. The goalkeeper had no trouble saving this one.",
+            "identified": "[PLAYER_SISkkDSQ] ([TEAM_]) receives a lofted cross on the edge of the box and sends a shot to the middle of the goal. The goalkeeper had no trouble saving this one.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a lofted cross on the edge of the box and sends a shot to the middle of the goal. The goalkeeper had no trouble saving this one.",
+            "visibility": "shown",
+            "position": "168000",
+            "event_aligned_gameTime": "2 - 02:48",
+            "contrastive_aligned_gameTime": "2 - 02:46"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:34",
+            "label": "",
+            "description": "Casemiro (Real Madrid) was trying to get to the ball but clattered into the legs of the opponent as well. Mark Clattenburg blows his whistle for an infringement.",
+            "identified": "[PLAYER_Ukeq3c0b] ([TEAM_]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement.",
+            "anonymized": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement.",
+            "visibility": "shown",
+            "position": "154000",
+            "event_aligned_gameTime": "2 - 02:30",
+            "contrastive_aligned_gameTime": "2 - 02:57"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Referee Mark Clattenburg blows his whistle to start the second half.",
+            "identified": "Referee [REFEREE] blows his whistle to start the second half.",
+            "anonymized": "Referee [REFEREE] blows his whistle to start the second half.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:20",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 48:59",
+            "label": "",
+            "description": "There has been no time for the supporters to get bored during an eventful opening 45 minutes. Both teams provided some breathtaking moments. The away side are dominant and dictating the tempo of the game, mainly because of their higher activity and more accurate passing. Both sides are using the same slow build-up play tactic.",
+            "identified": "There has been no time for the supporters to get bored during an eventful opening 45 minutes. Both teams provided some breathtaking moments. The away side are dominant and dictating the tempo of the game, mainly because of their higher activity and more accurate passing. Both sides are using the same slow build-up play tactic.",
+            "anonymized": "There has been no time for the supporters to get bored during an eventful opening 45 minutes. Both teams provided some breathtaking moments. The away side are dominant and dictating the tempo of the game, mainly because of their higher activity and more accurate passing. Both sides are using the same slow build-up play tactic.",
+            "visibility": "shown",
+            "position": "2939000",
+            "event_aligned_gameTime": "1 - 48:59",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 48:58",
+            "label": "whistle",
+            "description": "The end of the first half.",
+            "identified": "The end of the first half.",
+            "anonymized": "The end of the first half.",
+            "visibility": "shown",
+            "position": "2938000",
+            "event_aligned_gameTime": "1 - 48:58",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 48:39",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "identified": "[PLAYER_Qgx2trzH] ([TEAM_]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "anonymized": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "visibility": "shown",
+            "position": "2919000",
+            "event_aligned_gameTime": "1 - 48:39",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 48:17",
+            "label": "corner",
+            "description": "The resulting corner, taken by Isco (Real Madrid), comes to nothing.",
+            "identified": "The resulting corner, taken by [PLAYER_ULLmpdEb] ([TEAM_]), comes to nothing.",
+            "anonymized": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing.",
+            "visibility": "shown",
+            "position": "2897000",
+            "event_aligned_gameTime": "1 - 48:17",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 47:56",
+            "label": "",
+            "description": "Isco (Real Madrid) picks up a precise pass deep inside the box, but his strike is saved by the keeper. Real Madrid have been awarded a corner kick.",
+            "identified": "[PLAYER_ULLmpdEb] ([TEAM_]) picks up a precise pass deep inside the box, but his strike is saved by the keeper. [TEAM_] have been awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) picks up a precise pass deep inside the box, but his strike is saved by the keeper. [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "2876000",
+            "event_aligned_gameTime": "1 - 47:56",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 47:20",
+            "label": "",
+            "description": "Blaise Matuidi (Paris SG) gives away a foul for a clumsy challenge. Referee Mark Clattenburg saw the whole situation.",
+            "identified": "[PLAYER_CAWma17n] ([TEAM_]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation.",
+            "anonymized": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation.",
+            "visibility": "shown",
+            "position": "2840000",
+            "event_aligned_gameTime": "1 - 47:20",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:00",
+            "label": "time",
+            "description": "4 additional min. will be played.",
+            "identified": "4 additional min. will be played.",
+            "anonymized": "4 additional min. will be played.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "2 - 00:20",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 44:25",
+            "label": "y-card",
+            "description": "Serge Aurier (Paris SG) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision.",
+            "identified": "[PLAYER_6iUXQVdq] ([TEAM_]) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision.",
+            "anonymized": "[PLAYER] ([TEAM]) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision.",
+            "visibility": "shown",
+            "position": "2665000",
+            "event_aligned_gameTime": "1 - 44:10",
+            "contrastive_aligned_gameTime": "1 - 43:49"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:56",
+            "label": "",
+            "description": "The linesman raises his flag. Edinson Cavani (Paris SG) is adjudged offside.",
+            "identified": "The linesman raises his flag. [PLAYER_Qgx2trzH] ([TEAM_]) is adjudged offside.",
+            "anonymized": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside.",
+            "visibility": "shown",
+            "position": "2636000",
+            "event_aligned_gameTime": "1 - 43:40",
+            "contrastive_aligned_gameTime": "1 - 42:42"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 43:27",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Paris SG) wins himself enough space to meet the resulting corner and fires the ball at goal, but the keeper does well to stop his effort.",
+            "identified": "[PLAYER_AiH2zDve] ([TEAM_]) wins himself enough space to meet the resulting corner and fires the ball at goal, but the keeper does well to stop his effort.",
+            "anonymized": "[PLAYER] ([TEAM]) wins himself enough space to meet the resulting corner and fires the ball at goal, but the keeper does well to stop his effort.",
+            "visibility": "shown",
+            "position": "2607000",
+            "event_aligned_gameTime": "1 - 43:20",
+            "contrastive_aligned_gameTime": "1 - 43:15"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:03",
+            "label": "corner",
+            "description": "Angel Di Maria (Paris SG) will deliver the ball into the penalty box from a corner kick.",
+            "identified": "[PLAYER_SISkkDSQ] ([TEAM_]) will deliver the ball into the penalty box from a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+            "visibility": "shown",
+            "position": "2583000",
+            "event_aligned_gameTime": "1 - 43:00",
+            "contrastive_aligned_gameTime": "1 - 43:07"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:45",
+            "label": "",
+            "description": "Serge Aurier (Paris SG) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. The ball goes out of play. Paris SG are awarded a corner kick.",
+            "identified": "[PLAYER_6iUXQVdq] ([TEAM_]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. The ball goes out of play. [TEAM_] are awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "2565000",
+            "event_aligned_gameTime": "1 - 42:30",
+            "contrastive_aligned_gameTime": "1 - 43:18"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 39:39",
+            "label": "",
+            "description": "Maxwell (Paris SG) plays in a hopeful cross, but it doesn't find its way to any of the attacking players.",
+            "identified": "[PLAYER_lxTgxZ9r] ([TEAM_]) plays in a hopeful cross, but it doesn't find its way to any of the attacking players.",
+            "anonymized": "[PLAYER] ([TEAM]) plays in a hopeful cross, but it doesn't find its way to any of the attacking players.",
+            "visibility": "shown",
+            "position": "2379000",
+            "event_aligned_gameTime": "1 - 39:10",
+            "contrastive_aligned_gameTime": "1 - 38:24"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 38:52",
+            "label": "",
+            "description": "Adrien Rabiot (Paris SG) goes for goal but he directs his effort just wide of the left post.",
+            "identified": "[PLAYER_l08EAP2Q] ([TEAM_]) goes for goal but he directs his effort just wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) goes for goal but he directs his effort just wide of the left post.",
+            "visibility": "shown",
+            "position": "2332000",
+            "event_aligned_gameTime": "1 - 38:50",
+            "contrastive_aligned_gameTime": "1 - 38:28"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:02",
+            "label": "",
+            "description": "Flag goes up against Zlatan Ibrahimovic (Paris SG) and the referee blows his whistle for offside.",
+            "identified": "Flag goes up against [PLAYER_AiH2zDve] ([TEAM_]) and the referee blows his whistle for offside.",
+            "anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside.",
+            "visibility": "shown",
+            "position": "2222000",
+            "event_aligned_gameTime": "1 - 36:50",
+            "contrastive_aligned_gameTime": "1 - 37:29"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 36:50",
+            "label": "",
+            "description": "Good touch by Adrien Rabiot (Paris SG) as he latched on to an accurate pass before attempting to threaten the goalkeeper with his long-range shot. Unluckily for him, his attempt only rattles the left post.",
+            "identified": "Good touch by [PLAYER_l08EAP2Q] ([TEAM_]) as he latched on to an accurate pass before attempting to threaten the goalkeeper with his long-range shot. Unluckily for him, his attempt only rattles the left post.",
+            "anonymized": "Good touch by [PLAYER] ([TEAM]) as he latched on to an accurate pass before attempting to threaten the goalkeeper with his long-range shot. Unluckily for him, his attempt only rattles the left post.",
+            "visibility": "shown",
+            "position": "2210000",
+            "event_aligned_gameTime": "1 - 36:30",
+            "contrastive_aligned_gameTime": "1 - 36:59"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 34:56",
+            "label": "soccer-ball",
+            "description": "Nacho (Real Madrid) picks up a rebound and scores.",
+            "identified": "[PLAYER_8Wp8ZCLG] ([TEAM_]) picks up a rebound and scores.",
+            "anonymized": "[PLAYER] ([TEAM]) picks up a rebound and scores.",
+            "visibility": "shown",
+            "position": "2096000",
+            "event_aligned_gameTime": "1 - 34:56",
+            "contrastive_aligned_gameTime": "1 - 34:32"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 34:55",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) hammers the ball towards goal from long-range, but one of the defenders reacts brilliantly to block the shot.",
+            "identified": "[PLAYER_CloE7jjr] ([TEAM_]) hammers the ball towards goal from long-range, but one of the defenders reacts brilliantly to block the shot.",
+            "anonymized": "[PLAYER] ([TEAM]) hammers the ball towards goal from long-range, but one of the defenders reacts brilliantly to block the shot.",
+            "visibility": "shown",
+            "position": "2095000",
+            "event_aligned_gameTime": "1 - 34:55",
+            "contrastive_aligned_gameTime": "1 - 34:32"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 32:19",
+            "label": "substitution",
+            "description": "Marcelo just cannot continue due to injury and has to be substituted. Nacho (Real Madrid) replaces him.",
+            "identified": "[PLAYER_zmAm2AEH] just cannot continue due to injury and has to be substituted. [PLAYER_8Wp8ZCLG] ([TEAM_]) replaces him.",
+            "anonymized": "[PLAYER] just cannot continue due to injury and has to be substituted. [PLAYER] ([TEAM]) replaces him.",
+            "visibility": "shown",
+            "position": "1939000",
+            "event_aligned_gameTime": "1 - 31:20",
+            "contrastive_aligned_gameTime": "1 - 30:46"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 31:16",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Paris SG) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "identified": "[PLAYER_AiH2zDve] ([TEAM_]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "visibility": "shown",
+            "position": "1876000",
+            "event_aligned_gameTime": "1 - 31:16",
+            "contrastive_aligned_gameTime": "1 - 31:27"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 29:47",
+            "label": "",
+            "description": "Half-chance! Serge Aurier (Paris SG) plays a pass into the box, but Keylor Navas reacts well to snuff out the attack.",
+            "identified": "Half-chance! [PLAYER_6iUXQVdq] ([TEAM_]) plays a pass into the box, but [PLAYER_dQEusiKl] reacts well to snuff out the attack.",
+            "anonymized": "Half-chance! [PLAYER] ([TEAM]) plays a pass into the box, but [PLAYER] reacts well to snuff out the attack.",
+            "visibility": "shown",
+            "position": "1787000",
+            "event_aligned_gameTime": "1 - 29:40",
+            "contrastive_aligned_gameTime": "1 - 29:45"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 28:36",
+            "label": "",
+            "description": "The free kick from long distance is taken by Zlatan Ibrahimovic (Paris SG), who fires in a direct effort just wide of the right post. What a chance!",
+            "identified": "The free kick from long distance is taken by [PLAYER_AiH2zDve] ([TEAM_]), who fires in a direct effort just wide of the right post. What a chance!",
+            "anonymized": "The free kick from long distance is taken by [PLAYER] ([TEAM]), who fires in a direct effort just wide of the right post. What a chance!",
+            "visibility": "shown",
+            "position": "1716000",
+            "event_aligned_gameTime": "1 - 28:40",
+            "contrastive_aligned_gameTime": "1 - 28:40"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:49",
+            "label": "",
+            "description": "The players claim that Sergio Ramos (Real Madrid) handled the ball and it seems they are right. Paris SG have a free kick.",
+            "identified": "The players claim that [PLAYER_db8mbBaO] ([TEAM_]) handled the ball and it seems they are right. [TEAM_] have a free kick.",
+            "anonymized": "The players claim that [PLAYER] ([TEAM]) handled the ball and it seems they are right. [TEAM] have a free kick.",
+            "visibility": "shown",
+            "position": "1669000",
+            "event_aligned_gameTime": "1 - 27:40",
+            "contrastive_aligned_gameTime": "1 - 28:34"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 25:34",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) took the direct free kick from distance, but his attempt is well saved by the goalkeeper.",
+            "identified": "[PLAYER_WGOY4FSt] ([TEAM_]) took the direct free kick from distance, but his attempt is well saved by the goalkeeper.",
+            "anonymized": "[PLAYER] ([TEAM]) took the direct free kick from distance, but his attempt is well saved by the goalkeeper.",
+            "visibility": "shown",
+            "position": "1534000",
+            "event_aligned_gameTime": "1 - 25:30",
+            "contrastive_aligned_gameTime": "1 - 24:59"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:53",
+            "label": "",
+            "description": "Adrien Rabiot (Paris SG) commits a rough foul. Mark Clattenburg stops the game and makes a call. Real Madrid earn a free kick.",
+            "identified": "[PLAYER_l08EAP2Q] ([TEAM_]) commits a rough foul. [REFEREE] stops the game and makes a call. [TEAM_] earn a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call. [TEAM] earn a free kick.",
+            "visibility": "shown",
+            "position": "1493000",
+            "event_aligned_gameTime": "1 - 24:50",
+            "contrastive_aligned_gameTime": "1 - 24:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:21",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) collects a pass and has an effort from 20 metres out, but it flies just wide of the right post.",
+            "identified": "[PLAYER_SISkkDSQ] ([TEAM_]) collects a pass and has an effort from 20 metres out, but it flies just wide of the right post.",
+            "anonymized": "[PLAYER] ([TEAM]) collects a pass and has an effort from 20 metres out, but it flies just wide of the right post.",
+            "visibility": "shown",
+            "position": "1461000",
+            "event_aligned_gameTime": "1 - 24:20",
+            "contrastive_aligned_gameTime": "1 - 23:42"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:23",
+            "label": "",
+            "description": "Serge Aurier (Paris SG) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "identified": "[PLAYER_6iUXQVdq] ([TEAM_]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "anonymized": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "visibility": "shown",
+            "position": "1403000",
+            "event_aligned_gameTime": "1 - 23:20",
+            "contrastive_aligned_gameTime": "1 - 23:20"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 22:04",
+            "label": "",
+            "description": "Good team movement sets up Zlatan Ibrahimovic (Paris SG) on the edge of the box, but he slices the ball narrowly wide of the right post.",
+            "identified": "Good team movement sets up [PLAYER_AiH2zDve] ([TEAM_]) on the edge of the box, but he slices the ball narrowly wide of the right post.",
+            "anonymized": "Good team movement sets up [PLAYER] ([TEAM]) on the edge of the box, but he slices the ball narrowly wide of the right post.",
+            "visibility": "shown",
+            "position": "1324000",
+            "event_aligned_gameTime": "1 - 22:00",
+            "contrastive_aligned_gameTime": "1 - 21:42"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 20:10",
+            "label": "",
+            "description": "Blaise Matuidi (Paris SG) decided to shoot after receiving a sweet pass. The ball went to the middle of the goal, but Keylor Navas made an easy save.",
+            "identified": "[PLAYER_CAWma17n] ([TEAM_]) decided to shoot after receiving a sweet pass. The ball went to the middle of the goal, but [PLAYER_dQEusiKl] made an easy save.",
+            "anonymized": "[PLAYER] ([TEAM]) decided to shoot after receiving a sweet pass. The ball went to the middle of the goal, but [PLAYER] made an easy save.",
+            "visibility": "shown",
+            "position": "1210000",
+            "event_aligned_gameTime": "1 - 19:50",
+            "contrastive_aligned_gameTime": "1 - 20:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 19:05",
+            "label": "",
+            "description": "The foul by Blaise Matuidi (Paris SG) was seen by Mark Clattenburg who didn't hesitate to blow the whistle.",
+            "identified": "The foul by [PLAYER_CAWma17n] ([TEAM_]) was seen by [REFEREE] who didn't hesitate to blow the whistle.",
+            "anonymized": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle.",
+            "visibility": "shown",
+            "position": "1145000",
+            "event_aligned_gameTime": "1 - 19:05",
+            "contrastive_aligned_gameTime": "1 - 19:36"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 16:20",
+            "label": "substitution",
+            "description": "Laurent Blanc is forced to make an unplanned substitution as Marco Verratti suffers an injury and Adrien Rabiot (Paris SG) comes on.",
+            "identified": "[COACH_697mbZk2] is forced to make an unplanned substitution as [PLAYER_fmn5agXI] suffers an injury and [PLAYER_l08EAP2Q] ([TEAM_]) comes on.",
+            "anonymized": "[COACH] is forced to make an unplanned substitution as [PLAYER] suffers an injury and [PLAYER] ([TEAM]) comes on.",
+            "visibility": "shown",
+            "position": "980000",
+            "event_aligned_gameTime": "1 - 16:40",
+            "contrastive_aligned_gameTime": "1 - 15:40"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:27",
+            "label": "",
+            "description": "Isco (Real Madrid) is moving okay again after that injury scare.",
+            "identified": "[PLAYER_ULLmpdEb] ([TEAM_]) is moving okay again after that injury scare.",
+            "anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare.",
+            "visibility": "shown",
+            "position": "927000",
+            "event_aligned_gameTime": "1 - 15:10",
+            "contrastive_aligned_gameTime": "1 - 16:01"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:59",
+            "label": "",
+            "description": "Marco Verratti (Paris SG) seems to be alright and is okay to carry on.",
+            "identified": "[PLAYER_fmn5agXI] ([TEAM_]) seems to be alright and is okay to carry on.",
+            "anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on.",
+            "visibility": "shown",
+            "position": "899000",
+            "event_aligned_gameTime": "1 - 14:00",
+            "contrastive_aligned_gameTime": "1 - 13:06"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 12:55",
+            "label": "injury",
+            "description": "Marco Verratti (Paris SG) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "identified": "[PLAYER_fmn5agXI] ([TEAM_]) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "anonymized": "[PLAYER] ([TEAM]) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "visibility": "shown",
+            "position": "775000",
+            "event_aligned_gameTime": "1 - 12:20",
+            "contrastive_aligned_gameTime": "1 - 13:16"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 12:10",
+            "label": "",
+            "description": "Serge Aurier (Paris SG) is able to continue to play.",
+            "identified": "[PLAYER_6iUXQVdq] ([TEAM_]) is able to continue to play.",
+            "anonymized": "[PLAYER] ([TEAM]) is able to continue to play.",
+            "visibility": "shown",
+            "position": "730000",
+            "event_aligned_gameTime": "1 - 12:10",
+            "contrastive_aligned_gameTime": "1 - 12:28"
+        }
+    ]
+}

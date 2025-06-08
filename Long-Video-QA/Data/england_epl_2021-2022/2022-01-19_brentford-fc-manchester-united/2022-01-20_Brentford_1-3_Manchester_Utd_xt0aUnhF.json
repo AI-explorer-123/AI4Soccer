@@ -1,0 +1,805 @@
+{
+  "match_info": {
+    "timestamp": "2022-01-20 04:00:00",
+    "score": "1 - 3",
+    "home_team": "Brentford",
+    "away_team": "Manchester Utd",
+    "home_formation": "3 - 5 - 2",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Brentford Community Stadium (London)",
+    "capacity": "17 250",
+    "attendance": "17 094"
+  },
+  "referee_data": {
+    "short_name_country": "Marriner A. (Eng)",
+    "first_name": "Marriner",
+    "abbr_last_name": "A",
+    "country": "Eng",
+    "detected_name": "Andre Marriner"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Frank T.",
+        "players_number": "",
+        "Full Name": "Thomas Frank",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "coach",
+        "Age and Birthdate": "50,  (09.10.1973)",
+        "Market Value": "",
+        "unicode": "va62Pxqi"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Dasilva J.",
+        "players_number": "",
+        "Full Name": "Josh Dasilva",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (23.10.1998)",
+        "Market Value": "€11.4m",
+        "unicode": "6qin1IFT"
+      },
+      {
+        "players_name": "Goode C.",
+        "players_number": "",
+        "Full Name": "Charlie Goode",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (03.08.1995)",
+        "Market Value": "€461k",
+        "unicode": "fFM3SEmG"
+      },
+      {
+        "players_name": "Jeanvier J.",
+        "players_number": "",
+        "Full Name": "Julian Jeanvier",
+        "players_rating": "",
+        "Country": "Guinea",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (31.03.1992)",
+        "Market Value": "€665k",
+        "unicode": "6y5txSic"
+      },
+      {
+        "players_name": "Onyeka F.",
+        "players_number": "",
+        "Full Name": "Frank Onyeka",
+        "players_rating": "",
+        "Country": "Nigeria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (01.01.1998)",
+        "Market Value": "€8.4m",
+        "unicode": "trmcDRt1"
+      },
+      {
+        "players_name": "Raya D.",
+        "players_number": "",
+        "Full Name": "David Raya",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (15.09.1995)",
+        "Market Value": "€34.3m",
+        "unicode": "nkVV0IXb"
+      },
+      {
+        "players_name": "Zanka",
+        "players_number": "",
+        "Full Name": "Zanka",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (23.04.1990)",
+        "Market Value": "€922k",
+        "unicode": "xdpja8Be"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Bech Sorensen M.",
+        "players_number": "29",
+        "Full Name": "Mads Bech Sorensen",
+        "players_rating": 6.3,
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (07.01.1999)",
+        "Market Value": "€2.4m",
+        "unicode": "YX3FTCF6"
+      },
+      {
+        "players_name": "Canos S.",
+        "players_number": "7",
+        "Full Name": "Sergi Canos",
+        "players_rating": 6.1,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (02.02.1997)",
+        "Market Value": "€2.4m",
+        "unicode": "2iri9TaP"
+      },
+      {
+        "players_name": "Janelt V.",
+        "players_number": "27",
+        "Full Name": "Vitaly Janelt",
+        "players_rating": 6.5,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (10.05.1998)",
+        "Market Value": "€21.2m",
+        "unicode": "pSeiTOw5"
+      },
+      {
+        "players_name": "Jansson P. (C)",
+        "players_number": "18",
+        "Full Name": "Pontus Jansson",
+        "players_rating": 6.1,
+        "Country": "Sweden",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (13.02.1991)",
+        "Market Value": "€1.5m",
+        "unicode": "4toh0E9q"
+      },
+      {
+        "players_name": "Jensen M.",
+        "players_number": "8",
+        "Full Name": "Mathias Jensen",
+        "players_rating": 6.9,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (01.01.1996)",
+        "Market Value": "€28.9m",
+        "unicode": "Aijf2AQ6"
+      },
+      {
+        "players_name": "Lossl J. (G)",
+        "players_number": "49",
+        "Full Name": "Jonas Lossl",
+        "players_rating": 5.7,
+        "Country": "Denmark",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "34, (01.02.1989)",
+        "Market Value": "€428k",
+        "unicode": "63jKLoYD"
+      },
+      {
+        "players_name": "Mbeumo B.",
+        "players_number": "19",
+        "Full Name": "Bryan Mbeumo",
+        "players_rating": 6.6,
+        "Country": "Cameroon",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (07.08.1999)",
+        "Market Value": "€38.3m",
+        "unicode": "8KDrOl80"
+      },
+      {
+        "players_name": "Norgaard C.",
+        "players_number": "6",
+        "Full Name": "Christian Norgaard",
+        "players_rating": 7.5,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (10.03.1994)",
+        "Market Value": "€19.9m",
+        "unicode": "E3lsxLi7"
+      },
+      {
+        "players_name": "Pinnock E.",
+        "players_number": "5",
+        "Full Name": "Ethan Pinnock",
+        "players_rating": 7.1,
+        "Country": "Jamaica",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (29.05.1993)",
+        "Market Value": "€14.9m",
+        "unicode": "EsUW9DS3"
+      },
+      {
+        "players_name": "Roerslev Rasmussen M.",
+        "players_number": "30",
+        "Full Name": "Mads Roerslev Rasmussen",
+        "players_rating": 6.3,
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (24.06.1999)",
+        "Market Value": "€7.5m",
+        "unicode": "pp1zpsrr"
+      },
+      {
+        "players_name": "Toney I.",
+        "players_number": "17",
+        "Full Name": "Ivan Toney",
+        "players_rating": 8.0,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (16.03.1996)",
+        "Market Value": "€38.7m",
+        "unicode": "W6A3dA7c"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Baptiste S.",
+        "players_number": "26",
+        "Full Name": "Shandon Baptiste",
+        "players_rating": 6.4,
+        "Country": "Grenada",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (08.04.1998)",
+        "Market Value": "€2.3m",
+        "unicode": "Aa8rSHAA"
+      },
+      {
+        "players_name": "Henry R.",
+        "players_number": "3",
+        "Full Name": "Rico Henry",
+        "players_rating": 6.0,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (08.07.1997)",
+        "Market Value": "€24.5m",
+        "unicode": "tdO4c5vq"
+      },
+      {
+        "players_name": "Wissa Y.",
+        "players_number": "11",
+        "Full Name": "Yoane Wissa",
+        "players_rating": 6.2,
+        "Country": "DR Congo",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (03.09.1996)",
+        "Market Value": "€23.8m",
+        "unicode": "b35gWzB2"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Ajer K.",
+        "players_number": "20",
+        "Full Name": "Kristoffer Ajer",
+        "players_rating": "",
+        "Country": "Norway",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (17.04.1998)",
+        "Market Value": "€17.1m",
+        "unicode": "tK0pMshb"
+      },
+      {
+        "players_name": "Bidstrup M.",
+        "players_number": "28",
+        "Full Name": "Mads Bidstrup",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (25.02.2001)",
+        "Market Value": "€9.1m",
+        "unicode": "xbhlstRe"
+      },
+      {
+        "players_name": "Fernandez A. (G)",
+        "players_number": "40",
+        "Full Name": "Alvaro Fernandez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "25, (13.04.1998)",
+        "Market Value": "€1.9m",
+        "unicode": "tfywn0Ad"
+      },
+      {
+        "players_name": "Forss M.",
+        "players_number": "9",
+        "Full Name": "Marcus Forss",
+        "players_rating": "",
+        "Country": "Finland",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (18.06.1999)",
+        "Market Value": "€2.8m",
+        "unicode": "x45yjzLf"
+      },
+      {
+        "players_name": "Ghoddos S.",
+        "players_number": "14",
+        "Full Name": "Saman Ghoddos",
+        "players_rating": "",
+        "Country": "Iran",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (06.09.1993)",
+        "Market Value": "€1.9m",
+        "unicode": "QkJrONx1"
+      },
+      {
+        "players_name": "Stevens F.",
+        "players_number": "36",
+        "Full Name": "Fin Stevens",
+        "players_rating": "",
+        "Country": "Wales",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (10.04.2003)",
+        "Market Value": "€421k",
+        "unicode": "xAmj9TT7"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Rangnick R.",
+        "players_number": "",
+        "Full Name": "Ralf Rangnick",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "65,  (29.06.1958)",
+        "Market Value": "",
+        "unicode": "4E1uDB0F"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Bailly E.",
+        "players_number": "",
+        "Full Name": "Eric Bailly",
+        "players_rating": "",
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (12.04.1994)",
+        "Market Value": "€3.2m",
+        "unicode": "G8VcNrxU"
+      },
+      {
+        "players_name": "Pogba P.",
+        "players_number": "",
+        "Full Name": "Paul Pogba",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (15.03.1993)",
+        "Market Value": "€13.7m",
+        "unicode": "MTNGv0hT"
+      },
+      {
+        "players_name": "Wan-Bissaka A.",
+        "players_number": "",
+        "Full Name": "Aaron Wan-Bissaka",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (26.11.1997)",
+        "Market Value": "€19.6m",
+        "unicode": "faGmGOOh"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Dalot D.",
+        "players_number": "20",
+        "Full Name": "Diogo Dalot",
+        "players_rating": 7.7,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (18.03.1999)",
+        "Market Value": "€34.7m",
+        "unicode": "rZZKJVOS"
+      },
+      {
+        "players_name": "de Gea D. (G)",
+        "players_number": "1",
+        "Full Name": "David de Gea",
+        "players_rating": 8.2,
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (07.11.1990)",
+        "Market Value": "",
+        "unicode": "d6AEQ6OD"
+      },
+      {
+        "players_name": "Elanga A.",
+        "players_number": "36",
+        "Full Name": "Anthony Elanga",
+        "players_rating": 7.3,
+        "Country": "Sweden",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (27.04.2002)",
+        "Market Value": "€17.6m",
+        "unicode": "dOlRWlZ6"
+      },
+      {
+        "players_name": "Fernandes B. (C)",
+        "players_number": "18",
+        "Full Name": "Bruno Fernandes",
+        "players_rating": 8.7,
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (08.09.1994)",
+        "Market Value": "€77.4m",
+        "unicode": "GYvAMDm2"
+      },
+      {
+        "players_name": "Fred",
+        "players_number": "17",
+        "Full Name": "Fred",
+        "players_rating": 8.6,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (05.03.1993)",
+        "Market Value": "€18.3m",
+        "unicode": "2kuP6src"
+      },
+      {
+        "players_name": "Greenwood M.",
+        "players_number": "11",
+        "Full Name": "Mason Greenwood",
+        "players_rating": 7.5,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (01.10.2001)",
+        "Market Value": "€7.4m",
+        "unicode": "hxe108Jl"
+      },
+      {
+        "players_name": "Lindelof V.",
+        "players_number": "2",
+        "Full Name": "Victor Lindelof",
+        "players_rating": 7.6,
+        "Country": "Sweden",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (17.07.1994)",
+        "Market Value": "€17.4m",
+        "unicode": "OIp0Le1f"
+      },
+      {
+        "players_name": "McTominay S.",
+        "players_number": "39",
+        "Full Name": "Scott McTominay",
+        "players_rating": 8.0,
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (08.12.1996)",
+        "Market Value": "€27.8m",
+        "unicode": "A7S3y397"
+      },
+      {
+        "players_name": "Ronaldo C.",
+        "players_number": "7",
+        "Full Name": "Cristiano Ronaldo",
+        "players_rating": 6.9,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "38, (05.02.1985)",
+        "Market Value": "€15.7m",
+        "unicode": "WGOY4FSt"
+      },
+      {
+        "players_name": "Telles A.",
+        "players_number": "27",
+        "Full Name": "Alex Telles",
+        "players_rating": 7.3,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (15.12.1992)",
+        "Market Value": "€6.7m",
+        "unicode": "G0TATC32"
+      },
+      {
+        "players_name": "Varane R.",
+        "players_number": "19",
+        "Full Name": "Raphael Varane",
+        "players_rating": 7.7,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (25.04.1993)",
+        "Market Value": "€24.1m",
+        "unicode": "t20vQIvC"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Maguire H.",
+        "players_number": "5",
+        "Full Name": "Harry Maguire",
+        "players_rating": 6.1,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (05.03.1993)",
+        "Market Value": "€19.6m",
+        "unicode": "xG8v3YRA"
+      },
+      {
+        "players_name": "Matic N.",
+        "players_number": "31",
+        "Full Name": "Nemanja Matic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (01.08.1988)",
+        "Market Value": "€3.4m",
+        "unicode": "Kty10JVG"
+      },
+      {
+        "players_name": "Rashford M.",
+        "players_number": "10",
+        "Full Name": "Marcus Rashford",
+        "players_rating": 6.9,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (31.10.1997)",
+        "Market Value": "€69.5m",
+        "unicode": "COnT2Lh0"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Heaton T. (G)",
+        "players_number": "22",
+        "Full Name": "Tom Heaton",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (15.04.1986)",
+        "Market Value": "€262k",
+        "unicode": "MoaXS53r"
+      },
+      {
+        "players_name": "Henderson D. (G)",
+        "players_number": "26",
+        "Full Name": "Dean Henderson",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "26, (12.03.1997)",
+        "Market Value": "€11.6m",
+        "unicode": "OpFOJojt"
+      },
+      {
+        "players_name": "Jones P.",
+        "players_number": "4",
+        "Full Name": "Phil Jones",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (21.02.1992)",
+        "Market Value": "",
+        "unicode": "tOqz9FFa"
+      },
+      {
+        "players_name": "Martial A.",
+        "players_number": "9",
+        "Full Name": "Anthony Martial",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (05.12.1995)",
+        "Market Value": "€14.3m",
+        "unicode": "GrS6Vr75"
+      },
+      {
+        "players_name": "Mata J.",
+        "players_number": "8",
+        "Full Name": "Juan Manuel Mata",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (28.04.1988)",
+        "Market Value": "€908k",
+        "unicode": "nHlv2UfS"
+      },
+      {
+        "players_name": "van de Beek D.",
+        "players_number": "34",
+        "Full Name": "Donny van de Beek",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (18.04.1997)",
+        "Market Value": "€8.0m",
+        "unicode": "bs2gvblF"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "08:00",
+      "comments_type": "corner",
+      "comments_text": "Alex Telles (Manchester United) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "08:30",
+      "comments_type": "corner",
+      "comments_text": "Bruno Fernandes (Manchester United) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:28",
+      "comments_type": "corner",
+      "comments_text": "Sergi Canos (Brentford) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. Brentford get a corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. [TEAM] get a corner.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:11",
+      "comments_type": "corner",
+      "comments_text": "Sergi Canos (Brentford) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:53",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Sergi Canos (Brentford) is cleared by the opposition's defence.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "31:10",
+      "comments_type": "corner",
+      "comments_text": "Bruno Fernandes (Manchester United) takes the corner but fails to find any of his teammates.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "32:03",
+      "comments_type": "corner",
+      "comments_text": "Mathias Jensen (Brentford) looks like he will be the one to take the corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to take the corner kick.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "44:40",
+      "comments_type": "corner",
+      "comments_text": "Alex Telles (Manchester United) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "01:40",
+      "comments_type": "corner",
+      "comments_text": "This corner kick is taken with a short pass by Alex Telles (Manchester United).",
+      "comments_text_anonymized": "This corner kick is taken with a short pass by [PLAYER] ([TEAM]).",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "02:10",
+      "comments_type": "corner",
+      "comments_text": "The corner from Alex Telles (Manchester United) is cleared away by the defence.",
+      "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is cleared away by the defence.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "03:54",
+      "comments_type": "corner",
+      "comments_text": "Bruno Fernandes (Manchester United) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "09:14",
+      "comments_type": "goal",
+      "comments_text": "Goal! Anthony Elanga (Manchester United) makes the score 0:1 after burying a close-range header in the right side of the goal after a good run and cross by Fred.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) makes the score 0:1 after burying a close-range header in the right side of the goal after a good run and cross by [PLAYER].",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "12:10",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Bruno Fernandes (Manchester United) is cleared.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:50",
+      "comments_type": "goal",
+      "comments_text": "Goal! Bruno Fernandes puts the ball on a plate for Mason Greenwood (Manchester United), who scores with a simple close-range finish. It's 0:2.",
+      "comments_text_anonymized": "Goal! [PLAYER] puts the ball on a plate for [PLAYER] ([TEAM]), who scores with a simple close-range finish. It's 0:2.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:11",
+      "comments_type": "substitution",
+      "comments_text": "That's the end of the game for Sergi Canos, who is replaced by Rico Henry (Brentford).",
+      "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM]).",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:43",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Vitaly Janelt is going off and Thomas Frank gives the last tactical orders to Shandon Baptiste (Brentford).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:02",
+      "comments_type": "substitution",
+      "comments_text": "We are about to witness a subsitution. Yoane Wissa (Brentford) for Mathias Jensen.",
+      "comments_text_anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER].",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:27",
+      "comments_type": "substitution",
+      "comments_text": "Mason Greenwood goes off the pitch and Marcus Rashford (Manchester United) comes on.",
+      "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:25",
+      "comments_type": "substitution",
+      "comments_text": "Ralf Rangnick has decided to substitute Cristiano Ronaldo and he is replaced by Harry Maguire (Manchester United).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:56",
+      "comments_type": "goal",
+      "comments_text": "Goal! Bruno Fernandes produces a great pass that finds Marcus Rashford (Manchester United) inside the penalty area, who takes advantage of the situation to rifle a shot into the top right corner. 0:3.",
+      "comments_text_anonymized": "Goal! [PLAYER] produces a great pass that finds [PLAYER] ([TEAM]) inside the penalty area, who takes advantage of the situation to rifle a shot into the top right corner. 0:3.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:14",
+      "comments_type": "corner",
+      "comments_text": "Bryan Mbeumo (Brentford) takes the corner kick but the ball only finds the head of an opponent.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:50",
+      "comments_type": "substitution",
+      "comments_text": "Ralf Rangnick is forced to make a change. Scott McTominay is unable to continue due to injury, Nemanja Matic (Manchester United) comes on.",
+      "comments_text_anonymized": "[PLAYER] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:18",
+      "comments_type": "goal",
+      "comments_text": "Goal! Ivan Toney (Brentford) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 1:3.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 1:3.",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:56",
+      "comments_type": "corner",
+      "comments_text": "Alex Telles (Manchester United) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:05",
+      "comments_type": "corner",
+      "comments_text": "Bryan Mbeumo (Brentford) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+      "index": 24
+    }
+  ]
+}

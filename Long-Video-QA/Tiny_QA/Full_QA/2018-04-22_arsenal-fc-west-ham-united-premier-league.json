@@ -1,0 +1,987 @@
+[
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Nacho Monreal",
+      "B. Marko Arnautovic",
+      "C. Aaron Ramsey",
+      "D. Alexandre Lacazette"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 14,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the first goal?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 14,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 14,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who equalized for West Ham?",
+    "choices": [
+      "A. Nacho Monreal",
+      "B. Marko Arnautovic",
+      "C. Aaron Ramsey",
+      "D. Alexandre Lacazette"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      14,
+      19
+    ],
+    "current_event_index": 19,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals up to now?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham",
+      "C. Both teams have scored equally"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      14,
+      19
+    ],
+    "current_event_index": 19,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      14,
+      19
+    ],
+    "current_event_index": 19,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored Arsenal's second goal?",
+    "choices": [
+      "A. Nacho Monreal",
+      "B. Marko Arnautovic",
+      "C. Aaron Ramsey",
+      "D. Alexandre Lacazette"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      14,
+      19,
+      25
+    ],
+    "current_event_index": 25,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals up to now?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham",
+      "C. Both teams have scored equally"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      14,
+      19,
+      25
+    ],
+    "current_event_index": 25,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      14,
+      19,
+      25
+    ],
+    "current_event_index": 25,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored Arsenal's third goal?",
+    "choices": [
+      "A. Nacho Monreal",
+      "B. Marko Arnautovic",
+      "C. Aaron Ramsey",
+      "D. Alexandre Lacazette"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      14,
+      19,
+      25,
+      26
+    ],
+    "current_event_index": 26,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals up to now?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham",
+      "C. Both teams have scored equally"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      14,
+      19,
+      25,
+      26
+    ],
+    "current_event_index": 26,
+    "index": 10,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      14,
+      19,
+      25,
+      26
+    ],
+    "current_event_index": 26,
+    "index": 11,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored Arsenal's fourth goal?",
+    "choices": [
+      "A. Nacho Monreal",
+      "B. Marko Arnautovic",
+      "C. Aaron Ramsey",
+      "D. Alexandre Lacazette"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      14,
+      19,
+      25,
+      26,
+      30
+    ],
+    "current_event_index": 30,
+    "index": 12,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals up to now?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham",
+      "C. Both teams have scored equally"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      14,
+      19,
+      25,
+      26,
+      30
+    ],
+    "current_event_index": 30,
+    "index": 13,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      14,
+      19,
+      25,
+      26,
+      30
+    ],
+    "current_event_index": 30,
+    "index": 14,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      14,
+      19,
+      25,
+      26,
+      30
+    ],
+    "current_event_index": null,
+    "index": 15,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the match?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham",
+      "C. Both teams scored equally"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      14,
+      19,
+      25,
+      26,
+      30
+    ],
+    "current_event_index": null,
+    "index": 16,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player scored the most goals in the match?",
+    "choices": [
+      "A. Nacho Monreal",
+      "B. Marko Arnautovic",
+      "C. Aaron Ramsey",
+      "D. Alexandre Lacazette"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      14,
+      19,
+      25,
+      26,
+      30
+    ],
+    "current_event_index": null,
+    "index": 17,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      19,
+      25,
+      26,
+      30
+    ],
+    "current_event_index": 14,
+    "index": 18,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      19,
+      25,
+      26,
+      30
+    ],
+    "current_event_index": 14,
+    "index": 19,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Nacho Monreal",
+      "B. Marko Arnautovic",
+      "C. Aaron Ramsey",
+      "D. Alexandre Lacazette"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      19
+    ],
+    "current_event_index": 14,
+    "index": 20,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      25,
+      26,
+      30
+    ],
+    "current_event_index": 19,
+    "index": 21,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      25,
+      26,
+      30
+    ],
+    "current_event_index": 19,
+    "index": 22,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Nacho Monreal",
+      "B. Marko Arnautovic",
+      "C. Aaron Ramsey",
+      "D. Alexandre Lacazette"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      25
+    ],
+    "current_event_index": 19,
+    "index": 23,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      26,
+      30
+    ],
+    "current_event_index": 25,
+    "index": 24,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      26,
+      30
+    ],
+    "current_event_index": 25,
+    "index": 25,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Nacho Monreal",
+      "B. Marko Arnautovic",
+      "C. Aaron Ramsey",
+      "D. Alexandre Lacazette"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      26
+    ],
+    "current_event_index": 25,
+    "index": 26,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      30
+    ],
+    "current_event_index": 26,
+    "index": 27,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      30
+    ],
+    "current_event_index": 26,
+    "index": 28,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Nacho Monreal",
+      "B. Marko Arnautovic",
+      "C. Aaron Ramsey",
+      "D. Alexandre Lacazette"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      30
+    ],
+    "current_event_index": 26,
+    "index": 29,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 6,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham",
+      "C. Both teams have the same",
+      "D. Neither team has received any"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 6,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Pablo Zabaleta",
+      "C. Ainsley Maitland-Niles",
+      "D. Shkodran Mustafi"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 6,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      6,
+      12,
+      17,
+      23,
+      28
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham",
+      "C. Both teams have the same",
+      "D. Neither team has received any"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      6,
+      12,
+      17,
+      23,
+      28
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player was involved in the most yellow cards?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Pablo Zabaleta",
+      "C. Ainsley Maitland-Niles",
+      "D. Shkodran Mustafi"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      6,
+      12,
+      17,
+      23,
+      28
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      12,
+      17,
+      23,
+      28
+    ],
+    "current_event_index": 6,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      12,
+      17,
+      23
+    ],
+    "current_event_index": 6,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Pablo Zabaleta",
+      "C. Ainsley Maitland-Niles",
+      "D. Shkodran Mustafi"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 6,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "current_event_index": 5,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham",
+      "C. Both teams have taken the same number",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Joao Mario",
+      "C. Manuel Lanzini",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "current_event_index": 5,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 10",
+      "B. 11",
+      "C. 12",
+      "D. 13"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      8,
+      9,
+      10,
+      11,
+      13,
+      18,
+      20,
+      22,
+      24
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham",
+      "C. Both teams had the same number",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      8,
+      9,
+      10,
+      11,
+      13,
+      18,
+      20,
+      22,
+      24
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Joao Mario",
+      "C. Manuel Lanzini",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      8,
+      9,
+      10,
+      11,
+      13,
+      18,
+      20,
+      22,
+      24
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      8,
+      9,
+      10,
+      11,
+      13,
+      18,
+      20,
+      22,
+      24
+    ],
+    "current_event_index": 5,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Arsenal",
+      "B. West Ham",
+      "C. Both teams are equally likely",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      8,
+      9,
+      10,
+      11,
+      13,
+      18,
+      20,
+      22,
+      24
+    ],
+    "current_event_index": 5,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Joao Mario",
+      "C. Manuel Lanzini",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      8,
+      9,
+      10,
+      11,
+      13,
+      18,
+      20,
+      22,
+      24
+    ],
+    "current_event_index": 5,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

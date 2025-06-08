@@ -1,0 +1,712 @@
+[
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Marko Arnautovic",
+      "B. Manuel Lanzini",
+      "C. Oumar Niasse",
+      "D. Jordan Pickford"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals up to now?",
+    "choices": [
+      "A. West Ham",
+      "B. Everton",
+      "C. Both teams have scored equally",
+      "D. Neither team has scored"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the second goal in the match?",
+    "choices": [
+      "A. Manuel Lanzini",
+      "B. Marko Arnautovic",
+      "C. Oumar Niasse",
+      "D. Jordan Pickford"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 12,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      12
+    ],
+    "current_event_index": 12,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals up to now?",
+    "choices": [
+      "A. West Ham",
+      "B. Everton",
+      "C. Both teams have scored equally",
+      "D. Neither team has scored"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      12
+    ],
+    "current_event_index": 12,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the third goal in the match?",
+    "choices": [
+      "A. Manuel Lanzini",
+      "B. Marko Arnautovic",
+      "C. Oumar Niasse",
+      "D. Jordan Pickford"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 14,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      12,
+      14
+    ],
+    "current_event_index": 14,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals up to now?",
+    "choices": [
+      "A. West Ham",
+      "B. Everton",
+      "C. Both teams have scored equally",
+      "D. Neither team has scored"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      12,
+      14
+    ],
+    "current_event_index": 14,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the fourth goal in the match?",
+    "choices": [
+      "A. Manuel Lanzini",
+      "B. Marko Arnautovic",
+      "C. Oumar Niasse",
+      "D. Jordan Pickford"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      17
+    ],
+    "current_event_index": 17,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      12,
+      14,
+      17
+    ],
+    "current_event_index": 17,
+    "index": 10,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals up to now?",
+    "choices": [
+      "A. West Ham",
+      "B. Everton",
+      "C. Both teams have scored equally",
+      "D. Neither team has scored"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      12,
+      14,
+      17
+    ],
+    "current_event_index": 17,
+    "index": 11,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      12,
+      14,
+      17
+    ],
+    "current_event_index": null,
+    "index": 12,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the match?",
+    "choices": [
+      "A. West Ham",
+      "B. Everton",
+      "C. Both teams scored equally",
+      "D. Neither team scored"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      12,
+      14,
+      17
+    ],
+    "current_event_index": null,
+    "index": 13,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who were all the players involved in goals?",
+    "choices": [
+      "A. Manuel Lanzini, Marko Arnautovic",
+      "B. Manuel Lanzini, Marko Arnautovic, Oumar Niasse",
+      "C. Manuel Lanzini, Oumar Niasse",
+      "D. Marko Arnautovic, Oumar Niasse"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      12,
+      14,
+      17
+    ],
+    "current_event_index": null,
+    "index": 14,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      12,
+      14,
+      17
+    ],
+    "current_event_index": 5,
+    "index": 15,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal?",
+    "choices": [
+      "A. West Ham",
+      "B. Everton",
+      "C. Both teams equally",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      12,
+      17
+    ],
+    "current_event_index": 5,
+    "index": 16,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Manuel Lanzini",
+      "B. Marko Arnautovic",
+      "C. Oumar Niasse",
+      "D. Jordan Pickford"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      12
+    ],
+    "current_event_index": 5,
+    "index": 17,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Everton",
+      "B. Opponent",
+      "C. Both teams have equal",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. Ramiro Mori",
+      "B. Graham Scott",
+      "C. Unknown",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 2,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Everton",
+      "B. Opponent",
+      "C. Both teams have equal",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in yellow cards?",
+    "choices": [
+      "A. Ramiro Mori",
+      "B. Graham Scott",
+      "C. Unknown",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 2,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Everton",
+      "B. Opponent",
+      "C. Both teams",
+      "D. None"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 2,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Ramiro Mori",
+      "B. Unknown",
+      "C. None",
+      "D. Not sure"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 2,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Everton",
+      "B. West Ham",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken any corners"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Tom Davies",
+      "B. Manuel Lanzini",
+      "C. Aaron Cresswell",
+      "D. Joao Mario"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 6",
+      "B. 8",
+      "C. 10",
+      "D. 12"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      4,
+      6,
+      8,
+      9,
+      10,
+      13,
+      15,
+      16,
+      19,
+      22
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Everton",
+      "B. West Ham",
+      "C. Both teams had the same number",
+      "D. Neither team had any corners"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      4,
+      6,
+      8,
+      9,
+      10,
+      13,
+      15,
+      16,
+      19,
+      22
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Tom Davies",
+      "B. Aaron Cresswell",
+      "C. Joao Mario",
+      "D. Manuel Lanzini"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      4,
+      6,
+      8,
+      9,
+      10,
+      13,
+      15,
+      16,
+      19,
+      22
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. It's impossible to tell"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      4,
+      6,
+      8,
+      9,
+      10,
+      13,
+      15,
+      16,
+      19,
+      22
+    ],
+    "current_event_index": 1,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Everton",
+      "B. West Ham",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      4,
+      6
+    ],
+    "current_event_index": 1,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Tom Davies",
+      "B. Aaron Cresswell",
+      "C. Joao Mario",
+      "D. Manuel Lanzini"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 1,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

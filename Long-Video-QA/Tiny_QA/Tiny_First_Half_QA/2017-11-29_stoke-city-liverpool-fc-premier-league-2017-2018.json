@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Which team has scored more goals in the first half up to now?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred so far in the first half?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the first half?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  }
+]

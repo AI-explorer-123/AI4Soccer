@@ -1,0 +1,505 @@
+[
+  {
+    "question": "How many goals have occurred so far in the first half up to the 35:55 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals in the first half up to the 35:55 mark?",
+    "choices": [
+      "A. Arsenal",
+      "B. Opponent",
+      "C. Both teams have scored equally",
+      "D. Neither team has scored"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Shkodran Mustafi",
+      "B. Alexis Sanchez",
+      "C. Mesut Ozil",
+      "D. Alexandre Lacazette"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      7
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the first half?",
+    "choices": [
+      "A. Arsenal",
+      "B. Opponent",
+      "C. Both teams scored equally",
+      "D. Neither team scored"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      7
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who were all the players involved in first half goals?",
+    "choices": [
+      "A. Shkodran Mustafi and Alexis Sanchez",
+      "B. Mesut Ozil and Alexandre Lacazette",
+      "C. Shkodran Mustafi and Mesut Ozil",
+      "D. Alexis Sanchez and Alexandre Lacazette"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      7
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the first half after the 35:55 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 5,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next goal after the 35:55 mark?",
+    "choices": [
+      "A. Arsenal",
+      "B. Opponent",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 5,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal after the 35:55 mark?",
+    "choices": [
+      "A. Alexis Sanchez",
+      "B. Alexandre Lacazette",
+      "C. Mesut Ozil",
+      "D. Shkodran Mustafi"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 5,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far in the first half up to the 31:46 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards in the first half up to the 31:46 mark?",
+    "choices": [
+      "A. Arsenal",
+      "B. Opponent",
+      "C. Both teams have the same",
+      "D. No yellow cards yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who was the first Arsenal player to receive a yellow card in the first half up to the 31:46 mark?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Alexis Sanchez",
+      "C. No Arsenal players booked yet",
+      "D. Unknown"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      4,
+      6
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the first half?",
+    "choices": [
+      "A. Arsenal",
+      "B. Opponent",
+      "C. Both teams had the same",
+      "D. No yellow cards in first half"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      4,
+      6
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which Arsenal players were booked in the first half?",
+    "choices": [
+      "A. Granit Xhaka only",
+      "B. Alexis Sanchez only",
+      "C. Both Granit Xhaka and Alexis Sanchez",
+      "D. No Arsenal players booked"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      4,
+      6
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in the first half after the 31:46 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Two more"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 4,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card after the 31:46 mark?",
+    "choices": [
+      "A. Arsenal",
+      "B. Opponent",
+      "C. Both equally likely",
+      "D. No more yellow cards"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 4,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which Arsenal player is most likely to be involved in the next yellow card after the 31:46 mark?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Alexis Sanchez",
+      "C. Another Arsenal player",
+      "D. No Arsenal players involved"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 4,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 21:17 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 24:30 mark?",
+    "choices": [
+      "A. Arsenal",
+      "B. Opposition",
+      "C. Both teams have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player has taken the most corners in the first half up to the 29:15 mark?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Alexis Sanchez",
+      "C. Both have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 2,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Arsenal",
+      "B. Opposition",
+      "C. Both teams had equal corners",
+      "D. No corners taken"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Alexis Sanchez",
+      "C. Both were involved equally",
+      "D. No corners taken"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      3
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 21:17 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Two more"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      2,
+      3
+    ],
+    "current_event_index": 0,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 24:30 mark?",
+    "choices": [
+      "A. Arsenal",
+      "B. Opposition",
+      "C. Both equally likely",
+      "D. No more corners"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      3
+    ],
+    "current_event_index": 1,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner after the 29:15 mark?",
+    "choices": [
+      "A. Granit Xhaka",
+      "B. Alexis Sanchez",
+      "C. Another player",
+      "D. No more corners"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": 2,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

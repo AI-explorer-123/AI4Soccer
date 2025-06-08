@@ -1,0 +1,523 @@
+[
+  {
+    "question": "Who scored the goal at 19:10 in the 2nd half?",
+    "choices": [
+      "A. Matt Ritchie",
+      "B. Harry Kane",
+      "C. Mohamed Salah",
+      "D. Raheem Sterling"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 6,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team did Matt Ritchie score for?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. Tottenham Hotspur",
+      "C. Liverpool",
+      "D. Manchester City"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 6,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How was Matt Ritchie's goal described?",
+    "choices": [
+      "A. A header from a corner",
+      "B. A long-range strike",
+      "C. A shot into the bottom right corner",
+      "D. A penalty kick"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": 6,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who was involved in the most goals in the match?",
+    "choices": [
+      "A. Matt Ritchie",
+      "B. Harry Kane",
+      "C. Mohamed Salah",
+      "D. Raheem Sterling"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the most goals in the match?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. Tottenham Hotspur",
+      "C. Liverpool",
+      "D. Manchester City"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in the match after the 19:10 mark in the 2nd half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 6,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to score the next goal after the 19:10 mark in the 2nd half?",
+    "choices": [
+      "A. Newcastle Utd",
+      "B. Tottenham Hotspur",
+      "C. Liverpool",
+      "D. Manchester City"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 6,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal after the 19:10 mark in the 2nd half?",
+    "choices": [
+      "A. Matt Ritchie",
+      "B. Harry Kane",
+      "C. Mohamed Salah",
+      "D. Raheem Sterling"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 6,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opponent Team",
+      "C. Both teams have the same",
+      "D. No yellow cards yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. Chris Smalling",
+      "B. Antonio Valencia",
+      "C. Player from Opponent Team",
+      "D. No yellow cards yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      14
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opponent Team",
+      "C. Both teams had the same",
+      "D. No yellow cards in the match"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      14
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in yellow cards?",
+    "choices": [
+      "A. Chris Smalling and Antonio Valencia",
+      "B. Only Chris Smalling",
+      "C. Only Antonio Valencia",
+      "D. No players received yellow cards"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      14
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Two more"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 5,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opponent Team",
+      "C. Both teams equally likely",
+      "D. No more yellow cards"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 5,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Antonio Valencia",
+      "B. Chris Smalling",
+      "C. Player from Opponent Team",
+      "D. No more yellow cards"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 5,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opposition",
+      "C. Both teams have taken equal corners",
+      "D. No corners taken yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Ashley Young",
+      "B. Jesse Lingard",
+      "C. Juan Manuel Mata",
+      "D. Alexis Sanchez"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 5",
+      "B. 7",
+      "C. 9",
+      "D. 11"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      10,
+      11,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opposition",
+      "C. Both teams had equal corners",
+      "D. No corners taken"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      10,
+      11,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Ashley Young",
+      "B. Juan Manuel Mata",
+      "C. Alexis Sanchez",
+      "D. Jesse Lingard"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      10,
+      11,
+      16,
+      17,
+      18
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Cannot be determined"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      10,
+      11,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_event_index": 3,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opposition",
+      "C. Both teams equally likely",
+      "D. No more corners"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      10,
+      11,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_event_index": 3,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Ashley Young",
+      "B. Juan Manuel Mata",
+      "C. Alexis Sanchez",
+      "D. Jesse Lingard"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      10,
+      11,
+      16
+    ],
+    "current_event_index": 3,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

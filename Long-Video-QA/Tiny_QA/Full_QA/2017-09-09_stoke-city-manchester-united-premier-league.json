@@ -1,0 +1,614 @@
+[
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Maxim Choupo-Moting",
+      "B. Marcus Rashford",
+      "C. Romelu Lukaku",
+      "D. Xherdan Shaqiri"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the first goal?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have been scored so far in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the equalizing goal for Manchester United?",
+    "choices": [
+      "A. Maxim Choupo-Moting",
+      "B. Marcus Rashford",
+      "C. Romelu Lukaku",
+      "D. Paul Pogba"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      7,
+      9
+    ],
+    "current_event_index": 9,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had more goals at the end of the first half?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      7,
+      9
+    ],
+    "current_event_index": 9,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals were scored in the first half?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      9
+    ],
+    "current_event_index": 9,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the first goal for Manchester United in the second half?",
+    "choices": [
+      "A. Maxim Choupo-Moting",
+      "B. Marcus Rashford",
+      "C. Romelu Lukaku",
+      "D. Paul Pogba"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      7,
+      9,
+      15
+    ],
+    "current_event_index": 15,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team was leading after Romelu Lukaku's goal?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      7,
+      9,
+      15
+    ],
+    "current_event_index": 15,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals had been scored by the 60th minute?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      9,
+      15
+    ],
+    "current_event_index": 15,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the equalizing goal for Stoke City in the second half?",
+    "choices": [
+      "A. Maxim Choupo-Moting",
+      "B. Marcus Rashford",
+      "C. Romelu Lukaku",
+      "D. Xherdan Shaqiri"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      7,
+      9,
+      15,
+      17
+    ],
+    "current_event_index": 17,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had more goals at the end of the match?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      7,
+      9,
+      15,
+      17
+    ],
+    "current_event_index": 17,
+    "index": 10,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals were scored in total during the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      9,
+      15,
+      17
+    ],
+    "current_event_index": 17,
+    "index": 11,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player scored the most goals in the match?",
+    "choices": [
+      "A. Maxim Choupo-Moting",
+      "B. Marcus Rashford",
+      "C. Romelu Lukaku",
+      "D. Xherdan Shaqiri"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      7,
+      9,
+      15,
+      17
+    ],
+    "current_event_index": null,
+    "index": 12,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored more goals in the match?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      7,
+      9,
+      15,
+      17
+    ],
+    "current_event_index": null,
+    "index": 13,
+    "event_type": "goal"
+  },
+  {
+    "question": "In which half were more goals scored?",
+    "choices": [
+      "A. First half",
+      "B. Second half",
+      "C. Neither half",
+      "D. Both halves"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      9,
+      15,
+      17
+    ],
+    "current_event_index": null,
+    "index": 14,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals after the 60th minute?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      17
+    ],
+    "current_event_index": 15,
+    "index": 15,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to score the next goal after the 60th minute?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      17
+    ],
+    "current_event_index": 15,
+    "index": 16,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to score the next goal after the 60th minute?",
+    "choices": [
+      "A. Maxim Choupo-Moting",
+      "B. Marcus Rashford",
+      "C. Romelu Lukaku",
+      "D. Xherdan Shaqiri"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      17
+    ],
+    "current_event_index": 15,
+    "index": 17,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Xherdan Shaqiri",
+      "B. Henrikh Mkhitaryan",
+      "C. Antonio Valencia",
+      "D. No player took the corner"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 10",
+      "B. 12",
+      "C. 14",
+      "D. 16"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18,
+      19,
+      23,
+      25,
+      26
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Both teams had equal corners",
+      "D. Neither team had corners"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18,
+      19,
+      23,
+      25,
+      26
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Xherdan Shaqiri",
+      "B. Henrikh Mkhitaryan",
+      "C. Juan Manuel Mata",
+      "D. Antonio Valencia"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18,
+      19,
+      23,
+      25,
+      26
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more corner",
+      "D. Two more corners"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18,
+      19,
+      23,
+      25,
+      26
+    ],
+    "current_event_index": 1,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Stoke City",
+      "B. Manchester United",
+      "C. Both teams are equally likely",
+      "D. Neither team will get a corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18,
+      19,
+      23,
+      25,
+      26
+    ],
+    "current_event_index": 1,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Xherdan Shaqiri",
+      "B. Henrikh Mkhitaryan",
+      "C. Juan Manuel Mata",
+      "D. Antonio Valencia"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18,
+      19,
+      23,
+      25,
+      26
+    ],
+    "current_event_index": 1,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

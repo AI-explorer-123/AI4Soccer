@@ -1,0 +1,48 @@
+{
+  "overall": {
+    "correct": 42,
+    "total": 50
+  },
+  "by_event_type": {
+    "corner": {
+      "correct": 10,
+      "total": 12
+    },
+    "goal": {
+      "correct": 16,
+      "total": 20
+    },
+    "yellow_card": {
+      "correct": 16,
+      "total": 18
+    }
+  },
+  "by_question_type": {
+    "past": {
+      "correct": 27,
+      "total": 29
+    },
+    "full": {
+      "correct": 7,
+      "total": 9
+    },
+    "future": {
+      "correct": 8,
+      "total": 12
+    }
+  },
+  "by_question_level": {
+    "match": {
+      "correct": 13,
+      "total": 15
+    },
+    "team": {
+      "correct": 15,
+      "total": 16
+    },
+    "player": {
+      "correct": 14,
+      "total": 19
+    }
+  }
+}

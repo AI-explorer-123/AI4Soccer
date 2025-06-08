@@ -1,0 +1,55 @@
+[
+  {
+    "question": "Which team had the most yellow cards in the first half?",
+    "choices": [
+      "A. Manchester United",
+      "B. Crystal Palace",
+      "C. Both teams had equal cards",
+      "D. No cards were given"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      3
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Andros Townsend",
+      "B. Christian Benteke",
+      "C. David de Gea",
+      "D. None of the above"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 1,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 16:04 mark?",
+    "choices": [
+      "A. Crystal Palace",
+      "B. Opposition Team",
+      "C. Equal",
+      "D. Neither"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 5,
+    "event_type": "corner"
+  }
+]

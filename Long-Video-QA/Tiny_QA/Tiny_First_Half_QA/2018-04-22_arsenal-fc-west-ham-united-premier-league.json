@@ -1,0 +1,48 @@
+[
+  {
+    "question": "Will Granit Xhaka be involved in another yellow card before half-time?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 6,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the first half?",
+    "choices": [
+      "A. Arsenal",
+      "B. Opponent Team",
+      "C. Both",
+      "D. Neither"
+    ],
+    "answer": "A",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      6
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in the first half after Xhaka's booking?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 6,
+    "index": 6,
+    "event_type": "yellow card"
+  }
+]

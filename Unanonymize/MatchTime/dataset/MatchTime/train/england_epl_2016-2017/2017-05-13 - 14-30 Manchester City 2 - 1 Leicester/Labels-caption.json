@@ -1,0 +1,1502 @@
+{
+    "timestamp": "1494675000",
+    "score": "2 - 1",
+    "round": "37",
+    "teams": [
+        "Manchester City",
+        "Leicester"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-1-4-1",
+            "players": [
+                {
+                    "hash": "h2HdUznS",
+                    "name": "Caballero W.",
+                    "captain": "",
+                    "detail_link": "/player/caballero-wilfredo/h2HdUznS/",
+                    "short_name": "Caballero",
+                    "shirt_number": "13",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Wilfredo Caballero"
+                },
+                {
+                    "hash": "xIJOMggd",
+                    "name": "Clichy G.",
+                    "captain": "",
+                    "detail_link": "/player/clichy-gael/xIJOMggd/",
+                    "short_name": "Clichy",
+                    "shirt_number": "22",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Gael Clichy"
+                },
+                {
+                    "hash": "MsPs6OI5",
+                    "name": "De Bruyne K.",
+                    "captain": "",
+                    "detail_link": "/player/de-bruyne-kevin/MsPs6OI5/",
+                    "short_name": "De Bruyne",
+                    "shirt_number": "17",
+                    "country": "Belgium",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "82'",
+                            "description": "Zabaleta P.",
+                            "linked_player_hash": "0WS52psG"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Kevin De Bruyne"
+                },
+                {
+                    "hash": "2JwK7ZfJ",
+                    "name": "Fernandinho",
+                    "captain": "",
+                    "detail_link": "/player/fernandinho/2JwK7ZfJ/",
+                    "short_name": "Fernandinho",
+                    "shirt_number": "25",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Fernandinho"
+                },
+                {
+                    "hash": "viMb6g9n",
+                    "name": "Jesus G.",
+                    "captain": "",
+                    "detail_link": "/player/gabriel-jesus/viMb6g9n/",
+                    "short_name": "Jesus",
+                    "shirt_number": "33",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "90+4'",
+                            "description": "Navas J.",
+                            "linked_player_hash": "hWt5ZIrn"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Gabriel Jesus"
+                },
+                {
+                    "hash": "K6A2elS9",
+                    "name": "Kompany V.",
+                    "captain": "(C)",
+                    "detail_link": "/player/kompany-vincent/K6A2elS9/",
+                    "short_name": "Kompany",
+                    "shirt_number": "4",
+                    "country": "Belgium",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "50' Kompany V. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Vincent Kompany"
+                },
+                {
+                    "hash": "KSBVnX8R",
+                    "name": "Otamendi N.",
+                    "captain": "",
+                    "detail_link": "/player/otamendi-nicolas/KSBVnX8R/",
+                    "short_name": "Otamendi",
+                    "shirt_number": "30",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Nicolas Otamendi"
+                },
+                {
+                    "hash": "GlTyfr8U",
+                    "name": "Sane L.",
+                    "captain": "",
+                    "detail_link": "/player/sane-leroy/GlTyfr8U/",
+                    "short_name": "Sane",
+                    "shirt_number": "19",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "29' Silva D. (Sane L.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Leroy Sane"
+                },
+                {
+                    "hash": "AstVKVP2",
+                    "name": "Silva D.",
+                    "captain": "",
+                    "detail_link": "/player/silva-david/AstVKVP2/",
+                    "short_name": "Silva",
+                    "shirt_number": "21",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "29' Silva D. (Sane L.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "90+9' Silva D. (Foul)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "David Silva"
+                },
+                {
+                    "hash": "pfm9avwi",
+                    "name": "Sterling R.",
+                    "captain": "",
+                    "detail_link": "/player/sterling-raheem/pfm9avwi/",
+                    "short_name": "Sterling",
+                    "shirt_number": "7",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "78'",
+                            "description": "Aguero S.",
+                            "linked_player_hash": "vw8ZV7HC"
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Raheem Sterling"
+                },
+                {
+                    "hash": "v1SiJzyM",
+                    "name": "Toure Y.",
+                    "captain": "",
+                    "detail_link": "/player/toure-yaya/v1SiJzyM/",
+                    "short_name": "Toure",
+                    "shirt_number": "42",
+                    "country": "Ivory Coast",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Yaya Toure"
+                },
+                {
+                    "hash": "vw8ZV7HC",
+                    "name": "Aguero S.",
+                    "captain": "",
+                    "detail_link": "/player/aguero-sergio/vw8ZV7HC/",
+                    "short_name": "Aguero",
+                    "shirt_number": "10",
+                    "country": "Argentina",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "78'",
+                            "description": "Sterling R.",
+                            "linked_player_hash": "pfm9avwi"
+                        },
+                        {
+                            "type": "1",
+                            "time": "84' Aguero S. (Unsportsmanlike conduct)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sergio Aguero"
+                },
+                {
+                    "hash": "rJlzoALP",
+                    "name": "Fernando",
+                    "captain": "",
+                    "detail_link": "/player/fernando/rJlzoALP/",
+                    "short_name": "Fernando",
+                    "shirt_number": "6",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Fernando"
+                },
+                {
+                    "hash": "zaREt4aJ",
+                    "name": "Gunn A.",
+                    "captain": "",
+                    "detail_link": "/player/gunn-angus/zaREt4aJ/",
+                    "short_name": "Gunn",
+                    "shirt_number": "54",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Angus Gunn"
+                },
+                {
+                    "hash": "2XhnQxcG",
+                    "name": "Kolarov A.",
+                    "captain": "",
+                    "detail_link": "/player/kolarov-aleksandar/2XhnQxcG/",
+                    "short_name": "Kolarov",
+                    "shirt_number": "11",
+                    "country": "Serbia",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Aleksandar Kolarov"
+                },
+                {
+                    "hash": "hWt5ZIrn",
+                    "name": "Navas J.",
+                    "captain": "",
+                    "detail_link": "/player/navas-jesus/hWt5ZIrn/",
+                    "short_name": "Navas",
+                    "shirt_number": "15",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "90+4'",
+                            "description": "Jesus G.",
+                            "linked_player_hash": "viMb6g9n"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jesus Navas"
+                },
+                {
+                    "hash": "lvhwvWN7",
+                    "name": "Nolito",
+                    "captain": "",
+                    "detail_link": "/player/nolito/lvhwvWN7/",
+                    "short_name": "Nolito",
+                    "shirt_number": "9",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Nolito"
+                },
+                {
+                    "hash": "0WS52psG",
+                    "name": "Zabaleta P.",
+                    "captain": "",
+                    "detail_link": "/player/zabaleta-pablo/0WS52psG/",
+                    "short_name": "Zabaleta",
+                    "shirt_number": "5",
+                    "country": "Argentina",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "82'",
+                            "description": "De Bruyne K.",
+                            "linked_player_hash": "MsPs6OI5"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Pablo Zabaleta"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "hxNijWrJ",
+                    "name": "Guardiola P.",
+                    "captain": "",
+                    "detail_link": "/player/guardiola-pep/hxNijWrJ/",
+                    "short_name": "Guardiola P.",
+                    "shirt_number": "",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Pep Guardiola"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-4-2",
+            "players": [
+                {
+                    "hash": "fLz0nwDI",
+                    "name": "Albrighton M.",
+                    "captain": "",
+                    "detail_link": "/player/albrighton-marc/fLz0nwDI/",
+                    "short_name": "Albrighton",
+                    "shirt_number": "11",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "42' Okazaki S. (Albrighton M.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "79' Albrighton M. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "80'",
+                            "description": "Gray D.",
+                            "linked_player_hash": "AF2iqxB6"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Marc Albrighton"
+                },
+                {
+                    "hash": "YJDV1hD3",
+                    "name": "Benalouane Y.",
+                    "captain": "",
+                    "detail_link": "/player/benalouane-yohan/YJDV1hD3/",
+                    "short_name": "Benalouane",
+                    "shirt_number": "29",
+                    "country": "Tunisia",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "35' Benalouane Y. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Yohan Benalouane"
+                },
+                {
+                    "hash": "txvuTaNB",
+                    "name": "Chilwell B.",
+                    "captain": "",
+                    "detail_link": "/player/chilwell-benjamin/txvuTaNB/",
+                    "short_name": "Chilwell",
+                    "shirt_number": "3",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Ben Chilwell"
+                },
+                {
+                    "hash": "C6EATqht",
+                    "name": "Fuchs Ch.",
+                    "captain": "",
+                    "detail_link": "/player/fuchs-christian/C6EATqht/",
+                    "short_name": "Fuchs",
+                    "shirt_number": "28",
+                    "country": "Austria",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "72' Fuchs Ch. (Foul)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Christian Fuchs"
+                },
+                {
+                    "hash": "K4XlvQFq",
+                    "name": "King A.",
+                    "captain": "",
+                    "detail_link": "/player/king-andy/K4XlvQFq/",
+                    "short_name": "King",
+                    "shirt_number": "10",
+                    "country": "Wales",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "68'",
+                            "description": "Amartey D.",
+                            "linked_player_hash": "pAWZAt4F"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Andy King"
+                },
+                {
+                    "hash": "AkzHA2kB",
+                    "name": "Mahrez R.",
+                    "captain": "",
+                    "detail_link": "/player/mahrez-riyad/AkzHA2kB/",
+                    "short_name": "Mahrez",
+                    "shirt_number": "26",
+                    "country": "Algeria",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Riyad Mahrez"
+                },
+                {
+                    "hash": "E71XyFGi",
+                    "name": "Ndidi W.",
+                    "captain": "",
+                    "detail_link": "/player/ndidi-wilfred/E71XyFGi/",
+                    "short_name": "Ndidi",
+                    "shirt_number": "25",
+                    "country": "Nigeria",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Wilfred Ndidi"
+                },
+                {
+                    "hash": "U5aDPZ44",
+                    "name": "Okazaki S.",
+                    "captain": "",
+                    "detail_link": "/player/okazaki-shinji/U5aDPZ44/",
+                    "short_name": "Okazaki",
+                    "shirt_number": "20",
+                    "country": "Japan",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "42' Okazaki S. (Albrighton M.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "73'",
+                            "description": "Slimani I.",
+                            "linked_player_hash": "IB6p5STt"
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Shinji Okazaki"
+                },
+                {
+                    "hash": "WM5fllIl",
+                    "name": "Schmeichel K.",
+                    "captain": "",
+                    "detail_link": "/player/schmeichel-kasper/WM5fllIl/",
+                    "short_name": "Schmeichel",
+                    "shirt_number": "1",
+                    "country": "Denmark",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Kasper Schmeichel"
+                },
+                {
+                    "hash": "IHI1bGoM",
+                    "name": "Simpson D.",
+                    "captain": "",
+                    "detail_link": "/player/simpson-danny/IHI1bGoM/",
+                    "short_name": "Simpson",
+                    "shirt_number": "17",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Danny Simpson"
+                },
+                {
+                    "hash": "fP3OohgD",
+                    "name": "Vardy J.",
+                    "captain": "",
+                    "detail_link": "/player/vardy-jamie/fP3OohgD/",
+                    "short_name": "Vardy",
+                    "shirt_number": "9",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Jamie Vardy"
+                },
+                {
+                    "hash": "pAWZAt4F",
+                    "name": "Amartey D.",
+                    "captain": "",
+                    "detail_link": "/player/amartey-daniel/pAWZAt4F/",
+                    "short_name": "Amartey",
+                    "shirt_number": "13",
+                    "country": "Ghana",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "68'",
+                            "description": "King A.",
+                            "linked_player_hash": "K4XlvQFq"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Daniel Amartey"
+                },
+                {
+                    "hash": "AF2iqxB6",
+                    "name": "Gray D.",
+                    "captain": "",
+                    "detail_link": "/player/gray-demarai/AF2iqxB6/",
+                    "short_name": "Gray",
+                    "shirt_number": "22",
+                    "country": "England",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "80'",
+                            "description": "Albrighton M.",
+                            "linked_player_hash": "fLz0nwDI"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Demarai Gray"
+                },
+                {
+                    "hash": "KUX6sDh1",
+                    "name": "Kapustka B.",
+                    "captain": "",
+                    "detail_link": "/player/kapustka-bartosz/KUX6sDh1/",
+                    "short_name": "Kapustka",
+                    "shirt_number": "14",
+                    "country": "Poland",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Bartosz Kapustka"
+                },
+                {
+                    "hash": "tnCLpeMQ",
+                    "name": "Musa A.",
+                    "captain": "",
+                    "detail_link": "/player/musa-ahmed/tnCLpeMQ/",
+                    "short_name": "Musa",
+                    "shirt_number": "7",
+                    "country": "Nigeria",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ahmed Musa"
+                },
+                {
+                    "hash": "IB6p5STt",
+                    "name": "Slimani I.",
+                    "captain": "",
+                    "detail_link": "/player/slimani-islam/IB6p5STt/",
+                    "short_name": "Slimani",
+                    "shirt_number": "19",
+                    "country": "Algeria",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "73'",
+                            "description": "Okazaki S.",
+                            "linked_player_hash": "U5aDPZ44"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Islam Slimani"
+                },
+                {
+                    "hash": "fRsHSbjH",
+                    "name": "Wasilewski M.",
+                    "captain": "",
+                    "detail_link": "/player/wasilewski-marcin/fRsHSbjH/",
+                    "short_name": "Wasilewski",
+                    "shirt_number": "27",
+                    "country": "Poland",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marcin Wasilewski"
+                },
+                {
+                    "hash": "pGbfkpdp",
+                    "name": "Zieler R.",
+                    "captain": "",
+                    "detail_link": "/player/zieler-ron-robert/pGbfkpdp/",
+                    "short_name": "Zieler",
+                    "shirt_number": "21",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ron-Robert Zieler"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "dtAQLnOF",
+                    "name": "Shakespeare C.",
+                    "captain": "",
+                    "detail_link": "/player/shakespeare-craig/dtAQLnOF/",
+                    "short_name": "Shakespeare C.",
+                    "shirt_number": "",
+                    "country": "England",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Craig Shakespeare"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Madley R."
+    ],
+    "venue": [
+        "Etihad Stadium (Manchester)"
+    ],
+    "attendance": [
+        "54 407"
+    ],
+    "referee_matched": [
+        "Robert Madley"
+    ],
+    "referee_found": [
+        "Robert Madley"
+    ],
+    "coach_matched": [
+        "Craig Shakespeare"
+    ],
+    "gameHomeTeam": "Manchester City",
+    "home": {
+        "name": "Manchester City",
+        "detail_link": "/team/manchester-city/Wtn9Stg0",
+        "hash": "Wtn9Stg0",
+        "names": [
+            "Manchester City",
+            "Manchester City (Eng)",
+            "manchester city"
+        ]
+    },
+    "gameAwayTeam": "Leicester",
+    "away": {
+        "name": "Leicester",
+        "detail_link": "/team/leicester/KrrdAMyI",
+        "hash": "KrrdAMyI",
+        "names": [
+            "Leicester",
+            "leicester"
+        ]
+    },
+    "gameDate": "13/05/2017 - 13:30",
+    "annotations": [
+        {
+            "important": true,
+            "gameTime": "2 - 54:38",
+            "label": "whistle",
+            "description": "The match has just finished.",
+            "identified": "The match has just finished.",
+            "anonymized": "The match has just finished.",
+            "visibility": "shown",
+            "position": "3278000",
+            "event_aligned_gameTime": "2 - 54:30",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 54:06",
+            "label": "",
+            "description": "The resulting free kick from Riyad Mahrez (Leicester) ends up in the gloves of the keeper.",
+            "identified": "The resulting free kick from [PLAYER_AkzHA2kB] ([TEAM_]) ends up in the gloves of the keeper.",
+            "anonymized": "The resulting free kick from [PLAYER] ([TEAM]) ends up in the gloves of the keeper.",
+            "visibility": "shown",
+            "position": "3246000",
+            "event_aligned_gameTime": "2 - 54:00",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 53:28",
+            "label": "y-card",
+            "description": "It's like he was asking for a caution. David Silva (Manchester City) receives a yellow card.",
+            "identified": "It's like he was asking for a caution. [PLAYER_AstVKVP2] ([TEAM_]) receives a yellow card.",
+            "anonymized": "It's like he was asking for a caution. [PLAYER] ([TEAM]) receives a yellow card.",
+            "visibility": "shown",
+            "position": "3208000",
+            "event_aligned_gameTime": "2 - 53:10",
+            "contrastive_aligned_gameTime": "2 - 53:11"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 48:50",
+            "label": "substitution",
+            "description": "Substitution. Gabriel Jesus is replaced by Jesus Navas (Manchester City).",
+            "identified": "Substitution. [PLAYER_viMb6g9n] is replaced by [PLAYER_viMb6g9n] ([TEAM_]).",
+            "anonymized": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2930000",
+            "event_aligned_gameTime": "2 - 48:40",
+            "contrastive_aligned_gameTime": "2 - 48:31"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 47:10",
+            "label": "",
+            "description": "Nicolas Otamendi (Manchester City) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "identified": "[PLAYER_KSBVnX8R] ([TEAM_]) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "anonymized": "[PLAYER] ([TEAM]) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "visibility": "shown",
+            "position": "2830000",
+            "event_aligned_gameTime": "2 - 47:10",
+            "contrastive_aligned_gameTime": "2 - 46:51"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 45:44",
+            "label": "injury",
+            "description": "The game is interrupted now, Nicolas Otamendi (Manchester City) picks up a knock and the physio has to come on.",
+            "identified": "The game is interrupted now, [PLAYER_KSBVnX8R] ([TEAM_]) picks up a knock and the physio has to come on.",
+            "anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on.",
+            "visibility": "shown",
+            "position": "2744000",
+            "event_aligned_gameTime": "2 - 45:40",
+            "contrastive_aligned_gameTime": "2 - 45:20"
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "We will have 7 min. of added time.",
+            "identified": "We will have 7 min. of added time.",
+            "anonymized": "We will have 7 min. of added time.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:00",
+            "contrastive_aligned_gameTime": "2 - 45:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 43:24",
+            "label": "corner",
+            "description": "Riyad Mahrez (Leicester) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "identified": "[PLAYER_AkzHA2kB] ([TEAM_]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "visibility": "shown",
+            "position": "2604000",
+            "event_aligned_gameTime": "2 - 43:20",
+            "contrastive_aligned_gameTime": "2 - 43:01"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 43:12",
+            "label": "",
+            "description": "Jamie Vardy (Leicester) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The linesman makes the right call and Leicester will have a corner.",
+            "identified": "[PLAYER_fP3OohgD] ([TEAM_]) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The linesman makes the right call and [TEAM_] will have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The linesman makes the right call and [TEAM] will have a corner.",
+            "visibility": "shown",
+            "position": "2592000",
+            "event_aligned_gameTime": "2 - 43:10",
+            "contrastive_aligned_gameTime": "2 - 43:20"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:30",
+            "label": "attendance",
+            "description": "The attendance for today's match is 54407.",
+            "identified": "The attendance for today's match is 54407.",
+            "anonymized": "The attendance for today's match is 54407.",
+            "visibility": "shown",
+            "position": "2490000",
+            "event_aligned_gameTime": "2 - 41:30",
+            "contrastive_aligned_gameTime": "2 - 41:34"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 39:55",
+            "label": "",
+            "description": "What a big chance! Jamie Vardy (Leicester) picks up an inch-perfect pass inside the box and fires the ball a whisker wide of the right post.",
+            "identified": "What a big chance! [PLAYER_fP3OohgD] ([TEAM_]) picks up an inch-perfect pass inside the box and fires the ball a whisker wide of the right post.",
+            "anonymized": "What a big chance! [PLAYER] ([TEAM]) picks up an inch-perfect pass inside the box and fires the ball a whisker wide of the right post.",
+            "visibility": "shown",
+            "position": "2395000",
+            "event_aligned_gameTime": "2 - 40:00",
+            "contrastive_aligned_gameTime": "2 - 39:36"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 38:55",
+            "label": "y-card",
+            "description": "Sergio Aguero (Manchester City) receives a yellow card.",
+            "identified": "[PLAYER_vw8ZV7HC] ([TEAM_]) receives a yellow card.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a yellow card.",
+            "visibility": "shown",
+            "position": "2335000",
+            "event_aligned_gameTime": "2 - 38:40",
+            "contrastive_aligned_gameTime": "2 - 38:56"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:51",
+            "label": "",
+            "description": "Vincent Kompany (Manchester City) misses a good chance to score. A perfect cross into the box finds Vincent Kompany (Manchester City) who rises for a header, but he sends the ball well over the bar.",
+            "identified": "[PLAYER_K6A2elS9] ([TEAM_]) misses a good chance to score. A perfect cross into the box finds [PLAYER_K6A2elS9] ([TEAM_]) who rises for a header, but he sends the ball well over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) misses a good chance to score. A perfect cross into the box finds [PLAYER] ([TEAM]) who rises for a header, but he sends the ball well over the bar.",
+            "visibility": "shown",
+            "position": "2271000",
+            "event_aligned_gameTime": "2 - 37:30",
+            "contrastive_aligned_gameTime": "2 - 37:29"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:34",
+            "label": "corner",
+            "description": "A dangerous looking corner kick from David Silva (Manchester City) is cleared to safety by the defence.",
+            "identified": "A dangerous looking corner kick from [PLAYER_AstVKVP2] ([TEAM_]) is cleared to safety by the defence.",
+            "anonymized": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence.",
+            "visibility": "shown",
+            "position": "2254000",
+            "event_aligned_gameTime": "2 - 37:30",
+            "contrastive_aligned_gameTime": "2 - 37:31"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:13",
+            "label": "",
+            "description": "The ball is cleared after Sergio Aguero (Manchester City) attempted to dribble past an opposing player. Manchester City force a corner. They send men into the box.",
+            "identified": "The ball is cleared after [PLAYER_vw8ZV7HC] ([TEAM_]) attempted to dribble past an opposing player. [TEAM_] force a corner. They send men into the box.",
+            "anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. [TEAM] force a corner. They send men into the box.",
+            "visibility": "shown",
+            "position": "2233000",
+            "event_aligned_gameTime": "2 - 37:10",
+            "contrastive_aligned_gameTime": "2 - 37:51"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 36:42",
+            "label": "substitution",
+            "description": "That will be all from Kevin De Bruyne who is being replaced by the fresh legs of Pablo Zabaleta (Manchester City).",
+            "identified": "That will be all from [PLAYER_MsPs6OI5] who is being replaced by the fresh legs of [PLAYER_0WS52psG] ([TEAM_]).",
+            "anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2202000",
+            "event_aligned_gameTime": "2 - 36:10",
+            "contrastive_aligned_gameTime": "2 - 36:08"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 34:41",
+            "label": "substitution",
+            "description": "Craig Shakespeare has decided to substitute Marc Albrighton and he is replaced by Demarai Gray (Leicester).",
+            "identified": "[COACH_dtAQLnOF] has decided to substitute [PLAYER_fLz0nwDI] and he is replaced by [PLAYER_AF2iqxB6] ([TEAM_]).",
+            "anonymized": "[COACH] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2081000",
+            "event_aligned_gameTime": "2 - 34:20",
+            "contrastive_aligned_gameTime": "2 - 35:00"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 33:55",
+            "label": "y-card",
+            "description": "Marc Albrighton (Leicester) receives a yellow card from the referee for a foul that he committed a little earlier.",
+            "identified": "[PLAYER_fLz0nwDI] ([TEAM_]) receives a yellow card from the referee for a foul that he committed a little earlier.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a yellow card from the referee for a foul that he committed a little earlier.",
+            "visibility": "shown",
+            "position": "2035000",
+            "event_aligned_gameTime": "2 - 34:00",
+            "contrastive_aligned_gameTime": "2 - 34:37"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 32:55",
+            "label": "substitution",
+            "description": "Substitution. Sergio Aguero (Manchester City) in, Raheem Sterling out.",
+            "identified": "Substitution. [PLAYER_vw8ZV7HC] ([TEAM_]) in, [PLAYER_pfm9avwi] out.",
+            "anonymized": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out.",
+            "visibility": "shown",
+            "position": "1975000",
+            "event_aligned_gameTime": "2 - 32:40",
+            "contrastive_aligned_gameTime": "2 - 32:40"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 31:55",
+            "label": "penalty-missed",
+            "description": "We have witnessed a penalty fail, with Riyad Mahrez (Leicester) the one who can hold his head in shame.",
+            "identified": "We have witnessed a penalty fail, with [PLAYER_AkzHA2kB] ([TEAM_]) the one who can hold his head in shame.",
+            "anonymized": "We have witnessed a penalty fail, with [PLAYER] ([TEAM]) the one who can hold his head in shame.",
+            "visibility": "shown",
+            "position": "1915000",
+            "event_aligned_gameTime": "2 - 31:30",
+            "contrastive_aligned_gameTime": "2 - 30:49"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 31:29",
+            "label": "",
+            "description": "Riyad Mahrez (Leicester) will take the responsibility and he is already preparing the ball.",
+            "identified": "[PLAYER_AkzHA2kB] ([TEAM_]) will take the responsibility and he is already preparing the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball.",
+            "visibility": "shown",
+            "position": "1889000",
+            "event_aligned_gameTime": "2 - 30:40",
+            "contrastive_aligned_gameTime": "2 - 30:43"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 30:56",
+            "label": "penalty",
+            "description": "Robert Madley blows his whistle for a foul after Gael Clichy (Manchester City) hacks down one of his opponents. That is a penalty kick for Leicester.",
+            "identified": "[REFEREE] blows his whistle for a foul after [PLAYER_xIJOMggd] ([TEAM_]) hacks down one of his opponents. That is a penalty kick for [TEAM_].",
+            "anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents. That is a penalty kick for [TEAM].",
+            "visibility": "shown",
+            "position": "1856000",
+            "event_aligned_gameTime": "2 - 30:40",
+            "contrastive_aligned_gameTime": "2 - 31:13"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:29",
+            "label": "",
+            "description": "Gabriel Jesus (Manchester City) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "identified": "[PLAYER_viMb6g9n] ([TEAM_]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "anonymized": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "visibility": "shown",
+            "position": "1709000",
+            "event_aligned_gameTime": "2 - 28:10",
+            "contrastive_aligned_gameTime": "2 - 27:45"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:19",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) will take a corner kick.",
+            "identified": "[PLAYER_MsPs6OI5] ([TEAM_]) will take a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) will take a corner kick.",
+            "visibility": "shown",
+            "position": "1699000",
+            "event_aligned_gameTime": "2 - 28:00",
+            "contrastive_aligned_gameTime": "2 - 27:36"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 27:55",
+            "label": "substitution",
+            "description": "Substitution. Shinji Okazaki walks off the pitch and Islam Slimani (Leicester) comes on as a substitute.",
+            "identified": "Substitution. [PLAYER_U5aDPZ44] walks off the pitch and [PLAYER_IB6p5STt] ([TEAM_]) comes on as a substitute.",
+            "anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute.",
+            "visibility": "shown",
+            "position": "1675000",
+            "event_aligned_gameTime": "2 - 27:30",
+            "contrastive_aligned_gameTime": "2 - 27:45"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 26:45",
+            "label": "injury",
+            "description": "Gabriel Jesus (Manchester City) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "identified": "[PLAYER_viMb6g9n] ([TEAM_]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "visibility": "shown",
+            "position": "1605000",
+            "event_aligned_gameTime": "2 - 26:50",
+            "contrastive_aligned_gameTime": "2 - 26:43"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 26:35",
+            "label": "y-card",
+            "description": "Christian Fuchs (Leicester) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+            "identified": "[PLAYER_C6EATqht] ([TEAM_]) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+            "anonymized": "[PLAYER] ([TEAM]) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+            "visibility": "shown",
+            "position": "1595000",
+            "event_aligned_gameTime": "2 - 26:20",
+            "contrastive_aligned_gameTime": "2 - 26:16"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:49",
+            "label": "corner",
+            "description": "There's an opportunity for Raheem Sterling (Manchester City) to deliver the ball into the box from a corner.",
+            "identified": "There's an opportunity for [PLAYER_pfm9avwi] ([TEAM_]) to deliver the ball into the box from a corner.",
+            "anonymized": "There's an opportunity for [PLAYER] ([TEAM]) to deliver the ball into the box from a corner.",
+            "visibility": "shown",
+            "position": "1549000",
+            "event_aligned_gameTime": "2 - 25:40",
+            "contrastive_aligned_gameTime": "2 - 25:51"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 24:17",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) gets on the end of a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Kasper Schmeichel pulls off an easy save.",
+            "identified": "[PLAYER_v1SiJzyM] ([TEAM_]) gets on the end of a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and [PLAYER_WM5fllIl] pulls off an easy save.",
+            "anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and [PLAYER] pulls off an easy save.",
+            "visibility": "shown",
+            "position": "1457000",
+            "event_aligned_gameTime": "2 - 24:00",
+            "contrastive_aligned_gameTime": "2 - 24:01"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 22:33",
+            "label": "substitution",
+            "description": "Craig Shakespeare is forced to make a change. Andy King is unable to continue due to injury, Daniel Amartey (Leicester) comes on.",
+            "identified": "[COACH_dtAQLnOF] is forced to make a change. [PLAYER_K4XlvQFq] is unable to continue due to injury, [PLAYER_pAWZAt4F] ([TEAM_]) comes on.",
+            "anonymized": "[COACH] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on.",
+            "visibility": "shown",
+            "position": "1353000",
+            "event_aligned_gameTime": "2 - 21:40",
+            "contrastive_aligned_gameTime": "2 - 21:05"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:14",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) is able to continue to play.",
+            "identified": "[PLAYER_fLz0nwDI] ([TEAM_]) is able to continue to play.",
+            "anonymized": "[PLAYER] ([TEAM]) is able to continue to play.",
+            "visibility": "shown",
+            "position": "1274000",
+            "event_aligned_gameTime": "2 - 21:00",
+            "contrastive_aligned_gameTime": "2 - 20:37"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:20",
+            "label": "injury",
+            "description": "The game is interrupted now, Marc Albrighton (Leicester) picks up a knock and the physio has to come on.",
+            "identified": "The game is interrupted now, [PLAYER_fLz0nwDI] ([TEAM_]) picks up a knock and the physio has to come on.",
+            "anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on.",
+            "visibility": "shown",
+            "position": "1160000",
+            "event_aligned_gameTime": "2 - 19:20",
+            "contrastive_aligned_gameTime": "2 - 19:32"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:31",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "identified": "[PLAYER_v1SiJzyM] ([TEAM_]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "anonymized": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "visibility": "shown",
+            "position": "1111000",
+            "event_aligned_gameTime": "2 - 18:10",
+            "contrastive_aligned_gameTime": "2 - 18:14"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 12:15",
+            "label": "corner",
+            "description": "Marc Albrighton (Leicester) takes the corner.",
+            "identified": "[PLAYER_fLz0nwDI] ([TEAM_]) takes the corner.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner.",
+            "visibility": "shown",
+            "position": "735000",
+            "event_aligned_gameTime": "2 - 12:00",
+            "contrastive_aligned_gameTime": "2 - 12:03"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:45",
+            "label": "",
+            "description": "Shinji Okazaki (Leicester) tries to send a pass but it's blocked. The ball goes behind for a corner. Leicester will have an opportunity to threaten the opposition's goal.",
+            "identified": "[PLAYER_U5aDPZ44] ([TEAM_]) tries to send a pass but it's blocked. The ball goes behind for a corner. [TEAM_] will have an opportunity to threaten the opposition's goal.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "visibility": "shown",
+            "position": "705000",
+            "event_aligned_gameTime": "2 - 11:20",
+            "contrastive_aligned_gameTime": "2 - 11:49"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:14",
+            "label": "",
+            "description": "The foul by Raheem Sterling (Manchester City) was seen by Robert Madley who didn't hesitate to blow the whistle.",
+            "identified": "The foul by [PLAYER_pfm9avwi] ([TEAM_]) was seen by [REFEREE] who didn't hesitate to blow the whistle.",
+            "anonymized": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle.",
+            "visibility": "shown",
+            "position": "674000",
+            "event_aligned_gameTime": "2 - 11:14",
+            "contrastive_aligned_gameTime": "2 - 10:59"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:25",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) has picked up a minor injury, but it looks like he will be able to continue.",
+            "identified": "[PLAYER_fLz0nwDI] ([TEAM_]) has picked up a minor injury, but it looks like he will be able to continue.",
+            "anonymized": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue.",
+            "visibility": "shown",
+            "position": "565000",
+            "event_aligned_gameTime": "2 - 09:10",
+            "contrastive_aligned_gameTime": "2 - 09:28"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:25",
+            "label": "injury",
+            "description": "Marc Albrighton (Leicester) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "identified": "[PLAYER_fLz0nwDI] ([TEAM_]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "visibility": "shown",
+            "position": "445000",
+            "event_aligned_gameTime": "2 - 07:25",
+            "contrastive_aligned_gameTime": "2 - 06:54"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 04:46",
+            "label": "y-card",
+            "description": "What was Vincent Kompany (Manchester City) thinking? He will not get away with that. The referee shows him a yellow card.",
+            "identified": "What was [PLAYER_K6A2elS9] ([TEAM_]) thinking? He will not get away with that. The referee shows him a yellow card.",
+            "anonymized": "What was [PLAYER] ([TEAM]) thinking? He will not get away with that. The referee shows him a yellow card.",
+            "visibility": "shown",
+            "position": "286000",
+            "event_aligned_gameTime": "2 - 04:50",
+            "contrastive_aligned_gameTime": "2 - 05:25"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 01:39",
+            "label": "",
+            "description": "It's a weak and poor shot by Marc Albrighton (Leicester) as he flashes a first-time shot from the edge of the box. The ball flies well wide of the right post.",
+            "identified": "It's a weak and poor shot by [PLAYER_fLz0nwDI] ([TEAM_]) as he flashes a first-time shot from the edge of the box. The ball flies well wide of the right post.",
+            "anonymized": "It's a weak and poor shot by [PLAYER] ([TEAM]) as he flashes a first-time shot from the edge of the box. The ball flies well wide of the right post.",
+            "visibility": "shown",
+            "position": "99000",
+            "event_aligned_gameTime": "2 - 01:20",
+            "contrastive_aligned_gameTime": "2 - 01:11"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started.",
+            "identified": "The second half has just started.",
+            "anonymized": "The second half has just started.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:00",
+            "contrastive_aligned_gameTime": "2 - 00:01"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 47:10",
+            "label": "whistle",
+            "description": "The match has reached half-time.",
+            "identified": "The match has reached half-time.",
+            "anonymized": "The match has reached half-time.",
+            "visibility": "shown",
+            "position": "2830000",
+            "event_aligned_gameTime": "1 - 47:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:00",
+            "label": "time",
+            "description": "Fourth official shows 2 min. of added time.",
+            "identified": "Fourth official shows 2 min. of added time.",
+            "anonymized": "Fourth official shows 2 min. of added time.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "2 - 00:00",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:14",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) got the ball on the edge of the box and fired in a first-time shot on goal, but his effort floated well over the bar. High, wide and not at all handsome.",
+            "identified": "[PLAYER_MsPs6OI5] ([TEAM_]) got the ball on the edge of the box and fired in a first-time shot on goal, but his effort floated well over the bar. High, wide and not at all handsome.",
+            "anonymized": "[PLAYER] ([TEAM]) got the ball on the edge of the box and fired in a first-time shot on goal, but his effort floated well over the bar. High, wide and not at all handsome.",
+            "visibility": "shown",
+            "position": "2594000",
+            "event_aligned_gameTime": "1 - 43:10",
+            "contrastive_aligned_gameTime": "1 - 42:59"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 41:33",
+            "label": "soccer-ball",
+            "description": "Shinji Okazaki (Leicester) fires in a first-time projectile from about 13 metres out. Wilfredo Caballero stretches but the ball is out of his reach and ends up in the roof of the net.",
+            "identified": "[PLAYER_U5aDPZ44] ([TEAM_]) fires in a first-time projectile from about 13 metres out. [PLAYER_h2HdUznS] stretches but the ball is out of his reach and ends up in the roof of the net.",
+            "anonymized": "[PLAYER] ([TEAM]) fires in a first-time projectile from about 13 metres out. [PLAYER] stretches but the ball is out of his reach and ends up in the roof of the net.",
+            "visibility": "shown",
+            "position": "2493000",
+            "event_aligned_gameTime": "1 - 41:30",
+            "contrastive_aligned_gameTime": "1 - 41:08"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 35:45",
+            "label": "soccer-ball",
+            "description": "Gabriel Jesus (Manchester City) gives no chance to the keeper and converts the penalty with a sharp low drive into the left side of the net.",
+            "identified": "[PLAYER_viMb6g9n] ([TEAM_]) gives no chance to the keeper and converts the penalty with a sharp low drive into the left side of the net.",
+            "anonymized": "[PLAYER] ([TEAM]) gives no chance to the keeper and converts the penalty with a sharp low drive into the left side of the net.",
+            "visibility": "shown",
+            "position": "2145000",
+            "event_aligned_gameTime": "1 - 35:30",
+            "contrastive_aligned_gameTime": "1 - 35:26"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:29",
+            "label": "",
+            "description": "Gabriel Jesus (Manchester City) is going to take the penalty!",
+            "identified": "[PLAYER_viMb6g9n] ([TEAM_]) is going to take the penalty!",
+            "anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!",
+            "visibility": "shown",
+            "position": "2129000",
+            "event_aligned_gameTime": "1 - 35:20",
+            "contrastive_aligned_gameTime": "1 - 35:00"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 34:55",
+            "label": "y-card",
+            "description": "Yohan Benalouane (Leicester) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+            "identified": "[PLAYER_YJDV1hD3] ([TEAM_]) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+            "anonymized": "[PLAYER] ([TEAM]) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+            "visibility": "shown",
+            "position": "2095000",
+            "event_aligned_gameTime": "1 - 34:55",
+            "contrastive_aligned_gameTime": "1 - 34:17"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 34:42",
+            "label": "penalty",
+            "description": "An opponent rises to his feet after being downed by Yohan Benalouane (Leicester). Robert Madley saw the sliding tackle and blows for a foul. Manchester City are awarded a penalty. What an opportunity to score!",
+            "identified": "An opponent rises to his feet after being downed by [PLAYER_YJDV1hD3] ([TEAM_]). [REFEREE] saw the sliding tackle and blows for a foul. [TEAM_] are awarded a penalty. What an opportunity to score!",
+            "anonymized": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [REFEREE] saw the sliding tackle and blows for a foul. [TEAM] are awarded a penalty. What an opportunity to score!",
+            "visibility": "shown",
+            "position": "2082000",
+            "event_aligned_gameTime": "1 - 34:20",
+            "contrastive_aligned_gameTime": "1 - 33:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:42",
+            "label": "corner",
+            "description": "Leroy Sane (Manchester City) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "identified": "[PLAYER_GlTyfr8U] ([TEAM_]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "anonymized": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "visibility": "shown",
+            "position": "1962000",
+            "event_aligned_gameTime": "1 - 32:10",
+            "contrastive_aligned_gameTime": "1 - 32:55"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:28",
+            "label": "",
+            "description": "Leroy Sane (Manchester City) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Manchester City have a corner.",
+            "identified": "[PLAYER_GlTyfr8U] ([TEAM_]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM_] have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM] have a corner.",
+            "visibility": "shown",
+            "position": "1948000",
+            "event_aligned_gameTime": "1 - 32:10",
+            "contrastive_aligned_gameTime": "1 - 32:55"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 28:55",
+            "label": "soccer-ball",
+            "description": "Goal! Leroy Sane produces a great pass that finds David Silva (Manchester City) inside the penalty area, who takes advantage of the situation to rifle a shot into the bottom right corner. 1:0.",
+            "identified": "Goal! [PLAYER_GlTyfr8U] produces a great pass that finds [PLAYER_AstVKVP2] ([TEAM_]) inside the penalty area, who takes advantage of the situation to rifle a shot into the bottom right corner. 1:0.",
+            "anonymized": "Goal! [PLAYER] produces a great pass that finds [PLAYER] ([TEAM]) inside the penalty area, who takes advantage of the situation to rifle a shot into the bottom right corner. 1:0.",
+            "visibility": "shown",
+            "position": "1735000",
+            "event_aligned_gameTime": "1 - 28:20",
+            "contrastive_aligned_gameTime": "1 - 28:27"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:00",
+            "label": "corner",
+            "description": "Leroy Sane (Manchester City) overhits the corner kick and none of his teammates can their head on it.",
+            "identified": "[PLAYER_GlTyfr8U] ([TEAM_]) overhits the corner kick and none of his teammates can their head on it.",
+            "anonymized": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it.",
+            "visibility": "shown",
+            "position": "1620000",
+            "event_aligned_gameTime": "1 - 26:50",
+            "contrastive_aligned_gameTime": "1 - 26:26"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:42",
+            "label": "",
+            "description": "Leroy Sane (Manchester City) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety. It will be a corner kick for Manchester City.",
+            "identified": "[PLAYER_GlTyfr8U] ([TEAM_]) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety. It will be a corner kick for [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety. It will be a corner kick for [TEAM].",
+            "visibility": "shown",
+            "position": "1602000",
+            "event_aligned_gameTime": "1 - 26:40",
+            "contrastive_aligned_gameTime": "1 - 26:27"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:31",
+            "label": "corner",
+            "description": "Leroy Sane (Manchester City) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "identified": "[PLAYER_GlTyfr8U] ([TEAM_]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "visibility": "shown",
+            "position": "1471000",
+            "event_aligned_gameTime": "1 - 24:20",
+            "contrastive_aligned_gameTime": "1 - 25:03"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:15",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. Good work from Manchester City as they win a corner.",
+            "identified": "[PLAYER_MsPs6OI5] ([TEAM_]) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. Good work from [TEAM_] as they win a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. Good work from [TEAM] as they win a corner.",
+            "visibility": "shown",
+            "position": "1455000",
+            "event_aligned_gameTime": "1 - 23:50",
+            "contrastive_aligned_gameTime": "1 - 23:17"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:50",
+            "label": "corner",
+            "description": "Leroy Sane (Manchester City) will deliver the ball into the penalty box from a corner kick.",
+            "identified": "[PLAYER_GlTyfr8U] ([TEAM_]) will deliver the ball into the penalty box from a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+            "visibility": "shown",
+            "position": "1370000",
+            "event_aligned_gameTime": "1 - 22:40",
+            "contrastive_aligned_gameTime": "1 - 22:47"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:38",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) volleys the ball towards goal from the edge of the penalty box, but one of the defenders blocks his shot. Manchester City earn a corner.",
+            "identified": "[PLAYER_pfm9avwi] ([TEAM_]) volleys the ball towards goal from the edge of the penalty box, but one of the defenders blocks his shot. [TEAM_] earn a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) volleys the ball towards goal from the edge of the penalty box, but one of the defenders blocks his shot. [TEAM] earn a corner.",
+            "visibility": "shown",
+            "position": "1358000",
+            "event_aligned_gameTime": "1 - 22:30",
+            "contrastive_aligned_gameTime": "1 - 22:23"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 20:29",
+            "label": "",
+            "description": "The free kick is delivered by Marc Albrighton (Leicester) but it's not one of his best and is easily cleared.",
+            "identified": "The free kick is delivered by [PLAYER_fLz0nwDI] ([TEAM_]) but it's not one of his best and is easily cleared.",
+            "anonymized": "The free kick is delivered by [PLAYER] ([TEAM]) but it's not one of his best and is easily cleared.",
+            "visibility": "shown",
+            "position": "1229000",
+            "event_aligned_gameTime": "1 - 20:30",
+            "contrastive_aligned_gameTime": "1 - 20:08"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 19:50",
+            "label": "",
+            "description": "Robert Madley blows his whistle after Gael Clichy (Manchester City) brings one of his opponents down with a strong tackle. Leicester earn a free kick which could lead to a goal-scoring opportunity.",
+            "identified": "[REFEREE] blows his whistle after [PLAYER_xIJOMggd] ([TEAM_]) brings one of his opponents down with a strong tackle. [TEAM_] earn a free kick which could lead to a goal-scoring opportunity.",
+            "anonymized": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle. [TEAM] earn a free kick which could lead to a goal-scoring opportunity.",
+            "visibility": "shown",
+            "position": "1190000",
+            "event_aligned_gameTime": "1 - 19:50",
+            "contrastive_aligned_gameTime": "1 - 19:34"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 19:10",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "identified": "[PLAYER_MsPs6OI5] ([TEAM_]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "visibility": "shown",
+            "position": "1150000",
+            "event_aligned_gameTime": "1 - 18:20",
+            "contrastive_aligned_gameTime": "1 - 17:41"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:47",
+            "label": "",
+            "description": "A defender unwittingly blocks the ball on the line after a snap shot from Leroy Sane (Manchester City) inside the box following a slide rule pass. Manchester City will take a corner kick.",
+            "identified": "A defender unwittingly blocks the ball on the line after a snap shot from [PLAYER_GlTyfr8U] ([TEAM_]) inside the box following a slide rule pass. [TEAM_] will take a corner kick.",
+            "anonymized": "A defender unwittingly blocks the ball on the line after a snap shot from [PLAYER] ([TEAM]) inside the box following a slide rule pass. [TEAM] will take a corner kick.",
+            "visibility": "shown",
+            "position": "1127000",
+            "event_aligned_gameTime": "1 - 18:30",
+            "contrastive_aligned_gameTime": "1 - 19:08"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:11",
+            "label": "corner",
+            "description": "Leroy Sane (Manchester City) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "identified": "[PLAYER_GlTyfr8U] ([TEAM_]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "visibility": "shown",
+            "position": "1091000",
+            "event_aligned_gameTime": "1 - 18:10",
+            "contrastive_aligned_gameTime": "1 - 18:17"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:56",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Gael Clichy (Manchester City), is intercepted by the opposition's defence. Manchester City have been awarded a corner kick.",
+            "identified": "A fine lofted pass into the box, sent by [PLAYER_xIJOMggd] ([TEAM_]), is intercepted by the opposition's defence. [TEAM_] have been awarded a corner kick.",
+            "anonymized": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence. [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "1076000",
+            "event_aligned_gameTime": "1 - 17:30",
+            "contrastive_aligned_gameTime": "1 - 17:39"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:58",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) fouls an opponent. At least that's what referee Robert Madley signals.",
+            "identified": "[PLAYER_v1SiJzyM] ([TEAM_]) fouls an opponent. At least that's what referee [REFEREE] signals.",
+            "anonymized": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals.",
+            "visibility": "shown",
+            "position": "838000",
+            "event_aligned_gameTime": "1 - 13:40",
+            "contrastive_aligned_gameTime": "1 - 14:17"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:31",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) hits a stunning volley from about 21 metres out towards the middle of the goal, but Wilfredo Caballero is alert and makes a save.",
+            "identified": "[PLAYER_fLz0nwDI] ([TEAM_]) hits a stunning volley from about 21 metres out towards the middle of the goal, but [PLAYER_h2HdUznS] is alert and makes a save.",
+            "anonymized": "[PLAYER] ([TEAM]) hits a stunning volley from about 21 metres out towards the middle of the goal, but [PLAYER] is alert and makes a save.",
+            "visibility": "shown",
+            "position": "631000",
+            "event_aligned_gameTime": "1 - 10:20",
+            "contrastive_aligned_gameTime": "1 - 09:52"
+        }
+    ]
+}

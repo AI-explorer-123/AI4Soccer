@@ -1,0 +1,229 @@
+[
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Watford",
+      "B. Liverpool",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Jose Holebas",
+      "B. Tom Cleverley",
+      "C. Roberto Firmino",
+      "D. Trent Alexander-Arnold"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      6
+    ],
+    "current_event_index": 6,
+    "index": 3
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Watford",
+      "B. Liverpool",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      6
+    ],
+    "current_event_index": 6,
+    "index": 4
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Jose Holebas",
+      "B. Tom Cleverley",
+      "C. Roberto Firmino",
+      "D. Trent Alexander-Arnold"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      6
+    ],
+    "current_event_index": 6,
+    "index": 5
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 7"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      6,
+      7,
+      14,
+      15,
+      20
+    ],
+    "current_event_index": null,
+    "index": 6
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Watford",
+      "B. Liverpool",
+      "C. Both teams had the same number",
+      "D. Neither team had a corner"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      6,
+      7,
+      14,
+      15,
+      20
+    ],
+    "current_event_index": null,
+    "index": 7
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Jose Holebas",
+      "B. Tom Cleverley",
+      "C. Roberto Firmino",
+      "D. Trent Alexander-Arnold"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      6,
+      7,
+      14,
+      15,
+      20
+    ],
+    "current_event_index": null,
+    "index": 8
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. It's uncertain"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      14,
+      15,
+      20
+    ],
+    "current_event_index": 6,
+    "index": 9
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Watford",
+      "B. Liverpool",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      7,
+      14,
+      15
+    ],
+    "current_event_index": 6,
+    "index": 10
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Jose Holebas",
+      "B. Tom Cleverley",
+      "C. Roberto Firmino",
+      "D. Trent Alexander-Arnold"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 6,
+    "index": 11
+  }
+]

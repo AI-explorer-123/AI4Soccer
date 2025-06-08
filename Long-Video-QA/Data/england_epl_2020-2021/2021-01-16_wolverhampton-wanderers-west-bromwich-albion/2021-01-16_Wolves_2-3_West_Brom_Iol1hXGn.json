@@ -1,0 +1,805 @@
+{
+  "match_info": {
+    "timestamp": "2021-01-16 20:30:00",
+    "score": "2 - 3",
+    "home_team": "Wolves",
+    "away_team": "West Brom",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Molineux Stadium (Wolverhampton)",
+    "capacity": "31 750",
+    "attendance": ""
+  },
+  "referee_data": {
+    "short_name_country": "Oliver M. (Eng)",
+    "first_name": "Oliver",
+    "abbr_last_name": "M",
+    "country": "Eng",
+    "detected_name": "Michael Oliver"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Allardyce S.",
+        "players_number": "",
+        "Full Name": "Samuel Allardyce",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "coach",
+        "Age and Birthdate": "69,  (19.10.1954)",
+        "Market Value": "",
+        "unicode": "niGIuTj0"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Gallagher C.",
+        "players_number": "",
+        "Full Name": "Conor Gallagher",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (06.02.2000)",
+        "Market Value": "€39.9m",
+        "unicode": "dtbJO8B3"
+      },
+      {
+        "players_name": "Grant K.",
+        "players_number": "",
+        "Full Name": "Karlan Grant",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (19.12.1997)",
+        "Market Value": "€3.6m",
+        "unicode": "QHPyfywh"
+      },
+      {
+        "players_name": "Johnstone S.",
+        "players_number": "",
+        "Full Name": "Sam Johnstone",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "30, (25.03.1993)",
+        "Market Value": "€11.7m",
+        "unicode": "Aod1noi7"
+      },
+      {
+        "players_name": "Phillips M.",
+        "players_number": "",
+        "Full Name": "Matt Phillips",
+        "players_rating": "",
+        "Country": "Scotland",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (13.03.1991)",
+        "Market Value": "€434k",
+        "unicode": "CdBJoDCN"
+      },
+      {
+        "players_name": "Townsend C.",
+        "players_number": "",
+        "Full Name": "Conor Townsend",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (04.03.1993)",
+        "Market Value": "€2.0m",
+        "unicode": "MkG8QaWQ"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Ajayi S.",
+        "players_number": "6",
+        "Full Name": "Semi Ajayi",
+        "players_rating": 7.9,
+        "Country": "Nigeria",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (09.11.1993)",
+        "Market Value": "€1.7m",
+        "unicode": "2qbYQ9um"
+      },
+      {
+        "players_name": "Bartley K.",
+        "players_number": "5",
+        "Full Name": "Kyle Bartley",
+        "players_rating": 7.9,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (22.05.1991)",
+        "Market Value": "€391k",
+        "unicode": "YHOcp7Yb"
+      },
+      {
+        "players_name": "Button D. (G)",
+        "players_number": "25",
+        "Full Name": "David Button",
+        "players_rating": 7.2,
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "34, (27.02.1989)",
+        "Market Value": "€159k",
+        "unicode": "W0SsOYqa"
+      },
+      {
+        "players_name": "Gibbs K.",
+        "players_number": "3",
+        "Full Name": "Kieran Gibbs",
+        "players_rating": 6.6,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "€42k, (26.09.1989)",
+        "Market Value": "31.05.2024",
+        "unicode": "tvEj3HIu"
+      },
+      {
+        "players_name": "Grosicki K.",
+        "players_number": "13",
+        "Full Name": "Kamil Grosicki",
+        "players_rating": 6.8,
+        "Country": "Poland",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (08.06.1988)",
+        "Market Value": "€503k",
+        "unicode": "GdQgaWva"
+      },
+      {
+        "players_name": "Livermore J. (C)",
+        "players_number": "8",
+        "Full Name": "Jake Livermore",
+        "players_rating": 6.8,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (14.11.1989)",
+        "Market Value": "€281k",
+        "unicode": "n5nlf0uN"
+      },
+      {
+        "players_name": "Matheus Pereira",
+        "players_number": "12",
+        "Full Name": "Matheus Pereira",
+        "players_rating": 8.4,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (05.05.1996)",
+        "Market Value": "€5.1m",
+        "unicode": "Ackh6rEh"
+      },
+      {
+        "players_name": "O'Shea D.",
+        "players_number": "27",
+        "Full Name": "Dara O'Shea",
+        "players_rating": 7.1,
+        "Country": "Ireland",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (04.03.1999)",
+        "Market Value": "€6.9m",
+        "unicode": "4ETEZJ7p"
+      },
+      {
+        "players_name": "Robinson C.",
+        "players_number": "7",
+        "Full Name": "Callum Robinson",
+        "players_rating": 7.6,
+        "Country": "Ireland",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (02.02.1995)",
+        "Market Value": "€2.1m",
+        "unicode": "YkexEmTN"
+      },
+      {
+        "players_name": "Sawyers R.",
+        "players_number": "19",
+        "Full Name": "Romaine Sawyers",
+        "players_rating": 6.8,
+        "Country": "Saint Kitts and Nevis",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (02.11.1991)",
+        "Market Value": "€553k",
+        "unicode": "r15GeJTp"
+      },
+      {
+        "players_name": "Snodgrass R.",
+        "players_number": "23",
+        "Full Name": "Robert Snodgrass",
+        "players_rating": 7.0,
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (07.09.1987)",
+        "Market Value": "",
+        "unicode": "6XPsH2mg"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Furlong D.",
+        "players_number": "2",
+        "Full Name": "Darnell Furlong",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (31.10.1995)",
+        "Market Value": "€3.4m",
+        "unicode": "v7A8Ma04"
+      },
+      {
+        "players_name": "Robson-Kanu H.",
+        "players_number": "4",
+        "Full Name": "Hal Robson-Kanu",
+        "players_rating": 6.0,
+        "Country": "Wales",
+        "Role": "Forward",
+        "Age and Birthdate": "34, (21.05.1989)",
+        "Market Value": "",
+        "unicode": "Ozgdtt4o"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Edwards K.",
+        "players_number": "21",
+        "Full Name": "Kyle Edwards",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "€241k, (17.02.1998)",
+        "Market Value": "",
+        "unicode": "CzoQqDr1"
+      },
+      {
+        "players_name": "Field S.",
+        "players_number": "28",
+        "Full Name": "Sam Field",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (08.05.1998)",
+        "Market Value": "€3.1m",
+        "unicode": "fVWTF20G"
+      },
+      {
+        "players_name": "Ivanovic B.",
+        "players_number": "20",
+        "Full Name": "Branislav Ivanovic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Defender",
+        "Age and Birthdate": "39, (22.02.1984)",
+        "Market Value": "",
+        "unicode": "Qe3xUmHo"
+      },
+      {
+        "players_name": "Kipre C.",
+        "players_number": "24",
+        "Full Name": "Cedric Kipre",
+        "players_rating": "",
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (09.12.1996)",
+        "Market Value": "€2.5m",
+        "unicode": "Eol9RH7r"
+      },
+      {
+        "players_name": "Krovinovic F.",
+        "players_number": "17",
+        "Full Name": "Filip Krovinovic",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (29.08.1995)",
+        "Market Value": "€3.4m",
+        "unicode": "E1nQST65"
+      },
+      {
+        "players_name": "Lonergan A. (G)",
+        "players_number": "31",
+        "Full Name": "Andy Lonergan",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "40, (19.10.1983)",
+        "Market Value": "30.06.2024",
+        "unicode": "QysxgKzc"
+      },
+      {
+        "players_name": "Peltier L.",
+        "players_number": "22",
+        "Full Name": "Lee Peltier",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "37, (11.12.1986)",
+        "Market Value": "€140k",
+        "unicode": "CfIyCFPl"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Espirito Santo N.",
+        "players_number": "",
+        "Full Name": "Nuno Espirito Santo",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "coach",
+        "Age and Birthdate": "49,  (25.01.1974)",
+        "Market Value": "",
+        "unicode": "IoJ2QpOs"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Jimenez R.",
+        "players_number": "",
+        "Full Name": "Raul Jimenez",
+        "players_rating": "",
+        "Country": "Mexico",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (05.05.1991)",
+        "Market Value": "€5.5m",
+        "unicode": "ENwqg0Pd"
+      },
+      {
+        "players_name": "Jonny",
+        "players_number": "",
+        "Full Name": "Jonny",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (03.03.1994)",
+        "Market Value": "€7.6m",
+        "unicode": "thYdCQaj"
+      },
+      {
+        "players_name": "Marcal",
+        "players_number": "",
+        "Full Name": "Marcal",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (19.02.1989)",
+        "Market Value": "€919k",
+        "unicode": "EusknHOI"
+      },
+      {
+        "players_name": "Podence D.",
+        "players_number": "",
+        "Full Name": "Daniel Podence",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (21.10.1995)",
+        "Market Value": "€12.5m",
+        "unicode": "YTkrrmp4"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Boly W.",
+        "players_number": "15",
+        "Full Name": "Willy Boly",
+        "players_rating": 8.1,
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (03.02.1991)",
+        "Market Value": "€2.4m",
+        "unicode": "8URie1St"
+      },
+      {
+        "players_name": "Coady C. (C)",
+        "players_number": "16",
+        "Full Name": "Conor Coady",
+        "players_rating": 5.6,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (25.02.1993)",
+        "Market Value": "€6.9m",
+        "unicode": "8YT7Leas"
+      },
+      {
+        "players_name": "Dendoncker L.",
+        "players_number": "32",
+        "Full Name": "Leander Dendoncker",
+        "players_rating": 6.9,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (15.04.1995)",
+        "Market Value": "€10.5m",
+        "unicode": "xlkGi99f"
+      },
+      {
+        "players_name": "Moutinho J.",
+        "players_number": "28",
+        "Full Name": "Joao Moutinho",
+        "players_rating": 6.8,
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "37, (08.09.1986)",
+        "Market Value": "€772k",
+        "unicode": "rZndECJt"
+      },
+      {
+        "players_name": "Neto P.",
+        "players_number": "7",
+        "Full Name": "Pedro Neto",
+        "players_rating": 7.4,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (09.03.2000)",
+        "Market Value": "€41.1m",
+        "unicode": "lxtnUkIP"
+      },
+      {
+        "players_name": "Neves R.",
+        "players_number": "8",
+        "Full Name": "Ruben Neves",
+        "players_rating": 6.3,
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (13.03.1997)",
+        "Market Value": "€40.3m",
+        "unicode": "Ea90ReE4"
+      },
+      {
+        "players_name": "Patricio R. (G)",
+        "players_number": "11",
+        "Full Name": "Rui Patricio",
+        "players_rating": 6.4,
+        "Country": "Portugal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (15.02.1988)",
+        "Market Value": "€3.3m",
+        "unicode": "44sSdBl6"
+      },
+      {
+        "players_name": "Saiss R.",
+        "players_number": "27",
+        "Full Name": "Romain Saiss",
+        "players_rating": 6.8,
+        "Country": "Morocco",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (26.03.1990)",
+        "Market Value": "€3.4m",
+        "unicode": "zTScoVFH"
+      },
+      {
+        "players_name": "Semedo N.",
+        "players_number": "22",
+        "Full Name": "Nelson Semedo",
+        "players_rating": 7.7,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (16.11.1993)",
+        "Market Value": "€14.3m",
+        "unicode": "EyHywivj"
+      },
+      {
+        "players_name": "Silva F.",
+        "players_number": "17",
+        "Full Name": "Fabio Silva",
+        "players_rating": 7.1,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (19.07.2002)",
+        "Market Value": "€12.0m",
+        "unicode": "YaEnqMoU"
+      },
+      {
+        "players_name": "Traore A.",
+        "players_number": "37",
+        "Full Name": "Adama Traore",
+        "players_rating": 7.3,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (25.01.1996)",
+        "Market Value": "€8.2m",
+        "unicode": "Qsy3Kmgj"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Ait-Nouri R.",
+        "players_number": "3",
+        "Full Name": "Rayan Ait-Nouri",
+        "players_rating": 6.3,
+        "Country": "Algeria",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (06.06.2001)",
+        "Market Value": "€27.4m",
+        "unicode": "t4db4nTt"
+      },
+      {
+        "players_name": "Cutrone P.",
+        "players_number": "23",
+        "Full Name": "Patrick Cutrone",
+        "players_rating": 6.1,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (03.01.1998)",
+        "Market Value": "€2.4m",
+        "unicode": "vB6l1nu7"
+      },
+      {
+        "players_name": "Gibbs-White M.",
+        "players_number": "18",
+        "Full Name": "Morgan Gibbs-White",
+        "players_rating": 6.5,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (27.01.2000)",
+        "Market Value": "€40.3m",
+        "unicode": "beZNT1bB"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Corbeanu T.",
+        "players_number": "60",
+        "Full Name": "Theodor Corbeanu",
+        "players_rating": "",
+        "Country": "Canada",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (17.05.2002)",
+        "Market Value": "€1.6m",
+        "unicode": "WEjccUQr"
+      },
+      {
+        "players_name": "Hoever K.",
+        "players_number": "2",
+        "Full Name": "Ki-Jana Hoever",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (18.01.2002)",
+        "Market Value": "€3.5m",
+        "unicode": "IaxyOwfg"
+      },
+      {
+        "players_name": "Kilman M.",
+        "players_number": "49",
+        "Full Name": "Max Kilman",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (23.05.1997)",
+        "Market Value": "€34.3m",
+        "unicode": "dlQhqD35"
+      },
+      {
+        "players_name": "Ruddy J. (G)",
+        "players_number": "21",
+        "Full Name": "John Ruddy",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (24.10.1986)",
+        "Market Value": "€238k",
+        "unicode": "dMAg4xPL"
+      },
+      {
+        "players_name": "Shabani M.",
+        "players_number": "38",
+        "Full Name": "Meritan Shabani",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (15.03.1999)",
+        "Market Value": "€279k",
+        "unicode": "jXd3kaep"
+      },
+      {
+        "players_name": "Vitinha",
+        "players_number": "20",
+        "Full Name": "Vitinha",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (13.02.2000)",
+        "Market Value": "€43.4m",
+        "unicode": "Sz9SH7zj"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "03:46",
+      "comments_type": "corner",
+      "comments_text": "The corner from Joao Moutinho (Wolves) is hurriedly cleared.",
+      "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is hurriedly cleared.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "07:59",
+      "comments_type": "goal",
+      "comments_text": "Goal! Matheus Pereira (West Brom) wins the battle of wills and sends an unstoppable penalty past Rui Patricio into left side of the goal.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into left side of the goal.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "24:30",
+      "comments_type": "corner",
+      "comments_text": "The ball is whipped in from the corner by Pedro Neto (Wolves), but one of the defenders gets it clear. Wolves have been awarded a corner kick.",
+      "comments_text_anonymized": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear. [TEAM] have been awarded a corner kick.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "25:11",
+      "comments_type": "corner",
+      "comments_text": "A dangerous looking corner kick from Joao Moutinho (Wolves) is cleared to safety by the defence. The referee points to the corner flag and Wolves will take a corner.",
+      "comments_text_anonymized": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence. The referee points to the corner flag and [TEAM] will take a corner.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "25:43",
+      "comments_type": "corner",
+      "comments_text": "Pedro Neto (Wolves) takes the corner, but it's intercepted by the defender.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but it's intercepted by the defender.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:56",
+      "comments_type": "yellow card",
+      "comments_text": "The referee had an easy-decision to make. A yellow card is given to Semi Ajayi (West Brom) for a foul that he committed a little earlier.",
+      "comments_text_anonymized": "The referee had an easy-decision to make. A yellow card is given to [PLAYER] ([TEAM]) for a foul that he committed a little earlier.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "37:48",
+      "comments_type": "goal",
+      "comments_text": "Goal! Willy Boly provides Fabio Silva (Wolves) with a nice pass inside the box. It allows him to finish with a precise effort into the bottom right corner. 1:1.",
+      "comments_text_anonymized": "Goal! [PLAYER] provides [PLAYER] ([TEAM]) with a nice pass inside the box. It allows him to finish with a precise effort into the bottom right corner. 1:1.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "42:01",
+      "comments_type": "corner",
+      "comments_text": "Joao Moutinho (Wolves) takes the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "42:21",
+      "comments_type": "goal",
+      "comments_text": "Willy Boly (Wolves) scores from the resulting corner. The ball slips through the box to Willy Boly (Wolves) and he smashes it inside the left post, giving the goalkeeper no chance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) scores from the resulting corner. The ball slips through the box to [PLAYER] ([TEAM]) and he smashes it inside the left post, giving the goalkeeper no chance.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "02:44",
+      "comments_type": "corner",
+      "comments_text": "Joao Moutinho (Wolves) is heading toward the corner flag to take the set piece.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "02:44",
+      "comments_type": "corner",
+      "comments_text": "Pedro Neto (Wolves) will deliver the ball into the penalty box from a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:21",
+      "comments_type": "goal",
+      "comments_text": "Goal! Kyle Bartley finds Semi Ajayi (West Brom) with a headed pass and the latter glances a header past the goalkeeper to make it 2:2.",
+      "comments_text_anonymized": "Goal! [PLAYER] finds [PLAYER] ([TEAM]) with a headed pass and the latter glances a header past the goalkeeper to make it 2:2.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:21",
+      "comments_type": "penalty",
+      "comments_text": "Matheus Pereira (West Brom) is going to take the penalty!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:06",
+      "comments_type": "goal",
+      "comments_text": "Matheus Pereira (West Brom) steps up and confidently powers the spot kick into the right side of the goal.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up and confidently powers the spot kick into the right side of the goal.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:56",
+      "comments_type": "substitution",
+      "comments_text": "It will be a substitution. Morgan Gibbs-White (Wolves) is ready to enter the pitch as Ruben Neves walks off.",
+      "comments_text_anonymized": "It will be a substitution. [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:40",
+      "comments_type": "substitution",
+      "comments_text": "Nuno Espirito Santo has decided to make a change. Rayan Ait Nouri (Wolves) replaces Conor Coady.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. Rayan Ait Nouri ([TEAM]) replaces [PLAYER].",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:30",
+      "comments_type": "corner",
+      "comments_text": "Corner kick. Pedro Neto (Wolves) is ready to send the ball into the box.",
+      "comments_text_anonymized": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:10",
+      "comments_type": "corner",
+      "comments_text": "Pedro Neto (Wolves) is about to take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is about to take a corner kick.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:49",
+      "comments_type": "substitution",
+      "comments_text": "That's the end of the game for Kamil Grosicki, who is replaced by Hal Robson-Kanu (West Brom).",
+      "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM]).",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:17",
+      "comments_type": "yellow card",
+      "comments_text": "Michael Oliver shows a yellow card to Leander Dendoncker (Wolves) for his blatant foul.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:04",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Joao Moutinho trots off the pitch and is replaced by Patrick Cutrone (Wolves).",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] trots off the pitch and is replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:11",
+      "comments_type": "corner",
+      "comments_text": "Pedro Neto (Wolves) whips in a cross from the corner, but David Button is well positioned and punches the ball away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in a cross from the corner, but [PLAYER] is well positioned and punches the ball away.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:10",
+      "comments_type": "substitution",
+      "comments_text": "Samuel Allardyce decides to make a substitution. Matheus Pereira will be replaced by Darnell Furlong (West Brom).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:32",
+      "comments_type": "yellow card",
+      "comments_text": "Fabio Silva (Wolves) picks up a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) picks up a yellow card.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "46:16",
+      "comments_type": "corner",
+      "comments_text": "Pedro Neto (Wolves) overhits the corner kick and none of his teammates can their head on it.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it.",
+      "index": 24
+    }
+  ]
+}

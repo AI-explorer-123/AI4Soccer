@@ -1,0 +1,1411 @@
+{
+    "timestamp": "1491142500",
+    "score": "3 - 0",
+    "round": "29",
+    "teams": [
+        "Real Madrid",
+        "Alaves"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-3-3",
+            "players": [
+                {
+                    "hash": "4SPjLLiR",
+                    "name": "Bale G.",
+                    "captain": "",
+                    "detail_link": "/player/bale-gareth/4SPjLLiR/",
+                    "short_name": "Bale",
+                    "shirt_number": "11",
+                    "country": "Wales",
+                    "facts": [],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Gareth Bale"
+                },
+                {
+                    "hash": "tpV0VX0S",
+                    "name": "Benzema K.",
+                    "captain": "",
+                    "detail_link": "/player/benzema-karim/tpV0VX0S/",
+                    "short_name": "Benzema",
+                    "shirt_number": "9",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "31' Benzema K. (Carvajal D.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "81'",
+                            "description": "Lucas",
+                            "linked_player_hash": "pEjBDsSH"
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Karim Benzema"
+                },
+                {
+                    "hash": "l43b8dXD",
+                    "name": "Casilla K.",
+                    "captain": "",
+                    "detail_link": "/player/casilla-francisco/l43b8dXD/",
+                    "short_name": "Casilla",
+                    "shirt_number": "13",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Kiko Casilla"
+                },
+                {
+                    "hash": "KUjvgUhB",
+                    "name": "Danilo",
+                    "captain": "",
+                    "detail_link": "/player/danilo/KUjvgUhB/",
+                    "short_name": "Danilo",
+                    "shirt_number": "23",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Danilo"
+                },
+                {
+                    "hash": "8Wp8ZCLG",
+                    "name": "Fernandez N.",
+                    "captain": "",
+                    "detail_link": "/player/nacho/8Wp8ZCLG/",
+                    "short_name": "Fernandez",
+                    "shirt_number": "6",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "88' Fernandez N.",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Nacho Fernandez"
+                },
+                {
+                    "hash": "ULLmpdEb",
+                    "name": "Isco",
+                    "captain": "",
+                    "detail_link": "/player/isco/ULLmpdEb/",
+                    "short_name": "Isco",
+                    "shirt_number": "22",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "85' Isco (Ronaldo C.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Isco"
+                },
+                {
+                    "hash": "CloE7jjr",
+                    "name": "Kroos T.",
+                    "captain": "",
+                    "detail_link": "/player/kroos-toni/CloE7jjr/",
+                    "short_name": "Kroos",
+                    "shirt_number": "8",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Toni Kroos"
+                },
+                {
+                    "hash": "bZWyoJnA",
+                    "name": "Modric L.",
+                    "captain": "",
+                    "detail_link": "/player/modric-luka/bZWyoJnA/",
+                    "short_name": "Modric",
+                    "shirt_number": "19",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "68'",
+                            "description": "Kovacic M.",
+                            "linked_player_hash": "4f084TL7"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Luka Modric"
+                },
+                {
+                    "hash": "2y9qaipI",
+                    "name": "Pepe",
+                    "captain": "(C)",
+                    "detail_link": "/player/pepe/2y9qaipI/",
+                    "short_name": "Pepe",
+                    "shirt_number": "3",
+                    "country": "Portugal",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Pepe"
+                },
+                {
+                    "hash": "WGOY4FSt",
+                    "name": "Ronaldo C.",
+                    "captain": "",
+                    "detail_link": "/player/ronaldo-cristiano/WGOY4FSt/",
+                    "short_name": "Ronaldo",
+                    "shirt_number": "7",
+                    "country": "Portugal",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "85' Isco (Ronaldo C.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Cristiano Ronaldo"
+                },
+                {
+                    "hash": "t20vQIvC",
+                    "name": "Varane R.",
+                    "captain": "",
+                    "detail_link": "/player/varane-raphael/t20vQIvC/",
+                    "short_name": "Varane",
+                    "shirt_number": "5",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "11'",
+                            "description": "Carvajal D.",
+                            "linked_player_hash": "rZh5FTHE"
+                        }
+                    ],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Raphael Varane"
+                },
+                {
+                    "hash": "GQMMQo6m",
+                    "name": "Asensio M.",
+                    "captain": "",
+                    "detail_link": "/player/asensio-marco/GQMMQo6m/",
+                    "short_name": "Asensio",
+                    "shirt_number": "20",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marco Asensio"
+                },
+                {
+                    "hash": "rZh5FTHE",
+                    "name": "Carvajal D.",
+                    "captain": "",
+                    "detail_link": "/player/carvajal-daniel/rZh5FTHE/",
+                    "short_name": "Carvajal",
+                    "shirt_number": "2",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "11'",
+                            "description": "Varane R.",
+                            "linked_player_hash": "t20vQIvC"
+                        },
+                        {
+                            "type": "8",
+                            "time": "31' Benzema K. (Carvajal D.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Daniel Carvajal"
+                },
+                {
+                    "hash": "OQ6UIbu1",
+                    "name": "Diaz M.",
+                    "captain": "",
+                    "detail_link": "/player/diaz-mariano/OQ6UIbu1/",
+                    "short_name": "Diaz",
+                    "shirt_number": "18",
+                    "country": "Dominican Republic",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Mariano Diaz"
+                },
+                {
+                    "hash": "4f084TL7",
+                    "name": "Kovacic M.",
+                    "captain": "",
+                    "detail_link": "/player/kovacic-mateo/4f084TL7/",
+                    "short_name": "Kovacic",
+                    "shirt_number": "16",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "68'",
+                            "description": "Modric L.",
+                            "linked_player_hash": "bZWyoJnA"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Mateo Kovacic"
+                },
+                {
+                    "hash": "pEjBDsSH",
+                    "name": "Lucas",
+                    "captain": "",
+                    "detail_link": "/player/lucas/pEjBDsSH/",
+                    "short_name": "Vazquez",
+                    "shirt_number": "17",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "81'",
+                            "description": "Benzema K.",
+                            "linked_player_hash": "tpV0VX0S"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Lucas Vazquez"
+                },
+                {
+                    "hash": "fmkHs3aU",
+                    "name": "Morata A.",
+                    "captain": "",
+                    "detail_link": "/player/morata-alvaro/fmkHs3aU/",
+                    "short_name": "Morata",
+                    "shirt_number": "21",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Alvaro Morata"
+                },
+                {
+                    "hash": "8pgzl3LK",
+                    "name": "Yanez R.",
+                    "captain": "",
+                    "detail_link": "/player/yanez-ruben/8pgzl3LK/",
+                    "short_name": "Yanez",
+                    "shirt_number": "25",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ruben Yanez"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "b7zuQEqO",
+                    "name": "Zidane Z.",
+                    "captain": "",
+                    "detail_link": "/player/zidane-zinedine/b7zuQEqO/",
+                    "short_name": "Zidane Z.",
+                    "shirt_number": "",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Zinedine Zidane"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-5-4-1",
+            "players": [
+                {
+                    "hash": "ldjKikv4",
+                    "name": "Camarasa V.",
+                    "captain": "",
+                    "detail_link": "/player/camarasa-victor/ldjKikv4/",
+                    "short_name": "Camarasa",
+                    "shirt_number": "8",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "83'",
+                            "description": "Santos C.",
+                            "linked_player_hash": "AkmgASBG"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Victor Camarasa"
+                },
+                {
+                    "hash": "SYTrIkij",
+                    "name": "Deyverson",
+                    "captain": "",
+                    "detail_link": "/player/deyverson/SYTrIkij/",
+                    "short_name": "Deyverson",
+                    "shirt_number": "20",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Deyverson"
+                },
+                {
+                    "hash": "OW3Q3NP7",
+                    "name": "Ely R.",
+                    "captain": "",
+                    "detail_link": "/player/ely-rodrigo/OW3Q3NP7/",
+                    "short_name": "Ely",
+                    "shirt_number": "2",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "17' Ely R. (Roughing)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Rodrigo Ely"
+                },
+                {
+                    "hash": "YwR0ECqk",
+                    "name": "Feddal Z.",
+                    "captain": "",
+                    "detail_link": "/player/feddal-zouhair/YwR0ECqk/",
+                    "short_name": "Feddal",
+                    "shirt_number": "24",
+                    "country": "Morocco",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Zouhair Feddal"
+                },
+                {
+                    "hash": "4pQawjUd",
+                    "name": "Garcia M.",
+                    "captain": "(C)",
+                    "detail_link": "/player/garcia-manu/4pQawjUd/",
+                    "short_name": "Garcia",
+                    "shirt_number": "19",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "87' Garcia M. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Manu Garcia"
+                },
+                {
+                    "hash": "ATurLHr0",
+                    "name": "Hernandez T.",
+                    "captain": "",
+                    "detail_link": "/player/hernandez-theo/ATurLHr0/",
+                    "short_name": "Hernandez",
+                    "shirt_number": "15",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Theo Hernandez"
+                },
+                {
+                    "hash": "ET7rkX7N",
+                    "name": "Ibai",
+                    "captain": "",
+                    "detail_link": "/player/ibai-gomez-perez/ET7rkX7N/",
+                    "short_name": "Ibai",
+                    "shirt_number": "11",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "69'",
+                            "description": "Romero O.",
+                            "linked_player_hash": "WOyo830b"
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Gomez Perez Ibai"
+                },
+                {
+                    "hash": "pzTvWn61",
+                    "name": "Laguardia V.",
+                    "captain": "",
+                    "detail_link": "/player/laguardia-victor/pzTvWn61/",
+                    "short_name": "Laguardia",
+                    "shirt_number": "5",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Victor Laguardia"
+                },
+                {
+                    "hash": "GUK7yL4Q",
+                    "name": "Mendez E.",
+                    "captain": "",
+                    "detail_link": "/player/mendez-edgar/GUK7yL4Q/",
+                    "short_name": "Mendez",
+                    "shirt_number": "17",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "75'",
+                            "description": "Katai A.",
+                            "linked_player_hash": "pfmGQQJC"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Edgar Mendez"
+                },
+                {
+                    "hash": "27U3P9mT",
+                    "name": "Pacheco F.",
+                    "captain": "",
+                    "detail_link": "/player/pacheco-fernando/27U3P9mT/",
+                    "short_name": "Pacheco",
+                    "shirt_number": "1",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Fernando Pacheco"
+                },
+                {
+                    "hash": "h4lwTcb0",
+                    "name": "Toquero G.",
+                    "captain": "",
+                    "detail_link": "/player/toquero-gaizka/h4lwTcb0/",
+                    "short_name": "Toquero Pinedo",
+                    "shirt_number": "18",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Gaizka Toquero Pinedo"
+                },
+                {
+                    "hash": "hMTvdnm2",
+                    "name": "Alexis",
+                    "captain": "",
+                    "detail_link": "/player/alexis/hMTvdnm2/",
+                    "short_name": "Alexis",
+                    "shirt_number": "4",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Alexis"
+                },
+                {
+                    "hash": "KI3A2f8L",
+                    "name": "Garcia R.",
+                    "captain": "",
+                    "detail_link": "/player/garcia-raul/KI3A2f8L/",
+                    "short_name": "Garcia",
+                    "shirt_number": "3",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Raul Garcia"
+                },
+                {
+                    "hash": "pfmGQQJC",
+                    "name": "Katai A.",
+                    "captain": "",
+                    "detail_link": "/player/katai-aleksandar/pfmGQQJC/",
+                    "short_name": "Katai",
+                    "shirt_number": "25",
+                    "country": "Serbia",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "75'",
+                            "description": "Mendez E.",
+                            "linked_player_hash": "GUK7yL4Q"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Aleksandar Katai"
+                },
+                {
+                    "hash": "jm0efsOE",
+                    "name": "Ortola A.",
+                    "captain": "",
+                    "detail_link": "/player/ortola-adrian/jm0efsOE/",
+                    "short_name": "Ortola",
+                    "shirt_number": "13",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Adrian Ortola"
+                },
+                {
+                    "hash": "WOyo830b",
+                    "name": "Romero O.",
+                    "captain": "",
+                    "detail_link": "/player/romero-oscar/WOyo830b/",
+                    "short_name": "Romero",
+                    "shirt_number": "10",
+                    "country": "Paraguay",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "69'",
+                            "description": "Ibai",
+                            "linked_player_hash": "ET7rkX7N"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Oscar Romero"
+                },
+                {
+                    "hash": "AkmgASBG",
+                    "name": "Santos C.",
+                    "captain": "",
+                    "detail_link": "/player/santos-christian/AkmgASBG/",
+                    "short_name": "Santos",
+                    "shirt_number": "9",
+                    "country": "Venezuela",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "83'",
+                            "description": "Camarasa V.",
+                            "linked_player_hash": "ldjKikv4"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Christian Santos"
+                },
+                {
+                    "hash": "pdZ7LxRt",
+                    "name": "Torres D.",
+                    "captain": "",
+                    "detail_link": "/player/torres-daniel/pdZ7LxRt/",
+                    "short_name": "Torres",
+                    "shirt_number": "16",
+                    "country": "Colombia",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Daniel Torres"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "pSbb1TF6",
+                    "name": "Pellegrino M.",
+                    "captain": "",
+                    "detail_link": "/player/pellegrino-mauricio/pSbb1TF6/",
+                    "short_name": "Pellegrino M.",
+                    "shirt_number": "",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Mauricio Pellegrino"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Sanchez J."
+    ],
+    "venue": [
+        "Estadio Santiago Bernab\u00e9u (Madrid)"
+    ],
+    "attendance": [
+        "76 875"
+    ],
+    "referee_matched": [
+        "Jose Sanchez"
+    ],
+    "referee_found": [
+        "Jose Sanchez"
+    ],
+    "coach_matched": [
+        "Mauricio Pellegrino"
+    ],
+    "gameHomeTeam": "Real Madrid",
+    "home": {
+        "name": "Real Madrid",
+        "detail_link": "/team/real-madrid/W8mj7MDD",
+        "hash": "W8mj7MDD",
+        "names": [
+            "Real Madrid",
+            "real madrid"
+        ]
+    },
+    "gameAwayTeam": "Alaves",
+    "away": {
+        "name": "Alaves",
+        "detail_link": "/team/alaves/hxt57t2q",
+        "hash": "hxt57t2q",
+        "names": [
+            "Alaves",
+            "alaves"
+        ]
+    },
+    "gameDate": "02/04/2017 - 16:15",
+    "annotations": [
+        {
+            "important": true,
+            "gameTime": "2 - 48:07",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match.",
+            "identified": "The referee blows his whistle for the final time to end this match.",
+            "anonymized": "The referee blows his whistle for the final time to end this match.",
+            "visibility": "shown",
+            "position": "2887000",
+            "event_aligned_gameTime": "2 - 48:07",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 47:20",
+            "label": "",
+            "description": "Theo Hernandez (Alaves) tries to send a pass but it's blocked.",
+            "identified": "[PLAYER_ATurLHr0] ([TEAM_]) tries to send a pass but it's blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked.",
+            "visibility": "shown",
+            "position": "2840000",
+            "event_aligned_gameTime": "2 - 47:20",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "3 min. of stoppage-time to be played.",
+            "identified": "3 min. of stoppage-time to be played.",
+            "anonymized": "3 min. of stoppage-time to be played.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 42:58",
+            "label": "soccer-ball",
+            "description": "Nacho (Real Madrid) gets to a rebound inside the six-yard box and produces a header. He manages to put the ball into the middle of the goal, and thus alter the score to 3:0.",
+            "identified": "[PLAYER_8Wp8ZCLG] ([TEAM_]) gets to a rebound inside the six-yard box and produces a header. He manages to put the ball into the middle of the goal, and thus alter the score to 3:0.",
+            "anonymized": "[PLAYER] ([TEAM]) gets to a rebound inside the six-yard box and produces a header. He manages to put the ball into the middle of the goal, and thus alter the score to 3:0.",
+            "visibility": "shown",
+            "position": "2578000",
+            "event_aligned_gameTime": "2 - 42:40",
+            "contrastive_aligned_gameTime": "2 - 42:29"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 42:50",
+            "label": "",
+            "description": "This should have been a goal! Gareth Bale (Real Madrid) takes a mid-range free kick and his effort flies straight as an arrow, but crashes against the crossbar. The keeper only turned his head and stared at the ball.",
+            "identified": "This should have been a goal! [PLAYER_4SPjLLiR] ([TEAM_]) takes a mid-range free kick and his effort flies straight as an arrow, but crashes against the crossbar. The keeper only turned his head and stared at the ball.",
+            "anonymized": "This should have been a goal! [PLAYER] ([TEAM]) takes a mid-range free kick and his effort flies straight as an arrow, but crashes against the crossbar. The keeper only turned his head and stared at the ball.",
+            "visibility": "shown",
+            "position": "2570000",
+            "event_aligned_gameTime": "2 - 42:30",
+            "contrastive_aligned_gameTime": "2 - 41:49"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 41:28",
+            "label": "y-card",
+            "description": "The foul by Manu Garcia (Alaves) is worthy of a card and a yellow is duly shown by Jose Sanchez.",
+            "identified": "The foul by [PLAYER_KI3A2f8L] ([TEAM_]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+            "anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+            "visibility": "shown",
+            "position": "2488000",
+            "event_aligned_gameTime": "2 - 41:30",
+            "contrastive_aligned_gameTime": "2 - 41:08"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 39:11",
+            "label": "soccer-ball",
+            "description": "Goal! Cristiano Ronaldo plays a pass to the feet of Isco (Real Madrid), and he shoots into the top right corner from inside the box. It's 2:0.",
+            "identified": "Goal! [PLAYER_WGOY4FSt] plays a pass to the feet of [PLAYER_ULLmpdEb] ([TEAM_]), and he shoots into the top right corner from inside the box. It's 2:0.",
+            "anonymized": "Goal! [PLAYER] plays a pass to the feet of [PLAYER] ([TEAM]), and he shoots into the top right corner from inside the box. It's 2:0.",
+            "visibility": "shown",
+            "position": "2351000",
+            "event_aligned_gameTime": "2 - 39:10",
+            "contrastive_aligned_gameTime": "2 - 39:51"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 38:29",
+            "label": "substitution",
+            "description": "Mauricio Pellegrino has decided to substitute Victor Camarasa and he is replaced by Christian Santos (Alaves).",
+            "identified": "[COACH_pSbb1TF6] has decided to substitute [PLAYER_ldjKikv4] and he is replaced by [PLAYER_AkmgASBG] ([TEAM_]).",
+            "anonymized": "[COACH] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2309000",
+            "event_aligned_gameTime": "2 - 38:00",
+            "contrastive_aligned_gameTime": "2 - 38:54"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:41",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the left post.",
+            "identified": "[PLAYER_4SPjLLiR] ([TEAM_]) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the left post.",
+            "visibility": "shown",
+            "position": "2261000",
+            "event_aligned_gameTime": "2 - 37:40",
+            "contrastive_aligned_gameTime": "2 - 37:08"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 35:58",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Lucas (Real Madrid) comes onto the pitch for Karim Benzema.",
+            "identified": "The referee stops play so that a substitution can be made and [PLAYER_pEjBDsSH] ([TEAM_]) comes onto the pitch for [PLAYER_tpV0VX0S].",
+            "anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) comes onto the pitch for [PLAYER].",
+            "visibility": "shown",
+            "position": "2158000",
+            "event_aligned_gameTime": "2 - 35:50",
+            "contrastive_aligned_gameTime": "2 - 35:47"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:26",
+            "label": "corner",
+            "description": "Alaves have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "identified": "[TEAM_] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+            "visibility": "shown",
+            "position": "2006000",
+            "event_aligned_gameTime": "2 - 32:50",
+            "contrastive_aligned_gameTime": "2 - 32:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:37",
+            "label": "",
+            "description": "Theo Hernandez (Alaves) tries to slide the ball through to a teammate but it's well blocked by a defender. It will be a corner kick for Alaves.",
+            "identified": "[PLAYER_ATurLHr0] ([TEAM_]) tries to slide the ball through to a teammate but it's well blocked by a defender. It will be a corner kick for [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. It will be a corner kick for [TEAM].",
+            "visibility": "shown",
+            "position": "1957000",
+            "event_aligned_gameTime": "2 - 32:50",
+            "contrastive_aligned_gameTime": "2 - 32:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 31:27",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) receives a reproachful look from Karim Benzema. He latches on to his pass, but the effort from the edge of the box sails well wide of the left post.",
+            "identified": "[PLAYER_WGOY4FSt] ([TEAM_]) receives a reproachful look from [PLAYER_tpV0VX0S]. He latches on to his pass, but the effort from the edge of the box sails well wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a reproachful look from [PLAYER]. He latches on to his pass, but the effort from the edge of the box sails well wide of the left post.",
+            "visibility": "shown",
+            "position": "1887000",
+            "event_aligned_gameTime": "2 - 31:27",
+            "contrastive_aligned_gameTime": "2 - 31:27"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 29:23",
+            "label": "substitution",
+            "description": "That will be all from Edgar Mendez who is being replaced by the fresh legs of Aleksandar Katai (Alaves).",
+            "identified": "That will be all from [PLAYER_GUK7yL4Q] who is being replaced by the fresh legs of [PLAYER_pfmGQQJC] ([TEAM_]).",
+            "anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1763000",
+            "event_aligned_gameTime": "2 - 29:20",
+            "contrastive_aligned_gameTime": "2 - 29:05"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:33",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "identified": "[PLAYER_WGOY4FSt] ([TEAM_]) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "visibility": "shown",
+            "position": "1713000",
+            "event_aligned_gameTime": "2 - 28:30",
+            "contrastive_aligned_gameTime": "2 - 28:32"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 24:38",
+            "label": "",
+            "description": "What an opportunity! Manu Garcia (Alaves) leaps high to meet a beautiful cross into the box from the resulting free kick, and he plants a header from near the penalty spot which goes a whisker wide of the right post.",
+            "identified": "What an opportunity! [PLAYER_KI3A2f8L] ([TEAM_]) leaps high to meet a beautiful cross into the box from the resulting free kick, and he plants a header from near the penalty spot which goes a whisker wide of the right post.",
+            "anonymized": "What an opportunity! [PLAYER] ([TEAM]) leaps high to meet a beautiful cross into the box from the resulting free kick, and he plants a header from near the penalty spot which goes a whisker wide of the right post.",
+            "visibility": "shown",
+            "position": "1478000",
+            "event_aligned_gameTime": "2 - 24:30",
+            "contrastive_aligned_gameTime": "2 - 24:32"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 23:23",
+            "label": "substitution",
+            "description": "Mauricio Pellegrino decides to make a substitution. Gomez Perez Ibai will be replaced by Oscar Romero (Alaves).",
+            "identified": "[COACH_pSbb1TF6] decides to make a substitution. [PLAYER_ET7rkX7N] will be replaced by [PLAYER_WOyo830b] ([TEAM_]).",
+            "anonymized": "[COACH] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1403000",
+            "event_aligned_gameTime": "2 - 23:20",
+            "contrastive_aligned_gameTime": "2 - 23:09"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 22:53",
+            "label": "substitution",
+            "description": "Here comes a substitution. Mateo Kovacic (Real Madrid) is brought on as a substitute for Luka Modric.",
+            "identified": "Here comes a substitution. [PLAYER_4f084TL7] ([TEAM_]) is brought on as a substitute for [PLAYER_bZWyoJnA].",
+            "anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+            "visibility": "shown",
+            "position": "1373000",
+            "event_aligned_gameTime": "2 - 22:40",
+            "contrastive_aligned_gameTime": "2 - 22:40"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:58",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards over the bar.",
+            "identified": "[PLAYER_WGOY4FSt] ([TEAM_]) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards over the bar.",
+            "visibility": "shown",
+            "position": "1318000",
+            "event_aligned_gameTime": "2 - 21:50",
+            "contrastive_aligned_gameTime": "2 - 21:14"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:15",
+            "label": "",
+            "description": "The foul by Gareth Bale (Real Madrid) was seen by Jose Sanchez who didn't hesitate to blow the whistle.",
+            "identified": "The foul by [PLAYER_4SPjLLiR] ([TEAM_]) was seen by [REFEREE] who didn't hesitate to blow the whistle.",
+            "anonymized": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle.",
+            "visibility": "shown",
+            "position": "1095000",
+            "event_aligned_gameTime": "2 - 18:15",
+            "contrastive_aligned_gameTime": "2 - 17:40"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 14:36",
+            "label": "",
+            "description": "Edgar Mendez (Alaves) misses a great opportunity from inside the penalty area after blasting the ball towards goal and it goes wide of the left post.",
+            "identified": "[PLAYER_GUK7yL4Q] ([TEAM_]) misses a great opportunity from inside the penalty area after blasting the ball towards goal and it goes wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) misses a great opportunity from inside the penalty area after blasting the ball towards goal and it goes wide of the left post.",
+            "visibility": "shown",
+            "position": "876000",
+            "event_aligned_gameTime": "2 - 14:30",
+            "contrastive_aligned_gameTime": "2 - 14:36"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:28",
+            "label": "",
+            "description": "Deyverson (Alaves) climbs high to connect with a cross near the penalty spot but plants a header well wide of the left post.",
+            "identified": "[PLAYER_SYTrIkij] ([TEAM_]) climbs high to connect with a cross near the penalty spot but plants a header well wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) climbs high to connect with a cross near the penalty spot but plants a header well wide of the left post.",
+            "visibility": "shown",
+            "position": "688000",
+            "event_aligned_gameTime": "2 - 11:20",
+            "contrastive_aligned_gameTime": "2 - 11:09"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:59",
+            "label": "",
+            "description": "Flag up against Cristiano Ronaldo (Real Madrid). He had space to move into behind the defence, but he went too soon.",
+            "identified": "Flag up against [PLAYER_WGOY4FSt] ([TEAM_]). He had space to move into behind the defence, but he went too soon.",
+            "anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon.",
+            "visibility": "shown",
+            "position": "599000",
+            "event_aligned_gameTime": "2 - 09:30",
+            "contrastive_aligned_gameTime": "2 - 09:13"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:14",
+            "label": "",
+            "description": "Danilo (Real Madrid) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "identified": "[PLAYER_KUjvgUhB] ([TEAM_]) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "anonymized": "[PLAYER] ([TEAM]) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "visibility": "shown",
+            "position": "494000",
+            "event_aligned_gameTime": "2 - 07:40",
+            "contrastive_aligned_gameTime": "2 - 08:01"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:05",
+            "label": "",
+            "description": "Real Madrid play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass.",
+            "identified": "[TEAM_] play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass.",
+            "anonymized": "[TEAM] play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass.",
+            "visibility": "shown",
+            "position": "485000",
+            "event_aligned_gameTime": "2 - 07:30",
+            "contrastive_aligned_gameTime": "2 - 07:40"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 06:27",
+            "label": "injury",
+            "description": "Danilo (Real Madrid) is down injured and the referee stops play so that he can receive medical treatment.",
+            "identified": "[PLAYER_KUjvgUhB] ([TEAM_]) is down injured and the referee stops play so that he can receive medical treatment.",
+            "anonymized": "[PLAYER] ([TEAM]) is down injured and the referee stops play so that he can receive medical treatment.",
+            "visibility": "shown",
+            "position": "387000",
+            "event_aligned_gameTime": "2 - 06:10",
+            "contrastive_aligned_gameTime": "2 - 06:51"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 04:49",
+            "label": "",
+            "description": "Daniel Carvajal (Real Madrid) was trying to get to the ball but clattered into the legs of the opponent as well. Jose Sanchez blows his whistle for an infringement.",
+            "identified": "[PLAYER_rZh5FTHE] ([TEAM_]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement.",
+            "anonymized": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement.",
+            "visibility": "shown",
+            "position": "289000",
+            "event_aligned_gameTime": "2 - 04:40",
+            "contrastive_aligned_gameTime": "2 - 04:40"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 04:13",
+            "label": "corner",
+            "description": "Gomez Perez Ibai (Alaves) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "identified": "[PLAYER_ET7rkX7N] ([TEAM_]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "visibility": "shown",
+            "position": "253000",
+            "event_aligned_gameTime": "2 - 04:10",
+            "contrastive_aligned_gameTime": "2 - 03:29"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:53",
+            "label": "",
+            "description": "Edgar Mendez (Alaves) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and the linesman points at the corner flag. Corner to Alaves.",
+            "identified": "[PLAYER_GUK7yL4Q] ([TEAM_]) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+            "visibility": "shown",
+            "position": "233000",
+            "event_aligned_gameTime": "2 - 03:50",
+            "contrastive_aligned_gameTime": "2 - 04:05"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 01:23",
+            "label": "",
+            "description": "The defence is alert as they clear a dangerous cross from Gaizka Toquero Pinedo (Alaves).",
+            "identified": "The defence is alert as they clear a dangerous cross from [PLAYER_h4lwTcb0] ([TEAM_]).",
+            "anonymized": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "83000",
+            "event_aligned_gameTime": "2 - 01:10",
+            "contrastive_aligned_gameTime": "2 - 01:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:40",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) is adjudged offside.",
+            "identified": "[PLAYER_tpV0VX0S] ([TEAM_]) is adjudged offside.",
+            "anonymized": "[PLAYER] ([TEAM]) is adjudged offside.",
+            "visibility": "shown",
+            "position": "40000",
+            "event_aligned_gameTime": "2 - 00:40",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Jose Sanchez blows his whistle and the second half starts.",
+            "identified": "[REFEREE] blows his whistle and the second half starts.",
+            "anonymized": "[REFEREE] blows his whistle and the second half starts.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 45:58",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "identified": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "anonymized": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "visibility": "shown",
+            "position": "2758000",
+            "event_aligned_gameTime": "1 - 44:55",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 45:41",
+            "label": "",
+            "description": "Danilo plays a lovely pass into Gareth Bale (Real Madrid), but he can't find the target. His strike from inside the box goes narrowly wide of the right post.",
+            "identified": "[PLAYER_KUjvgUhB] plays a lovely pass into [PLAYER_4SPjLLiR] ([TEAM_]), but he can't find the target. His strike from inside the box goes narrowly wide of the right post.",
+            "anonymized": "[PLAYER] plays a lovely pass into [PLAYER] ([TEAM]), but he can't find the target. His strike from inside the box goes narrowly wide of the right post.",
+            "visibility": "shown",
+            "position": "2741000",
+            "event_aligned_gameTime": "1 - 44:50",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 44:11",
+            "label": "",
+            "description": "Gomez Perez Ibai (Alaves) takes a long-range free kick and whips it into the box. The goalkeeper reads it well and leaps high to intercept the ball.",
+            "identified": "[PLAYER_ET7rkX7N] ([TEAM_]) takes a long-range free kick and whips it into the box. The goalkeeper reads it well and leaps high to intercept the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a long-range free kick and whips it into the box. The goalkeeper reads it well and leaps high to intercept the ball.",
+            "visibility": "shown",
+            "position": "2651000",
+            "event_aligned_gameTime": "1 - 44:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:20",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) flights in the cross, but the defender is alert and clears to safety.",
+            "identified": "[PLAYER_tpV0VX0S] ([TEAM_]) flights in the cross, but the defender is alert and clears to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety.",
+            "visibility": "shown",
+            "position": "2480000",
+            "event_aligned_gameTime": "1 - 41:20",
+            "contrastive_aligned_gameTime": "1 - 41:20"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 38:48",
+            "label": "",
+            "description": "Edgar Mendez (Alaves) is penalised for a foul. Jose Sanchez had a clear view and blows his whistle.",
+            "identified": "[PLAYER_GUK7yL4Q] ([TEAM_]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+            "anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+            "visibility": "shown",
+            "position": "2328000",
+            "event_aligned_gameTime": "1 - 38:50",
+            "contrastive_aligned_gameTime": "1 - 38:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:42",
+            "label": "",
+            "description": "Deyverson (Alaves) commits a rough foul. Jose Sanchez stops the game and makes a call.",
+            "identified": "[PLAYER_SYTrIkij] ([TEAM_]) commits a rough foul. [REFEREE] stops the game and makes a call.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call.",
+            "visibility": "shown",
+            "position": "2262000",
+            "event_aligned_gameTime": "1 - 37:40",
+            "contrastive_aligned_gameTime": "1 - 38:21"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:35",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "identified": "[PLAYER_CloE7jjr] ([TEAM_]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "visibility": "shown",
+            "position": "2135000",
+            "event_aligned_gameTime": "1 - 35:30",
+            "contrastive_aligned_gameTime": "1 - 35:41"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:07",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) hammered the ball from a long-range free kick only into the defensive wall. Real Madrid force a corner. They send men into the box.",
+            "identified": "[PLAYER_WGOY4FSt] ([TEAM_]) hammered the ball from a long-range free kick only into the defensive wall. [TEAM_] force a corner. They send men into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) hammered the ball from a long-range free kick only into the defensive wall. [TEAM] force a corner. They send men into the box.",
+            "visibility": "shown",
+            "position": "2107000",
+            "event_aligned_gameTime": "1 - 35:00",
+            "contrastive_aligned_gameTime": "1 - 35:00"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:46",
+            "label": "",
+            "description": "Manu Garcia (Alaves) makes an overly-aggressive challenge and Jose Sanchez blows his whistle for a foul. It's a free kick to Real Madrid, but it's in no position for a direct shot on goal.",
+            "identified": "[PLAYER_KI3A2f8L] ([TEAM_]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul. It's a free kick to [TEAM_], but it's in no position for a direct shot on goal.",
+            "anonymized": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul. It's a free kick to [TEAM], but it's in no position for a direct shot on goal.",
+            "visibility": "shown",
+            "position": "2086000",
+            "event_aligned_gameTime": "1 - 34:30",
+            "contrastive_aligned_gameTime": "1 - 33:52"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:19",
+            "label": "corner",
+            "description": "Isco (Real Madrid) takes the corner kick but the ball only finds the head of an opponent.",
+            "identified": "[PLAYER_ULLmpdEb] ([TEAM_]) takes the corner kick but the ball only finds the head of an opponent.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent.",
+            "visibility": "shown",
+            "position": "2059000",
+            "event_aligned_gameTime": "1 - 33:50",
+            "contrastive_aligned_gameTime": "1 - 33:53"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:37",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The referee blows his whistle, Real Madrid are awarded a corner kick.",
+            "identified": "[PLAYER_4SPjLLiR] ([TEAM_]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The referee blows his whistle, [TEAM_] are awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "2017000",
+            "event_aligned_gameTime": "1 - 33:20",
+            "contrastive_aligned_gameTime": "1 - 33:32"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:13",
+            "label": "",
+            "description": "Danilo (Real Madrid) looks to break free, but an opposing player clears the ball away.",
+            "identified": "[PLAYER_KUjvgUhB] ([TEAM_]) looks to break free, but an opposing player clears the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away.",
+            "visibility": "shown",
+            "position": "1993000",
+            "event_aligned_gameTime": "1 - 33:10",
+            "contrastive_aligned_gameTime": "1 - 32:40"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 30:37",
+            "label": "soccer-ball",
+            "description": "GOAL! Superb work from Daniel Carvajal, who plays a vital role in the build-up. He squares it to Karim Benzema (Real Madrid), who beats Fernando Pacheco with a brilliant shot into the left side of the net. 1:0.",
+            "identified": "GOAL! Superb work from [PLAYER_rZh5FTHE], who plays a vital role in the build-up. He squares it to [PLAYER_tpV0VX0S] ([TEAM_]), who beats [PLAYER_27U3P9mT] with a brilliant shot into the left side of the net. 1:0.",
+            "anonymized": "GOAL! Superb work from [PLAYER], who plays a vital role in the build-up. He squares it to [PLAYER] ([TEAM]), who beats [PLAYER] with a brilliant shot into the left side of the net. 1:0.",
+            "visibility": "shown",
+            "position": "1837000",
+            "event_aligned_gameTime": "1 - 30:20",
+            "contrastive_aligned_gameTime": "1 - 30:13"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 26:31",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) weaves through the defence with ease and gets one-on-one with the keeper, but fails to score with his strike towards the bottom left corner as Fernando Pacheco produces a good save.",
+            "identified": "[PLAYER_WGOY4FSt] ([TEAM_]) weaves through the defence with ease and gets one-on-one with the keeper, but fails to score with his strike towards the bottom left corner as [PLAYER_27U3P9mT] produces a good save.",
+            "anonymized": "[PLAYER] ([TEAM]) weaves through the defence with ease and gets one-on-one with the keeper, but fails to score with his strike towards the bottom left corner as [PLAYER] produces a good save.",
+            "visibility": "shown",
+            "position": "1591000",
+            "event_aligned_gameTime": "1 - 26:30",
+            "contrastive_aligned_gameTime": "1 - 26:29"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:29",
+            "label": "",
+            "description": "Isco (Real Madrid) unleashes a shot, but his effort is poor and floats high over the bar.",
+            "identified": "[PLAYER_ULLmpdEb] ([TEAM_]) unleashes a shot, but his effort is poor and floats high over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a shot, but his effort is poor and floats high over the bar.",
+            "visibility": "shown",
+            "position": "1469000",
+            "event_aligned_gameTime": "1 - 24:20",
+            "contrastive_aligned_gameTime": "1 - 24:11"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:45",
+            "label": "",
+            "description": "Manu Garcia (Alaves) was too forceful with his tackle and Jose Sanchez interrupted the game to signal a free kick.",
+            "identified": "[PLAYER_KI3A2f8L] ([TEAM_]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick.",
+            "visibility": "shown",
+            "position": "1365000",
+            "event_aligned_gameTime": "1 - 22:50",
+            "contrastive_aligned_gameTime": "1 - 22:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 21:08",
+            "label": "",
+            "description": "The referee blows his whistle, a clear handball by Luka Modric (Real Madrid).",
+            "identified": "The referee blows his whistle, a clear handball by [PLAYER_bZWyoJnA] ([TEAM_]).",
+            "anonymized": "The referee blows his whistle, a clear handball by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1268000",
+            "event_aligned_gameTime": "1 - 21:00",
+            "contrastive_aligned_gameTime": "1 - 21:47"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:19",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "identified": "[PLAYER_CloE7jjr] ([TEAM_]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "visibility": "shown",
+            "position": "1099000",
+            "event_aligned_gameTime": "1 - 18:00",
+            "contrastive_aligned_gameTime": "1 - 18:06"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:01",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) fails to send a pass into the box as his effort is cut out. Real Madrid force a corner. Their opponents will face another attacking threat.",
+            "identified": "[PLAYER_4SPjLLiR] ([TEAM_]) fails to send a pass into the box as his effort is cut out. [TEAM_] force a corner. Their opponents will face another attacking threat.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. [TEAM] force a corner. Their opponents will face another attacking threat.",
+            "visibility": "shown",
+            "position": "1081000",
+            "event_aligned_gameTime": "1 - 18:00",
+            "contrastive_aligned_gameTime": "1 - 18:02"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:07",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) sends the resulting free kick a whisker wide of the left post!",
+            "identified": "[PLAYER_4SPjLLiR] ([TEAM_]) sends the resulting free kick a whisker wide of the left post!",
+            "anonymized": "[PLAYER] ([TEAM]) sends the resulting free kick a whisker wide of the left post!",
+            "visibility": "shown",
+            "position": "1027000",
+            "event_aligned_gameTime": "1 - 17:00",
+            "contrastive_aligned_gameTime": "1 - 17:01"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 16:12",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Rodrigo Ely (Alaves). Jose Sanchez doesn't hesitate at all to make this decision.",
+            "identified": "A yellow card for a tackle by [PLAYER_OW3Q3NP7] ([TEAM_]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "visibility": "shown",
+            "position": "972000",
+            "event_aligned_gameTime": "1 - 16:10",
+            "contrastive_aligned_gameTime": "1 - 15:35"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:15",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!",
+            "identified": "[PLAYER_tpV0VX0S] ([TEAM_]) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!",
+            "visibility": "shown",
+            "position": "915000",
+            "event_aligned_gameTime": "1 - 14:50",
+            "contrastive_aligned_gameTime": "1 - 14:30"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:36",
+            "label": "",
+            "description": "The free kick is taken by Theo Hernandez (Alaves), but ball is cleared.",
+            "identified": "The free kick is taken by [PLAYER_ATurLHr0] ([TEAM_]), but ball is cleared.",
+            "anonymized": "The free kick is taken by [PLAYER] ([TEAM]), but ball is cleared.",
+            "visibility": "shown",
+            "position": "876000",
+            "event_aligned_gameTime": "1 - 14:10",
+            "contrastive_aligned_gameTime": "1 - 13:40"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:49",
+            "label": "",
+            "description": "Daniel Carvajal (Real Madrid) brings an opponent down and Jose Sanchez interrupts the game.",
+            "identified": "[PLAYER_rZh5FTHE] ([TEAM_]) brings an opponent down and [REFEREE] interrupts the game.",
+            "anonymized": "[PLAYER] ([TEAM]) brings an opponent down and [REFEREE] interrupts the game.",
+            "visibility": "shown",
+            "position": "829000",
+            "event_aligned_gameTime": "1 - 13:20",
+            "contrastive_aligned_gameTime": "1 - 13:49"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:58",
+            "label": "attendance",
+            "description": "The attendance is 76875.",
+            "identified": "The attendance is 76875.",
+            "anonymized": "The attendance is 76875.",
+            "visibility": "shown",
+            "position": "718000",
+            "event_aligned_gameTime": "1 - 11:50",
+            "contrastive_aligned_gameTime": "1 - 12:15"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:17",
+            "label": "corner",
+            "description": "Gomez Perez Ibai (Alaves) steps up to take the corner, but the ball just sails in among the defenders.",
+            "identified": "[PLAYER_ET7rkX7N] ([TEAM_]) steps up to take the corner, but the ball just sails in among the defenders.",
+            "anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders.",
+            "visibility": "shown",
+            "position": "677000",
+            "event_aligned_gameTime": "1 - 11:00",
+            "contrastive_aligned_gameTime": "1 - 11:06"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:01",
+            "label": "",
+            "description": "Victor Camarasa (Alaves) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. Alaves have a corner.",
+            "identified": "[PLAYER_ldjKikv4] ([TEAM_]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. [TEAM_] have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. [TEAM] have a corner.",
+            "visibility": "shown",
+            "position": "661000",
+            "event_aligned_gameTime": "1 - 11:00",
+            "contrastive_aligned_gameTime": "1 - 11:06"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 10:12",
+            "label": "substitution",
+            "description": "Raphael Varane has picked up an injury and is replaced by Daniel Carvajal (Real Madrid).",
+            "identified": "[PLAYER_t20vQIvC] has picked up an injury and is replaced by [PLAYER_rZh5FTHE] ([TEAM_]).",
+            "anonymized": "[PLAYER] has picked up an injury and is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "612000",
+            "event_aligned_gameTime": "1 - 10:10",
+            "contrastive_aligned_gameTime": "1 - 10:10"
+        }
+    ]
+}

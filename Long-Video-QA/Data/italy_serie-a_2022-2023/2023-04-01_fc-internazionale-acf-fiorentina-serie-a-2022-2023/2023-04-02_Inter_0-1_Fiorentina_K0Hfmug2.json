@@ -1,0 +1,934 @@
+{
+  "match_info": {
+    "timestamp": "2023-04-02 00:00:00",
+    "score": "0 - 1",
+    "home_team": "Inter",
+    "away_team": "Fiorentina",
+    "home_formation": "3 - 5 - 2",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Stadio Giuseppe Meazza (San Siro) (Milan)",
+    "capacity": "80 018",
+    "attendance": "73 576"
+  },
+  "referee_data": {
+    "short_name_country": "Maresca F. (Ita)",
+    "first_name": "Maresca",
+    "abbr_last_name": "F",
+    "country": "Ita",
+    "detected_name": "Fabio Maresca"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Italiano V.",
+        "players_number": "",
+        "Full Name": "Vincenzo Italiano",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "46,  (10.12.1977)",
+        "Market Value": "",
+        "unicode": "tjY4uUem"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Duncan A.",
+        "players_number": "",
+        "Full Name": "Alfred Duncan",
+        "players_rating": "",
+        "Country": "Ghana",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (10.03.1993)",
+        "Market Value": "€4.1m",
+        "unicode": "tjm4dqgg"
+      },
+      {
+        "players_name": "Jovic L.",
+        "players_number": "",
+        "Full Name": "Luka Jovic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (23.12.1997)",
+        "Market Value": "€4.6m",
+        "unicode": "viIS0FT7"
+      },
+      {
+        "players_name": "Sirigu S.",
+        "players_number": "",
+        "Full Name": "Salvatore Sirigu",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (12.01.1987)",
+        "Market Value": "€431k",
+        "unicode": "A3ywEtVi"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Biraghi C.",
+        "players_number": "3",
+        "Full Name": "Cristiano Biraghi",
+        "players_rating": 8.3,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (01.09.1992)",
+        "Market Value": "€3.9m",
+        "unicode": "h81ElhF9"
+      },
+      {
+        "players_name": "Bonaventura G. (C)",
+        "players_number": "5",
+        "Full Name": "Giacomo Bonaventura",
+        "players_rating": 8.1,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (22.08.1989)",
+        "Market Value": "€3.0m",
+        "unicode": "lxFZfQF4"
+      },
+      {
+        "players_name": "Cabral A.",
+        "players_number": "9",
+        "Full Name": "Arthur Cabral",
+        "players_rating": 7.6,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (25.04.1998)",
+        "Market Value": "€15.2m",
+        "unicode": "rwlLxxk1"
+      },
+      {
+        "players_name": "Castrovilli G.",
+        "players_number": "10",
+        "Full Name": "Gaetano Castrovilli",
+        "players_rating": 7.0,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (17.02.1997)",
+        "Market Value": "€7.6m",
+        "unicode": "ALBpOZPH"
+      },
+      {
+        "players_name": "Dodo",
+        "players_number": "2",
+        "Full Name": "Dodo",
+        "players_rating": 7.7,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (17.11.1998)",
+        "Market Value": "€19.6m",
+        "unicode": "6qJwoGCI"
+      },
+      {
+        "players_name": "Igor",
+        "players_number": "98",
+        "Full Name": "Igor",
+        "players_rating": 7.2,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (07.02.1998)",
+        "Market Value": "€16.2m",
+        "unicode": "MmgznMrP"
+      },
+      {
+        "players_name": "Ikone J.",
+        "players_number": "11",
+        "Full Name": "Jonathan Ikone",
+        "players_rating": 6.8,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (02.05.1998)",
+        "Market Value": "€12.0m",
+        "unicode": "xGBNss8O"
+      },
+      {
+        "players_name": "Mandragora R.",
+        "players_number": "38",
+        "Full Name": "Rolando Mandragora",
+        "players_rating": 7.3,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (29.06.1997)",
+        "Market Value": "€8.2m",
+        "unicode": "v9oBM840"
+      },
+      {
+        "players_name": "Martinez Quarta L.",
+        "players_number": "28",
+        "Full Name": "Lucas Martinez Quarta",
+        "players_rating": 6.6,
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (10.05.1996)",
+        "Market Value": "€13.7m",
+        "unicode": "KOGWbJk6"
+      },
+      {
+        "players_name": "Saponara R.",
+        "players_number": "8",
+        "Full Name": "Riccardo Saponara",
+        "players_rating": 6.8,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (21.12.1991)",
+        "Market Value": "€1.4m",
+        "unicode": "C0RyeQFh"
+      },
+      {
+        "players_name": "Terracciano P. (G)",
+        "players_number": "1",
+        "Full Name": "Pietro Terracciano",
+        "players_rating": 7.4,
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (08.03.1990)",
+        "Market Value": "€2.3m",
+        "unicode": "Wz2bzMVI"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Amrabat S.",
+        "players_number": "34",
+        "Full Name": "Sofyan Amrabat",
+        "players_rating": 6.3,
+        "Country": "Morocco",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (21.08.1996)",
+        "Market Value": "€27.0m",
+        "unicode": "r5WUFzf3"
+      },
+      {
+        "players_name": "Barak A.",
+        "players_number": "72",
+        "Full Name": "Antonin Barak",
+        "players_rating": 6.5,
+        "Country": "Czech Republic",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (03.12.1994)",
+        "Market Value": "€5.5m",
+        "unicode": "CAayjMI3"
+      },
+      {
+        "players_name": "Milenkovic N.",
+        "players_number": "4",
+        "Full Name": "Nikola Milenkovic",
+        "players_rating": 6.8,
+        "Country": "Serbia",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (12.10.1997)",
+        "Market Value": "€15.0m",
+        "unicode": "xAEQS3wr"
+      },
+      {
+        "players_name": "Ranieri L.",
+        "players_number": "16",
+        "Full Name": "Luca Ranieri",
+        "players_rating": 6.4,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (23.04.1999)",
+        "Market Value": "€4.9m",
+        "unicode": "boIt2f70"
+      },
+      {
+        "players_name": "Sottil R.",
+        "players_number": "33",
+        "Full Name": "Riccardo Sottil",
+        "players_rating": 6.1,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (03.06.1999)",
+        "Market Value": "€7.4m",
+        "unicode": "rkQyXmLB"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Bianco A.",
+        "players_number": "42",
+        "Full Name": "Alessandro Bianco",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (01.10.2002)",
+        "Market Value": "€1.4m",
+        "unicode": "r5YvrtEQ"
+      },
+      {
+        "players_name": "Brekalo J.",
+        "players_number": "77",
+        "Full Name": "Josip Brekalo",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (23.06.1998)",
+        "Market Value": "€4.1m",
+        "unicode": "QcPvNKjR"
+      },
+      {
+        "players_name": "Cerofolini M. (G)",
+        "players_number": "31",
+        "Full Name": "Michele Cerofolini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "25, (04.01.1999)",
+        "Market Value": "€518k",
+        "unicode": "bNZfXB2q"
+      },
+      {
+        "players_name": "Gonzalez N.",
+        "players_number": "22",
+        "Full Name": "Nicolas Gonzalez",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (06.04.1998)",
+        "Market Value": "€41.4m",
+        "unicode": "filNjPIq"
+      },
+      {
+        "players_name": "Kouame C.",
+        "players_number": "99",
+        "Full Name": "Christian Kouame",
+        "players_rating": "",
+        "Country": "Ivory Coast",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (06.12.1997)",
+        "Market Value": "€8.8m",
+        "unicode": "6ZevPMzQ"
+      },
+      {
+        "players_name": "Terzic A.",
+        "players_number": "15",
+        "Full Name": "Aleksa Terzic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (17.08.1999)",
+        "Market Value": "€3.7m",
+        "unicode": "SSY5rZc6"
+      },
+      {
+        "players_name": "Vannucchi T. (G)",
+        "players_number": "51",
+        "Full Name": "Tommaso Vannucchi",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "16, (05.05.2007)",
+        "Market Value": "30.06.2025",
+        "unicode": "tz6OQGaF"
+      },
+      {
+        "players_name": "Venuti L.",
+        "players_number": "23",
+        "Full Name": "Lorenzo Venuti",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (12.04.1995)",
+        "Market Value": "€1.4m",
+        "unicode": "dpMPW6zh"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Inzaghi S.",
+        "players_number": "",
+        "Full Name": "Simone Inzaghi",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "47,  (05.04.1976)",
+        "Market Value": "",
+        "unicode": "j32a3mqs"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Calhanoglu H.",
+        "players_number": "",
+        "Full Name": "Hakan Calhanoglu",
+        "players_rating": "",
+        "Country": "Turkey",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (08.02.1994)",
+        "Market Value": "€40.8m",
+        "unicode": "IRQeP5FJ"
+      },
+      {
+        "players_name": "Dalbert",
+        "players_number": "",
+        "Full Name": "Dalbert",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "€908k, (08.09.1993)",
+        "Market Value": "",
+        "unicode": "005SL6KH"
+      },
+      {
+        "players_name": "Dimarco F.",
+        "players_number": "",
+        "Full Name": "Federico Dimarco",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (10.11.1997)",
+        "Market Value": "€51.8m",
+        "unicode": "W6lypZn3"
+      },
+      {
+        "players_name": "Skriniar M.",
+        "players_number": "",
+        "Full Name": "Milan Skriniar",
+        "players_rating": "",
+        "Country": "Slovakia",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (11.02.1995)",
+        "Market Value": "€44.7m",
+        "unicode": "EqBuG0nE"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Acerbi F.",
+        "players_number": "15",
+        "Full Name": "Francesco Acerbi",
+        "players_rating": 6.8,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (10.02.1988)",
+        "Market Value": "€4.0m",
+        "unicode": "SrhnSpzL"
+      },
+      {
+        "players_name": "Barella N.",
+        "players_number": "23",
+        "Full Name": "Nicolo Barella",
+        "players_rating": 6.3,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (07.02.1997)",
+        "Market Value": "€73.4m",
+        "unicode": "W0yrjzz2"
+      },
+      {
+        "players_name": "Bastoni A.",
+        "players_number": "95",
+        "Full Name": "Alessandro Bastoni",
+        "players_rating": 6.7,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (13.04.1999)",
+        "Market Value": "€60.4m",
+        "unicode": "On4TkPTN"
+      },
+      {
+        "players_name": "Brozovic M. (C)",
+        "players_number": "77",
+        "Full Name": "Marcelo Brozovic",
+        "players_rating": 6.8,
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (16.11.1992)",
+        "Market Value": "€18.3m",
+        "unicode": "I52LaWD8"
+      },
+      {
+        "players_name": "Correa J.",
+        "players_number": "11",
+        "Full Name": "Joaquin Correa",
+        "players_rating": 6.6,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (13.08.1994)",
+        "Market Value": "€9.1m",
+        "unicode": "IkcGiQBb"
+      },
+      {
+        "players_name": "Darmian M.",
+        "players_number": "36",
+        "Full Name": "Matteo Darmian",
+        "players_rating": 6.9,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (02.12.1989)",
+        "Market Value": "€3.9m",
+        "unicode": "WbNknKk3"
+      },
+      {
+        "players_name": "Dumfries D.",
+        "players_number": "2",
+        "Full Name": "Denzel Dumfries",
+        "players_rating": 7.2,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (18.04.1996)",
+        "Market Value": "€29.4m",
+        "unicode": "QR0j1ejk"
+      },
+      {
+        "players_name": "Gosens R.",
+        "players_number": "8",
+        "Full Name": "Robin Gosens",
+        "players_rating": 6.7,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (05.07.1994)",
+        "Market Value": "€14.0m",
+        "unicode": "r1EFsksF"
+      },
+      {
+        "players_name": "Lukaku R.",
+        "players_number": "90",
+        "Full Name": "Romelu Lukaku",
+        "players_rating": 7.3,
+        "Country": "Belgium",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (13.05.1993)",
+        "Market Value": "€35.2m",
+        "unicode": "dCkG0Iw0"
+      },
+      {
+        "players_name": "Mkhitaryan H.",
+        "players_number": "22",
+        "Full Name": "Henrikh Mkhitaryan",
+        "players_rating": 7.1,
+        "Country": "Armenia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (21.01.1989)",
+        "Market Value": "€6.3m",
+        "unicode": "KKi1DwHC"
+      },
+      {
+        "players_name": "Onana A. (G)",
+        "players_number": "24",
+        "Full Name": "Andre Onana",
+        "players_rating": 6.5,
+        "Country": "Cameroon",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "27, (02.04.1996)",
+        "Market Value": "€38.6m",
+        "unicode": "OCuLGTrI"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Asllani K.",
+        "players_number": "14",
+        "Full Name": "Kristjan Asllani",
+        "players_rating": 6.4,
+        "Country": "Albania",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (09.03.2002)",
+        "Market Value": "€13.3m",
+        "unicode": "hzUi0u2S"
+      },
+      {
+        "players_name": "Bellanova R.",
+        "players_number": "12",
+        "Full Name": "Raoul Bellanova",
+        "players_rating": 6.7,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (17.05.2000)",
+        "Market Value": "€6.7m",
+        "unicode": "6BgYlqqU"
+      },
+      {
+        "players_name": "de Vrij S.",
+        "players_number": "6",
+        "Full Name": "Stefan de Vrij",
+        "players_rating": 6.6,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (05.02.1992)",
+        "Market Value": "€7.8m",
+        "unicode": "8Cf0NM4a"
+      },
+      {
+        "players_name": "Dzeko E.",
+        "players_number": "9",
+        "Full Name": "Edin Dzeko",
+        "players_rating": 5.9,
+        "Country": "Bosnia and Herzegovina",
+        "Role": "Forward",
+        "Age and Birthdate": "37, (17.03.1986)",
+        "Market Value": "€3.6m",
+        "unicode": "zilGmgZq"
+      },
+      {
+        "players_name": "Martinez La.",
+        "players_number": "10",
+        "Full Name": "Lautaro Martinez",
+        "players_rating": 6.4,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (22.08.1997)",
+        "Market Value": "€107.6m",
+        "unicode": "QHk1CXUh"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Carboni V.",
+        "players_number": "45",
+        "Full Name": "Valentin Carboni",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "18, (05.03.2005)",
+        "Market Value": "€4.8m",
+        "unicode": "0S6Hz5ji"
+      },
+      {
+        "players_name": "Cordaz A. (G)",
+        "players_number": "21",
+        "Full Name": "Alex Cordaz",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "41, (01.01.1983)",
+        "Market Value": "",
+        "unicode": "0hWAi5d7"
+      },
+      {
+        "players_name": "Gagliardini R.",
+        "players_number": "5",
+        "Full Name": "Roberto Gagliardini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (07.04.1994)",
+        "Market Value": "€3.8m",
+        "unicode": "f1Ft78yl"
+      },
+      {
+        "players_name": "Handanovic S. (G)",
+        "players_number": "1",
+        "Full Name": "Samir Handanovic",
+        "players_rating": "",
+        "Country": "Slovenia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "39, (14.07.1984)",
+        "Market Value": "",
+        "unicode": "Y9j38DnN"
+      },
+      {
+        "players_name": "Zanotti M.",
+        "players_number": "46",
+        "Full Name": "Mattia Zanotti",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (11.02.2003)",
+        "Market Value": "€1.8m",
+        "unicode": "EmD0fOVu"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "00:40",
+      "comments_type": "corner",
+      "comments_text": "A quickly taken corner by Fiorentina.",
+      "comments_text_anonymized": "A quickly taken corner by [TEAM].",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "04:39",
+      "comments_type": "corner",
+      "comments_text": "A cross from a corner kick by Inter is too strong and the ball goes well out of play.",
+      "comments_text_anonymized": "A cross from a corner kick by [TEAM] is too strong and the ball goes well out of play.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "07:14",
+      "comments_type": "corner",
+      "comments_text": "None of the Inter players could reach the corner kick as the ball was overhit and goes out of play.",
+      "comments_text_anonymized": "None of the [TEAM] players could reach the corner kick as the ball was overhit and goes out of play.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "08:37",
+      "comments_type": "corner",
+      "comments_text": "Marcelo Brozovic (Inter) is about to take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is about to take a corner kick.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:15",
+      "comments_type": "corner",
+      "comments_text": "A fantastic block by a defender means that the corner from Fiorentina comes to nothing.",
+      "comments_text_anonymized": "A fantastic block by a defender means that the corner from [TEAM] comes to nothing.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "14:53",
+      "comments_type": "corner",
+      "comments_text": "Fiorentina have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "17:17",
+      "comments_type": "corner",
+      "comments_text": "Inter have been awarded a corner kick.",
+      "comments_text_anonymized": "[TEAM] have been awarded a corner kick.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "19:30",
+      "comments_type": "corner",
+      "comments_text": "Inter quickly take a corner kick with a short pass.",
+      "comments_text_anonymized": "[TEAM] quickly take a corner kick with a short pass.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "19:56",
+      "comments_type": "corner",
+      "comments_text": "Cristiano Biraghi (Fiorentina) whips in a cross from the corner, but Andre Onana is well positioned and punches the ball away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in a cross from the corner, but [PLAYER] is well positioned and punches the ball away.",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "29:48",
+      "comments_type": "corner",
+      "comments_text": "Marcelo Brozovic (Inter) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+      "index": 9
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:50",
+      "comments_type": "corner",
+      "comments_text": "Marcelo Brozovic (Inter) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "index": 10
+    },
+    {
+      "half": 1,
+      "time_stamp": "42:08",
+      "comments_type": "corner",
+      "comments_text": "A good clearance by a defender means the corner comes to nothing for Fiorentina.",
+      "comments_text_anonymized": "A good clearance by a defender means the corner comes to nothing for [TEAM].",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:10",
+      "comments_type": "substitution",
+      "comments_text": "Here comes a substitution. Nikola Milenkovic (Fiorentina) is brought on as a substitute for Lucas Martinez Quarta.",
+      "comments_text_anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "03:29",
+      "comments_type": "corner",
+      "comments_text": "Marcelo Brozovic (Inter) takes the corner but fails to find any of his teammates as he overhits the effort.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates as he overhits the effort.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:50",
+      "comments_type": "corner",
+      "comments_text": "Corner kick. Fiorentina will have an opportunity.",
+      "comments_text_anonymized": "Corner kick. [TEAM] will have an opportunity.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:37",
+      "comments_type": "goal",
+      "comments_text": "An unlucky rebound falls to Giacomo Bonaventura (Fiorentina) and he scores with a bullet header.",
+      "comments_text_anonymized": "An unlucky rebound falls to [PLAYER] ([TEAM]) and he scores with a bullet header.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:05",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Cristiano Biraghi (Fiorentina) is cleared by the defence.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the defence.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:49",
+      "comments_type": "yellow card",
+      "comments_text": "A yellow card for a tackle by Gaetano Castrovilli (Fiorentina). Fabio Maresca doesn't hesitate at all to make this decision.",
+      "comments_text_anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:26",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Alessandro Bastoni makes his way off the pitch and Stefan de Vrij (Inter) comes on as his replacement.",
+      "comments_text_anonymized": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:30",
+      "comments_type": "substitution",
+      "comments_text": "Simone Inzaghi has decided to make a change. Raoul Bellanova (Inter) replaces Robin Gosens.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:23",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Joaquin Correa leaves the pitch and is replaced by Lautaro Martinez (Inter).",
+      "comments_text_anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:45",
+      "comments_type": "substitution",
+      "comments_text": "Vincenzo Italiano has decided to introduce fresh legs, with Riccardo Sottil (Fiorentina) replacing Riccardo Saponara.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:34",
+      "comments_type": "substitution",
+      "comments_text": "It's time for a substitution. That's the last involvement from Gaetano Castrovilli as he is replaced by Sofyan Amrabat (Fiorentina).",
+      "comments_text_anonymized": "It's time for a substitution. That's the last involvement from [PLAYER] as he is replaced by [PLAYER] ([TEAM]).",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:23",
+      "comments_type": "corner",
+      "comments_text": "Riccardo Sottil (Fiorentina) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. The referee and one of his assistants signal for a corner kick to Fiorentina.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. The referee and one of his assistants signal for a corner kick to [TEAM].",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:24",
+      "comments_type": "corner",
+      "comments_text": "Cristiano Biraghi (Fiorentina) takes the corner, but it's intercepted by the defender.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but it's intercepted by the defender.",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:07",
+      "comments_type": "corner",
+      "comments_text": "One of the defenders reacts at the last minute to brilliantly block a pass from Marcelo Brozovic (Inter). Inter have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "comments_text_anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]). [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:07",
+      "comments_type": "corner",
+      "comments_text": "Marcelo Brozovic (Inter) takes the corner kick but the ball only finds the head of an opponent. The referee blows his whistle, Inter are awarded a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:20",
+      "comments_type": "corner",
+      "comments_text": "None of the Inter players could reach the corner kick as the ball was overhit and goes out of play.",
+      "comments_text_anonymized": "None of the [TEAM] players could reach the corner kick as the ball was overhit and goes out of play.",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:13",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals that it is time for a substitution and Antonin Barak (Fiorentina) will replace Rolando Mandragora.",
+      "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) will replace [PLAYER].",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:21",
+      "comments_type": "yellow card",
+      "comments_text": "Jonathan Ikone (Fiorentina) is rightly booked by the referee because it could not have been anything other than a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is rightly booked by the referee because it could not have been anything other than a yellow card.",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:20",
+      "comments_type": "substitution",
+      "comments_text": "Vincenzo Italiano prepares a substitution. Jonathan Ikone is replaced by Luca Ranieri (Fiorentina).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 30
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:18",
+      "comments_type": "yellow card",
+      "comments_text": "Fabio Maresca shows a yellow card to Marcelo Brozovic (Inter), who isn't surprised as the tackle was really hard and late.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late.",
+      "index": 31
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:00",
+      "comments_type": "substitution",
+      "comments_text": "Henrikh Mkhitaryan comes off the pitch to be replaced by Kristjan Asllani (Inter).",
+      "comments_text_anonymized": "[PLAYER] comes off the pitch to be replaced by [PLAYER] ([TEAM]).",
+      "index": 32
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:00",
+      "comments_type": "substitution",
+      "comments_text": "That will be all from Marcelo Brozovic who is being replaced by the fresh legs of Edin Dzeko (Inter).",
+      "comments_text_anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] ([TEAM]).",
+      "index": 33
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:10",
+      "comments_type": "yellow card",
+      "comments_text": "Fabio Maresca shows a yellow card to Sofyan Amrabat (Fiorentina) for a tough tackle.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle.",
+      "index": 34
+    },
+    {
+      "half": 2,
+      "time_stamp": "49:36",
+      "comments_type": "yellow card",
+      "comments_text": "Today's referee Fabio Maresca rightly decides to book Francesco Acerbi (Inter) for his harsh tackle.",
+      "comments_text_anonymized": "Today's referee [REFEREE] rightly decides to book [PLAYER] ([TEAM]) for his harsh tackle.",
+      "index": 35
+    },
+    {
+      "half": 2,
+      "time_stamp": "50:31",
+      "comments_type": "yellow card",
+      "comments_text": "Vincenzo Italiano is stunned as referee Fabio Maresca shows him a yellow card. What was that for?",
+      "comments_text_anonymized": "[PLAYER] is stunned as referee [REFEREE] shows him a yellow card. What was that for?",
+      "index": 36
+    }
+  ]
+}

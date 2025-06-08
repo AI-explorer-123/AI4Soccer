@@ -1,0 +1,39 @@
+[
+  {
+    "question": "Who was the first player to receive a yellow card in the first half?",
+    "choices": [
+      "A. Simon Francis",
+      "B. Pablo Zabaleta",
+      "C. Neither",
+      "D. Both"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      7,
+      8
+    ],
+    "current_event_index": 8,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next goal after James Collins' goal?",
+    "choices": [
+      "A. West Ham",
+      "B. Bournemouth",
+      "C. Both teams equally",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 2,
+    "index": 7,
+    "event_type": "goal"
+  }
+]

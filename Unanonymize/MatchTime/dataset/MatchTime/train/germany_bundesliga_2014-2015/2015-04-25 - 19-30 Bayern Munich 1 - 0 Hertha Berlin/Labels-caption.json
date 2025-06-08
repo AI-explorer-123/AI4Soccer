@@ -1,0 +1,1817 @@
+{
+    "timestamp": "1429979400",
+    "score": "1 - 0",
+    "round": "30",
+    "teams": [
+        "Bayern Munich",
+        "Hertha Berlin"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-3-3",
+            "players": [
+                {
+                    "hash": "0bDEBms3",
+                    "name": "Boateng J.",
+                    "captain": "",
+                    "detail_link": "/player/boateng-jerome/0bDEBms3/",
+                    "short_name": "Boateng",
+                    "shirt_number": "17",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Jerome Boateng"
+                },
+                {
+                    "hash": "nNPcDNFr",
+                    "name": "Dante",
+                    "captain": "",
+                    "detail_link": "/player/dante/nNPcDNFr/",
+                    "short_name": "Dante",
+                    "shirt_number": "4",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Dante"
+                },
+                {
+                    "hash": "2ciZOLrI",
+                    "name": "Gaudino G.",
+                    "captain": "",
+                    "detail_link": "/player/gaudino-gianluca/2ciZOLrI/",
+                    "short_name": "Gaudino",
+                    "shirt_number": "16",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "46'",
+                            "description": "Kurt S.",
+                            "linked_player_hash": "joMOiqia"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Gianluca Gaudino"
+                },
+                {
+                    "hash": "veaF8P5m",
+                    "name": "Gotze M.",
+                    "captain": "",
+                    "detail_link": "/player/gotze-mario/veaF8P5m/",
+                    "short_name": "Gotze",
+                    "shirt_number": "19",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "75'",
+                            "description": "Pizarro C.",
+                            "linked_player_hash": "YLrSUIiF"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Mario Gotze"
+                },
+                {
+                    "hash": "MB26hXLr",
+                    "name": "Lahm P.",
+                    "captain": "(C)",
+                    "detail_link": "/player/lahm-philipp/MB26hXLr/",
+                    "short_name": "Lahm",
+                    "shirt_number": "21",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Philipp Lahm"
+                },
+                {
+                    "hash": "MVC8zHZD",
+                    "name": "Lewandowski R.",
+                    "captain": "",
+                    "detail_link": "/player/lewandowski-robert/MVC8zHZD/",
+                    "short_name": "Lewandowski",
+                    "shirt_number": "9",
+                    "country": "Poland",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Robert Lewandowski"
+                },
+                {
+                    "hash": "8KpOJV2B",
+                    "name": "Muller T.",
+                    "captain": "",
+                    "detail_link": "/player/muller-thomas/8KpOJV2B/",
+                    "short_name": "Muller",
+                    "shirt_number": "25",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "67'",
+                            "description": "Thiago",
+                            "linked_player_hash": "vcSKqUSq"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Thomas Muller"
+                },
+                {
+                    "hash": "Sh5KwIo6",
+                    "name": "Neuer M.",
+                    "captain": "",
+                    "detail_link": "/player/neuer-manuel/Sh5KwIo6/",
+                    "short_name": "Neuer",
+                    "shirt_number": "1",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Manuel Neuer"
+                },
+                {
+                    "hash": "2ukcBSGo",
+                    "name": "Rode S.",
+                    "captain": "",
+                    "detail_link": "/player/rode-sebastian/2ukcBSGo/",
+                    "short_name": "Rode",
+                    "shirt_number": "20",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Sebastian Rode"
+                },
+                {
+                    "hash": "Kj6ZEYc8",
+                    "name": "Schweinsteiger B.",
+                    "captain": "",
+                    "detail_link": "/player/schweinsteiger-bastian/Kj6ZEYc8/",
+                    "short_name": "Schweinsteiger",
+                    "shirt_number": "31",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "80' Schweinsteiger B. (Weiser M.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Bastian Schweinsteiger"
+                },
+                {
+                    "hash": "tYnkajw9",
+                    "name": "Weiser M.",
+                    "captain": "",
+                    "detail_link": "/player/weiser-mitchell/tYnkajw9/",
+                    "short_name": "Weiser",
+                    "shirt_number": "30",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "80' Schweinsteiger B. (Weiser M.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Mitchell Weiser"
+                },
+                {
+                    "hash": "hAcTWKKN",
+                    "name": "Alonso X.",
+                    "captain": "",
+                    "detail_link": "/player/alonso-xabi/hAcTWKKN/",
+                    "short_name": "Alonso",
+                    "shirt_number": "3",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Xabi Alonso"
+                },
+                {
+                    "hash": "Cd1ieN88",
+                    "name": "Bernat J.",
+                    "captain": "",
+                    "detail_link": "/player/bernat-juan/Cd1ieN88/",
+                    "short_name": "Bernat",
+                    "shirt_number": "18",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Juan Bernat"
+                },
+                {
+                    "hash": "joMOiqia",
+                    "name": "Kurt S.",
+                    "captain": "",
+                    "detail_link": "/player/kurt-sinan/joMOiqia/",
+                    "short_name": "Kurt",
+                    "shirt_number": "24",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "46'",
+                            "description": "Gaudino G.",
+                            "linked_player_hash": "2ciZOLrI"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sinan Kurt"
+                },
+                {
+                    "hash": "IiVRUCYs",
+                    "name": "Martinez J.",
+                    "captain": "",
+                    "detail_link": "/player/martinez-javi/IiVRUCYs/",
+                    "short_name": "Martinez",
+                    "shirt_number": "8",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Javi Martinez"
+                },
+                {
+                    "hash": "YLrSUIiF",
+                    "name": "Pizarro C.",
+                    "captain": "",
+                    "detail_link": "/player/pizarro-claudio/YLrSUIiF/",
+                    "short_name": "Pizarro",
+                    "shirt_number": "14",
+                    "country": "Peru",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "75'",
+                            "description": "Gotze M.",
+                            "linked_player_hash": "veaF8P5m"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Claudio Pizarro"
+                },
+                {
+                    "hash": "KrEhnvkN",
+                    "name": "Reina P.",
+                    "captain": "",
+                    "detail_link": "/player/reina-pepe/KrEhnvkN/",
+                    "short_name": "Reina",
+                    "shirt_number": "23",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Pepe Reina"
+                },
+                {
+                    "hash": "vcSKqUSq",
+                    "name": "Thiago",
+                    "captain": "",
+                    "detail_link": "/player/thiago/vcSKqUSq/",
+                    "short_name": "Thiago",
+                    "shirt_number": "6",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "67'",
+                            "description": "Muller T.",
+                            "linked_player_hash": "8KpOJV2B"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Thiago"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "hxNijWrJ",
+                    "name": "Guardiola P.",
+                    "captain": "",
+                    "detail_link": "/player/guardiola-pep/hxNijWrJ/",
+                    "short_name": "Guardiola P.",
+                    "shirt_number": "",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Pep Guardiola"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-2-3-1",
+            "players": [
+                {
+                    "hash": "vc4uJdid",
+                    "name": "Brooks J.",
+                    "captain": "",
+                    "detail_link": "/player/brooks-john/vc4uJdid/",
+                    "short_name": "Brooks",
+                    "shirt_number": "25",
+                    "country": "USA",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "John Brooks"
+                },
+                {
+                    "hash": "QwxAZ5yD",
+                    "name": "Burchert S.",
+                    "captain": "",
+                    "detail_link": "/player/burchert-sascha/QwxAZ5yD/",
+                    "short_name": "Burchert",
+                    "shirt_number": "30",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Sascha Burchert"
+                },
+                {
+                    "hash": "pnUT7JIs",
+                    "name": "Haraguchi G.",
+                    "captain": "",
+                    "detail_link": "/player/haraguchi-genki/pnUT7JIs/",
+                    "short_name": "Haraguchi",
+                    "shirt_number": "24",
+                    "country": "Japan",
+                    "facts": [],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Genki Haraguchi"
+                },
+                {
+                    "hash": "UynFNzpk",
+                    "name": "Kalou S.",
+                    "captain": "",
+                    "detail_link": "/player/kalou-salomon/UynFNzpk/",
+                    "short_name": "Kalou",
+                    "shirt_number": "11",
+                    "country": "Ivory Coast",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "62' Kalou S. (Unsportsmanlike conduct)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "66'",
+                            "description": "N'Djeng M.",
+                            "linked_player_hash": "KtLKb2be"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Salomon Kalou"
+                },
+                {
+                    "hash": "dlNUPWlG",
+                    "name": "Langkamp S.",
+                    "captain": "",
+                    "detail_link": "/player/langkamp-sebastian/dlNUPWlG/",
+                    "short_name": "Langkamp",
+                    "shirt_number": "15",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Sebastian Langkamp"
+                },
+                {
+                    "hash": "6T3XjsFC",
+                    "name": "Lustenberger F.",
+                    "captain": "(C)",
+                    "detail_link": "/player/lustenberger-fabian/6T3XjsFC/",
+                    "short_name": "Lustenberger",
+                    "shirt_number": "28",
+                    "country": "Switzerland",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Fabian Lustenberger"
+                },
+                {
+                    "hash": "42tMVVQa",
+                    "name": "Pekarik P.",
+                    "captain": "",
+                    "detail_link": "/player/pekarik-peter/42tMVVQa/",
+                    "short_name": "Pekarik",
+                    "shirt_number": "2",
+                    "country": "Slovakia",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Peter Pekarik"
+                },
+                {
+                    "hash": "lEbZ3p60",
+                    "name": "Plattenhardt M.",
+                    "captain": "",
+                    "detail_link": "/player/plattenhardt-marvin/lEbZ3p60/",
+                    "short_name": "Plattenhardt",
+                    "shirt_number": "21",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Marvin Plattenhardt"
+                },
+                {
+                    "hash": "hnyH2XyF",
+                    "name": "Schulz N.",
+                    "captain": "",
+                    "detail_link": "/player/schulz-nico/hnyH2XyF/",
+                    "short_name": "Schulz",
+                    "shirt_number": "26",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "83'",
+                            "description": "Wagner S.",
+                            "linked_player_hash": "bs5wEhDE"
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Nico Schulz"
+                },
+                {
+                    "hash": "63WKDBnI",
+                    "name": "Skjelbred P.",
+                    "captain": "",
+                    "detail_link": "/player/skjelbred-per/63WKDBnI/",
+                    "short_name": "Skjelbred",
+                    "shirt_number": "3",
+                    "country": "Norway",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Per Skjelbred"
+                },
+                {
+                    "hash": "pnHmRSC9",
+                    "name": "Stocker V.",
+                    "captain": "",
+                    "detail_link": "/player/stocker-valentin/pnHmRSC9/",
+                    "short_name": "Stocker",
+                    "shirt_number": "14",
+                    "country": "Switzerland",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "73'",
+                            "description": "Hegeler J.",
+                            "linked_player_hash": "I3kditoq"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Valentin Stocker"
+                },
+                {
+                    "hash": "pWc1VLFr",
+                    "name": "Gersbeck M.",
+                    "captain": "",
+                    "detail_link": "/player/gersbeck-marius/pWc1VLFr/",
+                    "short_name": "Gersbeck",
+                    "shirt_number": "35",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marius Gersbeck"
+                },
+                {
+                    "hash": "I3kditoq",
+                    "name": "Hegeler J.",
+                    "captain": "",
+                    "detail_link": "/player/hegeler-jens/I3kditoq/",
+                    "short_name": "Hegeler",
+                    "shirt_number": "13",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "73'",
+                            "description": "Stocker V.",
+                            "linked_player_hash": "pnHmRSC9"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jens Hegeler"
+                },
+                {
+                    "hash": "xKrTnuIc",
+                    "name": "Heitinga J.",
+                    "captain": "",
+                    "detail_link": "/player/heitinga-johnny/xKrTnuIc/",
+                    "short_name": "Heitinga",
+                    "shirt_number": "5",
+                    "country": "Netherlands",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Johnny Heitinga"
+                },
+                {
+                    "hash": "KtLKb2be",
+                    "name": "N'Djeng M.",
+                    "captain": "",
+                    "detail_link": "/player/n-djeng-marcel/KtLKb2be/",
+                    "short_name": "N'Djeng",
+                    "shirt_number": "8",
+                    "country": "Cameroon",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "66'",
+                            "description": "Kalou S.",
+                            "linked_player_hash": "UynFNzpk"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marcel N'Djeng"
+                },
+                {
+                    "hash": "pIiJbnbP",
+                    "name": "Niemeyer P.",
+                    "captain": "",
+                    "detail_link": "/player/niemeyer-peter/pIiJbnbP/",
+                    "short_name": "Niemeyer",
+                    "shirt_number": "18",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Peter Niemeyer"
+                },
+                {
+                    "hash": "4CNfejEA",
+                    "name": "Ronny",
+                    "captain": "",
+                    "detail_link": "/player/ronny/4CNfejEA/",
+                    "short_name": "Ronny",
+                    "shirt_number": "12",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Ronny"
+                },
+                {
+                    "hash": "bs5wEhDE",
+                    "name": "Wagner S.",
+                    "captain": "",
+                    "detail_link": "/player/wagner-sandro/bs5wEhDE/",
+                    "short_name": "Wagner",
+                    "shirt_number": "33",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "83'",
+                            "description": "Schulz N.",
+                            "linked_player_hash": "hnyH2XyF"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sandro Wagner"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "v12aAJdR",
+                    "name": "Dardai P.",
+                    "captain": "",
+                    "detail_link": "/player/dardai-pal/v12aAJdR/",
+                    "short_name": "Dardai P.",
+                    "shirt_number": "",
+                    "country": "Hungary",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Pal Dardai"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Winkmann G."
+    ],
+    "venue": [
+        "Allianz Arena (Munich)"
+    ],
+    "attendance": [
+        "75 000"
+    ],
+    "referee_matched": [
+        "Guido Winkmann"
+    ],
+    "referee_found": [
+        "Guido Winkmann"
+    ],
+    "coach_matched": [
+        "Pep Guardiola"
+    ],
+    "gameHomeTeam": "Bayern Munich",
+    "home": {
+        "name": "Bayern Munich",
+        "detail_link": "/team/bayern-munich/nVp0wiqd",
+        "hash": "nVp0wiqd",
+        "names": [
+            "Bayern Munich",
+            "bayern munich"
+        ]
+    },
+    "gameAwayTeam": "Hertha Berlin",
+    "away": {
+        "name": "Hertha Berlin",
+        "detail_link": "/team/hertha-berlin/2y0u8Wrq",
+        "hash": "2y0u8Wrq",
+        "names": [
+            "Hertha Berlin",
+            "Hertha Berlin (Ger)",
+            "hertha berlin"
+        ]
+    },
+    "gameDate": "25/04/2015 - 18:30",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "We have been watching a lacklustre game with only a few moments to excite the crowd. The players surely have better abilities, they just needed to motivate themselves a little more. This has been a real cat and mouse game, with the hosts coming out on top. The home team played possession football and the away players really focused on a well-organized defence.",
+            "identified": "We have been watching a lacklustre game with only a few moments to excite the crowd. The players surely have better abilities, they just needed to motivate themselves a little more. This has been a real cat and mouse game, with the hosts coming out on top. The home team played possession football and the away players really focused on a well-organized defence.",
+            "anonymized": "We have been watching a lacklustre game with only a few moments to excite the crowd. The players surely have better abilities, they just needed to motivate themselves a little more. This has been a real cat and mouse game, with the hosts coming out on top. The home team played possession football and the away players really focused on a well-organized defence.",
+            "visibility": "shown",
+            "position": "2879000",
+            "event_aligned_gameTime": "2 - 47:59",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 47:38",
+            "label": "whistle",
+            "description": "The match has just finished.",
+            "identified": "The match has just finished.",
+            "anonymized": "The match has just finished.",
+            "visibility": "shown",
+            "position": "2858000",
+            "event_aligned_gameTime": "2 - 47:38",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 46:38",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) chips a pass over the line of defenders to get the ball to Claudio Pizarro, but his attempt is intercepted and cleared.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) chips a pass over the line of defenders to get the ball to [PLAYER_YLrSUIiF], but his attempt is intercepted and cleared.",
+            "anonymized": "[PLAYER] ([TEAM]) chips a pass over the line of defenders to get the ball to [PLAYER], but his attempt is intercepted and cleared.",
+            "visibility": "shown",
+            "position": "2798000",
+            "event_aligned_gameTime": "2 - 46:38",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 45:46",
+            "label": "",
+            "description": "Marcel N'Djeng (Hertha Berlin) delivers a crossfield pass, but the ball is cut out before it reaches its intended target.",
+            "identified": "[PLAYER_KtLKb2be] ([TEAM_]) delivers a crossfield pass, but the ball is cut out before it reaches its intended target.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a crossfield pass, but the ball is cut out before it reaches its intended target.",
+            "visibility": "shown",
+            "position": "2746000",
+            "event_aligned_gameTime": "2 - 44:50",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "We will have 2 min. of added time.",
+            "identified": "We will have 2 min. of added time.",
+            "anonymized": "We will have 2 min. of added time.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:10",
+            "contrastive_aligned_gameTime": "2 - 45:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 44:41",
+            "label": "",
+            "description": "Guido Winkmann has a clear sight and sees a foul from Dante (Bayern Munich). Hertha Berlin have been awarded a free kick.",
+            "identified": "[REFEREE] has a clear sight and sees a foul from [PLAYER_nNPcDNFr] ([TEAM_]). [TEAM_] have been awarded a free kick.",
+            "anonymized": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM]). [TEAM] have been awarded a free kick.",
+            "visibility": "shown",
+            "position": "2681000",
+            "event_aligned_gameTime": "2 - 44:40",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 42:57",
+            "label": "",
+            "description": "Bastian Schweinsteiger (Bayern Munich) produced a promising shot low towards the middle of the goal after his wonderful solo run, but Sascha Burchert thwarted him with a fabulous save and the score remains the same.",
+            "identified": "[PLAYER_Kj6ZEYc8] ([TEAM_]) produced a promising shot low towards the middle of the goal after his wonderful solo run, but [PLAYER_QwxAZ5yD] thwarted him with a fabulous save and the score remains the same.",
+            "anonymized": "[PLAYER] ([TEAM]) produced a promising shot low towards the middle of the goal after his wonderful solo run, but [PLAYER] thwarted him with a fabulous save and the score remains the same.",
+            "visibility": "shown",
+            "position": "2577000",
+            "event_aligned_gameTime": "2 - 42:40",
+            "contrastive_aligned_gameTime": "2 - 41:57"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:31",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but Sascha Burchert was alert and the score remained the same.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but [PLAYER_QwxAZ5yD] was alert and the score remained the same.",
+            "anonymized": "[PLAYER] ([TEAM]) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but [PLAYER] was alert and the score remained the same.",
+            "visibility": "shown",
+            "position": "2491000",
+            "event_aligned_gameTime": "2 - 41:30",
+            "contrastive_aligned_gameTime": "2 - 41:51"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 40:33",
+            "label": "",
+            "description": "Jens Hegeler (Hertha Berlin) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",
+            "identified": "[PLAYER_I3kditoq] ([TEAM_]) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "2433000",
+            "event_aligned_gameTime": "2 - 40:30",
+            "contrastive_aligned_gameTime": "2 - 41:10"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 39:13",
+            "label": "attendance",
+            "description": "The attendance is 75000.",
+            "identified": "The attendance is 75000.",
+            "anonymized": "The attendance is 75000.",
+            "visibility": "shown",
+            "position": "2353000",
+            "event_aligned_gameTime": "2 - 39:10",
+            "contrastive_aligned_gameTime": "2 - 38:32"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 38:25",
+            "label": "",
+            "description": "Sebastian Langkamp (Hertha Berlin) brings an opponent down and Guido Winkmann interrupts the game. That's a free kick to Bayern Munich.",
+            "identified": "[PLAYER_dlNUPWlG] ([TEAM_]) brings an opponent down and [REFEREE] interrupts the game. That's a free kick to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) brings an opponent down and [REFEREE] interrupts the game. That's a free kick to [TEAM].",
+            "visibility": "shown",
+            "position": "2305000",
+            "event_aligned_gameTime": "2 - 38:10",
+            "contrastive_aligned_gameTime": "2 - 38:37"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:38",
+            "label": "",
+            "description": "Genki Haraguchi (Hertha Berlin) fails to time his run beyond the last defender and the linesman makes a good call by signalling for offside after seeing the whole situation unfold.",
+            "identified": "[PLAYER_pnUT7JIs] ([TEAM_]) fails to time his run beyond the last defender and the linesman makes a good call by signalling for offside after seeing the whole situation unfold.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to time his run beyond the last defender and the linesman makes a good call by signalling for offside after seeing the whole situation unfold.",
+            "visibility": "shown",
+            "position": "2258000",
+            "event_aligned_gameTime": "2 - 37:40",
+            "contrastive_aligned_gameTime": "2 - 37:36"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 37:16",
+            "label": "substitution",
+            "description": "It will be a substitution. Sandro Wagner (Hertha Berlin) is ready to enter the pitch as Nico Schulz walks off.",
+            "identified": "It will be a substitution. [PLAYER_bs5wEhDE] ([TEAM_]) is ready to enter the pitch as [PLAYER_hnyH2XyF] walks off.",
+            "anonymized": "It will be a substitution. [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off.",
+            "visibility": "shown",
+            "position": "2236000",
+            "event_aligned_gameTime": "2 - 37:10",
+            "contrastive_aligned_gameTime": "2 - 37:12"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 34:37",
+            "label": "soccer-ball",
+            "description": "Goal! Mitchell Weiser provides Bastian Schweinsteiger (Bayern Munich) with a nice pass inside the box. It allows him to finish with a precise effort into the top right corner. 1:0.",
+            "identified": "Goal! [PLAYER_tYnkajw9] provides [PLAYER_Kj6ZEYc8] ([TEAM_]) with a nice pass inside the box. It allows him to finish with a precise effort into the top right corner. 1:0.",
+            "anonymized": "Goal! [PLAYER] provides [PLAYER] ([TEAM]) with a nice pass inside the box. It allows him to finish with a precise effort into the top right corner. 1:0.",
+            "visibility": "shown",
+            "position": "2077000",
+            "event_aligned_gameTime": "2 - 34:30",
+            "contrastive_aligned_gameTime": "2 - 34:13"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 33:52",
+            "label": "",
+            "description": "Bastian Schweinsteiger (Bayern Munich) latches on to a superb cross into the box and hits the right post with his header. A stroke of luck for the goalkeeper!",
+            "identified": "[PLAYER_Kj6ZEYc8] ([TEAM_]) latches on to a superb cross into the box and hits the right post with his header. A stroke of luck for the goalkeeper!",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a superb cross into the box and hits the right post with his header. A stroke of luck for the goalkeeper!",
+            "visibility": "shown",
+            "position": "2032000",
+            "event_aligned_gameTime": "2 - 33:50",
+            "contrastive_aligned_gameTime": "2 - 34:13"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:02",
+            "label": "",
+            "description": "Bastian Schweinsteiger (Bayern Munich) didn't manage to convert the resulting corner kick into a goal. He produced a header from a dangerous position inside the box, but he sent it well over the bar.",
+            "identified": "[PLAYER_Kj6ZEYc8] ([TEAM_]) didn't manage to convert the resulting corner kick into a goal. He produced a header from a dangerous position inside the box, but he sent it well over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) didn't manage to convert the resulting corner kick into a goal. He produced a header from a dangerous position inside the box, but he sent it well over the bar.",
+            "visibility": "shown",
+            "position": "1922000",
+            "event_aligned_gameTime": "2 - 31:20",
+            "contrastive_aligned_gameTime": "2 - 31:27"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 31:44",
+            "label": "corner",
+            "description": "Corner kick. Thiago Alcantara (Bayern Munich) is ready to send the ball into the box.",
+            "identified": "Corner kick. [PLAYER_vcSKqUSq] ([TEAM_]) is ready to send the ball into the box.",
+            "anonymized": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box.",
+            "visibility": "shown",
+            "position": "1904000",
+            "event_aligned_gameTime": "2 - 31:40",
+            "contrastive_aligned_gameTime": "2 - 31:36"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 31:13",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) outjumps the defence to meet the resulting corner and heads the ball towards the right side of the goal. The long-range header is not powerful enough, and the keeper comfortably makes a save. Bayern Munich force their opponents to concede a corner.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) outjumps the defence to meet the resulting corner and heads the ball towards the right side of the goal. The long-range header is not powerful enough, and the keeper comfortably makes a save. [TEAM_] force their opponents to concede a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) outjumps the defence to meet the resulting corner and heads the ball towards the right side of the goal. The long-range header is not powerful enough, and the keeper comfortably makes a save. [TEAM] force their opponents to concede a corner.",
+            "visibility": "shown",
+            "position": "1873000",
+            "event_aligned_gameTime": "2 - 31:10",
+            "contrastive_aligned_gameTime": "2 - 31:26"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:57",
+            "label": "corner",
+            "description": "Thiago Alcantara (Bayern Munich) will deliver the ball into the penalty box from a corner kick.",
+            "identified": "[PLAYER_vcSKqUSq] ([TEAM_]) will deliver the ball into the penalty box from a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+            "visibility": "shown",
+            "position": "1857000",
+            "event_aligned_gameTime": "2 - 30:50",
+            "contrastive_aligned_gameTime": "2 - 30:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:42",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) fails to find any of his teammates inside the box as his pass is blocked. The ball goes out for a corner. Bayern Munich can continue in their attacking effort.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) fails to find any of his teammates inside the box as his pass is blocked. The ball goes out for a corner. [TEAM_] can continue in their attacking effort.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. The ball goes out for a corner. [TEAM] can continue in their attacking effort.",
+            "visibility": "shown",
+            "position": "1842000",
+            "event_aligned_gameTime": "2 - 30:40",
+            "contrastive_aligned_gameTime": "2 - 30:15"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:14",
+            "label": "corner",
+            "description": "Sinan Kurt (Bayern Munich) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "identified": "[PLAYER_joMOiqia] ([TEAM_]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "visibility": "shown",
+            "position": "1814000",
+            "event_aligned_gameTime": "2 - 30:10",
+            "contrastive_aligned_gameTime": "2 - 30:54"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 29:57",
+            "label": "substitution",
+            "description": "That will be all from Mario Gotze who is being replaced by the fresh legs of Claudio Pizarro (Bayern Munich).",
+            "identified": "That will be all from [PLAYER_veaF8P5m] who is being replaced by the fresh legs of [PLAYER_YLrSUIiF] ([TEAM_]).",
+            "anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1797000",
+            "event_aligned_gameTime": "2 - 29:50",
+            "contrastive_aligned_gameTime": "2 - 29:52"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 29:22",
+            "label": "",
+            "description": "Jerome Boateng (Bayern Munich) attempts a long crossfield pass, but the defence does well to intercept the ball. The ball is out of play and the linesman points at the corner flag. Corner to Bayern Munich.",
+            "identified": "[PLAYER_0bDEBms3] ([TEAM_]) attempts a long crossfield pass, but the defence does well to intercept the ball. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) attempts a long crossfield pass, but the defence does well to intercept the ball. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+            "visibility": "shown",
+            "position": "1762000",
+            "event_aligned_gameTime": "2 - 29:20",
+            "contrastive_aligned_gameTime": "2 - 29:14"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:39",
+            "label": "",
+            "description": "A cross is clipped into the penalty area by Jerome Boateng (Bayern Munich) but poses no threat.",
+            "identified": "A cross is clipped into the penalty area by [PLAYER_0bDEBms3] ([TEAM_]) but poses no threat.",
+            "anonymized": "A cross is clipped into the penalty area by [PLAYER] ([TEAM]) but poses no threat.",
+            "visibility": "shown",
+            "position": "1719000",
+            "event_aligned_gameTime": "2 - 28:20",
+            "contrastive_aligned_gameTime": "2 - 28:31"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 27:29",
+            "label": "substitution",
+            "description": "Substitution. Valentin Stocker makes way for Jens Hegeler (Hertha Berlin).",
+            "identified": "Substitution. [PLAYER_pnHmRSC9] makes way for [PLAYER_I3kditoq] ([TEAM_]).",
+            "anonymized": "Substitution. [PLAYER] makes way for [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1649000",
+            "event_aligned_gameTime": "2 - 27:00",
+            "contrastive_aligned_gameTime": "2 - 27:12"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:05",
+            "label": "",
+            "description": "The ball is cleared after Mario Gotze (Bayern Munich) attempted to dribble past an opposing player.",
+            "identified": "The ball is cleared after [PLAYER_veaF8P5m] ([TEAM_]) attempted to dribble past an opposing player.",
+            "anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player.",
+            "visibility": "shown",
+            "position": "1625000",
+            "event_aligned_gameTime": "2 - 26:50",
+            "contrastive_aligned_gameTime": "2 - 26:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:49",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) should know this behaviour is beyond the rules. He was too careless with his challenge and left Guido Winkmann no option but to blow his whistle.",
+            "identified": "[PLAYER_vcSKqUSq] ([TEAM_]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle.",
+            "anonymized": "[PLAYER] ([TEAM]) should know this behaviour is beyond the rules. He was too careless with his challenge and left [REFEREE] no option but to blow his whistle.",
+            "visibility": "shown",
+            "position": "1549000",
+            "event_aligned_gameTime": "2 - 25:30",
+            "contrastive_aligned_gameTime": "2 - 26:14"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:30",
+            "label": "",
+            "description": "A cross is whipped into the box by Jerome Boateng (Bayern Munich) and Robert Lewandowski controls it well. He lines up the ball, but one of the defenders produces a timely intervention.",
+            "identified": "A cross is whipped into the box by [PLAYER_0bDEBms3] ([TEAM_]) and [PLAYER_MVC8zHZD] controls it well. He lines up the ball, but one of the defenders produces a timely intervention.",
+            "anonymized": "A cross is whipped into the box by [PLAYER] ([TEAM]) and [PLAYER] controls it well. He lines up the ball, but one of the defenders produces a timely intervention.",
+            "visibility": "shown",
+            "position": "1530000",
+            "event_aligned_gameTime": "2 - 25:30",
+            "contrastive_aligned_gameTime": "2 - 25:24"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 24:18",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) sends a cross into the box, but Sascha Burchert comes off his line to gather the ball.",
+            "identified": "[PLAYER_vcSKqUSq] ([TEAM_]) sends a cross into the box, but [PLAYER_QwxAZ5yD] comes off his line to gather the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball.",
+            "visibility": "shown",
+            "position": "1458000",
+            "event_aligned_gameTime": "2 - 24:10",
+            "contrastive_aligned_gameTime": "2 - 24:25"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 23:22",
+            "label": "",
+            "description": "A poorly executed mid-range free kick by Marvin Plattenhardt (Hertha Berlin) as he fails to deliver a decent cross.",
+            "identified": "A poorly executed mid-range free kick by [PLAYER_lEbZ3p60] ([TEAM_]) as he fails to deliver a decent cross.",
+            "anonymized": "A poorly executed mid-range free kick by [PLAYER] ([TEAM]) as he fails to deliver a decent cross.",
+            "visibility": "shown",
+            "position": "1402000",
+            "event_aligned_gameTime": "2 - 23:20",
+            "contrastive_aligned_gameTime": "2 - 23:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 22:45",
+            "label": "",
+            "description": "Guido Winkmann blows his whistle and signals a foul after Mitchell Weiser (Bayern Munich) brought his opponent down. It's a free kick to Hertha Berlin, but it's in no position for a direct shot on goal.",
+            "identified": "[REFEREE] blows his whistle and signals a foul after [PLAYER_tYnkajw9] ([TEAM_]) brought his opponent down. It's a free kick to [TEAM_], but it's in no position for a direct shot on goal.",
+            "anonymized": "[REFEREE] blows his whistle and signals a foul after [PLAYER] ([TEAM]) brought his opponent down. It's a free kick to [TEAM], but it's in no position for a direct shot on goal.",
+            "visibility": "shown",
+            "position": "1365000",
+            "event_aligned_gameTime": "2 - 22:45",
+            "contrastive_aligned_gameTime": "2 - 22:52"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 22:14",
+            "label": "",
+            "description": "Jerome Boateng (Bayern Munich) tries his luck with a low long-range effort after receiving a precise pass, but Sascha Burchert has a clear view of it and makes a comfortable save.",
+            "identified": "[PLAYER_0bDEBms3] ([TEAM_]) tries his luck with a low long-range effort after receiving a precise pass, but [PLAYER_QwxAZ5yD] has a clear view of it and makes a comfortable save.",
+            "anonymized": "[PLAYER] ([TEAM]) tries his luck with a low long-range effort after receiving a precise pass, but [PLAYER] has a clear view of it and makes a comfortable save.",
+            "visibility": "shown",
+            "position": "1334000",
+            "event_aligned_gameTime": "2 - 22:10",
+            "contrastive_aligned_gameTime": "2 - 22:10"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 21:19",
+            "label": "substitution",
+            "description": "Pep Guardiola prepares a substitution. Thomas Muller is replaced by Thiago Alcantara (Bayern Munich).",
+            "identified": "[COACH_hxNijWrJ] prepares a substitution. [PLAYER_8KpOJV2B] is replaced by [PLAYER_vcSKqUSq] ([TEAM_]).",
+            "anonymized": "[COACH] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1279000",
+            "event_aligned_gameTime": "2 - 21:10",
+            "contrastive_aligned_gameTime": "2 - 21:10"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 20:44",
+            "label": "substitution",
+            "description": "We are about to witness a substitution. Marcel N'Djeng (Hertha Berlin) is replacing Salomon Kalou.",
+            "identified": "We are about to witness a substitution. [PLAYER_KtLKb2be] ([TEAM_]) is replacing [PLAYER_UynFNzpk].",
+            "anonymized": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER].",
+            "visibility": "shown",
+            "position": "1244000",
+            "event_aligned_gameTime": "2 - 20:30",
+            "contrastive_aligned_gameTime": "2 - 20:33"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:04",
+            "label": "",
+            "description": "That's a well-taken pass by Robert Lewandowski (Bayern Munich). He unleashes a strike from the edge of the box, but blazes it high over the bar.",
+            "identified": "That's a well-taken pass by [PLAYER_MVC8zHZD] ([TEAM_]). He unleashes a strike from the edge of the box, but blazes it high over the bar.",
+            "anonymized": "That's a well-taken pass by [PLAYER] ([TEAM]). He unleashes a strike from the edge of the box, but blazes it high over the bar.",
+            "visibility": "shown",
+            "position": "1144000",
+            "event_aligned_gameTime": "2 - 19:00",
+            "contrastive_aligned_gameTime": "2 - 18:23"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:34",
+            "label": "corner",
+            "description": "The resulting corner from Sinan Kurt (Bayern Munich) is cleared by the defence.",
+            "identified": "The resulting corner from [PLAYER_joMOiqia] ([TEAM_]) is cleared by the defence.",
+            "anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the defence.",
+            "visibility": "shown",
+            "position": "1114000",
+            "event_aligned_gameTime": "2 - 18:30",
+            "contrastive_aligned_gameTime": "2 - 19:09"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 18:27",
+            "label": "",
+            "description": "A pass from Sinan Kurt (Bayern Munich) is intercepted by Sascha Burchert and the move breaks down. Bayern Munich will have a chance to score from a corner kick.",
+            "identified": "A pass from [PLAYER_joMOiqia] ([TEAM_]) is intercepted by [PLAYER_QwxAZ5yD] and the move breaks down. [TEAM_] will have a chance to score from a corner kick.",
+            "anonymized": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down. [TEAM] will have a chance to score from a corner kick.",
+            "visibility": "shown",
+            "position": "1107000",
+            "event_aligned_gameTime": "2 - 18:27",
+            "contrastive_aligned_gameTime": "2 - 18:03"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 16:54",
+            "label": "y-card",
+            "description": "Salomon Kalou (Hertha Berlin) gets a yellow card.",
+            "identified": "[PLAYER_UynFNzpk] ([TEAM_]) gets a yellow card.",
+            "anonymized": "[PLAYER] ([TEAM]) gets a yellow card.",
+            "visibility": "shown",
+            "position": "1014000",
+            "event_aligned_gameTime": "2 - 16:50",
+            "contrastive_aligned_gameTime": "2 - 16:56"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 16:20",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Philipp Lahm (Bayern Munich), is intercepted by the opposition's defence.",
+            "identified": "A fine lofted pass into the box, sent by [PLAYER_MB26hXLr] ([TEAM_]), is intercepted by the opposition's defence.",
+            "anonymized": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence.",
+            "visibility": "shown",
+            "position": "980000",
+            "event_aligned_gameTime": "2 - 15:50",
+            "contrastive_aligned_gameTime": "2 - 16:34"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:15",
+            "label": "",
+            "description": "Bayern Munich hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break.",
+            "identified": "[TEAM_] hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break.",
+            "anonymized": "[TEAM] hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break.",
+            "visibility": "shown",
+            "position": "915000",
+            "event_aligned_gameTime": "2 - 15:20",
+            "contrastive_aligned_gameTime": "2 - 14:55"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 13:24",
+            "label": "",
+            "description": "Sinan Kurt (Bayern Munich) sends a low pass from outside the box to Robert Lewandowski. He lines up a shot, but the defence intercepts at the last moment.",
+            "identified": "[PLAYER_joMOiqia] ([TEAM_]) sends a low pass from outside the box to [PLAYER_MVC8zHZD]. He lines up a shot, but the defence intercepts at the last moment.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a low pass from outside the box to [PLAYER]. He lines up a shot, but the defence intercepts at the last moment.",
+            "visibility": "shown",
+            "position": "804000",
+            "event_aligned_gameTime": "2 - 13:10",
+            "contrastive_aligned_gameTime": "2 - 13:36"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:25",
+            "label": "",
+            "description": "A player from Bayern Munich brings down an opponent and commits a foul.",
+            "identified": "A player from [TEAM_] brings down an opponent and commits a foul.",
+            "anonymized": "A player from [TEAM] brings down an opponent and commits a foul.",
+            "visibility": "shown",
+            "position": "625000",
+            "event_aligned_gameTime": "2 - 10:20",
+            "contrastive_aligned_gameTime": "2 - 10:54"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:55",
+            "label": "corner",
+            "description": "Marvin Plattenhardt (Hertha Berlin) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "identified": "[PLAYER_lEbZ3p60] ([TEAM_]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "visibility": "shown",
+            "position": "595000",
+            "event_aligned_gameTime": "2 - 09:30",
+            "contrastive_aligned_gameTime": "2 - 09:52"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 09:22",
+            "label": "",
+            "description": "Nico Schulz (Hertha Berlin) zig-zags his way into the box and drills a low shot towards the left post, but the goalkeeper pulls off a superb stop. Now Hertha Berlin have a corner.",
+            "identified": "[PLAYER_hnyH2XyF] ([TEAM_]) zig-zags his way into the box and drills a low shot towards the left post, but the goalkeeper pulls off a superb stop. Now [TEAM_] have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) zig-zags his way into the box and drills a low shot towards the left post, but the goalkeeper pulls off a superb stop. Now [TEAM] have a corner.",
+            "visibility": "shown",
+            "position": "562000",
+            "event_aligned_gameTime": "2 - 09:20",
+            "contrastive_aligned_gameTime": "2 - 09:10"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:39",
+            "label": "",
+            "description": "Valentin Stocker (Hertha Berlin) dribbled past his opponents before finding himself in a great position to strike. His attempt from just outside of the box went towards the bottom left corner, but it wasn't dangerous and Manuel Neuer made a comfortable save.",
+            "identified": "[PLAYER_pnHmRSC9] ([TEAM_]) dribbled past his opponents before finding himself in a great position to strike. His attempt from just outside of the box went towards the bottom left corner, but it wasn't dangerous and [PLAYER_Sh5KwIo6] made a comfortable save.",
+            "anonymized": "[PLAYER] ([TEAM]) dribbled past his opponents before finding himself in a great position to strike. His attempt from just outside of the box went towards the bottom left corner, but it wasn't dangerous and [PLAYER] made a comfortable save.",
+            "visibility": "shown",
+            "position": "519000",
+            "event_aligned_gameTime": "2 - 08:30",
+            "contrastive_aligned_gameTime": "2 - 09:09"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:47",
+            "label": "",
+            "description": "Neat link-up play between Sinan Kurt (Bayern Munich) and Thomas Muller, but Sascha Burchert reads the game well and the move breaks down.",
+            "identified": "Neat link-up play between [PLAYER_joMOiqia] ([TEAM_]) and [PLAYER_8KpOJV2B], but [PLAYER_QwxAZ5yD] reads the game well and the move breaks down.",
+            "anonymized": "Neat link-up play between [PLAYER] ([TEAM]) and [PLAYER], but [PLAYER] reads the game well and the move breaks down.",
+            "visibility": "shown",
+            "position": "467000",
+            "event_aligned_gameTime": "2 - 07:40",
+            "contrastive_aligned_gameTime": "2 - 07:53"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:01",
+            "label": "",
+            "description": "Mitchell Weiser (Bayern Munich) swings a cross into the box, but it's far too close to Sascha Burchert, who smothers the ball.",
+            "identified": "[PLAYER_tYnkajw9] ([TEAM_]) swings a cross into the box, but it's far too close to [PLAYER_QwxAZ5yD], who smothers the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball.",
+            "visibility": "shown",
+            "position": "421000",
+            "event_aligned_gameTime": "2 - 06:50",
+            "contrastive_aligned_gameTime": "2 - 06:33"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 06:41",
+            "label": "",
+            "description": "The ball is behind the sideline. Manuel Neuer (Bayern Munich) takes a throw-in.",
+            "identified": "The ball is behind the sideline. [PLAYER_Sh5KwIo6] ([TEAM_]) takes a throw-in.",
+            "anonymized": "The ball is behind the sideline. [PLAYER] ([TEAM]) takes a throw-in.",
+            "visibility": "shown",
+            "position": "401000",
+            "event_aligned_gameTime": "2 - 06:40",
+            "contrastive_aligned_gameTime": "2 - 07:07"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 05:37",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) dribbles into the box, but Sascha Burchert is quick enough to come off his line and stop him.",
+            "identified": "[PLAYER_8KpOJV2B] ([TEAM_]) dribbles into the box, but [PLAYER_QwxAZ5yD] is quick enough to come off his line and stop him.",
+            "anonymized": "[PLAYER] ([TEAM]) dribbles into the box, but [PLAYER] is quick enough to come off his line and stop him.",
+            "visibility": "shown",
+            "position": "337000",
+            "event_aligned_gameTime": "2 - 05:30",
+            "contrastive_aligned_gameTime": "2 - 05:40"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 04:39",
+            "label": "",
+            "description": "Per Skjelbred (Hertha Berlin) is able to continue to play.",
+            "identified": "[PLAYER_63WKDBnI] ([TEAM_]) is able to continue to play.",
+            "anonymized": "[PLAYER] ([TEAM]) is able to continue to play.",
+            "visibility": "shown",
+            "position": "279000",
+            "event_aligned_gameTime": "2 - 04:00",
+            "contrastive_aligned_gameTime": "2 - 03:59"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 04:01",
+            "label": "injury",
+            "description": "Per Skjelbred (Hertha Berlin) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "identified": "[PLAYER_63WKDBnI] ([TEAM_]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "visibility": "shown",
+            "position": "241000",
+            "event_aligned_gameTime": "2 - 04:00",
+            "contrastive_aligned_gameTime": "2 - 03:33"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:17",
+            "label": "",
+            "description": "Nico Schulz (Hertha Berlin) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "identified": "[PLAYER_hnyH2XyF] ([TEAM_]) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "anonymized": "[PLAYER] ([TEAM]) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "visibility": "shown",
+            "position": "197000",
+            "event_aligned_gameTime": "2 - 03:10",
+            "contrastive_aligned_gameTime": "2 - 02:58"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:45",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) makes a run beyond the last defender, but he's offside.",
+            "identified": "[PLAYER_veaF8P5m] ([TEAM_]) makes a run beyond the last defender, but he's offside.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a run beyond the last defender, but he's offside.",
+            "visibility": "shown",
+            "position": "165000",
+            "event_aligned_gameTime": "2 - 02:30",
+            "contrastive_aligned_gameTime": "2 - 03:08"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:17",
+            "label": "",
+            "description": "One of the Hertha Berlin players unfairly tackled his opponent and conceded a foul.",
+            "identified": "One of the [TEAM_] players unfairly tackled his opponent and conceded a foul.",
+            "anonymized": "One of the [TEAM] players unfairly tackled his opponent and conceded a foul.",
+            "visibility": "shown",
+            "position": "137000",
+            "event_aligned_gameTime": "2 - 02:10",
+            "contrastive_aligned_gameTime": "2 - 02:04"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 01:39",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) feels very aggrieved after the referee stops play for a foul that he commits while in possession of the ball.",
+            "identified": "[PLAYER_8KpOJV2B] ([TEAM_]) feels very aggrieved after the referee stops play for a foul that he commits while in possession of the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) feels very aggrieved after the referee stops play for a foul that he commits while in possession of the ball.",
+            "visibility": "shown",
+            "position": "99000",
+            "event_aligned_gameTime": "2 - 01:20",
+            "contrastive_aligned_gameTime": "2 - 00:49"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 01:28",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) looks to break free, but an opposing player clears the ball away. The linesman signals a throw-in for Bayern Munich.",
+            "identified": "[PLAYER_veaF8P5m] ([TEAM_]) looks to break free, but an opposing player clears the ball away. The linesman signals a throw-in for [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The linesman signals a throw-in for [TEAM].",
+            "visibility": "shown",
+            "position": "88000",
+            "event_aligned_gameTime": "2 - 01:20",
+            "contrastive_aligned_gameTime": "2 - 01:13"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:54",
+            "label": "",
+            "description": "Jerome Boateng (Bayern Munich) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "identified": "[PLAYER_0bDEBms3] ([TEAM_]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "anonymized": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "visibility": "shown",
+            "position": "54000",
+            "event_aligned_gameTime": "2 - 00:50",
+            "contrastive_aligned_gameTime": "2 - 00:50"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Here comes a substitution. Gianluca Gaudino is given a rest as he is replaced by Sinan Kurt (Bayern Munich).",
+            "identified": "Here comes a substitution. [PLAYER_2ciZOLrI] is given a rest as he is replaced by [PLAYER_joMOiqia] ([TEAM_]).",
+            "anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:20",
+            "contrastive_aligned_gameTime": "2 - 00:01"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started.",
+            "identified": "The second half has just started.",
+            "anonymized": "The second half has just started.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:10",
+            "contrastive_aligned_gameTime": "2 - 00:01"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "The players are likely to put the fans to sleep with this performance rather than receiving any vociferous support. Let's hope we are about to see an improvement in the second half. The home side is in control of this game. The home team tries to prevail using combination football, while the away team adopt a defensive style of play.",
+            "identified": "The players are likely to put the fans to sleep with this performance rather than receiving any vociferous support. Let's hope we are about to see an improvement in the second half. The home side is in control of this game. The home team tries to prevail using combination football, while the away team adopt a defensive style of play.",
+            "anonymized": "The players are likely to put the fans to sleep with this performance rather than receiving any vociferous support. Let's hope we are about to see an improvement in the second half. The home side is in control of this game. The home team tries to prevail using combination football, while the away team adopt a defensive style of play.",
+            "visibility": "shown",
+            "position": "2759000",
+            "event_aligned_gameTime": "1 - 44:55",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 45:08",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "identified": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "anonymized": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+            "visibility": "shown",
+            "position": "2708000",
+            "event_aligned_gameTime": "1 - 44:10",
+            "contrastive_aligned_gameTime": "1 - 43:32"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 44:32",
+            "label": "",
+            "description": "Peter Pekarik (Hertha Berlin) is picked out by one of his teammates with a brilliant low pass, but he doesn't control the ball well and the defence eliminates the danger without any problem. That should have been a goalscoring opportunity.",
+            "identified": "[PLAYER_42tMVVQa] ([TEAM_]) is picked out by one of his teammates with a brilliant low pass, but he doesn't control the ball well and the defence eliminates the danger without any problem. That should have been a goalscoring opportunity.",
+            "anonymized": "[PLAYER] ([TEAM]) is picked out by one of his teammates with a brilliant low pass, but he doesn't control the ball well and the defence eliminates the danger without any problem. That should have been a goalscoring opportunity.",
+            "visibility": "shown",
+            "position": "2672000",
+            "event_aligned_gameTime": "1 - 44:00",
+            "contrastive_aligned_gameTime": "1 - 43:26"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:52",
+            "label": "",
+            "description": "Marvin Plattenhardt (Hertha Berlin) takes the free kick from a long way out but the defender manages to get it clear.",
+            "identified": "[PLAYER_lEbZ3p60] ([TEAM_]) takes the free kick from a long way out but the defender manages to get it clear.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the free kick from a long way out but the defender manages to get it clear.",
+            "visibility": "shown",
+            "position": "2572000",
+            "event_aligned_gameTime": "1 - 42:30",
+            "contrastive_aligned_gameTime": "1 - 43:15"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:03",
+            "label": "",
+            "description": "Mitchell Weiser (Bayern Munich) trips an opponent with a slide tackle. Guido Winkmann stops the game and he could give him a card, but eventually decides on just a warning. Hertha Berlin have a free kick.",
+            "identified": "[PLAYER_tYnkajw9] ([TEAM_]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning. [TEAM_] have a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning. [TEAM] have a free kick.",
+            "visibility": "shown",
+            "position": "2523000",
+            "event_aligned_gameTime": "1 - 42:00",
+            "contrastive_aligned_gameTime": "1 - 42:15"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:38",
+            "label": "",
+            "description": "Sebastian Rode (Bayern Munich) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball is out of play. Bayern Munich will have a throw-in.",
+            "identified": "[PLAYER_2ukcBSGo] ([TEAM_]) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball is out of play. [TEAM_] will have a throw-in.",
+            "anonymized": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball is out of play. [TEAM] will have a throw-in.",
+            "visibility": "shown",
+            "position": "2498000",
+            "event_aligned_gameTime": "1 - 41:30",
+            "contrastive_aligned_gameTime": "1 - 41:30"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 40:28",
+            "label": "",
+            "description": "Gianluca Gaudino (Bayern Munich) and Mitchell Weiser matched up again to find some space for an unmarked teammate.",
+            "identified": "[PLAYER_2ciZOLrI] ([TEAM_]) and [PLAYER_tYnkajw9] matched up again to find some space for an unmarked teammate.",
+            "anonymized": "[PLAYER] ([TEAM]) and [PLAYER] matched up again to find some space for an unmarked teammate.",
+            "visibility": "shown",
+            "position": "2428000",
+            "event_aligned_gameTime": "1 - 40:20",
+            "contrastive_aligned_gameTime": "1 - 40:51"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 39:15",
+            "label": "",
+            "description": "Valentin Stocker (Hertha Berlin) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "identified": "[PLAYER_pnHmRSC9] ([TEAM_]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "visibility": "shown",
+            "position": "2355000",
+            "event_aligned_gameTime": "1 - 39:15",
+            "contrastive_aligned_gameTime": "1 - 39:04"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 38:29",
+            "label": "",
+            "description": "Gianluca Gaudino (Bayern Munich) makes a rough challenge and Guido Winkmann blows his whistle for a foul.",
+            "identified": "[PLAYER_2ciZOLrI] ([TEAM_]) makes a rough challenge and [REFEREE] blows his whistle for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul.",
+            "visibility": "shown",
+            "position": "2309000",
+            "event_aligned_gameTime": "1 - 38:10",
+            "contrastive_aligned_gameTime": "1 - 38:24"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:59",
+            "label": "",
+            "description": "A pass by Jerome Boateng (Bayern Munich) ends up in no man's land, and the attacking effort comes to an end.",
+            "identified": "A pass by [PLAYER_0bDEBms3] ([TEAM_]) ends up in no man's land, and the attacking effort comes to an end.",
+            "anonymized": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end.",
+            "visibility": "shown",
+            "position": "2279000",
+            "event_aligned_gameTime": "1 - 37:50",
+            "contrastive_aligned_gameTime": "1 - 37:18"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:55",
+            "label": "",
+            "description": "Sebastian Rode (Bayern Munich) sends a superb lead pass into the penalty area and finds Thomas Muller, who fails to shoot.",
+            "identified": "[PLAYER_2ukcBSGo] ([TEAM_]) sends a superb lead pass into the penalty area and finds [PLAYER_8KpOJV2B], who fails to shoot.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a superb lead pass into the penalty area and finds [PLAYER], who fails to shoot.",
+            "visibility": "shown",
+            "position": "2155000",
+            "event_aligned_gameTime": "1 - 35:55",
+            "contrastive_aligned_gameTime": "1 - 35:46"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:51",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Philipp Lahm (Bayern Munich).",
+            "identified": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER_MB26hXLr] ([TEAM_]).",
+            "anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2091000",
+            "event_aligned_gameTime": "1 - 34:40",
+            "contrastive_aligned_gameTime": "1 - 35:19"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:04",
+            "label": "",
+            "description": "Jerome Boateng (Bayern Munich) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",
+            "identified": "[PLAYER_0bDEBms3] ([TEAM_]) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",
+            "visibility": "shown",
+            "position": "2044000",
+            "event_aligned_gameTime": "1 - 34:00",
+            "contrastive_aligned_gameTime": "1 - 33:58"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:03",
+            "label": "",
+            "description": "Gianluca Gaudino (Bayern Munich) attempts to feed Thomas Muller with a chip pass, but Sascha Burchert reacts well and comes off his line to intercept.",
+            "identified": "[PLAYER_2ciZOLrI] ([TEAM_]) attempts to feed [PLAYER_8KpOJV2B] with a chip pass, but [PLAYER_QwxAZ5yD] reacts well and comes off his line to intercept.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to feed [PLAYER] with a chip pass, but [PLAYER] reacts well and comes off his line to intercept.",
+            "visibility": "shown",
+            "position": "1983000",
+            "event_aligned_gameTime": "1 - 32:30",
+            "contrastive_aligned_gameTime": "1 - 33:11"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:26",
+            "label": "",
+            "description": "Marvin Plattenhardt (Hertha Berlin) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "identified": "[PLAYER_lEbZ3p60] ([TEAM_]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "anonymized": "[PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "visibility": "shown",
+            "position": "1946000",
+            "event_aligned_gameTime": "1 - 32:20",
+            "contrastive_aligned_gameTime": "1 - 32:12"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 31:37",
+            "label": "",
+            "description": "Guido Winkmann blows his whistle for a foul after Gianluca Gaudino (Bayern Munich) hacks down one of his opponents.",
+            "identified": "[REFEREE] blows his whistle for a foul after [PLAYER_2ciZOLrI] ([TEAM_]) hacks down one of his opponents.",
+            "anonymized": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents.",
+            "visibility": "shown",
+            "position": "1897000",
+            "event_aligned_gameTime": "1 - 31:10",
+            "contrastive_aligned_gameTime": "1 - 31:17"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 31:06",
+            "label": "",
+            "description": "This shall not pass! Mario Gotze (Bayern Munich) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "identified": "This shall not pass! [PLAYER_veaF8P5m] ([TEAM_]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "anonymized": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "visibility": "shown",
+            "position": "1866000",
+            "event_aligned_gameTime": "1 - 31:00",
+            "contrastive_aligned_gameTime": "1 - 30:38"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:31",
+            "label": "",
+            "description": "Peter Pekarik (Hertha Berlin) sends in a lofted cross from a long-range free kick, but it goes out of play.",
+            "identified": "[PLAYER_42tMVVQa] ([TEAM_]) sends in a lofted cross from a long-range free kick, but it goes out of play.",
+            "anonymized": "[PLAYER] ([TEAM]) sends in a lofted cross from a long-range free kick, but it goes out of play.",
+            "visibility": "shown",
+            "position": "1831000",
+            "event_aligned_gameTime": "1 - 30:10",
+            "contrastive_aligned_gameTime": "1 - 29:48"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:53",
+            "label": "",
+            "description": "Dante (Bayern Munich) didn't hesitate to knock his opponent down with a harsh sliding tackle. Guido Winkmann could probably show him a yellow, but he only goes with blowing the whistle for a foul. Hertha Berlin will take a free kick.",
+            "identified": "[PLAYER_nNPcDNFr] ([TEAM_]) didn't hesitate to knock his opponent down with a harsh sliding tackle. [REFEREE] could probably show him a yellow, but he only goes with blowing the whistle for a foul. [TEAM_] will take a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) didn't hesitate to knock his opponent down with a harsh sliding tackle. [REFEREE] could probably show him a yellow, but he only goes with blowing the whistle for a foul. [TEAM] will take a free kick.",
+            "visibility": "shown",
+            "position": "1793000",
+            "event_aligned_gameTime": "1 - 29:50",
+            "contrastive_aligned_gameTime": "1 - 30:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:23",
+            "label": "",
+            "description": "Mitchell Weiser (Bayern Munich) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",
+            "identified": "[PLAYER_tYnkajw9] ([TEAM_]) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",
+            "anonymized": "[PLAYER] ([TEAM]) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",
+            "visibility": "shown",
+            "position": "1763000",
+            "event_aligned_gameTime": "1 - 29:10",
+            "contrastive_aligned_gameTime": "1 - 29:20"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:03",
+            "label": "",
+            "description": "Jerome Boateng (Bayern Munich) smashes the ball upfield and Mitchell Weiser controls it with a great first touch.",
+            "identified": "[PLAYER_0bDEBms3] ([TEAM_]) smashes the ball upfield and [PLAYER_tYnkajw9] controls it with a great first touch.",
+            "anonymized": "[PLAYER] ([TEAM]) smashes the ball upfield and [PLAYER] controls it with a great first touch.",
+            "visibility": "shown",
+            "position": "1683000",
+            "event_aligned_gameTime": "1 - 28:00",
+            "contrastive_aligned_gameTime": "1 - 28:03"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:55",
+            "label": "",
+            "description": "Philipp Lahm (Bayern Munich) is clearly in an offside position and the linesman raises his flag.",
+            "identified": "[PLAYER_MB26hXLr] ([TEAM_]) is clearly in an offside position and the linesman raises his flag.",
+            "anonymized": "[PLAYER] ([TEAM]) is clearly in an offside position and the linesman raises his flag.",
+            "visibility": "shown",
+            "position": "1615000",
+            "event_aligned_gameTime": "1 - 26:30",
+            "contrastive_aligned_gameTime": "1 - 25:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:55",
+            "label": "",
+            "description": "Philipp Lahm (Bayern Munich) takes the ball and sets it for the free kick. Dante (Bayern Munich) is penalised for a foul. Guido Winkmann had a clear view and blows his whistle.",
+            "identified": "[PLAYER_MB26hXLr] ([TEAM_]) takes the ball and sets it for the free kick. [PLAYER_nNPcDNFr] ([TEAM_]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the ball and sets it for the free kick. [PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+            "visibility": "shown",
+            "position": "1495000",
+            "event_aligned_gameTime": "1 - 24:40",
+            "contrastive_aligned_gameTime": "1 - 24:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:49",
+            "label": "",
+            "description": "Per Skjelbred (Hertha Berlin) with a slide tackle, but referee Guido Winkmann calls for a foul. A free kick to Bayern Munich.",
+            "identified": "[PLAYER_63WKDBnI] ([TEAM_]) with a slide tackle, but referee [REFEREE] calls for a foul. A free kick to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) with a slide tackle, but referee [REFEREE] calls for a foul. A free kick to [TEAM].",
+            "visibility": "shown",
+            "position": "1429000",
+            "event_aligned_gameTime": "1 - 23:40",
+            "contrastive_aligned_gameTime": "1 - 24:05"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:36",
+            "label": "",
+            "description": "Salomon Kalou (Hertha Berlin) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards over the bar.",
+            "identified": "[PLAYER_UynFNzpk] ([TEAM_]) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards over the bar.",
+            "visibility": "shown",
+            "position": "1416000",
+            "event_aligned_gameTime": "1 - 23:30",
+            "contrastive_aligned_gameTime": "1 - 23:12"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:23",
+            "label": "",
+            "description": "Philipp Lahm (Bayern Munich) produces a dangerous lofted cross into the box which is intercepted.",
+            "identified": "[PLAYER_MB26hXLr] ([TEAM_]) produces a dangerous lofted cross into the box which is intercepted.",
+            "anonymized": "[PLAYER] ([TEAM]) produces a dangerous lofted cross into the box which is intercepted.",
+            "visibility": "shown",
+            "position": "1343000",
+            "event_aligned_gameTime": "1 - 22:20",
+            "contrastive_aligned_gameTime": "1 - 21:54"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 21:09",
+            "label": "",
+            "description": "Valentin Stocker (Hertha Berlin) whips the ball into the box and Salomon Kalou takes a perfect touch to control it, but one of the defenders does well to intercept.",
+            "identified": "[PLAYER_pnHmRSC9] ([TEAM_]) whips the ball into the box and [PLAYER_UynFNzpk] takes a perfect touch to control it, but one of the defenders does well to intercept.",
+            "anonymized": "[PLAYER] ([TEAM]) whips the ball into the box and [PLAYER] takes a perfect touch to control it, but one of the defenders does well to intercept.",
+            "visibility": "shown",
+            "position": "1269000",
+            "event_aligned_gameTime": "1 - 21:00",
+            "contrastive_aligned_gameTime": "1 - 21:40"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 19:54",
+            "label": "",
+            "description": "Genki Haraguchi (Hertha Berlin) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "identified": "[PLAYER_pnUT7JIs] ([TEAM_]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "visibility": "shown",
+            "position": "1194000",
+            "event_aligned_gameTime": "1 - 19:50",
+            "contrastive_aligned_gameTime": "1 - 19:16"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 19:00",
+            "label": "",
+            "description": "Mitchell Weiser (Bayern Munich) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "identified": "[PLAYER_tYnkajw9] ([TEAM_]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "anonymized": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+            "visibility": "shown",
+            "position": "1140000",
+            "event_aligned_gameTime": "1 - 18:50",
+            "contrastive_aligned_gameTime": "1 - 19:18"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:10",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) receives a low pass just outside the box and unleashes a fine strike towards the bottom right corner. Sascha Burchert pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed.",
+            "identified": "[PLAYER_8KpOJV2B] ([TEAM_]) receives a low pass just outside the box and unleashes a fine strike towards the bottom right corner. [PLAYER_QwxAZ5yD] pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a low pass just outside the box and unleashes a fine strike towards the bottom right corner. [PLAYER] pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed.",
+            "visibility": "shown",
+            "position": "1030000",
+            "event_aligned_gameTime": "1 - 17:00",
+            "contrastive_aligned_gameTime": "1 - 17:05"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 16:32",
+            "label": "",
+            "description": "Gianluca Gaudino (Bayern Munich) picks up a pass and hits the ball towards goal, but he can't generate enough power to trouble Sascha Burchert.",
+            "identified": "[PLAYER_2ciZOLrI] ([TEAM_]) picks up a pass and hits the ball towards goal, but he can't generate enough power to trouble [PLAYER_QwxAZ5yD].",
+            "anonymized": "[PLAYER] ([TEAM]) picks up a pass and hits the ball towards goal, but he can't generate enough power to trouble [PLAYER].",
+            "visibility": "shown",
+            "position": "992000",
+            "event_aligned_gameTime": "1 - 16:30",
+            "contrastive_aligned_gameTime": "1 - 17:04"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 16:03",
+            "label": "corner",
+            "description": "Mitchell Weiser (Bayern Munich) sends over a poor, overhit cross from the corner kick and the ball goes out of play.",
+            "identified": "[PLAYER_tYnkajw9] ([TEAM_]) sends over a poor, overhit cross from the corner kick and the ball goes out of play.",
+            "anonymized": "[PLAYER] ([TEAM]) sends over a poor, overhit cross from the corner kick and the ball goes out of play.",
+            "visibility": "shown",
+            "position": "963000",
+            "event_aligned_gameTime": "1 - 16:00",
+            "contrastive_aligned_gameTime": "1 - 16:15"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:50",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) races towards goal but the defender gets back well to make a challenge. Bayern Munich force a corner. They send men into the box.",
+            "identified": "[PLAYER_veaF8P5m] ([TEAM_]) races towards goal but the defender gets back well to make a challenge. [TEAM_] force a corner. They send men into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. [TEAM] force a corner. They send men into the box.",
+            "visibility": "shown",
+            "position": "950000",
+            "event_aligned_gameTime": "1 - 15:20",
+            "contrastive_aligned_gameTime": "1 - 15:42"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:10",
+            "label": "",
+            "description": "Philipp Lahm clips a neat ball into the box towards Thomas Muller (Bayern Munich), whose header from the centre of the box goes a whisker wide of the left post.",
+            "identified": "[PLAYER_MB26hXLr] clips a neat ball into the box towards [PLAYER_8KpOJV2B] ([TEAM_]), whose header from the centre of the box goes a whisker wide of the left post.",
+            "anonymized": "[PLAYER] clips a neat ball into the box towards [PLAYER] ([TEAM]), whose header from the centre of the box goes a whisker wide of the left post.",
+            "visibility": "shown",
+            "position": "790000",
+            "event_aligned_gameTime": "1 - 13:10",
+            "contrastive_aligned_gameTime": "1 - 13:08"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:49",
+            "label": "",
+            "description": "Sebastian Rode (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is off of the pitch and it's a goal kick for Hertha Berlin.",
+            "identified": "[PLAYER_2ukcBSGo] ([TEAM_]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is off of the pitch and it's a goal kick for [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "visibility": "shown",
+            "position": "709000",
+            "event_aligned_gameTime": "1 - 11:40",
+            "contrastive_aligned_gameTime": "1 - 11:30"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:19",
+            "label": "",
+            "description": "Philipp Lahm (Bayern Munich) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",
+            "identified": "[PLAYER_MB26hXLr] ([TEAM_]) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",
+            "visibility": "shown",
+            "position": "619000",
+            "event_aligned_gameTime": "1 - 10:10",
+            "contrastive_aligned_gameTime": "1 - 10:22"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:10",
+            "label": "",
+            "description": "Bayern Munich hold the ball and display nice passing from player to player.",
+            "identified": "[TEAM_] hold the ball and display nice passing from player to player.",
+            "anonymized": "[TEAM] hold the ball and display nice passing from player to player.",
+            "visibility": "shown",
+            "position": "610000",
+            "event_aligned_gameTime": "1 - 10:10",
+            "contrastive_aligned_gameTime": "1 - 10:45"
+        }
+    ]
+}

@@ -1,0 +1,734 @@
+{
+  "match_info": {
+    "timestamp": "2019-03-03 01:30:00",
+    "score": "2 - 0",
+    "home_team": "West Ham",
+    "away_team": "Newcastle",
+    "home_formation": "4 - 1 - 4 - 1",
+    "away_formation": "5 - 4 - 1",
+    "venue": "London Stadium (London)",
+    "capacity": "62 500",
+    "attendance": "59 910"
+  },
+  "referee_data": {
+    "short_name_country": "Kavanagh C. (Eng)",
+    "first_name": "Kavanagh",
+    "abbr_last_name": "C",
+    "country": "Eng",
+    "detected_name": "Chris Kavanagh"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Benitez R.",
+        "players_number": "",
+        "Full Name": "Rafael Benitez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "coach",
+        "Age and Birthdate": "63,  (16.04.1960)",
+        "Market Value": "",
+        "unicode": "4fN6car1"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Clark C.",
+        "players_number": "",
+        "Full Name": "Ciaran Clark",
+        "players_rating": "",
+        "Country": "Ireland",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (26.09.1989)",
+        "Market Value": "€298k",
+        "unicode": "MJjDoQk7"
+      },
+      {
+        "players_name": "Elliot R.",
+        "players_number": "",
+        "Full Name": "Rob Elliot",
+        "players_rating": "",
+        "Country": "Ireland",
+        "Role": "Coach",
+        "Age and Birthdate": "37, (30.04.1986)",
+        "Market Value": "",
+        "unicode": "zLABXEi8"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Almiron M.",
+        "players_number": "24",
+        "Full Name": "Miguel Almiron",
+        "players_rating": 6.5,
+        "Country": "Paraguay",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (10.02.1994)",
+        "Market Value": "€29.8m",
+        "unicode": "AwqEUHxT"
+      },
+      {
+        "players_name": "Dubravka M. (G)",
+        "players_number": "12",
+        "Full Name": "Martin Dubravka",
+        "players_rating": 6.0,
+        "Country": "Slovakia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (15.01.1989)",
+        "Market Value": "€979k",
+        "unicode": "dp3dkdsI"
+      },
+      {
+        "players_name": "Hayden I.",
+        "players_number": "14",
+        "Full Name": "Isaac Hayden",
+        "players_rating": 6.6,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (22.03.1995)",
+        "Market Value": "€2.9m",
+        "unicode": "fc781NXN"
+      },
+      {
+        "players_name": "Lascelles J. (C)",
+        "players_number": "6",
+        "Full Name": "Jamaal Lascelles",
+        "players_rating": 6.1,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (11.11.1993)",
+        "Market Value": "€6.8m",
+        "unicode": "0fPiq0ST"
+      },
+      {
+        "players_name": "Lejeune F.",
+        "players_number": "20",
+        "Full Name": "Florian Lejeune",
+        "players_rating": 5.9,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (20.05.1991)",
+        "Market Value": "€3.4m",
+        "unicode": "fNu1l3xc"
+      },
+      {
+        "players_name": "Longstaff S.",
+        "players_number": "36",
+        "Full Name": "Sean Longstaff",
+        "players_rating": 6.1,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (30.10.1997)",
+        "Market Value": "€24.1m",
+        "unicode": "tWOTr142"
+      },
+      {
+        "players_name": "Manquillo J.",
+        "players_number": "19",
+        "Full Name": "Javier Manquillo",
+        "players_rating": 6.4,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (05.05.1994)",
+        "Market Value": "€1.9m",
+        "unicode": "8bvxeNAG"
+      },
+      {
+        "players_name": "Perez A.",
+        "players_number": "17",
+        "Full Name": "Ayoze Perez",
+        "players_rating": 6.5,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (29.07.1993)",
+        "Market Value": "€6.8m",
+        "unicode": "jVHfHxGn"
+      },
+      {
+        "players_name": "Ritchie M.",
+        "players_number": "11",
+        "Full Name": "Matt Ritchie",
+        "players_rating": 6.7,
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (10.09.1989)",
+        "Market Value": "€936k",
+        "unicode": "WMTsaFTi"
+      },
+      {
+        "players_name": "Rondon S.",
+        "players_number": "9",
+        "Full Name": "Salomon Rondon",
+        "players_rating": 7.3,
+        "Country": "Venezuela",
+        "Role": "Forward",
+        "Age and Birthdate": "34, (16.09.1989)",
+        "Market Value": "",
+        "unicode": "OOKVw2zH"
+      },
+      {
+        "players_name": "Schar F.",
+        "players_number": "5",
+        "Full Name": "Fabian Schar",
+        "players_rating": 6.0,
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (20.12.1991)",
+        "Market Value": "€9.8m",
+        "unicode": "0SebIVqC"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Atsu Ch.",
+        "players_number": "30",
+        "Full Name": "Christian Atsu",
+        "players_rating": 6.4,
+        "Country": "Ghana",
+        "Role": "Forward",
+        "Age and Birthdate": " † 31, (10.01.1992 - 18.02.2023)",
+        "Market Value": "",
+        "unicode": "G2eojAUL"
+      },
+      {
+        "players_name": "Diame M.",
+        "players_number": "10",
+        "Full Name": "Mohamed Diame",
+        "players_rating": 6.6,
+        "Country": "Senegal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (14.06.1987)",
+        "Market Value": "€119k",
+        "unicode": "4lgGNl72"
+      },
+      {
+        "players_name": "Dummett P.",
+        "players_number": "3",
+        "Full Name": "Paul Dummett",
+        "players_rating": 6.3,
+        "Country": "Wales",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (26.09.1991)",
+        "Market Value": "€906k",
+        "unicode": "84ZSs4mH"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Darlow K. (G)",
+        "players_number": "26",
+        "Full Name": "Karl Darlow",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (08.10.1990)",
+        "Market Value": "€386k",
+        "unicode": "tCXYzajG"
+      },
+      {
+        "players_name": "Ki Sung-Yueng",
+        "players_number": "4",
+        "Full Name": "Sung-Yueng Ki",
+        "players_rating": "",
+        "Country": "South Korea",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (24.01.1989)",
+        "Market Value": "",
+        "unicode": "lvIuQ5nP"
+      },
+      {
+        "players_name": "Muto Y.",
+        "players_number": "13",
+        "Full Name": "Yoshinori Muto",
+        "players_rating": "",
+        "Country": "Japan",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (15.07.1992)",
+        "Market Value": "€1.8m",
+        "unicode": "8bbTIqDq"
+      },
+      {
+        "players_name": "Yedlin D.",
+        "players_number": "22",
+        "Full Name": "DeAndre Yedlin",
+        "players_rating": "",
+        "Country": "USA",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (09.07.1993)",
+        "Market Value": "€1.8m",
+        "unicode": "EmByTsz3"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Pellegrini M.",
+        "players_number": "",
+        "Full Name": "Manuel Pellegrini",
+        "players_rating": "",
+        "Country": "Chile",
+        "Role": "coach",
+        "Age and Birthdate": "70,  (16.09.1953)",
+        "Market Value": "",
+        "unicode": "U3wM1J72"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Fabian Balbuena",
+        "players_number": "",
+        "Full Name": "Fabian Balbuena",
+        "players_rating": "",
+        "Country": "Paraguay",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (23.08.1991)",
+        "Market Value": "€3.0m",
+        "unicode": "ELMR4PLj"
+      },
+      {
+        "players_name": "Johnson B.",
+        "players_number": "",
+        "Full Name": "Benjamin Johnson",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (24.01.2000)",
+        "Market Value": "€7.6m",
+        "unicode": "jRgdGLMG"
+      },
+      {
+        "players_name": "Reid W.",
+        "players_number": "",
+        "Full Name": "Winston Reid",
+        "players_rating": "",
+        "Country": "New Zealand",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (03.07.1988)",
+        "Market Value": "",
+        "unicode": "fFavcxiR"
+      },
+      {
+        "players_name": "Sanchez C.",
+        "players_number": "",
+        "Full Name": "Carlos Sanchez",
+        "players_rating": "",
+        "Country": "Colombia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "37, (06.02.1986)",
+        "Market Value": "€187k",
+        "unicode": "j72dbRp0"
+      },
+      {
+        "players_name": "Wilshere J.",
+        "players_number": "",
+        "Full Name": "Jack Wilshere",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (01.01.1992)",
+        "Market Value": "",
+        "unicode": "lYC47Z6h"
+      },
+      {
+        "players_name": "Yarmolenko A.",
+        "players_number": "",
+        "Full Name": "Andriy Yarmolenko",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Forward",
+        "Age and Birthdate": "34, (23.10.1989)",
+        "Market Value": "€1.9m",
+        "unicode": "O00J9ZLN"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Chicharito",
+        "players_number": "17",
+        "Full Name": "Chicharito",
+        "players_rating": 7.2,
+        "Country": "Mexico",
+        "Role": "Forward",
+        "Age and Birthdate": "€950k, (01.06.1988)",
+        "Market Value": "",
+        "unicode": "O0EKKpNQ"
+      },
+      {
+        "players_name": "Cresswell A.",
+        "players_number": "3",
+        "Full Name": "Aaron Cresswell",
+        "players_rating": 6.6,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (15.12.1989)",
+        "Market Value": "€842k",
+        "unicode": "fcMqoMcH"
+      },
+      {
+        "players_name": "Diop I.",
+        "players_number": "23",
+        "Full Name": "Issa Diop",
+        "players_rating": 7.5,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (09.01.1997)",
+        "Market Value": "€20.9m",
+        "unicode": "Eyqbicqr"
+      },
+      {
+        "players_name": "Fabianski L. (G)",
+        "players_number": "1",
+        "Full Name": "Lukasz Fabianski",
+        "players_rating": 7.3,
+        "Country": "Poland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "38, (18.04.1985)",
+        "Market Value": "€685k",
+        "unicode": "bRKKNZwj"
+      },
+      {
+        "players_name": "Felipe Anderson",
+        "players_number": "8",
+        "Full Name": "Felipe Anderson",
+        "players_rating": 7.3,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (15.04.1993)",
+        "Market Value": "€9.9m",
+        "unicode": "xA2w3xCo"
+      },
+      {
+        "players_name": "Fredericks R.",
+        "players_number": "24",
+        "Full Name": "Ryan Fredericks",
+        "players_rating": 7.5,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (10.10.1992)",
+        "Market Value": "€1.3m",
+        "unicode": "YRGWmYP5"
+      },
+      {
+        "players_name": "Lanzini M.",
+        "players_number": "10",
+        "Full Name": "Manuel Lanzini",
+        "players_rating": 7.1,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (15.02.1993)",
+        "Market Value": "€3.4m",
+        "unicode": "QT3lIj4N"
+      },
+      {
+        "players_name": "Noble M. (C)",
+        "players_number": "16",
+        "Full Name": "Mark Noble",
+        "players_rating": 7.7,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (08.05.1987)",
+        "Market Value": "",
+        "unicode": "GxzuJFFG"
+      },
+      {
+        "players_name": "Ogbonna A.",
+        "players_number": "21",
+        "Full Name": "Angelo Ogbonna",
+        "players_rating": 7.6,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (23.05.1988)",
+        "Market Value": "€665k",
+        "unicode": "xtEnn3rQ"
+      },
+      {
+        "players_name": "Rice D.",
+        "players_number": "41",
+        "Full Name": "Declan Rice",
+        "players_rating": 8.2,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (14.01.1999)",
+        "Market Value": "€109.2m",
+        "unicode": "zkQ8Cm6n"
+      },
+      {
+        "players_name": "Snodgrass R.",
+        "players_number": "11",
+        "Full Name": "Robert Snodgrass",
+        "players_rating": 7.9,
+        "Country": "Scotland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (07.09.1987)",
+        "Market Value": "",
+        "unicode": "6XPsH2mg"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Arnautovic M.",
+        "players_number": "7",
+        "Full Name": "Marko Arnautovic",
+        "players_rating": 6.5,
+        "Country": "Austria",
+        "Role": "Forward",
+        "Age and Birthdate": "34, (19.04.1989)",
+        "Market Value": "€4.7m",
+        "unicode": "WvR2ASLR"
+      },
+      {
+        "players_name": "Masuaku A.",
+        "players_number": "26",
+        "Full Name": "Arthur Masuaku",
+        "players_rating": 7.1,
+        "Country": "DR Congo",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (07.11.1993)",
+        "Market Value": "€5.1m",
+        "unicode": "4YoV0hmC"
+      },
+      {
+        "players_name": "Obiang P.",
+        "players_number": "14",
+        "Full Name": "Pedro Obiang",
+        "players_rating": 6.6,
+        "Country": "Equatorial Guinea",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (27.03.1992)",
+        "Market Value": "€486k",
+        "unicode": "nodnKnAs"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Adrian (G)",
+        "players_number": "13",
+        "Full Name": "Adrian",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (03.01.1987)",
+        "Market Value": "30.06.2024",
+        "unicode": "CEm70uDg"
+      },
+      {
+        "players_name": "Antonio M.",
+        "players_number": "30",
+        "Full Name": "Michail Antonio",
+        "players_rating": "",
+        "Country": "Jamaica",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (28.03.1990)",
+        "Market Value": "€5.8m",
+        "unicode": "p8tt85Xn"
+      },
+      {
+        "players_name": "Nasri S.",
+        "players_number": "18",
+        "Full Name": "Samir Nasri",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (26.06.1987)",
+        "Market Value": "",
+        "unicode": "jmKOmkPu"
+      },
+      {
+        "players_name": "Perez L.",
+        "players_number": "27",
+        "Full Name": "Lucas Perez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (10.09.1988)",
+        "Market Value": "€726k",
+        "unicode": "YsCMvAvd"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "06:24",
+      "comments_type": "corner",
+      "comments_text": "Robert Snodgrass (West Ham) is about to take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is about to take a corner kick.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "06:33",
+      "comments_type": "goal",
+      "comments_text": "Declan Rice (West Ham) meets the corner and displays his eye for goal as he coolly plants a header from close range into the bottom left corner. The score is 1:0.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) meets the corner and displays his eye for goal as he coolly plants a header from close range into the bottom left corner. The score is 1:0.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "26:13",
+      "comments_type": "yellow card",
+      "comments_text": "It must be a yellow card. It is. Mark Noble (West Ham) receives the caution after an awful tackle.",
+      "comments_text_anonymized": "It must be a yellow card. It is. [PLAYER] ([TEAM]) receives the caution after an awful tackle.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "33:32",
+      "comments_type": "substitution",
+      "comments_text": "Aaron Cresswell is substituted due to injury. Manuel Pellegrini gives a chance to Arthur Masuaku (West Ham).",
+      "comments_text_anonymized": "[PLAYER] is substituted due to injury. [PLAYER] gives a chance to [PLAYER] ([TEAM]).",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "33:43",
+      "comments_type": "corner",
+      "comments_text": "Newcastle fail to score from a corner as Lukasz Fabianski (West Ham) leaps to collect the ball.",
+      "comments_text_anonymized": "[TEAM] fail to score from a corner as [PLAYER] ([TEAM]) leaps to collect the ball.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "36:43",
+      "comments_type": "yellow card",
+      "comments_text": "A yellow card for a tackle by Fabian Schar (Newcastle Utd). Chris Kavanagh doesn't hesitate at all to make this decision.",
+      "comments_text_anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:12",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Sean Longstaff (Newcastle Utd) was quite harsh and Chris Kavanagh didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:50",
+      "comments_type": "penalty",
+      "comments_text": "Mark Noble (West Ham) is heading towards the penalty spot to take it.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "41:05",
+      "comments_type": "goal",
+      "comments_text": "Goal! Mark Noble (West Ham) wins the battle of wills and sends an unstoppable penalty past Martin Dubravka into the top left corner.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into the top left corner.",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "48:40",
+      "comments_type": "corner",
+      "comments_text": "Matt Ritchie (Newcastle Utd) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+      "index": 9
+    },
+    {
+      "half": 1,
+      "time_stamp": "50:10",
+      "comments_type": "corner",
+      "comments_text": "The resulting set piece from Newcastle is comfortably intercepted by one of the defending players.",
+      "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:54",
+      "comments_type": "substitution",
+      "comments_text": "Rafael Benitez has decided to make a substitution during the half-time break. Mohamed Diame (Newcastle Utd) comes on the pitch for Sean Longstaff.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a substitution during the half-time break. [PLAYER] ([TEAM]) comes on the pitch for [PLAYER].",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:07",
+      "comments_type": "corner",
+      "comments_text": "Matt Ritchie (Newcastle Utd) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:39",
+      "comments_type": "substitution",
+      "comments_text": "Rafael Benitez has decided to introduce fresh legs, with Paul Dummett (Newcastle Utd) replacing Fabian Schar.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:38",
+      "comments_type": "yellow card",
+      "comments_text": "Chris Kavanagh shows a yellow card to Arthur Masuaku (West Ham), who isn't surprised as the tackle was really hard and late.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:14",
+      "comments_type": "corner",
+      "comments_text": "Matt Ritchie (Newcastle Utd) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:32",
+      "comments_type": "yellow card",
+      "comments_text": "Chris Kavanagh shows a yellow card to Isaac Hayden (Newcastle Utd) for a tough tackle.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:49",
+      "comments_type": "substitution",
+      "comments_text": "Manuel Pellegrini has decided to substitute Chicharito and he is replaced by Marko Arnautovic (West Ham).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:26",
+      "comments_type": "corner",
+      "comments_text": "Matt Ritchie (Newcastle Utd) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:00",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Isaac Hayden leaves the pitch and Christian Atsu (Newcastle Utd) comes on.",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:20",
+      "comments_type": "substitution",
+      "comments_text": "Manuel Pellegrini decides to make a substitution. Mark Noble will be replaced by Pedro Obiang (West Ham).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:08",
+      "comments_type": "yellow card",
+      "comments_text": "Martin Dubravka (Newcastle Utd) is booked for saying more than Chris Kavanagh was willing to tolerate.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked for saying more than [REFEREE] was willing to tolerate.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:40",
+      "comments_type": "yellow card",
+      "comments_text": "Chris Kavanagh shows the yellow card to Issa Diop (West Ham) for a heavy challenge.",
+      "comments_text_anonymized": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge.",
+      "index": 22
+    }
+  ]
+}

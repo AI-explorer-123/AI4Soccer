@@ -1,0 +1,857 @@
+{
+  "match_info": {
+    "timestamp": "2020-12-09 01:55:00",
+    "score": "1 - 2",
+    "home_team": "Zenit",
+    "away_team": "Dortmund",
+    "home_formation": "4 - 4 - 2",
+    "away_formation": "3 - 1 - 4 - 2",
+    "venue": "Gazprom Arena (Saint Petersburg)",
+    "capacity": "67 800",
+    "attendance": "10 860"
+  },
+  "referee_data": {
+    "short_name_country": "Kovacs I. (Rou)",
+    "first_name": "Kovacs",
+    "abbr_last_name": "I",
+    "country": "Rou",
+    "detected_name": "Istvan Kovacs"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Favre L.",
+        "players_number": "",
+        "Full Name": "Lucien Favre",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "coach",
+        "Age and Birthdate": "66,  (02.11.1957)",
+        "Market Value": "",
+        "unicode": "44YXyyn9"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Akanji M.",
+        "players_number": "",
+        "Full Name": "Manuel Akanji",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (19.07.1995)",
+        "Market Value": "€41.1m",
+        "unicode": "UJm2XpLH"
+      },
+      {
+        "players_name": "Dahoud M.",
+        "players_number": "",
+        "Full Name": "Mahmoud Dahoud",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (01.01.1996)",
+        "Market Value": "€13.1m",
+        "unicode": "YkH1Bfia"
+      },
+      {
+        "players_name": "Delaney T.",
+        "players_number": "",
+        "Full Name": "Thomas Delaney",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (03.09.1991)",
+        "Market Value": "€2.3m",
+        "unicode": "QL4wO6Wg"
+      },
+      {
+        "players_name": "Guerreiro R.",
+        "players_number": "",
+        "Full Name": "Raphael Guerreiro",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (22.12.1993)",
+        "Market Value": "€15.1m",
+        "unicode": "ImhgOoOl"
+      },
+      {
+        "players_name": "Haaland E.",
+        "players_number": "",
+        "Full Name": "Erling Haaland",
+        "players_rating": "",
+        "Country": "Norway",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (21.07.2000)",
+        "Market Value": "€181.3m",
+        "unicode": "UmV9iQmE"
+      },
+      {
+        "players_name": "Meunier T.",
+        "players_number": "",
+        "Full Name": "Thomas Meunier",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (12.09.1991)",
+        "Market Value": "€2.4m",
+        "unicode": "WUyrShAL"
+      },
+      {
+        "players_name": "Morey M.",
+        "players_number": "",
+        "Full Name": "Mateu Morey",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (02.03.2000)",
+        "Market Value": "30.06.2024",
+        "unicode": "jRBXx0H4"
+      },
+      {
+        "players_name": "Reinier",
+        "players_number": "",
+        "Full Name": "Reinier",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (19.01.2002)",
+        "Market Value": "€3.8m",
+        "unicode": "WI4CI2SI"
+      },
+      {
+        "players_name": "Schmelzer M.",
+        "players_number": "",
+        "Full Name": "Marcel Schmelzer",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (22.01.1988)",
+        "Market Value": "",
+        "unicode": "n3VwNCjb"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Bellingham J.",
+        "players_number": "22",
+        "Full Name": "Jude Bellingham",
+        "players_rating": 7.4,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (29.06.2003)",
+        "Market Value": "€199.1m",
+        "unicode": "QNvlPm7s"
+      },
+      {
+        "players_name": "Brandt J.",
+        "players_number": "19",
+        "Full Name": "Julian Brandt",
+        "players_rating": 6.9,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (02.05.1996)",
+        "Market Value": "€40.3m",
+        "unicode": "hW5Goyrc"
+      },
+      {
+        "players_name": "Can E.",
+        "players_number": "23",
+        "Full Name": "Emre Can",
+        "players_rating": 7.5,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (12.01.1994)",
+        "Market Value": "€11.7m",
+        "unicode": "YJu3hSpk"
+      },
+      {
+        "players_name": "Hazard T.",
+        "players_number": "10",
+        "Full Name": "Thorgan Hazard",
+        "players_rating": 7.4,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (29.03.1993)",
+        "Market Value": "€5.8m",
+        "unicode": "KOq0yhLo"
+      },
+      {
+        "players_name": "Hitz M. (G)",
+        "players_number": "35",
+        "Full Name": "Marwin Hitz",
+        "players_rating": 7.1,
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "36, (18.09.1987)",
+        "Market Value": "€193k",
+        "unicode": "jDZdVBrL"
+      },
+      {
+        "players_name": "Hummels M.",
+        "players_number": "15",
+        "Full Name": "Mats Hummels",
+        "players_rating": 8.1,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (16.12.1988)",
+        "Market Value": "€6.1m",
+        "unicode": "2c4AueOM"
+      },
+      {
+        "players_name": "Passlack F.",
+        "players_number": "30",
+        "Full Name": "Felix Passlack",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (29.05.1998)",
+        "Market Value": "€1.4m",
+        "unicode": "rHIRgwGG"
+      },
+      {
+        "players_name": "Piszczek L.",
+        "players_number": "26",
+        "Full Name": "Lukasz Piszczek",
+        "players_rating": 7.5,
+        "Country": "Poland",
+        "Role": "Defender",
+        "Age and Birthdate": "38, (03.06.1985)",
+        "Market Value": "",
+        "unicode": "AZgM33p0"
+      },
+      {
+        "players_name": "Reus M. (C)",
+        "players_number": "11",
+        "Full Name": "Marco Reus",
+        "players_rating": 7.1,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (31.05.1989)",
+        "Market Value": "€6.9m",
+        "unicode": "fonESekN"
+      },
+      {
+        "players_name": "Schulz N.",
+        "players_number": "14",
+        "Full Name": "Nico Schulz",
+        "players_rating": 6.4,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (01.04.1993)",
+        "Market Value": "",
+        "unicode": "hnyH2XyF"
+      },
+      {
+        "players_name": "Witsel A.",
+        "players_number": "28",
+        "Full Name": "Axel Witsel",
+        "players_rating": 8.1,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (12.01.1989)",
+        "Market Value": "€4.8m",
+        "unicode": "2JsUqijl"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Knauff A.",
+        "players_number": "36",
+        "Full Name": "Ansgar Knauff",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (10.01.2002)",
+        "Market Value": "€7.5m",
+        "unicode": "2ebHJb1N"
+      },
+      {
+        "players_name": "Moukoko Y.",
+        "players_number": "18",
+        "Full Name": "Youssoufa Moukoko",
+        "players_rating": 6.2,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "19, (20.11.2004)",
+        "Market Value": "€28.1m",
+        "unicode": "vZ2CcIMA"
+      },
+      {
+        "players_name": "Reyna G.",
+        "players_number": "32",
+        "Full Name": "Giovanni Reyna",
+        "players_rating": 6.7,
+        "Country": "USA",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (13.11.2002)",
+        "Market Value": "€19.9m",
+        "unicode": "zF5Q2DOk"
+      },
+      {
+        "players_name": "Sancho J.",
+        "players_number": "7",
+        "Full Name": "Jadon Sancho",
+        "players_rating": 6.9,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (25.03.2000)",
+        "Market Value": "€24.1m",
+        "unicode": "n5mG9yn6"
+      },
+      {
+        "players_name": "Zagadou D.",
+        "players_number": "5",
+        "Full Name": "Dan-Axel Zagadou",
+        "players_rating": 6.9,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (03.06.1999)",
+        "Market Value": "€10.1m",
+        "unicode": "j1IjJkHI"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Burki R. (G)",
+        "players_number": "1",
+        "Full Name": "Roman Burki",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (14.11.1990)",
+        "Market Value": "€2.5m",
+        "unicode": "x6gzWUIk"
+      },
+      {
+        "players_name": "Drljaca S. (G)",
+        "players_number": "40",
+        "Full Name": "Stefan Drljaca",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "24, (20.04.1999)",
+        "Market Value": "30.06.2024",
+        "unicode": "Yqd7A2va"
+      },
+      {
+        "players_name": "Raschl T.",
+        "players_number": "37",
+        "Full Name": "Tobias Raschl",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (21.02.2000)",
+        "Market Value": "€1.4m",
+        "unicode": "0dT23r7q"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Semak S.",
+        "players_number": "",
+        "Full Name": "Sergey Semak",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "coach",
+        "Age and Birthdate": "47,  (27.02.1976)",
+        "Market Value": "",
+        "unicode": "z5PiEJps"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Azmoun S.",
+        "players_number": "7",
+        "Full Name": "Sardar Azmoun",
+        "players_rating": 6.1,
+        "Country": "Iran",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (01.01.1995)",
+        "Market Value": "€9.6m",
+        "unicode": "6XEsobq8"
+      },
+      {
+        "players_name": "Barrios W.",
+        "players_number": "5",
+        "Full Name": "Wilmar Barrios",
+        "players_rating": 6.8,
+        "Country": "Colombia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (16.10.1993)",
+        "Market Value": "€13.5m",
+        "unicode": "QTJHlgL3"
+      },
+      {
+        "players_name": "Driussi S.",
+        "players_number": "11",
+        "Full Name": "Sebastian Driussi",
+        "players_rating": 7.5,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (09.02.1996)",
+        "Market Value": "€12.8m",
+        "unicode": "On4D2kf7"
+      },
+      {
+        "players_name": "Kerzhakov M. (G) (C)",
+        "players_number": "41",
+        "Full Name": "Mikhail Kerzhakov",
+        "players_rating": 6.8,
+        "Country": "Russia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "36, (28.01.1987)",
+        "Market Value": "€472k",
+        "unicode": "vJiMxFyr"
+      },
+      {
+        "players_name": "Kuzyaev D.",
+        "players_number": "14",
+        "Full Name": "Daler Kuzyaev",
+        "players_rating": 6.7,
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (15.01.1993)",
+        "Market Value": "€10.1m",
+        "unicode": "AgmwPJ36"
+      },
+      {
+        "players_name": "Malcom",
+        "players_number": "8",
+        "Full Name": "Malcom",
+        "players_rating": 6.6,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (26.02.1997)",
+        "Market Value": "€31.5m",
+        "unicode": "YFYwI0J1"
+      },
+      {
+        "players_name": "Ozdoev M.",
+        "players_number": "27",
+        "Full Name": "Magomed Ozdoev",
+        "players_rating": 6.7,
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (05.11.1992)",
+        "Market Value": "€2.0m",
+        "unicode": "88KmSpnQ"
+      },
+      {
+        "players_name": "Prokhin D.",
+        "players_number": "87",
+        "Full Name": "Danila Prokhin",
+        "players_rating": 7.0,
+        "Country": "Russia",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (24.05.2001)",
+        "Market Value": "€1.8m",
+        "unicode": "dd0M5Rgs"
+      },
+      {
+        "players_name": "Rakitskyi Y.",
+        "players_number": "44",
+        "Full Name": "Yaroslav Rakitskyi",
+        "players_rating": 6.6,
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (03.08.1989)",
+        "Market Value": "€1.5m",
+        "unicode": "hrAzkzLI"
+      },
+      {
+        "players_name": "Santos D.",
+        "players_number": "3",
+        "Full Name": "Douglas Santos",
+        "players_rating": 6.6,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (22.03.1994)",
+        "Market Value": "",
+        "unicode": "f91ESvlb"
+      },
+      {
+        "players_name": "Sutormin A.",
+        "players_number": "19",
+        "Full Name": "Aleksey Sutormin",
+        "players_rating": 7.8,
+        "Country": "Russia",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (10.01.1994)",
+        "Market Value": "€1.4m",
+        "unicode": "p6bCd8YC"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Dzyuba A.",
+        "players_number": "22",
+        "Full Name": "Artem Dzyuba",
+        "players_rating": 6.4,
+        "Country": "Russia",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (22.08.1988)",
+        "Market Value": "€3.0m",
+        "unicode": "pY7DwFnQ"
+      },
+      {
+        "players_name": "Karavaev V.",
+        "players_number": "15",
+        "Full Name": "Vyacheslav Karavaev",
+        "players_rating": 6.3,
+        "Country": "Russia",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (20.05.1995)",
+        "Market Value": "€4.8m",
+        "unicode": "OSqvll1l"
+      },
+      {
+        "players_name": "Krugovoy D.",
+        "players_number": "4",
+        "Full Name": "Danil Krugovoy",
+        "players_rating": 5.9,
+        "Country": "Russia",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (28.05.1998)",
+        "Market Value": "€1.9m",
+        "unicode": "04ulA435"
+      },
+      {
+        "players_name": "Lovren D.",
+        "players_number": "6",
+        "Full Name": "Dejan Lovren",
+        "players_rating": 6.3,
+        "Country": "Croatia",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (05.07.1989)",
+        "Market Value": "€2.0m",
+        "unicode": "GAcQF9Z6"
+      },
+      {
+        "players_name": "Wendel",
+        "players_number": "20",
+        "Full Name": "Wendel",
+        "players_rating": 6.3,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (28.08.1997)",
+        "Market Value": "€23.1m",
+        "unicode": "WA0OPJwd"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Erokhin A.",
+        "players_number": "21",
+        "Full Name": "Aleksandr Erokhin",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (13.10.1989)",
+        "Market Value": "€457k",
+        "unicode": "ARDziEPC"
+      },
+      {
+        "players_name": "Lunev A. (G)",
+        "players_number": "99",
+        "Full Name": "Andrey Lunev",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (13.11.1991)",
+        "Market Value": "€943k",
+        "unicode": "xbp2N5Hs"
+      },
+      {
+        "players_name": "Mostovoy A.",
+        "players_number": "17",
+        "Full Name": "Andrey Mostovoy",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (05.11.1997)",
+        "Market Value": "€3.5m",
+        "unicode": "tx6BTQak"
+      },
+      {
+        "players_name": "Musaev L.",
+        "players_number": "38",
+        "Full Name": "Leon Musaev",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (25.01.1999)",
+        "Market Value": "31.12.2025",
+        "unicode": "KrL94lmF"
+      },
+      {
+        "players_name": "Shamkin D.",
+        "players_number": "92",
+        "Full Name": "Daniil Shamkin",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (22.06.2002)",
+        "Market Value": "30.06.2026",
+        "unicode": "KvDcMrSr"
+      },
+      {
+        "players_name": "Vasyutin A. (G)",
+        "players_number": "78",
+        "Full Name": "Aleksandr Vasyutin",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (04.03.1995)",
+        "Market Value": "€350k",
+        "unicode": "Qs5l1Kgs"
+      },
+      {
+        "players_name": "Zhirkov Y.",
+        "players_number": "18",
+        "Full Name": "Yuri Zhirkov",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "40, (20.08.1983)",
+        "Market Value": "",
+        "unicode": "46wNd5e8"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "08:48",
+      "comments_type": "corner",
+      "comments_text": "Corner kick. Thorgan Hazard (Dortmund) is ready to send the ball into the box.",
+      "comments_text_anonymized": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "09:42",
+      "comments_type": "corner",
+      "comments_text": "Thorgan Hazard (Dortmund) takes the corner but it's cleared.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "09:50",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Sardar Azmoun (Zenit St Petersburg) was quite harsh and Istvan Kovacs didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "16:00",
+      "comments_type": "goal",
+      "comments_text": "Goal! After receiving a sweet pass, Sebastian Driussi (Zenit St Petersburg) unleashes a shot straight into the bottom right corner. Good team effort!",
+      "comments_text_anonymized": "Goal! After receiving a sweet pass, [PLAYER] ([TEAM]) unleashes a shot straight into the bottom right corner. Good team effort!",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "18:47",
+      "comments_type": "corner",
+      "comments_text": "Thorgan Hazard (Dortmund) sends in a poor cross from the corner and Mikhail Kerzhakov has no trouble gathering it.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a poor cross from the corner and [PLAYER] has no trouble gathering it.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "19:45",
+      "comments_type": "corner",
+      "comments_text": "Douglas Santos (Zenit St Petersburg) takes the corner with a short pass.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner with a short pass.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "25:46",
+      "comments_type": "corner",
+      "comments_text": "Julian Brandt (Dortmund) is about to take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is about to take a corner kick.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "01:05",
+      "comments_type": "corner",
+      "comments_text": "Sebastian Driussi (Zenit St Petersburg) decides to speed play up with a short corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "12:54",
+      "comments_type": "substitution",
+      "comments_text": "Here's the change. Felix Passlack leaves the pitch and Youssoufa Moukoko (Dortmund) comes on as a substitute.",
+      "comments_text_anonymized": "Here's the change. [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on as a substitute.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:00",
+      "comments_type": "substitution",
+      "comments_text": "Lucien Favre has decided to make a change. Giovanni Reyna (Dortmund) replaces Julian Brandt.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "14:36",
+      "comments_type": "substitution",
+      "comments_text": "Sergey Semak decides to make a substitution. Sebastian Driussi will be replaced by Artem Dzyuba (Zenit St Petersburg).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "14:58",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Daler Kuzyayev did his best and is replaced by Wendel (Zenit St Petersburg).",
+      "comments_text_anonymized": "Substitution. Daler Kuzyayev did his best and is replaced by [PLAYER] ([TEAM]).",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:31",
+      "comments_type": "corner",
+      "comments_text": "Thorgan Hazard (Dortmund) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:36",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Yaroslav Rakitsky walks off the pitch and Dejan Lovren (Zenit St Petersburg) comes on as a substitute.",
+      "comments_text_anonymized": "Substitution. Yaroslav Rakitsky walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:37",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Thorgan Hazard (Dortmund) is cleared by the defence.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the defence.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:58",
+      "comments_type": "goal",
+      "comments_text": "Lukasz Piszczek (Dortmund) is first to get to the rebound after a goalmouth scramble and finds the back of the net from point-blank range.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is first to get to the rebound after a goalmouth scramble and finds the back of the net from point-blank range.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "24:03",
+      "comments_type": "corner",
+      "comments_text": "Giovanni Reyna (Dortmund) whips in a cross from the corner, but Mikhail Kerzhakov is well positioned and punches the ball away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in a cross from the corner, but [PLAYER] is well positioned and punches the ball away.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:25",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals a substitution. Jadon Sancho (Dortmund) is brought on as a substitute for Mats Hummels.",
+      "comments_text_anonymized": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:42",
+      "comments_type": "substitution",
+      "comments_text": "Lucien Favre prepares a substitution. Lukasz Piszczek is replaced by Dan-Axel Zagadou (Dortmund).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:52",
+      "comments_type": "corner",
+      "comments_text": "Thorgan Hazard (Dortmund) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:55",
+      "comments_type": "goal",
+      "comments_text": "Goal! Axel Witsel (Dortmund) collects a pass and without hesitation fires an unstoppable shot into the bottom right corner.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) collects a pass and without hesitation fires an unstoppable shot into the bottom right corner.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:45",
+      "comments_type": "substitution",
+      "comments_text": "Sergey Semak has decided to substitute Malcom and he is replaced by Vyacheslav Karavaev (Zenit St Petersburg).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:53",
+      "comments_type": "substitution",
+      "comments_text": "It is time for a substitution. Danil Krugovoy (Zenit St Petersburg) is on for Magomed Ozdoev.",
+      "comments_text_anonymized": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER].",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:09",
+      "comments_type": "corner",
+      "comments_text": "Douglas Santos (Zenit St Petersburg) goes over to take a corner kick after one of the defenders makes a good clearance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:25",
+      "comments_type": "corner",
+      "comments_text": "Artem Dzyuba (Zenit St Petersburg) gets himself onto the end of the corner, but his header is blocked. The referee and one of his assistants signal for a corner kick to Zenit.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) gets himself onto the end of the corner, but his header is blocked. The referee and one of his assistants signal for a corner kick to [TEAM].",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:55",
+      "comments_type": "substitution",
+      "comments_text": "Ansgar Knauff (Dortmund) comes onto the pitch because Thorgan Hazard simply cannot continue any longer after picking up an injury.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) comes onto the pitch because [PLAYER] simply cannot continue any longer after picking up an injury.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:05",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Douglas Santos (Zenit St Petersburg) comes to nothing.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:38",
+      "comments_type": "corner",
+      "comments_text": "The corner from Douglas Santos (Zenit St Petersburg) is intercepted by Marwin Hitz.",
+      "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by [PLAYER].",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:54",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Douglas Santos (Zenit St Petersburg) is cleared.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared.",
+      "index": 28
+    }
+  ]
+}

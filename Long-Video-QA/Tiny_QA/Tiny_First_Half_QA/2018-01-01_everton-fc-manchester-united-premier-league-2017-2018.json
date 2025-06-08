@@ -1,0 +1,40 @@
+[
+  {
+    "question": "Which player has taken the most corners in the first half up to the 10:36 mark?",
+    "choices": [
+      "A. Wayne Rooney",
+      "B. Nikola Vlasic",
+      "C. Juan Manuel Mata",
+      "D. Unknown"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2
+    ],
+    "current_event_index": 2,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who was the first player to receive a yellow card in the first half up to Wayne Rooney's booking?",
+    "choices": [
+      "A. Wayne Rooney",
+      "B. Paul Pogba",
+      "C. Romelu Lukaku",
+      "D. No player"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 7,
+    "index": 2,
+    "event_type": "yellow card"
+  }
+]

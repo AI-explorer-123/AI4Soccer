@@ -1,0 +1,840 @@
+{
+  "match_info": {
+    "timestamp": "2019-02-16 03:30:00",
+    "score": "3 - 0",
+    "home_team": "Juventus",
+    "away_team": "Frosinone",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "3 - 5 - 2",
+    "venue": "Allianz Stadium (Turin)",
+    "capacity": "41 507",
+    "attendance": "10 570"
+  },
+  "referee_data": {
+    "short_name_country": "Giua A. (Ita)",
+    "first_name": "Giua",
+    "abbr_last_name": "A",
+    "country": "Ita",
+    "detected_name": "Antonio Giua"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Baroni M.",
+        "players_number": "",
+        "Full Name": "Marco Baroni",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "60,  (11.09.1963)",
+        "Market Value": "",
+        "unicode": "S8Ygn9ME"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Ariaudo L.",
+        "players_number": "",
+        "Full Name": "Lorenzo Ariaudo",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (11.06.1989)",
+        "Market Value": "",
+        "unicode": "b59iH623"
+      },
+      {
+        "players_name": "Dionisi F.",
+        "players_number": "",
+        "Full Name": "Federico Dionisi",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (16.06.1987)",
+        "Market Value": "€179k",
+        "unicode": "6P1K05Ok"
+      },
+      {
+        "players_name": "Ghiglione P.",
+        "players_number": "",
+        "Full Name": "Paolo Ghiglione",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (02.02.1997)",
+        "Market Value": "€1.0m",
+        "unicode": "Im8vPlLt"
+      },
+      {
+        "players_name": "Simic S.",
+        "players_number": "",
+        "Full Name": "Stefan Simic",
+        "players_rating": "",
+        "Country": "Czech Republic",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (20.01.1995)",
+        "Market Value": "€272k",
+        "unicode": "E3qQ3DB5"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Capuano M.",
+        "players_number": "25",
+        "Full Name": "Marco Capuano",
+        "players_rating": 6.2,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (14.10.1991)",
+        "Market Value": "€294k",
+        "unicode": "raXy4HIm"
+      },
+      {
+        "players_name": "Cassata F.",
+        "players_number": "24",
+        "Full Name": "Francesco Cassata",
+        "players_rating": 6.2,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (16.07.1997)",
+        "Market Value": "€599k",
+        "unicode": "YTuQ6xad"
+      },
+      {
+        "players_name": "Chibsah R.",
+        "players_number": "66",
+        "Full Name": "Raman Chibsah",
+        "players_rating": 6.1,
+        "Country": "Ghana",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (10.03.1993)",
+        "Market Value": "€149k",
+        "unicode": "OQQmwLhA"
+      },
+      {
+        "players_name": "Ciano C.",
+        "players_number": "28",
+        "Full Name": "Camillo Ciano",
+        "players_rating": 6.8,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (22.02.1990)",
+        "Market Value": "€298k",
+        "unicode": "hf9a05fD"
+      },
+      {
+        "players_name": "Ciofani D. (C)",
+        "players_number": "9",
+        "Full Name": "Daniel Ciofani",
+        "players_rating": 6.2,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "38, (31.07.1985)",
+        "Market Value": "€190k",
+        "unicode": "lE6KSRGJ"
+      },
+      {
+        "players_name": "Goldaniga E.",
+        "players_number": "6",
+        "Full Name": "Edoardo Goldaniga",
+        "players_rating": 6.9,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (02.11.1993)",
+        "Market Value": "€855k",
+        "unicode": "CxCzIfHK"
+      },
+      {
+        "players_name": "Molinaro C.",
+        "players_number": "3",
+        "Full Name": "Cristian Molinaro",
+        "players_rating": 6.3,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "40, (30.07.1983)",
+        "Market Value": "",
+        "unicode": "WdOJMccT"
+      },
+      {
+        "players_name": "Salamon B.",
+        "players_number": "27",
+        "Full Name": "Bartosz Salamon",
+        "players_rating": 5.8,
+        "Country": "Poland",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (01.05.1991)",
+        "Market Value": "€380k",
+        "unicode": "I3UbRqwl"
+      },
+      {
+        "players_name": "Sportiello M. (G)",
+        "players_number": "57",
+        "Full Name": "Marco Sportiello",
+        "players_rating": 6.5,
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (10.05.1992)",
+        "Market Value": "€1.5m",
+        "unicode": "EiVDoV04"
+      },
+      {
+        "players_name": "Viviani F.",
+        "players_number": "92",
+        "Full Name": "Federico Viviani",
+        "players_rating": 6.5,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (24.03.1992)",
+        "Market Value": "€193k",
+        "unicode": "S6S7QlPd"
+      },
+      {
+        "players_name": "Zampano F.",
+        "players_number": "17",
+        "Full Name": "Francesco Zampano",
+        "players_rating": 6.4,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (30.09.1993)",
+        "Market Value": "€685k",
+        "unicode": "SAVw0168"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Gori M.",
+        "players_number": "5",
+        "Full Name": "Mirko Gori",
+        "players_rating": 6.1,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (04.02.1993)",
+        "Market Value": "30.06.2025",
+        "unicode": "bFNbSfme"
+      },
+      {
+        "players_name": "Paganini L.",
+        "players_number": "7",
+        "Full Name": "Luca Paganini",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (08.06.1993)",
+        "Market Value": "30.06.2024",
+        "unicode": "YsayVOQn"
+      },
+      {
+        "players_name": "Pinamonti A.",
+        "players_number": "89",
+        "Full Name": "Andrea Pinamonti",
+        "players_rating": 6.1,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (19.05.1999)",
+        "Market Value": "€14.0m",
+        "unicode": "O4qi5hfc"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Beghetto A.",
+        "players_number": "33",
+        "Full Name": "Andrea Beghetto",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (11.10.1994)",
+        "Market Value": "€227k",
+        "unicode": "QHPgXTv2"
+      },
+      {
+        "players_name": "Brighenti N.",
+        "players_number": "23",
+        "Full Name": "Niccolo Brighenti",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (01.08.1989)",
+        "Market Value": "€338k",
+        "unicode": "ULlJRUuq"
+      },
+      {
+        "players_name": "Iacobucci A. (G)",
+        "players_number": "91",
+        "Full Name": "Alessandro Iacobucci",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (03.06.1991)",
+        "Market Value": "€140k",
+        "unicode": "4puil5Gt"
+      },
+      {
+        "players_name": "Krajnc L.",
+        "players_number": "32",
+        "Full Name": "Luka Krajnc",
+        "players_rating": "",
+        "Country": "Slovenia",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (19.09.1994)",
+        "Market Value": "€468k",
+        "unicode": "KCBTTJPh"
+      },
+      {
+        "players_name": "Maiello R.",
+        "players_number": "8",
+        "Full Name": "Raffaele Maiello",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (10.07.1991)",
+        "Market Value": "€755k",
+        "unicode": "M9Jn9Zm9"
+      },
+      {
+        "players_name": "Marciano G. (G)",
+        "players_number": "75",
+        "Full Name": "Giuseppe Marciano",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "23, (27.05.2000)",
+        "Market Value": "",
+        "unicode": "QTH5urOp"
+      },
+      {
+        "players_name": "Sammarco P.",
+        "players_number": "21",
+        "Full Name": "Paolo Sammarco",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "End of career",
+        "Age and Birthdate": "40, (17.03.1983)",
+        "Market Value": "",
+        "unicode": "4hoV7Fy0"
+      },
+      {
+        "players_name": "Trotta M.",
+        "players_number": "20",
+        "Full Name": "Marcello Trotta",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (29.09.1992)",
+        "Market Value": "30.06.2025",
+        "unicode": "pMrqvGHt"
+      },
+      {
+        "players_name": "Valzania L.",
+        "players_number": "16",
+        "Full Name": "Luca Valzania",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (05.03.1996)",
+        "Market Value": "€369k",
+        "unicode": "QHyaO4C2"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Allegri M.",
+        "players_number": "",
+        "Full Name": "Massimiliano Allegri",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "56,  (11.08.1967)",
+        "Market Value": "",
+        "unicode": "lUkw2EZn"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Alex Sandro",
+        "players_number": "",
+        "Full Name": "Alex Sandro",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (26.01.1991)",
+        "Market Value": "€2.0m",
+        "unicode": "hrkni8NN"
+      },
+      {
+        "players_name": "Costa D.",
+        "players_number": "",
+        "Full Name": "Douglas Costa",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "€1.5m, (14.09.1990)",
+        "Market Value": "",
+        "unicode": "fPOJMEfo"
+      },
+      {
+        "players_name": "Cuadrado J.",
+        "players_number": "",
+        "Full Name": "Juan Cuadrado",
+        "players_rating": "",
+        "Country": "Colombia",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (26.05.1988)",
+        "Market Value": "€2.0m",
+        "unicode": "AFefBpwI"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Bentancur R.",
+        "players_number": "30",
+        "Full Name": "Rodrigo Bentancur",
+        "players_rating": 7.0,
+        "Country": "Uruguay",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (25.06.1997)",
+        "Market Value": "€34.7m",
+        "unicode": "nLRMnJtJ"
+      },
+      {
+        "players_name": "Bonucci L.",
+        "players_number": "19",
+        "Full Name": "Leonardo Bonucci",
+        "players_rating": 8.0,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (01.05.1987)",
+        "Market Value": "€1.4m",
+        "unicode": "zmOGDSwg"
+      },
+      {
+        "players_name": "Can E.",
+        "players_number": "23",
+        "Full Name": "Emre Can",
+        "players_rating": 8.0,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (12.01.1994)",
+        "Market Value": "€11.7m",
+        "unicode": "YJu3hSpk"
+      },
+      {
+        "players_name": "Cancelo J.",
+        "players_number": "20",
+        "Full Name": "Joao Cancelo",
+        "players_rating": 7.4,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (27.05.1994)",
+        "Market Value": "€41.4m",
+        "unicode": "dAyeWYpm"
+      },
+      {
+        "players_name": "Chiellini G. (C)",
+        "players_number": "3",
+        "Full Name": "Giorgio Chiellini",
+        "players_rating": 7.3,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "39, (14.08.1984)",
+        "Market Value": "",
+        "unicode": "K2KuC4Uu"
+      },
+      {
+        "players_name": "De Sciglio M.",
+        "players_number": "2",
+        "Full Name": "Mattia De Sciglio",
+        "players_rating": 7.3,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (20.10.1992)",
+        "Market Value": "€1.9m",
+        "unicode": "Ua5srQK6"
+      },
+      {
+        "players_name": "Dybala P.",
+        "players_number": "10",
+        "Full Name": "Paulo Dybala",
+        "players_rating": 8.2,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (15.11.1993)",
+        "Market Value": "€24.8m",
+        "unicode": "W4myUVXR"
+      },
+      {
+        "players_name": "Khedira S.",
+        "players_number": "6",
+        "Full Name": "Sami Khedira",
+        "players_rating": 7.9,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (04.04.1987)",
+        "Market Value": "",
+        "unicode": "0AgmLAwr"
+      },
+      {
+        "players_name": "Mandzukic M.",
+        "players_number": "17",
+        "Full Name": "Mario Mandzukic",
+        "players_rating": 7.7,
+        "Country": "Croatia",
+        "Role": "Forward",
+        "Age and Birthdate": "37, (21.05.1986)",
+        "Market Value": "",
+        "unicode": "MV22As4p"
+      },
+      {
+        "players_name": "Ronaldo C.",
+        "players_number": "7",
+        "Full Name": "Cristiano Ronaldo",
+        "players_rating": 8.8,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "38, (05.02.1985)",
+        "Market Value": "€15.7m",
+        "unicode": "WGOY4FSt"
+      },
+      {
+        "players_name": "Szczesny W. (G)",
+        "players_number": "1",
+        "Full Name": "Wojciech Szczesny",
+        "players_rating": 6.9,
+        "Country": "Poland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (18.04.1990)",
+        "Market Value": "€8.4m",
+        "unicode": "6NtwHZ7F"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Bernardeschi F.",
+        "players_number": "33",
+        "Full Name": "Federico Bernardeschi",
+        "players_rating": 6.5,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (16.02.1994)",
+        "Market Value": "",
+        "unicode": "Ghmdi8ej"
+      },
+      {
+        "players_name": "Caceres M.",
+        "players_number": "4",
+        "Full Name": "Martin Caceres",
+        "players_rating": 6.4,
+        "Country": "Uruguay",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (07.04.1987)",
+        "Market Value": "€234k",
+        "unicode": "2T435VVE"
+      },
+      {
+        "players_name": "Pjanic M.",
+        "players_number": "5",
+        "Full Name": "Miralem Pjanic",
+        "players_rating": "",
+        "Country": "Bosnia and Herzegovina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (02.04.1990)",
+        "Market Value": "€4.9m",
+        "unicode": "ObHi3HbL"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Barzagli A.",
+        "players_number": "15",
+        "Full Name": "Andrea Barzagli",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "42, (08.05.1981)",
+        "Market Value": "",
+        "unicode": "SlJHCt43"
+      },
+      {
+        "players_name": "Kean M.",
+        "players_number": "18",
+        "Full Name": "Moise Kean",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (28.02.2000)",
+        "Market Value": "€16.6m",
+        "unicode": "QPclX9Uq"
+      },
+      {
+        "players_name": "Matuidi B.",
+        "players_number": "14",
+        "Full Name": "Blaise Matuidi",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (09.04.1987)",
+        "Market Value": "",
+        "unicode": "CAWma17n"
+      },
+      {
+        "players_name": "Perin M. (G)",
+        "players_number": "22",
+        "Full Name": "Mattia Perin",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (10.11.1992)",
+        "Market Value": "€2.9m",
+        "unicode": "A3ZJNQg1"
+      },
+      {
+        "players_name": "Pinsoglio C. (G)",
+        "players_number": "21",
+        "Full Name": "Carlo Pinsoglio",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (16.03.1990)",
+        "Market Value": "30.06.2025",
+        "unicode": "Uii1AJuK"
+      },
+      {
+        "players_name": "Spinazzola L.",
+        "players_number": "37",
+        "Full Name": "Leonardo Spinazzola",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (25.03.1993)",
+        "Market Value": "€7.1m",
+        "unicode": "UgYYWt1i"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "05:54",
+      "comments_type": "goal",
+      "comments_text": "Goal! Cristiano Ronaldo plays a short, square pass into the path of Paulo Dybala (Juventus), who bends a shot straight into the top right corner to make it 1:0. Fabulous goal!",
+      "comments_text_anonymized": "Goal! [PLAYER] plays a short, square pass into the path of [PLAYER] ([TEAM]), who bends a shot straight into the top right corner to make it 1:0. Fabulous goal!",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "14:53",
+      "comments_type": "red card",
+      "comments_text": "It looks like Mario Mandzukic (Juventus) saw red with that tackle. Antonio Giua won't tolerate such behaviour on the pitch and blows for a foul.",
+      "comments_text_anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "15:37",
+      "comments_type": "corner",
+      "comments_text": "The ball is cleared after Joao Cancelo (Juventus) attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. Juventus will have an opportunity to threaten the opposition's goal.",
+      "comments_text_anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "15:51",
+      "comments_type": "corner",
+      "comments_text": "Paulo Dybala (Juventus) takes the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "16:10",
+      "comments_type": "goal",
+      "comments_text": "Leonardo Bonucci (Juventus) gets to the rebound in the goalmouth and plants a header home.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the rebound in the goalmouth and plants a header home.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "27:01",
+      "comments_type": "yellow card",
+      "comments_text": "Emre Can (Juventus) goes into the book and receives a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes into the book and receives a yellow card.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "30:31",
+      "comments_type": "corner",
+      "comments_text": "Frosinone quickly take a corner kick with a short pass.",
+      "comments_text_anonymized": "[TEAM] quickly take a corner kick with a short pass.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "36:40",
+      "comments_type": "yellow card",
+      "comments_text": "Bartosz Salamon (Frosinone) receives a yellow card from the referee for a foul that he committed a little earlier.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) receives a yellow card from the referee for a foul that he committed a little earlier.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "42:32",
+      "comments_type": "corner",
+      "comments_text": "Paulo Dybala (Juventus) will try to find the head of one of his teammates from a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will try to find the head of one of his teammates from a corner kick.",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "45:42",
+      "comments_type": "corner",
+      "comments_text": "The ball is out of play and the linesman points at the corner flag. Corner to Frosinone.",
+      "comments_text_anonymized": "The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "03:38",
+      "comments_type": "corner",
+      "comments_text": "Frosinone take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:03",
+      "comments_type": "corner",
+      "comments_text": "Paulo Dybala (Juventus) will deliver the ball into the penalty box from a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:38",
+      "comments_type": "corner",
+      "comments_text": "Rodrigo Bentancur (Juventus) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:20",
+      "comments_type": "corner",
+      "comments_text": "A horde of players are waiting inside the penalty area for a cross from the corner, but Paulo Dybala (Juventus) takes it short.",
+      "comments_text_anonymized": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:53",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Daniel Ciofani departs the field of play to be replaced by Andrea Pinamonti (Frosinone).",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM]).",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:00",
+      "comments_type": "yellow card",
+      "comments_text": "Marco Capuano (Frosinone) has tested the patience of referee Antonio Giua and goes into the book for a previous late challenge.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:16",
+      "comments_type": "goal",
+      "comments_text": "What a hit! Cristiano Ronaldo (Juventus) shows good composure inside the box to fire a first-time shot into the bottom right corner. 3:0.",
+      "comments_text_anonymized": "What a hit! [PLAYER] ([TEAM]) shows good composure inside the box to fire a first-time shot into the bottom right corner. 3:0.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:29",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Cristiano Ronaldo walks off the pitch and Federico Bernardeschi (Juventus) comes on as a substitute.",
+      "comments_text_anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:06",
+      "comments_type": "corner",
+      "comments_text": "The ball goes out of play. Frosinone are awarded a corner kick.",
+      "comments_text_anonymized": "The ball goes out of play. [TEAM] are awarded a corner kick.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "24:07",
+      "comments_type": "substitution",
+      "comments_text": "Massimiliano Allegri has decided to introduce fresh legs, with Martin Caceres (Juventus) replacing Giorgio Chiellini.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:32",
+      "comments_type": "corner",
+      "comments_text": "The resulting set piece from Frosinone is comfortably intercepted by one of the defending players.",
+      "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:49",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Raman Chibsah leaves the pitch and is replaced by Mirko Gori (Frosinone).",
+      "comments_text_anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:00",
+      "comments_type": "substitution",
+      "comments_text": "Massimiliano Allegri has decided to substitute Sami Khedira and he is replaced by Miralem Pjanic (Juventus).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:13",
+      "comments_type": "yellow card",
+      "comments_text": "What was Francesco Cassata (Frosinone) thinking? He will not get away with that. The referee shows him a yellow card.",
+      "comments_text_anonymized": "What was [PLAYER] ([TEAM]) thinking? He will not get away with that. The referee shows him a yellow card.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:54",
+      "comments_type": "substitution",
+      "comments_text": "The substitution is prepared. Luca Paganini (Frosinone) joins the action as a substitute, replacing Francesco Zampano.",
+      "comments_text_anonymized": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER].",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:35",
+      "comments_type": "corner",
+      "comments_text": "A corner kick by Frosinone is thwarted by the well prepared Wojciech Szczesny (Juventus).",
+      "comments_text_anonymized": "A corner kick by [TEAM] is thwarted by the well prepared [PLAYER] ([TEAM]).",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:01",
+      "comments_type": "yellow card",
+      "comments_text": "Joao Cancelo (Juventus) can count himself lucky for not being sent off after only receiving a caution from the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) can count himself lucky for not being sent off after only receiving a caution from the referee.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:06",
+      "comments_type": "corner",
+      "comments_text": "The referee points to the corner flag. It's a corner to Frosinone.",
+      "comments_text_anonymized": "The referee points to the corner flag. It's a corner to [TEAM].",
+      "index": 27
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+{
+  "match_info": {
+    "timestamp": "2022-02-12 04:00:00",
+    "score": "1 - 0",
+    "home_team": "PSG",
+    "away_team": "Rennes",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 4 - 2",
+    "venue": "Parc des Princes (Paris)",
+    "capacity": "48 229",
+    "attendance": "47 000"
+  },
+  "referee_data": {
+    "short_name_country": "Bastien B. (Fra)",
+    "first_name": "Bastien",
+    "abbr_last_name": "B",
+    "country": "Fra",
+    "detected_name": "Benoit Bastien"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Pochettino M.",
+        "players_number": "",
+        "Full Name": "Mauricio Pochettino",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "coach",
+        "Age and Birthdate": "51,  (02.03.1972)",
+        "Market Value": "",
+        "unicode": "zuJM7XDg"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Diallo A.",
+        "players_number": "",
+        "Full Name": "Abdou Diallo",
+        "players_rating": "",
+        "Country": "Senegal",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (04.05.1996)",
+        "Market Value": "€8.7m",
+        "unicode": "M5WugaXi"
+      },
+      {
+        "players_name": "Gueye I.",
+        "players_number": "",
+        "Full Name": "Idrissa Gueye",
+        "players_rating": "",
+        "Country": "Senegal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (26.09.1989)",
+        "Market Value": "€3.9m",
+        "unicode": "f12b2WQA"
+      },
+      {
+        "players_name": "Herrera A.",
+        "players_number": "",
+        "Full Name": "Ander Herrera",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (14.08.1989)",
+        "Market Value": "€2.4m",
+        "unicode": "jyzWX8yk"
+      },
+      {
+        "players_name": "Letellier A.",
+        "players_number": "",
+        "Full Name": "Alexandre Letellier",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (11.12.1990)",
+        "Market Value": "€264k",
+        "unicode": "ji8Eq4da"
+      },
+      {
+        "players_name": "Michut E.",
+        "players_number": "",
+        "Full Name": "Edouard Michut",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (04.03.2003)",
+        "Market Value": "€2.2m",
+        "unicode": "YaNhNZxm"
+      },
+      {
+        "players_name": "Neymar",
+        "players_number": "",
+        "Full Name": "Neymar",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (05.02.1992)",
+        "Market Value": "€49.6m",
+        "unicode": "jNOPwl3h"
+      },
+      {
+        "players_name": "Pereira D.",
+        "players_number": "",
+        "Full Name": "Danilo Pereira",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (09.09.1991)",
+        "Market Value": "€9.2m",
+        "unicode": "IPvZS0u3"
+      },
+      {
+        "players_name": "Ramos S.",
+        "players_number": "",
+        "Full Name": "Sergio Ramos",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "37, (30.03.1986)",
+        "Market Value": "€4.0m",
+        "unicode": "db8mbBaO"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Bernat J.",
+        "players_number": "14",
+        "Full Name": "Juan Bernat",
+        "players_rating": 7.4,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (01.03.1993)",
+        "Market Value": "€5.7m",
+        "unicode": "Cd1ieN88"
+      },
+      {
+        "players_name": "Draxler J.",
+        "players_number": "23",
+        "Full Name": "Julian Draxler",
+        "players_rating": 6.8,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (20.09.1993)",
+        "Market Value": "€4.9m",
+        "unicode": "plO3S4gF"
+      },
+      {
+        "players_name": "Hakimi A.",
+        "players_number": "2",
+        "Full Name": "Achraf Hakimi",
+        "players_rating": 7.3,
+        "Country": "Morocco",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (04.11.1998)",
+        "Market Value": "€68.2m",
+        "unicode": "MqFBkBsp"
+      },
+      {
+        "players_name": "Kimpembe P.",
+        "players_number": "3",
+        "Full Name": "Presnel Kimpembe",
+        "players_rating": 7.3,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (13.08.1995)",
+        "Market Value": "€18.7m",
+        "unicode": "dMyiR1D8"
+      },
+      {
+        "players_name": "Marquinhos (C)",
+        "players_number": "5",
+        "Full Name": "Marquinhos",
+        "players_rating": 7.1,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (14.05.1994)",
+        "Market Value": "€58.7m",
+        "unicode": "UFfev8HP"
+      },
+      {
+        "players_name": "Mbappe K.",
+        "players_number": "7",
+        "Full Name": "Kylian Mbappe",
+        "players_rating": 7.3,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (20.12.1998)",
+        "Market Value": "€204.2m",
+        "unicode": "Wn6E2SED"
+      },
+      {
+        "players_name": "Messi L.",
+        "players_number": "30",
+        "Full Name": "Lionel Messi",
+        "players_rating": 7.9,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (24.06.1987)",
+        "Market Value": "€40.2m",
+        "unicode": "vgOOdZbd"
+      },
+      {
+        "players_name": "Navas K. (G)",
+        "players_number": "1",
+        "Full Name": "Keylor Navas",
+        "players_rating": 6.8,
+        "Country": "Costa Rica",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (15.12.1986)",
+        "Market Value": "€2.0m",
+        "unicode": "dQEusiKl"
+      },
+      {
+        "players_name": "Paredes L.",
+        "players_number": "8",
+        "Full Name": "Leandro Paredes",
+        "players_rating": 6.9,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (29.06.1994)",
+        "Market Value": "€7.7m",
+        "unicode": "lbNnSBiA"
+      },
+      {
+        "players_name": "Simons X.",
+        "players_number": "34",
+        "Full Name": "Xavi Simons",
+        "players_rating": 6.2,
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (21.04.2003)",
+        "Market Value": "€69.5m",
+        "unicode": "noo0L9zk"
+      },
+      {
+        "players_name": "Verratti M.",
+        "players_number": "6",
+        "Full Name": "Marco Verratti",
+        "players_rating": 7.4,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (05.11.1992)",
+        "Market Value": "€24.8m",
+        "unicode": "fmn5agXI"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Di Maria A.",
+        "players_number": "11",
+        "Full Name": "Angel Di Maria",
+        "players_rating": 6.6,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (14.02.1988)",
+        "Market Value": "€5.3m",
+        "unicode": "SISkkDSQ"
+      },
+      {
+        "players_name": "Icardi M.",
+        "players_number": "9",
+        "Full Name": "Mauro Icardi",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (19.02.1993)",
+        "Market Value": "€21.0m",
+        "unicode": "xKyjFkf6"
+      },
+      {
+        "players_name": "Kehrer T.",
+        "players_number": "24",
+        "Full Name": "Thilo Kehrer",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (21.09.1996)",
+        "Market Value": "€8.3m",
+        "unicode": "UXQPdpOB"
+      },
+      {
+        "players_name": "Mendes N.",
+        "players_number": "25",
+        "Full Name": "Nuno Mendes",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (19.06.2002)",
+        "Market Value": "€61.3m",
+        "unicode": "ne2xCTJj"
+      },
+      {
+        "players_name": "Wijnaldum G.",
+        "players_number": "18",
+        "Full Name": "Georginio Wijnaldum",
+        "players_rating": 6.3,
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (11.11.1990)",
+        "Market Value": "€4.8m",
+        "unicode": "f9KgUUZu"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Bitshiabu E.",
+        "players_number": "31",
+        "Full Name": "El Chadaille Bitshiabu",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "18, (16.05.2005)",
+        "Market Value": "€13.6m",
+        "unicode": "6DL0LD7a"
+      },
+      {
+        "players_name": "Dagba C.",
+        "players_number": "17",
+        "Full Name": "Colin Dagba",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (09.09.1998)",
+        "Market Value": "€1.7m",
+        "unicode": "r7kInW0E"
+      },
+      {
+        "players_name": "Dina Ebimbe J.",
+        "players_number": "28",
+        "Full Name": "Junior Dina Ebimbe",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (21.11.2000)",
+        "Market Value": "€13.7m",
+        "unicode": "0daEaUg4"
+      },
+      {
+        "players_name": "Donnarumma G. (G)",
+        "players_number": "50",
+        "Full Name": "Gianluigi Donnarumma",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "24, (25.02.1999)",
+        "Market Value": "€41.4m",
+        "unicode": "WScbdXmL"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Genesio B.",
+        "players_number": "",
+        "Full Name": "Bruno Genesio",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "coach",
+        "Age and Birthdate": "57,  (01.09.1966)",
+        "Market Value": "",
+        "unicode": "nVS1TlC4"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Doku J.",
+        "players_number": "",
+        "Full Name": "Jeremy Doku",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (27.05.2002)",
+        "Market Value": "€66.4m",
+        "unicode": "lMHcYK4f"
+      },
+      {
+        "players_name": "Gelin J.",
+        "players_number": "",
+        "Full Name": "Jeremy Gelin",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (24.04.1997)",
+        "Market Value": "€1.8m",
+        "unicode": "Sz7iLW02"
+      },
+      {
+        "players_name": "Salin R.",
+        "players_number": "",
+        "Full Name": "Romain Salin",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "39, (29.07.1984)",
+        "Market Value": "",
+        "unicode": "M1TpGEWS"
+      },
+      {
+        "players_name": "Tait F.",
+        "players_number": "",
+        "Full Name": "Flavien Tait",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (02.02.1993)",
+        "Market Value": "€2.9m",
+        "unicode": "bJDkM73e"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Aguerd N.",
+        "players_number": "6",
+        "Full Name": "Nayef Aguerd",
+        "players_rating": 6.6,
+        "Country": "Morocco",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (30.05.1996)",
+        "Market Value": "€37.2m",
+        "unicode": "zsQh7xdD"
+      },
+      {
+        "players_name": "Alemdar D. (G)",
+        "players_number": "40",
+        "Full Name": "Dogan Alemdar",
+        "players_rating": 5.6,
+        "Country": "Turkey",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "21, (29.10.2002)",
+        "Market Value": "€3.3m",
+        "unicode": "CngQQtwt"
+      },
+      {
+        "players_name": "Bourigeaud B.",
+        "players_number": "14",
+        "Full Name": "Benjamin Bourigeaud",
+        "players_rating": 6.8,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (14.01.1994)",
+        "Market Value": "€18.4m",
+        "unicode": "AqUEemK2"
+      },
+      {
+        "players_name": "Laborde G.",
+        "players_number": "24",
+        "Full Name": "Gaetan Laborde",
+        "players_rating": 6.6,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (03.05.1994)",
+        "Market Value": "€14.7m",
+        "unicode": "KdLy7rKC"
+      },
+      {
+        "players_name": "Majer L.",
+        "players_number": "21",
+        "Full Name": "Lovro Majer",
+        "players_rating": 6.9,
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (17.01.1998)",
+        "Market Value": "€23.8m",
+        "unicode": "444Jw1Mr"
+      },
+      {
+        "players_name": "Martin J.",
+        "players_number": "28",
+        "Full Name": "Jonas Martin",
+        "players_rating": 6.5,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (09.04.1990)",
+        "Market Value": "€1.1m",
+        "unicode": "tQMgOwhG"
+      },
+      {
+        "players_name": "Meling B.",
+        "players_number": "25",
+        "Full Name": "Birger Meling",
+        "players_rating": 6.9,
+        "Country": "Norway",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (17.12.1994)",
+        "Market Value": "€3.8m",
+        "unicode": "pUnJhSZe"
+      },
+      {
+        "players_name": "Omari W.",
+        "players_number": "23",
+        "Full Name": "Warmed Omari",
+        "players_rating": 7.0,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (23.04.2000)",
+        "Market Value": "€7.8m",
+        "unicode": "nPaP35OO"
+      },
+      {
+        "players_name": "Santamaria B.",
+        "players_number": "8",
+        "Full Name": "Baptiste Santamaria",
+        "players_rating": 6.6,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (09.03.1995)",
+        "Market Value": "€11.6m",
+        "unicode": "Ioy3ZkK1"
+      },
+      {
+        "players_name": "Terrier M.",
+        "players_number": "7",
+        "Full Name": "Martin Terrier",
+        "players_rating": 6.2,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (04.03.1997)",
+        "Market Value": "€22.8m",
+        "unicode": "xlu6948L"
+      },
+      {
+        "players_name": "Traore H. (C)",
+        "players_number": "27",
+        "Full Name": "Hamari Traore",
+        "players_rating": 6.1,
+        "Country": "Mali",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (27.01.1992)",
+        "Market Value": "€8.9m",
+        "unicode": "fRSnvKQG"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Assignon L.",
+        "players_number": "22",
+        "Full Name": "Lorenz Assignon",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (22.06.2000)",
+        "Market Value": "€9.6m",
+        "unicode": "2T5az5TR"
+      },
+      {
+        "players_name": "Guirassy S.",
+        "players_number": "9",
+        "Full Name": "Serhou Guirassy",
+        "players_rating": 6.4,
+        "Country": "Guinea",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (12.03.1996)",
+        "Market Value": "€40.3m",
+        "unicode": "YXRCmup6"
+      },
+      {
+        "players_name": "Sulemana K.",
+        "players_number": "10",
+        "Full Name": "Kamaldeen Sulemana",
+        "players_rating": 6.5,
+        "Country": "Ghana",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (15.02.2002)",
+        "Market Value": "€15.2m",
+        "unicode": "EksgGjXe"
+      },
+      {
+        "players_name": "Truffert A.",
+        "players_number": "3",
+        "Full Name": "Adrien Truffert",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (20.10.2001)",
+        "Market Value": "€17.6m",
+        "unicode": "WQprkBYj"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Bade L.",
+        "players_number": "4",
+        "Full Name": "Loic Bade",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (11.04.2000)",
+        "Market Value": "€9.9m",
+        "unicode": "YgxuEfvL"
+      },
+      {
+        "players_name": "Diouf A.",
+        "players_number": "19",
+        "Full Name": "Andy Diouf",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "20, (17.05.2003)",
+        "Market Value": "€9.6m",
+        "unicode": "IiBJCs82"
+      },
+      {
+        "players_name": "Gomis A. (G)",
+        "players_number": "16",
+        "Full Name": "Alfred Gomis",
+        "players_rating": "",
+        "Country": "Senegal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "30, (05.09.1993)",
+        "Market Value": "€1.5m",
+        "unicode": "MP4Bgvzf"
+      },
+      {
+        "players_name": "Tchaouna L.",
+        "players_number": "17",
+        "Full Name": "Loum Tchaouna",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "20, (08.09.2003)",
+        "Market Value": "€2.9m",
+        "unicode": "vij66lN7"
+      },
+      {
+        "players_name": "Tel M.",
+        "players_number": "39",
+        "Full Name": "Mathys Tel",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "18, (27.04.2005)",
+        "Market Value": "€44.7m",
+        "unicode": "drANB1N8"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "07:11",
+      "comments_type": "corner",
+      "comments_text": "Rennes failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:36",
+      "comments_type": "corner",
+      "comments_text": "The ball is out of play and Rennes manage to earn a corner.",
+      "comments_text_anonymized": "The ball is out of play and [TEAM] manage to earn a corner.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "32:39",
+      "comments_type": "corner",
+      "comments_text": "Lionel Messi (Paris SG) takes the corner with a short pass.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner with a short pass.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:55",
+      "comments_type": "yellow card",
+      "comments_text": "Kylian Mbappe (Paris SG) has tested the patience of referee Benoit Bastien and goes into the book for a previous late challenge.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "45:29",
+      "comments_type": "corner",
+      "comments_text": "Marco Verratti (Paris SG) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat. Paris SG get a corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat. [TEAM] get a corner.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "45:48",
+      "comments_type": "corner",
+      "comments_text": "Marco Verratti (Paris SG) sends in a poor cross from the corner and Dogan Alemdar has no trouble gathering it.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in a poor cross from the corner and [PLAYER] has no trouble gathering it.",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:07",
+      "comments_type": "corner",
+      "comments_text": "Lionel Messi (Paris SG) decides to take a short corner instead of crossing into the box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:51",
+      "comments_type": "corner",
+      "comments_text": "Benjamin Bourigeaud (Rennes) prepares to take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) prepares to take a corner kick.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:00",
+      "comments_type": "goal",
+      "comments_text": "Kylian Mbappe (Paris SG) fires the ball inside the back of the net!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) fires the ball inside the back of the net!",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:24",
+      "comments_type": "substitution",
+      "comments_text": "The substitution is prepared. Angel Di Maria (Paris SG) joins the action as a substitute, replacing Julian Draxler.",
+      "comments_text_anonymized": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER].",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:39",
+      "comments_type": "substitution",
+      "comments_text": "Mauricio Pochettino decides to make a substitution. Xavi Simons will be replaced by Georginio Wijnaldum (Paris SG).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:28",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Gaetan Laborde walks off the pitch and Serhou Guirassy (Rennes) comes on as a substitute.",
+      "comments_text_anonymized": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:36",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Benjamin Bourigeaud is going off and Bruno Genesio gives the last tactical orders to Kamaldeen Sulemana (Rennes).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:56",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Leandro Paredes trots off the pitch and is replaced by Mauro Icardi (Paris SG).",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] trots off the pitch and is replaced by [PLAYER] ([TEAM]).",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:18",
+      "comments_type": "substitution",
+      "comments_text": "Mauricio Pochettino has decided to make a change. Thilo Kehrer (Paris SG) replaces Achraf Hakimi.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:32",
+      "comments_type": "substitution",
+      "comments_text": "We are about to witness a subsitution. Nuno Mendes (Paris SG) for Juan Bernat.",
+      "comments_text_anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER].",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:43",
+      "comments_type": "substitution",
+      "comments_text": "It's time for a substitution. That's the last involvement from Lovro Majer as he is replaced by Adrien Truffert (Rennes).",
+      "comments_text_anonymized": "It's time for a substitution. That's the last involvement from [PLAYER] as he is replaced by [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:49",
+      "comments_type": "corner",
+      "comments_text": "A dangerous looking corner kick from Lionel Messi (Paris SG) is cleared to safety by the defence.",
+      "comments_text_anonymized": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:31",
+      "comments_type": "yellow card",
+      "comments_text": "Marco Verratti (Paris SG) is booked after bringing down an opponent. Benoit Bastien had an easy-decision to make.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:56",
+      "comments_type": "substitution",
+      "comments_text": "Bruno Genesio has decided to substitute Martin Terrier and he is replaced by Lorenz Assignon (Rennes).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:46",
+      "comments_type": "yellow card",
+      "comments_text": "Dogan Alemdar (Rennes) is cautioned and receives a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is cautioned and receives a yellow card.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "46:50",
+      "comments_type": "goal",
+      "comments_text": "Fantastic team goal! Kylian Mbappe (Paris SG) was set free in the area by Lionel Messi and made no mistake with a lovely finish into the bottom right corner. 1:0.",
+      "comments_text_anonymized": "Fantastic team goal! [PLAYER] ([TEAM]) was set free in the area by [PLAYER] and made no mistake with a lovely finish into the bottom right corner. 1:0.",
+      "index": 21
+    }
+  ]
+}

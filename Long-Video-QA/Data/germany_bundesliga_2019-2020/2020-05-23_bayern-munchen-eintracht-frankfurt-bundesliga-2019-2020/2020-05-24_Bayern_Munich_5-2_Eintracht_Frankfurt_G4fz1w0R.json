@@ -1,0 +1,826 @@
+{
+  "match_info": {
+    "timestamp": "2020-05-24 00:30:00",
+    "score": "5 - 2",
+    "home_team": "Bayern Munich",
+    "away_team": "Eintracht Frankfurt",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Allianz Arena (Munich)",
+    "capacity": "75 024",
+    "attendance": ""
+  },
+  "referee_data": {
+    "short_name_country": "Fritz M. (Ger)",
+    "first_name": "Fritz",
+    "abbr_last_name": "M",
+    "country": "Ger",
+    "detected_name": "Marco Fritz"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Flick H.",
+        "players_number": "",
+        "Full Name": "Hansi Flick",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "58,  (24.02.1965)",
+        "Market Value": "",
+        "unicode": "OjfahOtr"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Coutinho",
+        "players_number": "",
+        "Full Name": "Philippe Coutinho",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (12.06.1992)",
+        "Market Value": "€8.6m",
+        "unicode": "QP6r8H7O"
+      },
+      {
+        "players_name": "Sule N.",
+        "players_number": "",
+        "Full Name": "Niklas Sule",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (03.09.1995)",
+        "Market Value": "€20.9m",
+        "unicode": "G43Lp4in"
+      },
+      {
+        "players_name": "Thiago",
+        "players_number": "",
+        "Full Name": "Thiago",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (11.04.1991)",
+        "Market Value": "€9.8m",
+        "unicode": "vcSKqUSq"
+      },
+      {
+        "players_name": "Tolisso C.",
+        "players_number": "",
+        "Full Name": "Corentin Tolisso",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (03.08.1994)",
+        "Market Value": "€5.0m",
+        "unicode": "hQOIoFOs"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Alaba D.",
+        "players_number": "27",
+        "Full Name": "David Alaba",
+        "players_rating": 7.0,
+        "Country": "Austria",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (24.06.1992)",
+        "Market Value": "€30.0m",
+        "unicode": "hKx3nCTp"
+      },
+      {
+        "players_name": "Boateng J.",
+        "players_number": "17",
+        "Full Name": "Jerome Boateng",
+        "players_rating": 6.6,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (03.09.1988)",
+        "Market Value": "",
+        "unicode": "0bDEBms3"
+      },
+      {
+        "players_name": "Coman K.",
+        "players_number": "29",
+        "Full Name": "Kingsley Coman",
+        "players_rating": 8.6,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (13.06.1996)",
+        "Market Value": "€64.5m",
+        "unicode": "zHWLJOHq"
+      },
+      {
+        "players_name": "Davies A.",
+        "players_number": "19",
+        "Full Name": "Alphonso Davies",
+        "players_rating": 8.7,
+        "Country": "Canada",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (02.11.2000)",
+        "Market Value": "€72.5m",
+        "unicode": "4r3PXV20"
+      },
+      {
+        "players_name": "Goretzka L.",
+        "players_number": "18",
+        "Full Name": "Leon Goretzka",
+        "players_rating": 8.3,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (06.02.1995)",
+        "Market Value": "€37.4m",
+        "unicode": "l2JpsMjB"
+      },
+      {
+        "players_name": "Kimmich J.",
+        "players_number": "32",
+        "Full Name": "Joshua Kimmich",
+        "players_rating": 8.2,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (08.02.1995)",
+        "Market Value": "€77.7m",
+        "unicode": "MkMrkZLc"
+      },
+      {
+        "players_name": "Lewandowski R.",
+        "players_number": "9",
+        "Full Name": "Robert Lewandowski",
+        "players_rating": 7.4,
+        "Country": "Poland",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (21.08.1988)",
+        "Market Value": "€20.1m",
+        "unicode": "MVC8zHZD"
+      },
+      {
+        "players_name": "Muller T.",
+        "players_number": "25",
+        "Full Name": "Thomas Muller",
+        "players_rating": 8.5,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "34, (13.09.1989)",
+        "Market Value": "€9.6m",
+        "unicode": "8KpOJV2B"
+      },
+      {
+        "players_name": "Neuer M. (G) (C)",
+        "players_number": "1",
+        "Full Name": "Manuel Neuer",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (27.03.1986)",
+        "Market Value": "€4.8m",
+        "unicode": "Sh5KwIo6"
+      },
+      {
+        "players_name": "Pavard B.",
+        "players_number": "5",
+        "Full Name": "Benjamin Pavard",
+        "players_rating": 6.6,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (28.03.1996)",
+        "Market Value": "€39.7m",
+        "unicode": "xxuEya3O"
+      },
+      {
+        "players_name": "Perisic I.",
+        "players_number": "14",
+        "Full Name": "Ivan Perisic",
+        "players_rating": 6.9,
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (02.02.1989)",
+        "Market Value": "€4.1m",
+        "unicode": "4AbKyVr9"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Cuisance M.",
+        "players_number": "11",
+        "Full Name": "Mickael Cuisance",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (16.08.1999)",
+        "Market Value": "€1.4m",
+        "unicode": "QNd9XJHR"
+      },
+      {
+        "players_name": "Gnabry S.",
+        "players_number": "22",
+        "Full Name": "Serge Gnabry",
+        "players_rating": 6.7,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (14.07.1995)",
+        "Market Value": "€44.5m",
+        "unicode": "6iZjDNFC"
+      },
+      {
+        "players_name": "Hernandez L.",
+        "players_number": "21",
+        "Full Name": "Lucas Hernandez",
+        "players_rating": 6.3,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (14.02.1996)",
+        "Market Value": "€43.4m",
+        "unicode": "x2fvnkud"
+      },
+      {
+        "players_name": "Zirkzee J.",
+        "players_number": "35",
+        "Full Name": "Joshua Zirkzee",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (22.05.2001)",
+        "Market Value": "€28.5m",
+        "unicode": "CCdlIA7L"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Batista Meier O.",
+        "players_number": "34",
+        "Full Name": "Oliver Batista Meier",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (16.02.2001)",
+        "Market Value": "30.06.2025",
+        "unicode": "AXNUa52d"
+      },
+      {
+        "players_name": "Mai L.",
+        "players_number": "33",
+        "Full Name": "Lukas Mai",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (31.03.2000)",
+        "Market Value": "€2.1m",
+        "unicode": "EFij7d45"
+      },
+      {
+        "players_name": "Martinez J.",
+        "players_number": "8",
+        "Full Name": "Javi Martinez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (02.09.1988)",
+        "Market Value": "€1.5m",
+        "unicode": "IiVRUCYs"
+      },
+      {
+        "players_name": "Odriozola A.",
+        "players_number": "2",
+        "Full Name": "Alvaro Odriozola",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (14.12.1995)",
+        "Market Value": "€2.9m",
+        "unicode": "0zO9SfkA"
+      },
+      {
+        "players_name": "Ulreich S. (G)",
+        "players_number": "26",
+        "Full Name": "Sven Ulreich",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (03.08.1988)",
+        "Market Value": "€665k",
+        "unicode": "8CE8Sho8"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Hutter A.",
+        "players_number": "",
+        "Full Name": "Adi Hutter",
+        "players_rating": "",
+        "Country": "Austria",
+        "Role": "coach",
+        "Age and Birthdate": "53,  (11.02.1970)",
+        "Market Value": "",
+        "unicode": "CWxpUrtf"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Abraham D.",
+        "players_number": "",
+        "Full Name": "David Abraham",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "37, (15.07.1986)",
+        "Market Value": "",
+        "unicode": "Cl1g9vCl"
+      },
+      {
+        "players_name": "Kohr D.",
+        "players_number": "",
+        "Full Name": "Dominik Kohr",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (31.01.1994)",
+        "Market Value": "€3.4m",
+        "unicode": "jHU6p6gQ"
+      },
+      {
+        "players_name": "Paciencia G.",
+        "players_number": "",
+        "Full Name": "Goncalo Paciencia",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (01.08.1994)",
+        "Market Value": "€1.6m",
+        "unicode": "G6zHXVkO"
+      },
+      {
+        "players_name": "Russ M.",
+        "players_number": "",
+        "Full Name": "Marco Russ",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "38, (04.08.1985)",
+        "Market Value": "",
+        "unicode": "6X9DLFrk"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Andre Silva",
+        "players_number": "33",
+        "Full Name": "Andre Silva",
+        "players_rating": 6.7,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (06.11.1995)",
+        "Market Value": "€6.8m",
+        "unicode": "UZRsjD5h"
+      },
+      {
+        "players_name": "da Costa D.",
+        "players_number": "24",
+        "Full Name": "Danny da Costa",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (13.07.1993)",
+        "Market Value": "€1.4m",
+        "unicode": "U7l59rXJ"
+      },
+      {
+        "players_name": "Fernandes G. (C)",
+        "players_number": "5",
+        "Full Name": "Gelson Fernandes",
+        "players_rating": 5.7,
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "37, (02.09.1986)",
+        "Market Value": "",
+        "unicode": "hppUhxjQ"
+      },
+      {
+        "players_name": "Gacinovic M.",
+        "players_number": "11",
+        "Full Name": "Mijat Gacinovic",
+        "players_rating": 6.2,
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (08.02.1995)",
+        "Market Value": "€3.4m",
+        "unicode": "nBEIWHXE"
+      },
+      {
+        "players_name": "Hinteregger M.",
+        "players_number": "13",
+        "Full Name": "Martin Hinteregger",
+        "players_rating": 7.6,
+        "Country": "Austria",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (07.09.1992)",
+        "Market Value": "",
+        "unicode": "Gl85V5x3"
+      },
+      {
+        "players_name": "Ilsanker S.",
+        "players_number": "3",
+        "Full Name": "Stefan Ilsanker",
+        "players_rating": 5.7,
+        "Country": "Austria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (18.05.1989)",
+        "Market Value": "",
+        "unicode": "88jzmng2"
+      },
+      {
+        "players_name": "Kostic F.",
+        "players_number": "10",
+        "Full Name": "Filip Kostic",
+        "players_rating": 6.4,
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (01.11.1992)",
+        "Market Value": "€11.2m",
+        "unicode": "zTWzdAKe"
+      },
+      {
+        "players_name": "Ndicka E.",
+        "players_number": "2",
+        "Full Name": "Evan Ndicka",
+        "players_rating": 6.0,
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (20.08.1999)",
+        "Market Value": "€22.8m",
+        "unicode": "0ORJzjri"
+      },
+      {
+        "players_name": "Rode S.",
+        "players_number": "17",
+        "Full Name": "Sebastian Rode",
+        "players_rating": 7.8,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (11.10.1990)",
+        "Market Value": "€929k",
+        "unicode": "2ukcBSGo"
+      },
+      {
+        "players_name": "Toure A.",
+        "players_number": "18",
+        "Full Name": "Almamy Toure",
+        "players_rating": 6.6,
+        "Country": "Mali",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (28.04.1996)",
+        "Market Value": "€1.4m",
+        "unicode": "dQ9SqUtk"
+      },
+      {
+        "players_name": "Trapp K. (G)",
+        "players_number": "1",
+        "Full Name": "Kevin Trapp",
+        "players_rating": 6.4,
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (08.07.1990)",
+        "Market Value": "€6.6m",
+        "unicode": "QqugudYS"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Chandler T.",
+        "players_number": "22",
+        "Full Name": "Timothy Chandler",
+        "players_rating": 6.3,
+        "Country": "USA",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (29.03.1990)",
+        "Market Value": "€475k",
+        "unicode": "KdoHDRzE"
+      },
+      {
+        "players_name": "Dost B.",
+        "players_number": "9",
+        "Full Name": "Bas Dost",
+        "players_rating": 6.1,
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "34, (31.05.1989)",
+        "Market Value": "€761k",
+        "unicode": "SnW4EbbC"
+      },
+      {
+        "players_name": "Durm E.",
+        "players_number": "25",
+        "Full Name": "Erik Durm",
+        "players_rating": 6.2,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (12.05.1992)",
+        "Market Value": "€461k",
+        "unicode": "SCOMojXE"
+      },
+      {
+        "players_name": "Kamada D.",
+        "players_number": "15",
+        "Full Name": "Daichi Kamada",
+        "players_rating": 6.1,
+        "Country": "Japan",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (05.08.1996)",
+        "Market Value": "€19.3m",
+        "unicode": "bayITLyE"
+      },
+      {
+        "players_name": "Sow D.",
+        "players_number": "8",
+        "Full Name": "Djibril Sow",
+        "players_rating": 6.3,
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (06.02.1997)",
+        "Market Value": "€16.8m",
+        "unicode": "tUNr1qOE"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "de Guzman J.",
+        "players_number": "6",
+        "Full Name": "Jonathan de Guzman",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (13.09.1987)",
+        "Market Value": "€289k",
+        "unicode": "6cZMP6lB"
+      },
+      {
+        "players_name": "Hasebe M.",
+        "players_number": "20",
+        "Full Name": "Makoto Hasebe",
+        "players_rating": "",
+        "Country": "Japan",
+        "Role": "Midfielder",
+        "Age and Birthdate": "40, (18.01.1984)",
+        "Market Value": "€482k",
+        "unicode": "v9huBzd3"
+      },
+      {
+        "players_name": "Ronnow F. (G)",
+        "players_number": "32",
+        "Full Name": "Frederik Ronnow",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (04.08.1992)",
+        "Market Value": "€5.4m",
+        "unicode": "AqV0VUgU"
+      },
+      {
+        "players_name": "Torro L.",
+        "players_number": "16",
+        "Full Name": "Lucas Torro",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (19.07.1994)",
+        "Market Value": "€7.7m",
+        "unicode": "6y9ES72S"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "07:19",
+      "comments_type": "corner",
+      "comments_text": "Thomas Muller (Bayern Munich) passes the ball onto Robert Lewandowski, but one of the defenders dispossesses him. The referee and one of his assistants signal for a corner kick to Bayern Munich.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) passes the ball onto [PLAYER], but one of the defenders dispossesses him. The referee and one of his assistants signal for a corner kick to [TEAM].",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "07:15",
+      "comments_type": "corner",
+      "comments_text": "Joshua Kimmich (Bayern Munich) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "10:50",
+      "comments_type": "corner",
+      "comments_text": "Joshua Kimmich (Bayern Munich) looks like he will be the one to take the corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to take the corner kick.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:18",
+      "comments_type": "corner",
+      "comments_text": "Joshua Kimmich (Bayern Munich) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "14:53",
+      "comments_type": "corner",
+      "comments_text": "Joshua Kimmich (Bayern Munich) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "16:05",
+      "comments_type": "goal",
+      "comments_text": "Leon Goretzka (Bayern Munich) meets a perfect cross from Thomas Muller deep inside the box and controls it with a nice first touch. He produces an accurate strike into the roof of the net. It's 1:0.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) meets a perfect cross from [PLAYER] deep inside the box and controls it with a nice first touch. He produces an accurate strike into the roof of the net. It's 1:0.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:36",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Martin Hinteregger (Eintracht Frankfurt) was quite harsh and Marco Fritz didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "36:31",
+      "comments_type": "corner",
+      "comments_text": "Bayern Munich failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "37:29",
+      "comments_type": "corner",
+      "comments_text": "Joshua Kimmich (Bayern Munich) prepares to take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) prepares to take a corner kick.",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "39:31",
+      "comments_type": "red card",
+      "comments_text": "It looks like Leon Goretzka (Bayern Munich) saw red with that tackle. Marco Fritz won't tolerate such behaviour on the pitch and blows for a foul.",
+      "comments_text_anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul.",
+      "index": 9
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:30",
+      "comments_type": "goal",
+      "comments_text": "It's in the back of the net! Alphonso Davies plays it into the box, and Thomas Muller (Bayern Munich) gets on the end of the cross to put it into the back of the net. 2:0.",
+      "comments_text_anonymized": "It's in the back of the net! [PLAYER] plays it into the box, and [PLAYER] ([TEAM]) gets on the end of the cross to put it into the back of the net. 2:0.",
+      "index": 10
+    },
+    {
+      "half": 1,
+      "time_stamp": "41:54",
+      "comments_type": "goal",
+      "comments_text": "Referee Marco Fritz points to the centre spot to indicate that the goal stands after the VAR review. That prompts big celebrations from the Bayern Munich players.",
+      "comments_text_anonymized": "Referee [REFEREE] points to the centre spot to indicate that the goal stands after the VAR review. That prompts big celebrations from the [TEAM] players.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:10",
+      "comments_type": "substitution",
+      "comments_text": "Adi Hutter makes a half-time substitution. Timothy Chandler (Eintracht Frankfurt) comes on in place of Obite Evan N'Dicka.",
+      "comments_text_anonymized": "[PLAYER] makes a half-time substitution. [PLAYER] ([TEAM]) comes on in place of Obite Evan N'Dicka.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:44",
+      "comments_type": "goal",
+      "comments_text": "Kingsley Coman displays his great technique and produces a beautiful lofted cross deep into the box. Robert Lewandowski (Bayern Munich) gets onto the scoresheet by superbly heading it into the roof of the net – 3:0.",
+      "comments_text_anonymized": "[PLAYER] displays his great technique and produces a beautiful lofted cross deep into the box. [PLAYER] ([TEAM]) gets onto the scoresheet by superbly heading it into the roof of the net – 3:0.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:50",
+      "comments_type": "corner",
+      "comments_text": "The referee awards a corner and Sebastian Rode (Eintracht Frankfurt) goes over to take it.",
+      "comments_text_anonymized": "The referee awards a corner and [PLAYER] ([TEAM]) goes over to take it.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:50",
+      "comments_type": "goal",
+      "comments_text": "Martin Hinteregger (Eintracht Frankfurt) scores from the resulting corner. The ball slips through the box to Martin Hinteregger (Eintracht Frankfurt) and he blasts it inside the right post, giving the goalkeeper no chance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) scores from the resulting corner. The ball slips through the box to [PLAYER] ([TEAM]) and he blasts it inside the right post, giving the goalkeeper no chance.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "09:48",
+      "comments_type": "corner",
+      "comments_text": "Sebastian Rode (Eintracht Frankfurt) will deliver the ball into the penalty box from a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "09:57",
+      "comments_type": "goal",
+      "comments_text": "Sebastian Rode delivers a well-placed cross from the corner. Martin Hinteregger (Eintracht Frankfurt) wins the ball and powers an unstoppable header in off the left post. The score now reads 3:2.",
+      "comments_text_anonymized": "[PLAYER] delivers a well-placed cross from the corner. [PLAYER] ([TEAM]) wins the ball and powers an unstoppable header in off the left post. The score now reads 3:2.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:22",
+      "comments_type": "goal",
+      "comments_text": "Alphonso Davies (Bayern Munich) finds himself some space inside the box, lines up the ball and unleashes a shot which goes into the bottom left corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) finds himself some space inside the box, lines up the ball and unleashes a shot which goes into the bottom left corner.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:26",
+      "comments_type": "substitution",
+      "comments_text": "Hans-Dieter Flick has decided to make a change. Serge Gnabry (Bayern Munich) replaces Ivan Perisic.",
+      "comments_text_anonymized": "Hans-Dieter [PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:14",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Mijat Gacinovic leaves the pitch and is replaced by Djibril Sow (Eintracht Frankfurt).",
+      "comments_text_anonymized": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:14",
+      "comments_type": "substitution",
+      "comments_text": "Adi Hutter decides to make a substitution. Sebastian Rode will be replaced by Daichi Kamada (Eintracht Frankfurt).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:30",
+      "comments_type": "substitution",
+      "comments_text": "The substitution is prepared. Lucas Hernandez (Bayern Munich) joins the action as a substitute, replacing Jerome Boateng.",
+      "comments_text_anonymized": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER].",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:15",
+      "comments_type": "goal",
+      "comments_text": "Martin Hinteregger (Eintracht Frankfurt) deflects the ball past his own goalkeeper and into the goal after trying to jump in the way of a shot!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) deflects the ball past his own goalkeeper and into the goal after trying to jump in the way of a shot!",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:10",
+      "comments_type": "substitution",
+      "comments_text": "Adi Hutter prepares a substitution. Danny da Costa is replaced by Erik Durm (Eintracht Frankfurt).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:10",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals that it is time for a substitution and Bas Dost (Eintracht Frankfurt) comes onto the pitch so that Andre Silva can be given a rest.",
+      "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) comes onto the pitch so that [PLAYER] can be given a rest.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:40",
+      "comments_type": "corner",
+      "comments_text": "Joshua Kimmich (Bayern Munich) steps up to take the corner, but the ball just sails in among the defenders.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:10",
+      "comments_type": "substitution",
+      "comments_text": "That's the end of the game for Joshua Kimmich, who is replaced by Mickael Cuisance (Bayern Munich).",
+      "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM]).",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:52",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Kingsley Coman is going off and Hans-Dieter Flick gives the last tactical orders to Joshua Zirkzee (Bayern Munich).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and Hans-Dieter [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 28
+    }
+  ]
+}

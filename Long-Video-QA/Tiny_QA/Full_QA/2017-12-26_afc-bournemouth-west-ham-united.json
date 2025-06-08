@@ -1,0 +1,584 @@
+[
+  {
+    "question": "Who scored the first goal of the match?",
+    "choices": [
+      "A. James Collins",
+      "B. Dan Gosling",
+      "C. Nathan Ake",
+      "D. Marko Arnautovic"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      2
+    ],
+    "current_event_index": 5,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored more goals in the first half?",
+    "choices": [
+      "A. West Ham",
+      "B. Bournemouth",
+      "C. Both teams scored equally",
+      "D. No goals were scored"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals had been scored by the 28th minute?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": 5,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the last goal of the match?",
+    "choices": [
+      "A. James Collins",
+      "B. Dan Gosling",
+      "C. Callum Wilson",
+      "D. Marko Arnautovic"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      2,
+      5,
+      14,
+      25,
+      29,
+      30
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the most goals in the match?",
+    "choices": [
+      "A. West Ham",
+      "B. Bournemouth",
+      "C. Both teams scored equally",
+      "D. No goals were scored"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      5,
+      14,
+      25,
+      29,
+      30
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals were scored in the match?",
+    "choices": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      2,
+      5,
+      14,
+      25,
+      29,
+      30
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals after the 35th minute?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      25,
+      29,
+      30
+    ],
+    "current_event_index": 25,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to score next after the 35th minute?",
+    "choices": [
+      "A. West Ham",
+      "B. Bournemouth",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      25,
+      29
+    ],
+    "current_event_index": 25,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to score next after the 35th minute?",
+    "choices": [
+      "A. James Collins",
+      "B. Marko Arnautovic",
+      "C. Callum Wilson",
+      "D. Nathan Ake"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      25,
+      29
+    ],
+    "current_event_index": 25,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      8
+    ],
+    "current_event_index": 8,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Bournemouth",
+      "B. West Ham",
+      "C. Both teams have the same",
+      "D. Neither team has received a yellow card"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      7,
+      8
+    ],
+    "current_event_index": 8,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. Simon Francis",
+      "B. Pablo Zabaleta",
+      "C. James Collins",
+      "D. Aaron Cresswell"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      7,
+      8
+    ],
+    "current_event_index": 8,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      8,
+      11,
+      12,
+      21,
+      24,
+      28
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Bournemouth",
+      "B. West Ham",
+      "C. Both teams have the same",
+      "D. Neither team received a yellow card"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      7,
+      8,
+      11,
+      12,
+      21,
+      24,
+      28
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player was involved in the most yellow cards?",
+    "choices": [
+      "A. Simon Francis",
+      "B. Pablo Zabaleta",
+      "C. James Collins",
+      "D. Aaron Cresswell"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      7,
+      8,
+      11,
+      12,
+      21,
+      24,
+      28
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      11,
+      12,
+      21,
+      24,
+      28
+    ],
+    "current_event_index": 8,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Bournemouth",
+      "B. West Ham",
+      "C. Both teams are equally likely",
+      "D. Neither team will receive a yellow card"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      11,
+      12
+    ],
+    "current_event_index": 8,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. Simon Francis",
+      "B. Pablo Zabaleta",
+      "C. James Collins",
+      "D. Aaron Cresswell"
+    ],
+    "answer": "C",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      11
+    ],
+    "current_event_index": 8,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Bournemouth",
+      "B. West Ham",
+      "C. Both teams have taken the same number",
+      "D. Neither team has taken a corner"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Aaron Cresswell",
+      "B. Jordon Ibe",
+      "C. Manuel Lanzini",
+      "D. Ryan Fraser"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 5",
+      "B. 7",
+      "C. 9",
+      "D. 11"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      3,
+      4,
+      9,
+      10,
+      13,
+      17,
+      19,
+      22,
+      26
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Bournemouth",
+      "B. West Ham",
+      "C. Both teams had the same number",
+      "D. Neither team had a corner"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      3,
+      4,
+      9,
+      10,
+      13,
+      17,
+      19,
+      22,
+      26
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Aaron Cresswell",
+      "B. Jordon Ibe",
+      "C. Manuel Lanzini",
+      "D. Ryan Fraser"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      3,
+      4,
+      9,
+      10,
+      13,
+      17,
+      19,
+      22,
+      26
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      3,
+      4,
+      9,
+      10,
+      13,
+      17,
+      19,
+      22,
+      26
+    ],
+    "current_event_index": 1,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Bournemouth",
+      "B. West Ham",
+      "C. Both teams are equally likely",
+      "D. Neither team will get a corner"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      3,
+      4,
+      9,
+      10,
+      13,
+      17,
+      19,
+      22,
+      26
+    ],
+    "current_event_index": 1,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Aaron Cresswell",
+      "B. Jordon Ibe",
+      "C. Manuel Lanzini",
+      "D. Ryan Fraser"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      3,
+      4,
+      9,
+      10,
+      13,
+      17,
+      19,
+      22,
+      26
+    ],
+    "current_event_index": 1,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

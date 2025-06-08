@@ -1,0 +1,917 @@
+{
+  "match_info": {
+    "timestamp": "2021-12-09 01:45:00",
+    "score": "3 - 3",
+    "home_team": "Zenit",
+    "away_team": "Chelsea",
+    "home_formation": "5 - 4 - 1",
+    "away_formation": "3 - 4 - 1 - 2",
+    "venue": "Gazprom Arena (Saint Petersburg)",
+    "capacity": "67 800",
+    "attendance": "29 349"
+  },
+  "referee_data": {
+    "short_name_country": "Gozubuyuk S. (Ned)",
+    "first_name": "Gozubuyuk",
+    "abbr_last_name": "S",
+    "country": "Ned",
+    "detected_name": "Serdar Gozubuyuk"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Tuchel T.",
+        "players_number": "",
+        "Full Name": "Thomas Tuchel",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "50,  (29.08.1973)",
+        "Market Value": "",
+        "unicode": "CQTUFgPk"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Chalobah T.",
+        "players_number": "",
+        "Full Name": "Trevoh Chalobah",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (05.07.1999)",
+        "Market Value": "€17.4m",
+        "unicode": "2N61AJte"
+      },
+      {
+        "players_name": "Chilwell B.",
+        "players_number": "",
+        "Full Name": "Ben Chilwell",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (21.12.1996)",
+        "Market Value": "€29.4m",
+        "unicode": "txvuTaNB"
+      },
+      {
+        "players_name": "Jorginho",
+        "players_number": "",
+        "Full Name": "Jorginho",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (20.12.1991)",
+        "Market Value": "€14.3m",
+        "unicode": "t80QsVOt"
+      },
+      {
+        "players_name": "Kante N.",
+        "players_number": "",
+        "Full Name": "N'Golo Kante",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (29.03.1991)",
+        "Market Value": "€10.1m",
+        "unicode": "IkmsHsOR"
+      },
+      {
+        "players_name": "Kovacic M.",
+        "players_number": "",
+        "Full Name": "Mateo Kovacic",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (06.05.1994)",
+        "Market Value": "€37.7m",
+        "unicode": "4f084TL7"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Arrizabalaga K. (G)",
+        "players_number": "1",
+        "Full Name": "Kepa Arrizabalaga",
+        "players_rating": 6.7,
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "29, (03.10.1994)",
+        "Market Value": "€19.3m",
+        "unicode": "Yq2dyUwN"
+      },
+      {
+        "players_name": "Azpilicueta C. (C)",
+        "players_number": "28",
+        "Full Name": "Cesar Azpilicueta",
+        "players_rating": 6.6,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (28.08.1989)",
+        "Market Value": "€3.8m",
+        "unicode": "CMGUADgt"
+      },
+      {
+        "players_name": "Barkley R.",
+        "players_number": "18",
+        "Full Name": "Ross Barkley",
+        "players_rating": 7.1,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (05.12.1993)",
+        "Market Value": "€6.9m",
+        "unicode": "Stsozgbg"
+      },
+      {
+        "players_name": "Christensen A.",
+        "players_number": "4",
+        "Full Name": "Andreas Christensen",
+        "players_rating": 6.9,
+        "Country": "Denmark",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (10.04.1996)",
+        "Market Value": "€39.7m",
+        "unicode": "ShxiZhJI"
+      },
+      {
+        "players_name": "Hudson-Odoi C.",
+        "players_number": "20",
+        "Full Name": "Callum Hudson-Odoi",
+        "players_rating": 6.2,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (07.11.2000)",
+        "Market Value": "€11.4m",
+        "unicode": "dtU5eexQ"
+      },
+      {
+        "players_name": "James R.",
+        "players_number": "24",
+        "Full Name": "Reece James",
+        "players_rating": 7.2,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (08.12.1999)",
+        "Market Value": "€49.6m",
+        "unicode": "nLBC7ERa"
+      },
+      {
+        "players_name": "Lukaku R.",
+        "players_number": "9",
+        "Full Name": "Romelu Lukaku",
+        "players_rating": 7.5,
+        "Country": "Belgium",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (13.05.1993)",
+        "Market Value": "€35.2m",
+        "unicode": "dCkG0Iw0"
+      },
+      {
+        "players_name": "Mount M.",
+        "players_number": "19",
+        "Full Name": "Mason Mount",
+        "players_rating": 6.6,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (10.01.1999)",
+        "Market Value": "€42.8m",
+        "unicode": "lOA8VKIK"
+      },
+      {
+        "players_name": "Niguez S.",
+        "players_number": "17",
+        "Full Name": "Saul Niguez",
+        "players_rating": 7.7,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (21.11.1994)",
+        "Market Value": "€11.4m",
+        "unicode": "hSbvVwW7"
+      },
+      {
+        "players_name": "Sarr M.",
+        "players_number": "31",
+        "Full Name": "Malang Sarr",
+        "players_rating": 7.3,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (23.01.1999)",
+        "Market Value": "€3.7m",
+        "unicode": "zZ3dzMX8"
+      },
+      {
+        "players_name": "Werner T.",
+        "players_number": "11",
+        "Full Name": "Timo Werner",
+        "players_rating": 8.7,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (06.03.1996)",
+        "Market Value": "€16.4m",
+        "unicode": "lbaPqFC9"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Alonso M.",
+        "players_number": "3",
+        "Full Name": "Marcos Alonso",
+        "players_rating": 6.2,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (28.12.1990)",
+        "Market Value": "€2.9m",
+        "unicode": "MLHPrlrj"
+      },
+      {
+        "players_name": "Havertz K.",
+        "players_number": "29",
+        "Full Name": "Kai Havertz",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (11.06.1999)",
+        "Market Value": "€53.0m",
+        "unicode": "rH8BZWiI"
+      },
+      {
+        "players_name": "Pulisic C.",
+        "players_number": "10",
+        "Full Name": "Christian Pulisic",
+        "players_rating": 6.9,
+        "Country": "USA",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (18.09.1998)",
+        "Market Value": "€33.1m",
+        "unicode": "vTuaEfRq"
+      },
+      {
+        "players_name": "Ziyech H.",
+        "players_number": "22",
+        "Full Name": "Hakim Ziyech",
+        "players_rating": 6.3,
+        "Country": "Morocco",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (19.03.1993)",
+        "Market Value": "€11.9m",
+        "unicode": "2F0HARqq"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Bettinelli M. (G)",
+        "players_number": "13",
+        "Full Name": "Marcus Bettinelli",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (24.05.1992)",
+        "Market Value": "30.06.2026",
+        "unicode": "dMPo6IPH"
+      },
+      {
+        "players_name": "Loftus-Cheek R.",
+        "players_number": "12",
+        "Full Name": "Ruben Loftus-Cheek",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (23.01.1996)",
+        "Market Value": "€24.5m",
+        "unicode": "6DpURWF8"
+      },
+      {
+        "players_name": "Mendy E. (G)",
+        "players_number": "16",
+        "Full Name": "Edouard Mendy",
+        "players_rating": "",
+        "Country": "Senegal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (01.03.1992)",
+        "Market Value": "€9.5m",
+        "unicode": "8zpLkf6p"
+      },
+      {
+        "players_name": "Rudiger A.",
+        "players_number": "2",
+        "Full Name": "Antonio Rudiger",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (03.03.1993)",
+        "Market Value": "€24.5m",
+        "unicode": "rZHXvTho"
+      },
+      {
+        "players_name": "Silva T.",
+        "players_number": "6",
+        "Full Name": "Thiago Silva",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "39, (22.09.1984)",
+        "Market Value": "€2.0m",
+        "unicode": "xAsJbgXA"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Semak S.",
+        "players_number": "",
+        "Full Name": "Sergey Semak",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "coach",
+        "Age and Birthdate": "47,  (27.02.1976)",
+        "Market Value": "",
+        "unicode": "z5PiEJps"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Chistyakov D.",
+        "players_number": "",
+        "Full Name": "Dmitri Chistyakov",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (13.01.1994)",
+        "Market Value": "€1.9m",
+        "unicode": "29ROW9HA"
+      },
+      {
+        "players_name": "Kritsyuk S.",
+        "players_number": "",
+        "Full Name": "Stanislav Kritsyuk",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (01.12.1990)",
+        "Market Value": "€604k",
+        "unicode": "6yLVkS9q"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Azmoun S.",
+        "players_number": "7",
+        "Full Name": "Sardar Azmoun",
+        "players_rating": 7.2,
+        "Country": "Iran",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (01.01.1995)",
+        "Market Value": "€9.6m",
+        "unicode": "6XEsobq8"
+      },
+      {
+        "players_name": "Barrios W.",
+        "players_number": "5",
+        "Full Name": "Wilmar Barrios",
+        "players_rating": 6.7,
+        "Country": "Colombia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (16.10.1993)",
+        "Market Value": "€13.5m",
+        "unicode": "QTJHlgL3"
+      },
+      {
+        "players_name": "Claudinho",
+        "players_number": "11",
+        "Full Name": "Claudinho",
+        "players_rating": 8.5,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (28.01.1997)",
+        "Market Value": "€19.1m",
+        "unicode": "hO9M95tp"
+      },
+      {
+        "players_name": "Karavaev V.",
+        "players_number": "15",
+        "Full Name": "Vyacheslav Karavaev",
+        "players_rating": 6.4,
+        "Country": "Russia",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (20.05.1995)",
+        "Market Value": "€4.8m",
+        "unicode": "OSqvll1l"
+      },
+      {
+        "players_name": "Kerzhakov M. (G)",
+        "players_number": "41",
+        "Full Name": "Mikhail Kerzhakov",
+        "players_rating": 6.7,
+        "Country": "Russia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "36, (28.01.1987)",
+        "Market Value": "€472k",
+        "unicode": "vJiMxFyr"
+      },
+      {
+        "players_name": "Kuzyaev D.",
+        "players_number": "14",
+        "Full Name": "Daler Kuzyaev",
+        "players_rating": 6.6,
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (15.01.1993)",
+        "Market Value": "€10.1m",
+        "unicode": "AgmwPJ36"
+      },
+      {
+        "players_name": "Lovren D. (C)",
+        "players_number": "6",
+        "Full Name": "Dejan Lovren",
+        "players_rating": 6.1,
+        "Country": "Croatia",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (05.07.1989)",
+        "Market Value": "€2.0m",
+        "unicode": "GAcQF9Z6"
+      },
+      {
+        "players_name": "Malcom",
+        "players_number": "10",
+        "Full Name": "Malcom",
+        "players_rating": 8.1,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (26.02.1997)",
+        "Market Value": "€31.5m",
+        "unicode": "YFYwI0J1"
+      },
+      {
+        "players_name": "Rakitskyi Y.",
+        "players_number": "44",
+        "Full Name": "Yaroslav Rakitskyi",
+        "players_rating": 6.5,
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (03.08.1989)",
+        "Market Value": "€1.5m",
+        "unicode": "hrAzkzLI"
+      },
+      {
+        "players_name": "Santos D.",
+        "players_number": "3",
+        "Full Name": "Douglas Santos",
+        "players_rating": 7.8,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (22.03.1994)",
+        "Market Value": "",
+        "unicode": "f91ESvlb"
+      },
+      {
+        "players_name": "Wendel",
+        "players_number": "8",
+        "Full Name": "Wendel",
+        "players_rating": 6.4,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (28.08.1997)",
+        "Market Value": "€23.1m",
+        "unicode": "WA0OPJwd"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Dzyuba A.",
+        "players_number": "22",
+        "Full Name": "Artem Dzyuba",
+        "players_rating": 6.0,
+        "Country": "Russia",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (22.08.1988)",
+        "Market Value": "€3.0m",
+        "unicode": "pY7DwFnQ"
+      },
+      {
+        "players_name": "Erokhin A.",
+        "players_number": "21",
+        "Full Name": "Aleksandr Erokhin",
+        "players_rating": 6.2,
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (13.10.1989)",
+        "Market Value": "€457k",
+        "unicode": "ARDziEPC"
+      },
+      {
+        "players_name": "Krugovoy D.",
+        "players_number": "4",
+        "Full Name": "Danil Krugovoy",
+        "players_rating": 6.1,
+        "Country": "Russia",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (28.05.1998)",
+        "Market Value": "€1.9m",
+        "unicode": "04ulA435"
+      },
+      {
+        "players_name": "Mostovoy A.",
+        "players_number": "17",
+        "Full Name": "Andrey Mostovoy",
+        "players_rating": 6.2,
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (05.11.1997)",
+        "Market Value": "€3.5m",
+        "unicode": "tx6BTQak"
+      },
+      {
+        "players_name": "Ozdoev M.",
+        "players_number": "27",
+        "Full Name": "Magomed Ozdoev",
+        "players_rating": 7.0,
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (05.11.1992)",
+        "Market Value": "€2.0m",
+        "unicode": "88KmSpnQ"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Byazrov D. (G)",
+        "players_number": "91",
+        "Full Name": "David Byazrov",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "20, (12.02.2003)",
+        "Market Value": "30.06.2025",
+        "unicode": "6FW8sD8R"
+      },
+      {
+        "players_name": "Khotulev D.",
+        "players_number": "94",
+        "Full Name": "Danila Khotulev",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (01.10.2002)",
+        "Market Value": "€389k",
+        "unicode": "xWZXztwJ"
+      },
+      {
+        "players_name": "Kravtsov K.",
+        "players_number": "64",
+        "Full Name": "Kirill Kravtsov",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (14.06.2002)",
+        "Market Value": "€1.1m",
+        "unicode": "Ym43ZXA3"
+      },
+      {
+        "players_name": "Kuznetsov D.",
+        "players_number": "85",
+        "Full Name": "Daniil Kuznetsov",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Forward",
+        "Age and Birthdate": "20, (23.04.2003)",
+        "Market Value": "€454k",
+        "unicode": "OQmMWCfc"
+      },
+      {
+        "players_name": "Odoevski D. (G)",
+        "players_number": "71",
+        "Full Name": "Daniil Odoevski",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "20, (22.01.2003)",
+        "Market Value": "€587k",
+        "unicode": "biaB5Vbe"
+      },
+      {
+        "players_name": "Sutormin A.",
+        "players_number": "19",
+        "Full Name": "Aleksey Sutormin",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (10.01.1994)",
+        "Market Value": "€1.4m",
+        "unicode": "p6bCd8YC"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "01:17",
+      "comments_type": "corner",
+      "comments_text": "The referee awards a corner and Ross Barkley (Chelsea) goes over to take it.",
+      "comments_text_anonymized": "The referee awards a corner and [PLAYER] ([TEAM]) goes over to take it.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "01:24",
+      "comments_type": "goal",
+      "comments_text": "Timo Werner (Chelsea) collects the ball deep inside the box from a rebound after the corner kick. He beats the keeper with a sharp shot! It's a goal!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) collects the ball deep inside the box from a rebound after the corner kick. He beats the keeper with a sharp shot! It's a goal!",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "07:50",
+      "comments_type": "corner",
+      "comments_text": "Ross Barkley (Chelsea) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:14",
+      "comments_type": "corner",
+      "comments_text": "Yaroslav Rakitsky (Zenit St Petersburg) decides to take a short corner instead of crossing into the box.",
+      "comments_text_anonymized": "Yaroslav Rakitsky ([TEAM]) decides to take a short corner instead of crossing into the box.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:29",
+      "comments_type": "corner",
+      "comments_text": "Malcom (Zenit St Petersburg) unleashed a powerful long-range strike, but the ball was blocked by a defender on its way. Zenit have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashed a powerful long-range strike, but the ball was blocked by a defender on its way. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "13:29",
+      "comments_type": "corner",
+      "comments_text": "Yaroslav Rakitsky (Zenit St Petersburg) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+      "comments_text_anonymized": "Yaroslav Rakitsky ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "23:21",
+      "comments_type": "corner",
+      "comments_text": "Malcom (Zenit St Petersburg) unleashes a bullet of a shot that is blocked by a defender. The referee and his assistant both point at the corner flag. Zenit will have an opportunity to threaten the opposition's goal.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) unleashes a bullet of a shot that is blocked by a defender. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "23:47",
+      "comments_type": "corner",
+      "comments_text": "None of the Zenit players could reach the corner kick as the ball was overhit and goes out of play.",
+      "comments_text_anonymized": "None of the [TEAM] players could reach the corner kick as the ball was overhit and goes out of play.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "28:34",
+      "comments_type": "corner",
+      "comments_text": "Ross Barkley (Chelsea) will take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will take a corner kick.",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "36:40",
+      "comments_type": "yellow card",
+      "comments_text": "Serdar Gozubuyuk shows the yellow card to Callum Hudson-Odoi (Chelsea) for a heavy challenge.",
+      "comments_text_anonymized": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge.",
+      "index": 9
+    },
+    {
+      "half": 1,
+      "time_stamp": "37:15",
+      "comments_type": "goal",
+      "comments_text": "A perfect lofted pass from Douglas Santos finds Claudinho (Zenit St Petersburg), who jumps highest and steers a close-range header to the middle in the countermovement of the keeper. His effort was both strong and precise, and Kepa Arrizabalaga had no chance of stopping that. 1:1.",
+      "comments_text_anonymized": "A perfect lofted pass from [PLAYER] finds [PLAYER] ([TEAM]), who jumps highest and steers a close-range header to the middle in the countermovement of the keeper. His effort was both strong and precise, and [PLAYER] had no chance of stopping that. 1:1.",
+      "index": 10
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:09",
+      "comments_type": "corner",
+      "comments_text": "Ross Barkley (Chelsea) takes the corner but fails to find any of his teammates.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates.",
+      "index": 11
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:54",
+      "comments_type": "goal",
+      "comments_text": "Malcom passes to Sardar Azmoun (Zenit St Petersburg), who gets one-on-one with the keeper. His dummy grounds the keeper and he has a simple task lifting the ball over him into the net.",
+      "comments_text_anonymized": "[PLAYER] passes to [PLAYER] ([TEAM]), who gets one-on-one with the keeper. His dummy grounds the keeper and he has a simple task lifting the ball over him into the net.",
+      "index": 12
+    },
+    {
+      "half": 1,
+      "time_stamp": "42:30",
+      "comments_type": "goal",
+      "comments_text": "Referee Serdar Gozubuyuk points to the centre spot to indicate that the goal stands after the VAR review. That prompts big celebrations from the Zenit players.",
+      "comments_text_anonymized": "Referee [REFEREE] points to the centre spot to indicate that the goal stands after the VAR review. That prompts big celebrations from the [TEAM] players.",
+      "index": 13
+    },
+    {
+      "half": 1,
+      "time_stamp": "44:26",
+      "comments_type": "corner",
+      "comments_text": "Ross Barkley (Chelsea) swings in the corner, but it's comfortably cleared away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "05:57",
+      "comments_type": "substitution",
+      "comments_text": "The substitution has been made. Andrey Mostovoy (Zenit St Petersburg) has replaced Wendel.",
+      "comments_text_anonymized": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER].",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "05:59",
+      "comments_type": "corner",
+      "comments_text": "Ross Barkley (Chelsea) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:10",
+      "comments_type": "corner",
+      "comments_text": "Ross Barkley (Chelsea) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:10",
+      "comments_type": "yellow card",
+      "comments_text": "Dejan Lovren (Zenit St Petersburg) is booked.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:31",
+      "comments_type": "goal",
+      "comments_text": "Goal! Timo Werner feeds Romelu Lukaku (Chelsea), who taps the ball into an empty net. He makes it 2:2.",
+      "comments_text_anonymized": "Goal! [PLAYER] feeds [PLAYER] ([TEAM]), who taps the ball into an empty net. He makes it 2:2.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:54",
+      "comments_type": "substitution",
+      "comments_text": "Today's match ends for Yaroslav Rakitsky who will be replaced by Danil Krugovoy (Zenit St Petersburg).",
+      "comments_text_anonymized": "Today's match ends for Yaroslav Rakitsky who will be replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:10",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Callum Hudson-Odoi (Chelsea) is going off and Thomas Tuchel gives the last tactical orders to Christian Pulisic.",
+      "comments_text_anonymized": "Here is a change. [PLAYER] ([TEAM]) is going off and [PLAYER] gives the last tactical orders to [PLAYER].",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:20",
+      "comments_type": "substitution",
+      "comments_text": "That will be all from Ross Barkley (Chelsea) who is being replaced by the fresh legs of Hakim Ziyech.",
+      "comments_text_anonymized": "That will be all from [PLAYER] ([TEAM]) who is being replaced by the fresh legs of [PLAYER].",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:13",
+      "comments_type": "corner",
+      "comments_text": "Zenit failed to take advantage of the corner as the opposition's defence was alert and averted the threat. The referee points to the corner flag and Zenit will take a corner.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat. The referee points to the corner flag and [TEAM] will take a corner.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:14",
+      "comments_type": "corner",
+      "comments_text": "A quickly taken corner by Zenit.",
+      "comments_text_anonymized": "A quickly taken corner by [TEAM].",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:00",
+      "comments_type": "corner",
+      "comments_text": "Claudinho (Zenit St Petersburg) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:57",
+      "comments_type": "corner",
+      "comments_text": "Zenit get a corner.",
+      "comments_text_anonymized": "[TEAM] get a corner.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:02",
+      "comments_type": "corner",
+      "comments_text": "Claudinho (Zenit St Petersburg) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "27:40",
+      "comments_type": "corner",
+      "comments_text": "Claudinho (Zenit St Petersburg) steps up to take the corner, but the ball just sails in among the defenders.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders.",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:28",
+      "comments_type": "substitution",
+      "comments_text": "Thomas Tuchel has decided to make a change. Kai Havertz (Chelsea) replaces Romelu Lukaku.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:36",
+      "comments_type": "substitution",
+      "comments_text": "It's time for a substitution. That's the last involvement from Saul Niguez as he is replaced by Marcos Alonso (Chelsea).",
+      "comments_text_anonymized": "It's time for a substitution. That's the last involvement from [PLAYER] as he is replaced by [PLAYER] ([TEAM]).",
+      "index": 30
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:57",
+      "comments_type": "substitution",
+      "comments_text": "Sardar Azmoun goes off the pitch and Artem Dzyuba (Zenit St Petersburg) comes on.",
+      "comments_text_anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 31
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:55",
+      "comments_type": "substitution",
+      "comments_text": "Sergey Semak has decided to introduce fresh legs, with Aleksandr Erokhin (Zenit St Petersburg) replacing Malcom.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 32
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:41",
+      "comments_type": "substitution",
+      "comments_text": "It is time for a substitution. Magomed Ozdoev (Zenit St Petersburg) is on for Daler Kuzyayev.",
+      "comments_text_anonymized": "It is time for a substitution. [PLAYER] ([TEAM]) is on for Daler Kuzyayev.",
+      "index": 33
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:52",
+      "comments_type": "corner",
+      "comments_text": "Hakim Ziyech (Chelsea) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+      "index": 34
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:18",
+      "comments_type": "corner",
+      "comments_text": "Danil Krugovoy (Zenit St Petersburg) will take the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will take the corner.",
+      "index": 35
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:34",
+      "comments_type": "goal",
+      "comments_text": "Timo Werner (Chelsea) collects a killer pass and fires a low shot into the middle of the net, giving the goalkeeper no chance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) collects a killer pass and fires a low shot into the middle of the net, giving the goalkeeper no chance.",
+      "index": 36
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:56",
+      "comments_type": "goal",
+      "comments_text": "Referee Serdar Gozubuyuk points to the centre spot to indicate that the goal stands after the VAR review. The Chelsea players celebrate.",
+      "comments_text_anonymized": "Referee [REFEREE] points to the centre spot to indicate that the goal stands after the VAR review. The [TEAM] players celebrate.",
+      "index": 37
+    },
+    {
+      "half": 2,
+      "time_stamp": "48:49",
+      "comments_type": "goal",
+      "comments_text": "Magomed Ozdoev (Zenit St Petersburg) gets to the ball on the edge of the box and fires in a first-time shot without any hesitation. The strike is excellent and goes straight into the top left corner. He couldn't have done it any better. 3:3.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) gets to the ball on the edge of the box and fires in a first-time shot without any hesitation. The strike is excellent and goes straight into the top left corner. He couldn't have done it any better. 3:3.",
+      "index": 38
+    }
+  ]
+}

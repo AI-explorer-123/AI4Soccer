@@ -1,0 +1,231 @@
+[
+  {
+    "question": "How many corners have occurred so far in the first half up to the 19:50 mark?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken the first corner in the first half?",
+    "choices": [
+      "A. Everton",
+      "B. Brighton",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the first corner in the first half?",
+    "choices": [
+      "A. Wayne Rooney",
+      "B. Unknown Brighton player",
+      "C. No player",
+      "D. Both players"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many corners have occurred so far in the first half up to the 30:50 mark?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners in the first half up to the 30:50 mark?",
+    "choices": [
+      "A. Everton",
+      "B. Brighton",
+      "C. Both teams have taken equal corners",
+      "D. Neither team has taken corners"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1
+    ],
+    "current_event_index": 1,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Has Wayne Rooney taken any corners in the first half up to the 30:50 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one",
+      "D. Two"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 1,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the first half?",
+    "choices": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": null,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the first half?",
+    "choices": [
+      "A. Everton",
+      "B. Brighton",
+      "C. Both teams had equal corners",
+      "D. Neither team had corners"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": null,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners in the first half?",
+    "choices": [
+      "A. Wayne Rooney",
+      "B. Unknown Brighton player",
+      "C. Both players were involved equally",
+      "D. No players were involved"
+    ],
+    "answer": "B",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "current_event_index": null,
+    "index": 8,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in the first half after the 19:50 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only one more",
+      "D. Two more"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      2,
+      3
+    ],
+    "current_event_index": 0,
+    "index": 9,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 19:50 mark?",
+    "choices": [
+      "A. Everton",
+      "B. Brighton",
+      "C. Neither team",
+      "D. Both teams"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      2,
+      3
+    ],
+    "current_event_index": 0,
+    "index": 10,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will Wayne Rooney be involved in another corner before half-time after the 19:50 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only once",
+      "D. Twice"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 0,
+    "index": 11,
+    "event_type": "corner"
+  }
+]

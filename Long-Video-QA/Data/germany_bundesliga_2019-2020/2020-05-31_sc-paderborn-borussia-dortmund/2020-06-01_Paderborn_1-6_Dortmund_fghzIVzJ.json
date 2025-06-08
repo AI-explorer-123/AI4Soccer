@@ -1,0 +1,855 @@
+{
+  "match_info": {
+    "timestamp": "2020-06-01 00:00:00",
+    "score": "1 - 6",
+    "home_team": "Paderborn",
+    "away_team": "Dortmund",
+    "home_formation": "4 - 2 - 3 - 1",
+    "away_formation": "3 - 4 - 1 - 2",
+    "venue": "Home Deluxe Arena (Paderborn)",
+    "capacity": "15 000",
+    "attendance": ""
+  },
+  "referee_data": {
+    "short_name_country": "Siebert D. (Ger)",
+    "first_name": "Siebert",
+    "abbr_last_name": "D",
+    "country": "Ger",
+    "detected_name": "Daniel Siebert"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Favre L.",
+        "players_number": "",
+        "Full Name": "Lucien Favre",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "coach",
+        "Age and Birthdate": "66,  (02.11.1957)",
+        "Market Value": "",
+        "unicode": "44YXyyn9"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Dahoud M.",
+        "players_number": "",
+        "Full Name": "Mahmoud Dahoud",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (01.01.1996)",
+        "Market Value": "€13.1m",
+        "unicode": "YkH1Bfia"
+      },
+      {
+        "players_name": "Haaland E.",
+        "players_number": "",
+        "Full Name": "Erling Haaland",
+        "players_rating": "",
+        "Country": "Norway",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (21.07.2000)",
+        "Market Value": "€181.3m",
+        "unicode": "UmV9iQmE"
+      },
+      {
+        "players_name": "Reus M.",
+        "players_number": "",
+        "Full Name": "Marco Reus",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (31.05.1989)",
+        "Market Value": "€6.9m",
+        "unicode": "fonESekN"
+      },
+      {
+        "players_name": "Schulz N.",
+        "players_number": "",
+        "Full Name": "Nico Schulz",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (01.04.1993)",
+        "Market Value": "",
+        "unicode": "hnyH2XyF"
+      },
+      {
+        "players_name": "Zagadou D.",
+        "players_number": "",
+        "Full Name": "Dan-Axel Zagadou",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (03.06.1999)",
+        "Market Value": "€10.1m",
+        "unicode": "j1IjJkHI"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Akanji M.",
+        "players_number": "16",
+        "Full Name": "Manuel Akanji",
+        "players_rating": 7.3,
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (19.07.1995)",
+        "Market Value": "€41.1m",
+        "unicode": "UJm2XpLH"
+      },
+      {
+        "players_name": "Brandt J.",
+        "players_number": "19",
+        "Full Name": "Julian Brandt",
+        "players_rating": 8.4,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (02.05.1996)",
+        "Market Value": "€40.3m",
+        "unicode": "hW5Goyrc"
+      },
+      {
+        "players_name": "Burki R. (G)",
+        "players_number": "1",
+        "Full Name": "Roman Burki",
+        "players_rating": 6.6,
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (14.11.1990)",
+        "Market Value": "€2.5m",
+        "unicode": "x6gzWUIk"
+      },
+      {
+        "players_name": "Can E.",
+        "players_number": "27",
+        "Full Name": "Emre Can",
+        "players_rating": 7.0,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (12.01.1994)",
+        "Market Value": "€11.7m",
+        "unicode": "YJu3hSpk"
+      },
+      {
+        "players_name": "Delaney T.",
+        "players_number": "6",
+        "Full Name": "Thomas Delaney",
+        "players_rating": 6.7,
+        "Country": "Denmark",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (03.09.1991)",
+        "Market Value": "€2.3m",
+        "unicode": "QL4wO6Wg"
+      },
+      {
+        "players_name": "Guerreiro R.",
+        "players_number": "13",
+        "Full Name": "Raphael Guerreiro",
+        "players_rating": 6.5,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (22.12.1993)",
+        "Market Value": "€15.1m",
+        "unicode": "ImhgOoOl"
+      },
+      {
+        "players_name": "Hakimi A.",
+        "players_number": "5",
+        "Full Name": "Achraf Hakimi",
+        "players_rating": 7.9,
+        "Country": "Morocco",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (04.11.1998)",
+        "Market Value": "€68.2m",
+        "unicode": "MqFBkBsp"
+      },
+      {
+        "players_name": "Hazard T.",
+        "players_number": "23",
+        "Full Name": "Thorgan Hazard",
+        "players_rating": 8.0,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (29.03.1993)",
+        "Market Value": "€5.8m",
+        "unicode": "KOq0yhLo"
+      },
+      {
+        "players_name": "Hummels M.",
+        "players_number": "15",
+        "Full Name": "Mats Hummels",
+        "players_rating": 7.1,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (16.12.1988)",
+        "Market Value": "€6.1m",
+        "unicode": "2c4AueOM"
+      },
+      {
+        "players_name": "Piszczek L. (C)",
+        "players_number": "26",
+        "Full Name": "Lukasz Piszczek",
+        "players_rating": 8.1,
+        "Country": "Poland",
+        "Role": "Defender",
+        "Age and Birthdate": "38, (03.06.1985)",
+        "Market Value": "",
+        "unicode": "AZgM33p0"
+      },
+      {
+        "players_name": "Sancho J.",
+        "players_number": "7",
+        "Full Name": "Jadon Sancho",
+        "players_rating": 9.9,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (25.03.2000)",
+        "Market Value": "€24.1m",
+        "unicode": "n5mG9yn6"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Balerdi L.",
+        "players_number": "18",
+        "Full Name": "Leonardo Balerdi",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (26.01.1999)",
+        "Market Value": "€9.9m",
+        "unicode": "OYrb8EBS"
+      },
+      {
+        "players_name": "Morey M.",
+        "players_number": "22",
+        "Full Name": "Mateu Morey",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (02.03.2000)",
+        "Market Value": "30.06.2024",
+        "unicode": "jRBXx0H4"
+      },
+      {
+        "players_name": "Reyna G.",
+        "players_number": "32",
+        "Full Name": "Giovanni Reyna",
+        "players_rating": 6.6,
+        "Country": "USA",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (13.11.2002)",
+        "Market Value": "€19.9m",
+        "unicode": "zF5Q2DOk"
+      },
+      {
+        "players_name": "Schmelzer M.",
+        "players_number": "29",
+        "Full Name": "Marcel Schmelzer",
+        "players_rating": 7.6,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (22.01.1988)",
+        "Market Value": "",
+        "unicode": "n3VwNCjb"
+      },
+      {
+        "players_name": "Witsel A.",
+        "players_number": "28",
+        "Full Name": "Axel Witsel",
+        "players_rating": 7.1,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (12.01.1989)",
+        "Market Value": "€4.8m",
+        "unicode": "2JsUqijl"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Fuhrich C.",
+        "players_number": "33",
+        "Full Name": "Chris Fuhrich",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (09.01.1998)",
+        "Market Value": "€16.9m",
+        "unicode": "bczcNJFB"
+      },
+      {
+        "players_name": "Gotze M.",
+        "players_number": "10",
+        "Full Name": "Mario Gotze",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (03.06.1992)",
+        "Market Value": "€6.6m",
+        "unicode": "veaF8P5m"
+      },
+      {
+        "players_name": "Hitz M. (G)",
+        "players_number": "35",
+        "Full Name": "Marwin Hitz",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "36, (18.09.1987)",
+        "Market Value": "€193k",
+        "unicode": "jDZdVBrL"
+      },
+      {
+        "players_name": "Raschl T.",
+        "players_number": "37",
+        "Full Name": "Tobias Raschl",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (21.02.2000)",
+        "Market Value": "€1.4m",
+        "unicode": "0dT23r7q"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Baumgart S.",
+        "players_number": "",
+        "Full Name": "Steffen Baumgart",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "52,  (05.01.1972)",
+        "Market Value": "",
+        "unicode": "EDRZkDzS"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Gjasula K.",
+        "players_number": "",
+        "Full Name": "Klaus Gjasula",
+        "players_rating": "",
+        "Country": "Albania",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (14.12.1989)",
+        "Market Value": "€461k",
+        "unicode": "foHTTSAq"
+      },
+      {
+        "players_name": "Kilian L.",
+        "players_number": "",
+        "Full Name": "Luca Kilian",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (01.09.1999)",
+        "Market Value": "€2.3m",
+        "unicode": "4tInh2OE"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Antwi-Adjei C.",
+        "players_number": "22",
+        "Full Name": "Christopher Antwi-Adjei",
+        "players_rating": 6.0,
+        "Country": "Ghana",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (07.02.1994)",
+        "Market Value": "€2.1m",
+        "unicode": "rwvziYst"
+      },
+      {
+        "players_name": "Collins J.",
+        "players_number": "29",
+        "Full Name": "Jamilu Collins",
+        "players_rating": 6.0,
+        "Country": "Nigeria",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (05.08.1994)",
+        "Market Value": "€932k",
+        "unicode": "jTSrnHSK"
+      },
+      {
+        "players_name": "Drager M.",
+        "players_number": "25",
+        "Full Name": "Mohamed Drager",
+        "players_rating": 5.4,
+        "Country": "Tunisia",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (25.06.1996)",
+        "Market Value": "€665k",
+        "unicode": "zRmjzMjg"
+      },
+      {
+        "players_name": "Holtmann G.",
+        "players_number": "38",
+        "Full Name": "Gerrit Holtmann",
+        "players_rating": 6.4,
+        "Country": "Philippines",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (25.03.1995)",
+        "Market Value": "€1.8m",
+        "unicode": "0xmRfwtl"
+      },
+      {
+        "players_name": "Hunemeier U.",
+        "players_number": "2",
+        "Full Name": "Uwe Hunemeier",
+        "players_rating": 6.6,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "38, (09.01.1986)",
+        "Market Value": "",
+        "unicode": "UJQuvYnq"
+      },
+      {
+        "players_name": "Mamba S.",
+        "players_number": "30",
+        "Full Name": "Streli Mamba",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (17.06.1994)",
+        "Market Value": "€230k",
+        "unicode": "lMcROcVF"
+      },
+      {
+        "players_name": "Schonlau S.",
+        "players_number": "13",
+        "Full Name": "Sebastian Schonlau",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (05.08.1994)",
+        "Market Value": "€2.0m",
+        "unicode": "f1yi2OxU"
+      },
+      {
+        "players_name": "Srbeny D.",
+        "players_number": "18",
+        "Full Name": "Dennis Srbeny",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (05.05.1994)",
+        "Market Value": "€536k",
+        "unicode": "p6v39OGe"
+      },
+      {
+        "players_name": "Strohdiek C. (C)",
+        "players_number": "5",
+        "Full Name": "Christian Strohdiek",
+        "players_rating": 6.2,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (22.01.1988)",
+        "Market Value": "",
+        "unicode": "bySg3PMQ"
+      },
+      {
+        "players_name": "Vasiliadis S.",
+        "players_number": "39",
+        "Full Name": "Sebastian Vasiliadis",
+        "players_rating": 6.0,
+        "Country": "Greece",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (04.10.1997)",
+        "Market Value": "€749k",
+        "unicode": "MqRyuX5O"
+      },
+      {
+        "players_name": "Zingerle L. (G)",
+        "players_number": "17",
+        "Full Name": "Leopold Zingerle",
+        "players_rating": 5.5,
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "29, (10.04.1994)",
+        "Market Value": "€346k",
+        "unicode": "02l8JpKm"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Jastrzembski D.",
+        "players_number": "32",
+        "Full Name": "Dennis Jastrzembski",
+        "players_rating": "",
+        "Country": "Poland",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (20.02.2000)",
+        "Market Value": "€608k",
+        "unicode": "xOXZ2PxR"
+      },
+      {
+        "players_name": "Michel S.",
+        "players_number": "11",
+        "Full Name": "Sven Michel",
+        "players_rating": 6.0,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (15.07.1990)",
+        "Market Value": "€817k",
+        "unicode": "8IGkfX37"
+      },
+      {
+        "players_name": "Proger K.",
+        "players_number": "9",
+        "Full Name": "Kai Proger",
+        "players_rating": 5.3,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (15.05.1992)",
+        "Market Value": "€749k",
+        "unicode": "2ksQjZTe"
+      },
+      {
+        "players_name": "Sabiri A.",
+        "players_number": "19",
+        "Full Name": "Abdelhamid Sabiri",
+        "players_rating": "",
+        "Country": "Morocco",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (28.11.1996)",
+        "Market Value": "€2.3m",
+        "unicode": "MJi798vH"
+      },
+      {
+        "players_name": "Zolinski B.",
+        "players_number": "31",
+        "Full Name": "Ben Zolinski",
+        "players_rating": 5.8,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (03.05.1992)",
+        "Market Value": "€268k",
+        "unicode": "6X4Q2nq2"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Evans A.",
+        "players_number": "26",
+        "Full Name": "Anthony Evans",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (23.09.1998)",
+        "Market Value": "€596k",
+        "unicode": "Wto6i9rR"
+      },
+      {
+        "players_name": "Huth J. (G)",
+        "players_number": "21",
+        "Full Name": "Jannik Huth",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "29, (15.04.1994)",
+        "Market Value": "€587k",
+        "unicode": "MqJTy7t1"
+      },
+      {
+        "players_name": "Jans L.",
+        "players_number": "20",
+        "Full Name": "Laurent Jans",
+        "players_rating": "",
+        "Country": "Luxembourg",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (05.08.1992)",
+        "Market Value": "€264k",
+        "unicode": "EiVexxU0"
+      },
+      {
+        "players_name": "Ritter M.",
+        "players_number": "7",
+        "Full Name": "Marlon Ritter",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (15.10.1994)",
+        "Market Value": "€832k",
+        "unicode": "j3uLBTA8"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "03:42",
+      "comments_type": "corner",
+      "comments_text": "Dortmund failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "03:48",
+      "comments_type": "corner",
+      "comments_text": "The ball goes behind for a corner. Dortmund will have an opportunity to threaten the opposition's goal.",
+      "comments_text_anonymized": "The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "25:31",
+      "comments_type": "corner",
+      "comments_text": "Jadon Sancho (Dortmund) floats the ball in from the corner but it's intercepted.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "30:07",
+      "comments_type": "corner",
+      "comments_text": "Jadon Sancho (Dortmund) decides to speed play up with a short corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "30:20",
+      "comments_type": "corner",
+      "comments_text": "Dortmund force a corner. They send men into the box.",
+      "comments_text_anonymized": "[TEAM] force a corner. They send men into the box.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:31",
+      "comments_type": "corner",
+      "comments_text": "Thorgan Hazard (Dortmund) prepares to take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) prepares to take a corner kick.",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "04:10",
+      "comments_type": "corner",
+      "comments_text": "Jadon Sancho (Dortmund) steps up to send the ball in.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to send the ball in.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "08:28",
+      "comments_type": "goal",
+      "comments_text": "Goal! Thorgan Hazard (Dortmund) fires the rebound into the bottom right corner after the ball breaks to him in the box. The score is 0:1.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) fires the rebound into the bottom right corner after the ball breaks to him in the box. The score is 0:1.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:46",
+      "comments_type": "goal",
+      "comments_text": "Goal! Julian Brandt displays great vision and sends a pass to Jadon Sancho (Dortmund), who shows brilliant composure inside the box to bury the ball from close range in the back of the net. The score is 0:2.",
+      "comments_text_anonymized": "Goal! [PLAYER] displays great vision and sends a pass to [PLAYER] ([TEAM]), who shows brilliant composure inside the box to bury the ball from close range in the back of the net. The score is 0:2.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:50",
+      "comments_type": "yellow card",
+      "comments_text": "The expression of the referee Daniel Siebert is crystal clear. This behaviour won't be tolerated. Jadon Sancho (Dortmund) is shown a yellow card.",
+      "comments_text_anonymized": "The expression of the referee [REFEREE] is crystal clear. This behaviour won't be tolerated. [PLAYER] ([TEAM]) is shown a yellow card.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "14:21",
+      "comments_type": "yellow card",
+      "comments_text": "Jamilu Collins (Paderborn) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Daniel Siebert didn't think twice about pulling it out of his pocket.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:42",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Dennis Srbeny makes way for Ben Zolinski (Paderborn).",
+      "comments_text_anonymized": "Substitution. [PLAYER] makes way for [PLAYER] ([TEAM]).",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:13",
+      "comments_type": "substitution",
+      "comments_text": "Steffen Baumgart has decided to introduce fresh legs, with Sven Michel (Paderborn) replacing Streli Mamba.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:05",
+      "comments_type": "substitution",
+      "comments_text": "Lucien Favre prepares a substitution. Thomas Delaney is replaced by Axel Witsel (Dortmund).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:37",
+      "comments_type": "yellow card",
+      "comments_text": "Daniel Siebert has issued a yellow card to Emre Can (Dortmund).",
+      "comments_text_anonymized": "[REFEREE] has issued a yellow card to [PLAYER] ([TEAM]).",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:00",
+      "comments_type": "penalty",
+      "comments_text": "Uwe Hunemeier (Paderborn) is going to take the penalty!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:27",
+      "comments_type": "goal",
+      "comments_text": "Goal! Uwe Hunemeier (Paderborn) wins the battle of wills and sends an unstoppable penalty past Roman Burki into the top left corner.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into the top left corner.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:16",
+      "comments_type": "goal",
+      "comments_text": "Thorgan Hazard finds Jadon Sancho (Dortmund) with a sweet pass inside the penalty box, who then smashes the ball inside the right post. What a clinical finish to make it 1:3.",
+      "comments_text_anonymized": "[PLAYER] finds [PLAYER] ([TEAM]) with a sweet pass inside the penalty box, who then smashes the ball inside the right post. What a clinical finish to make it 1:3.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:43",
+      "comments_type": "substitution",
+      "comments_text": "We are about to witness a substitution. Kai Proger (Paderborn) is replacing Gerrit Holtmann.",
+      "comments_text_anonymized": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER].",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:19",
+      "comments_type": "yellow card",
+      "comments_text": "Mats Hummels (Dortmund) will have to be careful for the rest of the match as he is shown a yellow card.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will have to be careful for the rest of the match as he is shown a yellow card.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:04",
+      "comments_type": "substitution",
+      "comments_text": "Lucien Favre has decided to substitute Raphael Guerreiro and he is replaced by Marcel Schmelzer (Dortmund).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:36",
+      "comments_type": "substitution",
+      "comments_text": "Here comes a substitution. Julian Brandt is given a rest as he is replaced by Giovanni Reyna (Dortmund).",
+      "comments_text_anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:02",
+      "comments_type": "yellow card",
+      "comments_text": "The foul by Mohamed Drager (Paderborn) is worthy of a card and a yellow is duly shown by Daniel Siebert.",
+      "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:12",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Abdelhamid Sabiri (Paderborn) receives a signal from the referee and is now allowed to enter the pitch as Sebastian Vasiliadis walks off.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER] walks off.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:10",
+      "comments_type": "substitution",
+      "comments_text": "Steffen Baumgart decides to make a substitution. Christopher Antwi-Adjei will be replaced by Dennis Jastrzembski (Paderborn).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:38",
+      "comments_type": "goal",
+      "comments_text": "Goal! Marcel Schmelzer produces a great pass that finds Achraf Hakimi (Dortmund) inside the penalty area, who takes advantage of the situation to rifle a shot into the bottom left corner. 1:4.",
+      "comments_text_anonymized": "Goal! [PLAYER] produces a great pass that finds [PLAYER] ([TEAM]) inside the penalty area, who takes advantage of the situation to rifle a shot into the bottom left corner. 1:4.",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:36",
+      "comments_type": "substitution",
+      "comments_text": "The manager makes a subsitution with Mateu Jaume Morey Bauza (Dortmund) coming on for Achraf Hakimi.",
+      "comments_text_anonymized": "The manager makes a subsitution with Mateu Jaume [PLAYER] Bauza ([TEAM]) coming on for [PLAYER].",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:19",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Emre Can is going off and Lucien Favre gives the last tactical orders to Leonardo Balerdi (Dortmund).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:38",
+      "comments_type": "corner",
+      "comments_text": "Dennis Jastrzembski (Paderborn) looks to break free, but an opposing player clears the ball away. The referee and one of his assistants signal for a corner kick to Paderborn.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The referee and one of his assistants signal for a corner kick to [TEAM].",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:02",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Dennis Jastrzembski (Paderborn) is cleared by the opposition's defence.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence.",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:07",
+      "comments_type": "corner",
+      "comments_text": "Thorgan Hazard (Dortmund) will try to find the head of one of his teammates from a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will try to find the head of one of his teammates from a corner kick.",
+      "index": 30
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:28",
+      "comments_type": "goal",
+      "comments_text": "Goal! Marcel Schmelzer (Dortmund) finishes from close range with an easy finish and he makes it 1:5. He was ably assisted there by Axel Witsel.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) finishes from close range with an easy finish and he makes it 1:5. He was ably assisted there by [PLAYER].",
+      "index": 31
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:58",
+      "comments_type": "corner",
+      "comments_text": "The resulting set piece from Paderborn is comfortably intercepted by one of the defending players.",
+      "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players.",
+      "index": 32
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:25",
+      "comments_type": "goal",
+      "comments_text": "An amazing individual effort from Jadon Sancho (Dortmund) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom right corner and makes it 1:6. Leopold Zingerle was helpless.",
+      "comments_text_anonymized": "An amazing individual effort from [PLAYER] ([TEAM]) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom right corner and makes it 1:6. [PLAYER] was helpless.",
+      "index": 33
+    }
+  ]
+}

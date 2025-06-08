@@ -1,0 +1,900 @@
+{
+  "match_info": {
+    "timestamp": "2023-09-20 03:00:00",
+    "score": "1 - 1",
+    "home_team": "Lazio",
+    "away_team": "Atl. Madrid",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "5 - 3 - 2",
+    "venue": "Stadio Olimpico (Rome)",
+    "capacity": "70 634",
+    "attendance": "46 168"
+  },
+  "referee_data": {
+    "short_name_country": "Vincic S. (Slo)",
+    "first_name": "Vincic",
+    "abbr_last_name": "S",
+    "country": "Slo",
+    "detected_name": "Slavko Vincic"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Simeone D.",
+        "players_number": "",
+        "Full Name": "Diego Simeone",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "coach",
+        "Age and Birthdate": "53,  (28.04.1970)",
+        "Market Value": "",
+        "unicode": "AZ18LjKN"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "de Paul R.",
+        "players_number": "",
+        "Full Name": "Rodrigo de Paul",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (24.05.1994)",
+        "Market Value": "€30.2m",
+        "unicode": "AZ6TTjDC"
+      },
+      {
+        "players_name": "Depay M.",
+        "players_number": "",
+        "Full Name": "Memphis Depay",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (13.02.1994)",
+        "Market Value": "€11.7m",
+        "unicode": "zo1h8MrD"
+      },
+      {
+        "players_name": "Koke",
+        "players_number": "",
+        "Full Name": "Koke",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (08.01.1992)",
+        "Market Value": "€13.3m",
+        "unicode": "v9hLv1xJ"
+      },
+      {
+        "players_name": "Lemar T.",
+        "players_number": "",
+        "Full Name": "Thomas Lemar",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (12.11.1995)",
+        "Market Value": "€11.2m",
+        "unicode": "jX8PENMO"
+      },
+      {
+        "players_name": "Mandava R.",
+        "players_number": "",
+        "Full Name": "Reinildo Mandava",
+        "players_rating": "",
+        "Country": "Mozambique",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (21.01.1994)",
+        "Market Value": "€15.2m",
+        "unicode": "zekFd0M8"
+      },
+      {
+        "players_name": "Soyuncu C.",
+        "players_number": "",
+        "Full Name": "Caglar Soyuncu",
+        "players_rating": "",
+        "Country": "Turkey",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (23.05.1996)",
+        "Market Value": "€11.4m",
+        "unicode": "GKPbIMVk"
+      },
+      {
+        "players_name": "Vitolo",
+        "players_number": "",
+        "Full Name": "Vitolo",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (02.11.1989)",
+        "Market Value": "€272k",
+        "unicode": "QuSgm0F2"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Barrios P.",
+        "players_number": "24",
+        "Full Name": "Pablo Barrios",
+        "players_rating": 7.5,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (15.06.2003)",
+        "Market Value": "€24.1m",
+        "unicode": "AaZiGJ9E"
+      },
+      {
+        "players_name": "Griezmann A.",
+        "players_number": "7",
+        "Full Name": "Antoine Griezmann",
+        "players_rating": 7.2,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (21.03.1991)",
+        "Market Value": "€26.9m",
+        "unicode": "OxCa1jdT"
+      },
+      {
+        "players_name": "Hermoso M.",
+        "players_number": "22",
+        "Full Name": "Mario Hermoso",
+        "players_rating": 7.0,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (18.06.1995)",
+        "Market Value": "€25.2m",
+        "unicode": "OUjnz4Ab"
+      },
+      {
+        "players_name": "Lino S.",
+        "players_number": "12",
+        "Full Name": "Samuel Lino",
+        "players_rating": 7.3,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (23.12.1999)",
+        "Market Value": "€24.5m",
+        "unicode": "vTPgNn01"
+      },
+      {
+        "players_name": "Llorente M.",
+        "players_number": "14",
+        "Full Name": "Marcos Llorente",
+        "players_rating": 7.1,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (30.01.1995)",
+        "Market Value": "€28.5m",
+        "unicode": "z3D5zvbD"
+      },
+      {
+        "players_name": "Molina N.",
+        "players_number": "16",
+        "Full Name": "Nahuel Molina",
+        "players_rating": 7.7,
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (06.04.1998)",
+        "Market Value": "€43.4m",
+        "unicode": "M3TzoLot"
+      },
+      {
+        "players_name": "Morata A.",
+        "players_number": "19",
+        "Full Name": "Alvaro Morata",
+        "players_rating": 6.7,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (23.10.1992)",
+        "Market Value": "€19.6m",
+        "unicode": "fmkHs3aU"
+      },
+      {
+        "players_name": "Niguez S.",
+        "players_number": "8",
+        "Full Name": "Saul Niguez",
+        "players_rating": 7.0,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (21.11.1994)",
+        "Market Value": "€11.4m",
+        "unicode": "hSbvVwW7"
+      },
+      {
+        "players_name": "Oblak J. (G) (C)",
+        "players_number": "13",
+        "Full Name": "Jan Oblak",
+        "players_rating": 8.0,
+        "Country": "Slovenia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (07.01.1993)",
+        "Market Value": "€32.8m",
+        "unicode": "SYy8ZHN9"
+      },
+      {
+        "players_name": "Savic S.",
+        "players_number": "15",
+        "Full Name": "Stefan Savic",
+        "players_rating": 7.1,
+        "Country": "Montenegro",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (08.01.1991)",
+        "Market Value": "€4.8m",
+        "unicode": "rXcV9ZCT"
+      },
+      {
+        "players_name": "Witsel A.",
+        "players_number": "20",
+        "Full Name": "Axel Witsel",
+        "players_rating": 7.1,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (12.01.1989)",
+        "Market Value": "€4.8m",
+        "unicode": "2JsUqijl"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Correa A.",
+        "players_number": "10",
+        "Full Name": "Angel Correa",
+        "players_rating": 6.1,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (09.03.1995)",
+        "Market Value": "€18.4m",
+        "unicode": "McWkid34"
+      },
+      {
+        "players_name": "Gimenez J. M.",
+        "players_number": "2",
+        "Full Name": "Jose Maria Gimenez",
+        "players_rating": 6.7,
+        "Country": "Uruguay",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (20.01.1995)",
+        "Market Value": "€28.9m",
+        "unicode": "IgRLzKhM"
+      },
+      {
+        "players_name": "Riquelme R.",
+        "players_number": "25",
+        "Full Name": "Rodrigo Riquelme",
+        "players_rating": 6.6,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (02.04.2000)",
+        "Market Value": "€23.4m",
+        "unicode": "2iQMPvBg"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Azpilicueta C.",
+        "players_number": "3",
+        "Full Name": "Cesar Azpilicueta",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (28.08.1989)",
+        "Market Value": "€3.8m",
+        "unicode": "CMGUADgt"
+      },
+      {
+        "players_name": "Calatrava A.",
+        "players_number": "36",
+        "Full Name": "Alex Calatrava",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (22.06.2000)",
+        "Market Value": "30.06.2025",
+        "unicode": "b13gbSqm"
+      },
+      {
+        "players_name": "El Jebari S.",
+        "players_number": "30",
+        "Full Name": "Salim El Jebari",
+        "players_rating": "",
+        "Country": "Morocco",
+        "Role": "Midfielder",
+        "Age and Birthdate": "19, (05.02.2004)",
+        "Market Value": "30.06.2025",
+        "unicode": "8CIw9945"
+      },
+      {
+        "players_name": "Galan J.",
+        "players_number": "17",
+        "Full Name": "Javi Galan",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (19.11.1994)",
+        "Market Value": "€6.6m",
+        "unicode": "t8GDN709"
+      },
+      {
+        "players_name": "Gomis A. (G)",
+        "players_number": "31",
+        "Full Name": "Antonio Gomis",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "20, (20.05.2003)",
+        "Market Value": "30.06.2025",
+        "unicode": "0rBkNdYp"
+      },
+      {
+        "players_name": "Grbic I. (G)",
+        "players_number": "1",
+        "Full Name": "Ivo Grbic",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (18.01.1996)",
+        "Market Value": "€3.4m",
+        "unicode": "xtH6Sx9F"
+      },
+      {
+        "players_name": "Kostis I.",
+        "players_number": "27",
+        "Full Name": "Ilias Kostis",
+        "players_rating": "",
+        "Country": "Greece",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (27.02.2003)",
+        "Market Value": "30.06.2027",
+        "unicode": "QTc0qeb2"
+      },
+      {
+        "players_name": "Mini",
+        "players_number": "40",
+        "Full Name": "Mini",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (10.04.1999)",
+        "Market Value": "30.06.2024",
+        "unicode": "nThR7Un8"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Sarri M.",
+        "players_number": "",
+        "Full Name": "Maurizio Sarri",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "coach",
+        "Age and Birthdate": "65,  (10.01.1959)",
+        "Market Value": "",
+        "unicode": "pvzTXTMR"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Felipe Anderson",
+        "players_number": "7",
+        "Full Name": "Felipe Anderson",
+        "players_rating": 6.8,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (15.04.1993)",
+        "Market Value": "€9.9m",
+        "unicode": "xA2w3xCo"
+      },
+      {
+        "players_name": "Immobile C. (C)",
+        "players_number": "17",
+        "Full Name": "Ciro Immobile",
+        "players_rating": 6.8,
+        "Country": "Italy",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (20.02.1990)",
+        "Market Value": "€9.5m",
+        "unicode": "4S9fNUYh"
+      },
+      {
+        "players_name": "Kamada D.",
+        "players_number": "6",
+        "Full Name": "Daichi Kamada",
+        "players_rating": 6.8,
+        "Country": "Japan",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (05.08.1996)",
+        "Market Value": "€19.3m",
+        "unicode": "bayITLyE"
+      },
+      {
+        "players_name": "Luis Alberto",
+        "players_number": "10",
+        "Full Name": "Luis Alberto",
+        "players_rating": 8.0,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (28.09.1992)",
+        "Market Value": "€16.8m",
+        "unicode": "xbmYgaCa"
+      },
+      {
+        "players_name": "Marusic A.",
+        "players_number": "77",
+        "Full Name": "Adam Marusic",
+        "players_rating": 7.1,
+        "Country": "Montenegro",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (17.10.1992)",
+        "Market Value": "€4.7m",
+        "unicode": "tC46HZrA"
+      },
+      {
+        "players_name": "Patric",
+        "players_number": "4",
+        "Full Name": "Patric",
+        "players_rating": 6.7,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (17.04.1993)",
+        "Market Value": "€3.9m",
+        "unicode": "YXwSY2Ef"
+      },
+      {
+        "players_name": "Pellegrini Lu.",
+        "players_number": "3",
+        "Full Name": "Luca Pellegrini",
+        "players_rating": 6.9,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (07.03.1999)",
+        "Market Value": "€3.7m",
+        "unicode": "WKey0InR"
+      },
+      {
+        "players_name": "Provedel I. (G)",
+        "players_number": "94",
+        "Full Name": "Ivan Provedel",
+        "players_rating": 7.9,
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "29, (17.03.1994)",
+        "Market Value": "€13.7m",
+        "unicode": "C6m92DF7"
+      },
+      {
+        "players_name": "Romagnoli A.",
+        "players_number": "13",
+        "Full Name": "Alessio Romagnoli",
+        "players_rating": 7.4,
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (12.01.1995)",
+        "Market Value": "€14.7m",
+        "unicode": "Wr49C0j4"
+      },
+      {
+        "players_name": "Vecino M.",
+        "players_number": "5",
+        "Full Name": "Matias Vecino",
+        "players_rating": 7.0,
+        "Country": "Uruguay",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (24.08.1991)",
+        "Market Value": "€2.8m",
+        "unicode": "AVysqrBE"
+      },
+      {
+        "players_name": "Zaccagni M.",
+        "players_number": "20",
+        "Full Name": "Mattia Zaccagni",
+        "players_rating": 7.8,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (16.06.1995)",
+        "Market Value": "€25.2m",
+        "unicode": "MJ7sACQ8"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Cataldi D.",
+        "players_number": "32",
+        "Full Name": "Danilo Cataldi",
+        "players_rating": 6.4,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (06.08.1994)",
+        "Market Value": "€7.4m",
+        "unicode": "IcuAZWW1"
+      },
+      {
+        "players_name": "Guendouzi M.",
+        "players_number": "8",
+        "Full Name": "Matteo Guendouzi",
+        "players_rating": 6.7,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (14.04.1999)",
+        "Market Value": "€18.4m",
+        "unicode": "6ZesE86o"
+      },
+      {
+        "players_name": "Isaksen G.",
+        "players_number": "18",
+        "Full Name": "Gustav Isaksen",
+        "players_rating": 6.4,
+        "Country": "Denmark",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (19.04.2001)",
+        "Market Value": "€11.6m",
+        "unicode": "d0vohCHH"
+      },
+      {
+        "players_name": "Lazzari M.",
+        "players_number": "29",
+        "Full Name": "Manuel Lazzari",
+        "players_rating": 6.8,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (29.11.1993)",
+        "Market Value": "€6.0m",
+        "unicode": "WlqJxlIT"
+      },
+      {
+        "players_name": "Pedro",
+        "players_number": "9",
+        "Full Name": "Pedro",
+        "players_rating": 6.4,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (28.07.1987)",
+        "Market Value": "€1.3m",
+        "unicode": "0f1tMqQl"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Casale N.",
+        "players_number": "15",
+        "Full Name": "Nicolo Casale",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (14.02.1998)",
+        "Market Value": "€19.0m",
+        "unicode": "WAb3qgda"
+      },
+      {
+        "players_name": "Castellanos T.",
+        "players_number": "19",
+        "Full Name": "Taty Castellanos",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (03.10.1998)",
+        "Market Value": "€14.3m",
+        "unicode": "ET4rsqIP"
+      },
+      {
+        "players_name": "Gila M.",
+        "players_number": "34",
+        "Full Name": "Mario Gila",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (29.08.2000)",
+        "Market Value": "€2.9m",
+        "unicode": "dQqXDhtf"
+      },
+      {
+        "players_name": "Hysaj E.",
+        "players_number": "23",
+        "Full Name": "Elseid Hysaj",
+        "players_rating": "",
+        "Country": "Albania",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (02.02.1994)",
+        "Market Value": "€3.8m",
+        "unicode": "8z6PLSII"
+      },
+      {
+        "players_name": "Renzetti D. (G)",
+        "players_number": "59",
+        "Full Name": "Davide Renzetti",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "17, (09.06.2006)",
+        "Market Value": "30.06.2026",
+        "unicode": "tWN2x1he"
+      },
+      {
+        "players_name": "Rovella N.",
+        "players_number": "65",
+        "Full Name": "Nicolo Rovella",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (04.12.2001)",
+        "Market Value": "€16.8m",
+        "unicode": "bPQZKve0"
+      },
+      {
+        "players_name": "Sepe L. (G)",
+        "players_number": "33",
+        "Full Name": "Luigi Sepe",
+        "players_rating": "",
+        "Country": "Italy",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (08.05.1991)",
+        "Market Value": "€881k",
+        "unicode": "dvzcWaun"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "02:55",
+      "comments_type": "corner",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) launches an inaccurate corner kick into the penalty area.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches an inaccurate corner kick into the penalty area.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "17:00",
+      "comments_type": "corner",
+      "comments_text": "Luis Alberto (Lazio) will take a corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) will take a corner kick.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "20:01",
+      "comments_type": "yellow card",
+      "comments_text": "Referee Slavko Vincic halts the game and wanders over to the touchline to talk to Diego Simeone, then shows him a yellow.",
+      "comments_text_anonymized": "Referee [REFEREE] halts the game and wanders over to the touchline to talk to [PLAYER], then shows him a yellow.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "20:02",
+      "comments_type": "corner",
+      "comments_text": "Luis Alberto (Lazio) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "22:46",
+      "comments_type": "corner",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) takes the corner kick but the ball only finds the head of an opponent.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "25:20",
+      "comments_type": "corner",
+      "comments_text": "Luis Alberto (Lazio) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "25:40",
+      "comments_type": "yellow card",
+      "comments_text": "Yellow card. Antoine Griezmann (Atl. Madrid) goes into the book for a bad tackle on his opponent.",
+      "comments_text_anonymized": "Yellow card. [PLAYER] ([TEAM]) goes into the book for a bad tackle on his opponent.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "29:00",
+      "comments_type": "goal",
+      "comments_text": "Goal! Pablo Barrios (Atl. Madrid) collected a pass and decided to try his luck from distance. The shot was deflected and it was enough to turn the ball past helpless Ivan Provedel. 0:1.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) collected a pass and decided to try his luck from distance. The shot was deflected and it was enough to turn the ball past helpless [PLAYER]. 0:1.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "32:33",
+      "comments_type": "corner",
+      "comments_text": "A corner kick by Lazio is thwarted by the well prepared Jan Oblak (Atl. Madrid).",
+      "comments_text_anonymized": "A corner kick by [TEAM] is thwarted by the well prepared [PLAYER] ([TEAM]).",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "36:55",
+      "comments_type": "yellow card",
+      "comments_text": "Referee Slavko Vincic has finally had enough of Maurizio Sarri and brandishes a yellow card at him!",
+      "comments_text_anonymized": "Referee [REFEREE] has finally had enough of [PLAYER] and brandishes a yellow card at him!",
+      "index": 9
+    },
+    {
+      "half": 1,
+      "time_stamp": "37:28",
+      "comments_type": "substitution",
+      "comments_text": "Problems for Maurizio Sarri as Luca Pellegrini is not able to play anymore. His injury is too serious and Manuel Lazzari (Lazio) replaces him.",
+      "comments_text_anonymized": "Problems for [PLAYER] as [PLAYER] is not able to play anymore. His injury is too serious and [PLAYER] ([TEAM]) replaces him.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:01",
+      "comments_type": "substitution",
+      "comments_text": "The teams are back out for the second half and here is a change on the pitch. Diego Simeone gives a chance to Jose Maria Gimenez (Atl. Madrid) and Pablo Barrios is off.",
+      "comments_text_anonymized": "The teams are back out for the second half and here is a change on the pitch. [PLAYER] gives a chance to [PLAYER] ([TEAM]) and [PLAYER] is off.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "03:20",
+      "comments_type": "corner",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) takes the corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:21",
+      "comments_type": "corner",
+      "comments_text": "The referee awards a corner and Luis Alberto (Lazio) goes over to take it.",
+      "comments_text_anonymized": "The referee awards a corner and [PLAYER] ([TEAM]) goes over to take it.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:39",
+      "comments_type": "corner",
+      "comments_text": "Luis Alberto (Lazio) takes the corner, but he overhits it and none of his teammates are able to reach the ball.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner, but he overhits it and none of his teammates are able to reach the ball.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:14",
+      "comments_type": "substitution",
+      "comments_text": "The referee allows time for a substitution. Felipe Anderson will be replaced by Gustav Isaksen (Lazio).",
+      "comments_text_anonymized": "The referee allows time for a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:20",
+      "comments_type": "substitution",
+      "comments_text": "Maurizio Sarri decides to make a substitution. Daichi Kamada will be replaced by Matteo Guendouzi (Lazio).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:08",
+      "comments_type": "corner",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "21:40",
+      "comments_type": "yellow card",
+      "comments_text": "Samuel Lino (Atl. Madrid) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:18",
+      "comments_type": "corner",
+      "comments_text": "Luis Alberto (Lazio) works the corner short instead of sending the ball into the penalty area.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:34",
+      "comments_type": "corner",
+      "comments_text": "A good clearance by a defender means the corner comes to nothing for Lazio.",
+      "comments_text_anonymized": "A good clearance by a defender means the corner comes to nothing for [TEAM].",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:35",
+      "comments_type": "corner",
+      "comments_text": "Luis Alberto (Lazio) takes the corner but fails to find any of his teammates.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:28",
+      "comments_type": "substitution",
+      "comments_text": "Today's match ends for Axel Witsel who will be replaced by Angel Correa (Atl. Madrid).",
+      "comments_text_anonymized": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM]).",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:00",
+      "comments_type": "substitution",
+      "comments_text": "Maurizio Sarri has decided to substitute Matias Vecino and he is replaced by Danilo Cataldi (Lazio).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:00",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Pedro (Lazio) comes onto the pitch for Mattia Zaccagni.",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) comes onto the pitch for [PLAYER].",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "34:00",
+      "comments_type": "substitution",
+      "comments_text": "That's the end of the game for Samuel Lino, who is replaced by Rodrigo Riquelme (Atl. Madrid).",
+      "comments_text_anonymized": "That's the end of the game for [PLAYER], who is replaced by [PLAYER] ([TEAM]).",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:53",
+      "comments_type": "corner",
+      "comments_text": "Antoine Griezmann (Atl. Madrid) is heading toward the corner flag to take the set piece.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece.",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:00",
+      "comments_type": "yellow card",
+      "comments_text": "Patric (Lazio) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:52",
+      "comments_type": "yellow card",
+      "comments_text": "Ciro Immobile (Lazio) picked up a yellow card for saying too much to the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) picked up a yellow card for saying too much to the referee.",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "47:43",
+      "comments_type": "corner",
+      "comments_text": "Luis Alberto (Lazio) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "48:37",
+      "comments_type": "yellow card",
+      "comments_text": "Slavko Vincic has issued a yellow card to Angel Correa (Atl. Madrid).",
+      "comments_text_anonymized": "[REFEREE] has issued a yellow card to [PLAYER] ([TEAM]).",
+      "index": 30
+    },
+    {
+      "half": 2,
+      "time_stamp": "49:16",
+      "comments_type": "corner",
+      "comments_text": "The referee and his assistant both point at the corner flag. Lazio will have an opportunity to threaten the opposition's goal.",
+      "comments_text_anonymized": "The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+      "index": 31
+    },
+    {
+      "half": 2,
+      "time_stamp": "49:43",
+      "comments_type": "goal",
+      "comments_text": "Goal! Luis Alberto produces a brilliant lofted pass and Ivan Provedel (Lazio) gets on the end of it to finish with a header into an empty net. The score is 1:1.",
+      "comments_text_anonymized": "Goal! [PLAYER] produces a brilliant lofted pass and [PLAYER] ([TEAM]) gets on the end of it to finish with a header into an empty net. The score is 1:1.",
+      "index": 32
+    }
+  ]
+}

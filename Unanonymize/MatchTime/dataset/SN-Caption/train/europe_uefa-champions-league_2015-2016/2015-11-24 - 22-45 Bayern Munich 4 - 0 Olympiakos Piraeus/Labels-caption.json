@@ -1,0 +1,1568 @@
+{
+    "timestamp": "1448394300",
+    "score": "4 - 0",
+    "round": "5",
+    "teams": [
+        "Olympiacos Piraeus",
+        "Bayern Munich"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-1-4-1",
+            "players": [
+                {
+                    "hash": "jg1LwcpG",
+                    "name": "Arturo Vidal",
+                    "captain": "",
+                    "detail_link": "/player/vidal-arturo/jg1LwcpG/",
+                    "short_name": "Arturo Vidal",
+                    "shirt_number": "23",
+                    "country": "Chile",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Arturo Vidal"
+                },
+                {
+                    "hash": "xIV0yRJ4",
+                    "name": "Badstuber H.",
+                    "captain": "",
+                    "detail_link": "/player/badstuber-holger/xIV0yRJ4/",
+                    "short_name": "Badstuber",
+                    "shirt_number": "28",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "2",
+                            "time": "53' Badstuber H. (Tripping)",
+                            "description": "Red Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Holger Badstuber"
+                },
+                {
+                    "hash": "0bDEBms3",
+                    "name": "Boateng J.",
+                    "captain": "",
+                    "detail_link": "/player/boateng-jerome/0bDEBms3/",
+                    "short_name": "Boateng",
+                    "shirt_number": "17",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "8' Costa D. (Boateng J.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "42' Boateng J. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Jerome Boateng"
+                },
+                {
+                    "hash": "zHWLJOHq",
+                    "name": "Coman K.",
+                    "captain": "",
+                    "detail_link": "/player/coman-kingsley/zHWLJOHq/",
+                    "short_name": "Coman",
+                    "shirt_number": "29",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "16' Lewandowski R. (Coman K.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "3",
+                            "time": "69' Coman K. (Muller T.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Kingsley Coman"
+                },
+                {
+                    "hash": "fPOJMEfo",
+                    "name": "Costa D.",
+                    "captain": "",
+                    "detail_link": "/player/costa-douglas/fPOJMEfo/",
+                    "short_name": "Costa",
+                    "shirt_number": "11",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "8' Costa D. (Boateng J.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "72'",
+                            "description": "Martinez J.",
+                            "linked_player_hash": "IiVRUCYs"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Douglas Costa"
+                },
+                {
+                    "hash": "MB26hXLr",
+                    "name": "Lahm P.",
+                    "captain": "(C)",
+                    "detail_link": "/player/lahm-philipp/MB26hXLr/",
+                    "short_name": "Lahm",
+                    "shirt_number": "21",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Philipp Lahm"
+                },
+                {
+                    "hash": "MVC8zHZD",
+                    "name": "Lewandowski R.",
+                    "captain": "",
+                    "detail_link": "/player/lewandowski-robert/MVC8zHZD/",
+                    "short_name": "Lewandowski",
+                    "shirt_number": "9",
+                    "country": "Poland",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "16' Lewandowski R. (Coman K.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "56'",
+                            "description": "Benatia M.",
+                            "linked_player_hash": "n7X30ymN"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Robert Lewandowski"
+                },
+                {
+                    "hash": "8KpOJV2B",
+                    "name": "Muller T.",
+                    "captain": "",
+                    "detail_link": "/player/muller-thomas/8KpOJV2B/",
+                    "short_name": "Muller",
+                    "shirt_number": "25",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "20' Muller T. (Robben A.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "69' Coman K. (Muller T.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Thomas Muller"
+                },
+                {
+                    "hash": "Sh5KwIo6",
+                    "name": "Neuer M.",
+                    "captain": "",
+                    "detail_link": "/player/neuer-manuel/Sh5KwIo6/",
+                    "short_name": "Neuer",
+                    "shirt_number": "1",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Manuel Neuer"
+                },
+                {
+                    "hash": "pxvTBxot",
+                    "name": "Rafinha",
+                    "captain": "",
+                    "detail_link": "/player/rafinha/pxvTBxot/",
+                    "short_name": "Rafinha",
+                    "shirt_number": "13",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Rafinha"
+                },
+                {
+                    "hash": "tQAq3jaB",
+                    "name": "Robben A.",
+                    "captain": "",
+                    "detail_link": "/player/robben-arjen/tQAq3jaB/",
+                    "short_name": "Robben",
+                    "shirt_number": "10",
+                    "country": "Netherlands",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "20' Muller T. (Robben A.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "33'",
+                            "description": "Kimmich J.",
+                            "linked_player_hash": "MkMrkZLc"
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Arjen Robben"
+                },
+                {
+                    "hash": "hAcTWKKN",
+                    "name": "Alonso X.",
+                    "captain": "",
+                    "detail_link": "/player/alonso-xabi/hAcTWKKN/",
+                    "short_name": "Alonso",
+                    "shirt_number": "14",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Xabi Alonso"
+                },
+                {
+                    "hash": "n7X30ymN",
+                    "name": "Benatia M.",
+                    "captain": "",
+                    "detail_link": "/player/benatia-mehdi/n7X30ymN/",
+                    "short_name": "Benatia",
+                    "shirt_number": "5",
+                    "country": "Morocco",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "56'",
+                            "description": "Lewandowski R.",
+                            "linked_player_hash": "MVC8zHZD"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Mehdi Benatia"
+                },
+                {
+                    "hash": "MkMrkZLc",
+                    "name": "Kimmich J.",
+                    "captain": "",
+                    "detail_link": "/player/kimmich-joshua/MkMrkZLc/",
+                    "short_name": "Kimmich",
+                    "shirt_number": "32",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "33'",
+                            "description": "Robben A.",
+                            "linked_player_hash": "tQAq3jaB"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Joshua Kimmich"
+                },
+                {
+                    "hash": "Mitwh9ZL",
+                    "name": "Kirchhoff J.",
+                    "captain": "",
+                    "detail_link": "/player/kirchhoff-jan/Mitwh9ZL/",
+                    "short_name": "Kirchhoff",
+                    "shirt_number": "15",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jan Kirchhoff"
+                },
+                {
+                    "hash": "IiVRUCYs",
+                    "name": "Martinez J.",
+                    "captain": "",
+                    "detail_link": "/player/martinez-javi/IiVRUCYs/",
+                    "short_name": "Martinez",
+                    "shirt_number": "8",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "72'",
+                            "description": "Costa D.",
+                            "linked_player_hash": "fPOJMEfo"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Javi Martinez"
+                },
+                {
+                    "hash": "2ukcBSGo",
+                    "name": "Rode S.",
+                    "captain": "",
+                    "detail_link": "/player/rode-sebastian/2ukcBSGo/",
+                    "short_name": "Rode",
+                    "shirt_number": "20",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sebastian Rode"
+                },
+                {
+                    "hash": "8CE8Sho8",
+                    "name": "Ulreich S.",
+                    "captain": "",
+                    "detail_link": "/player/ulreich-sven/8CE8Sho8/",
+                    "short_name": "Ulreich",
+                    "shirt_number": "26",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sven Ulreich"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "hxNijWrJ",
+                    "name": "Guardiola P.",
+                    "captain": "",
+                    "detail_link": "/player/guardiola-pep/hxNijWrJ/",
+                    "short_name": "Guardiola P.",
+                    "shirt_number": "",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Pep Guardiola"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-3-3",
+            "players": [
+                {
+                    "hash": "8ptXjW8f",
+                    "name": "Cambiasso E.",
+                    "captain": "",
+                    "detail_link": "/player/cambiasso-esteban/8ptXjW8f/",
+                    "short_name": "Cambiasso",
+                    "shirt_number": "91",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Esteban Cambiasso"
+                },
+                {
+                    "hash": "8C2gn9kg",
+                    "name": "da Costa M.",
+                    "captain": "",
+                    "detail_link": "/player/da-costa-manuel/8C2gn9kg/",
+                    "short_name": "da Costa",
+                    "shirt_number": "6",
+                    "country": "Morocco",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Manuel da Costa"
+                },
+                {
+                    "hash": "Gr7z9FSE",
+                    "name": "Elabdellaoui O.",
+                    "captain": "",
+                    "detail_link": "/player/elabdellaoui-omar/Gr7z9FSE/",
+                    "short_name": "Elabdellaoui",
+                    "shirt_number": "14",
+                    "country": "Norway",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "78'",
+                            "description": "Leandro Salino",
+                            "linked_player_hash": "YH4CbOUu"
+                        }
+                    ],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Omar Elabdellaoui"
+                },
+                {
+                    "hash": "hp8zk56r",
+                    "name": "Ideye B.",
+                    "captain": "",
+                    "detail_link": "/player/ideye-brown/hp8zk56r/",
+                    "short_name": "Ideye",
+                    "shirt_number": "99",
+                    "country": "Nigeria",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Brown Ideye"
+                },
+                {
+                    "hash": "bo57CU7b",
+                    "name": "Jimenez R.",
+                    "captain": "",
+                    "detail_link": "/player/jimenez-roberto/bo57CU7b/",
+                    "short_name": "Jimenez",
+                    "shirt_number": "16",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Roberto Jimenez"
+                },
+                {
+                    "hash": "KrODGzyo",
+                    "name": "Kasami P.",
+                    "captain": "",
+                    "detail_link": "/player/kasami-pajtim/KrODGzyo/",
+                    "short_name": "Kasami",
+                    "shirt_number": "11",
+                    "country": "Switzerland",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "67'",
+                            "description": "Fortounis K.",
+                            "linked_player_hash": "WIPOXg1o"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Pajtim Kasami"
+                },
+                {
+                    "hash": "4YoV0hmC",
+                    "name": "Masuaku A.",
+                    "captain": "",
+                    "detail_link": "/player/masuaku-arthur/4YoV0hmC/",
+                    "short_name": "Masuaku",
+                    "shirt_number": "26",
+                    "country": "DR Congo",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Arthur Masuaku"
+                },
+                {
+                    "hash": "KpPKefJh",
+                    "name": "Milivojevic L.",
+                    "captain": "",
+                    "detail_link": "/player/milivojevic-luka/KpPKefJh/",
+                    "short_name": "Milivojevic",
+                    "shirt_number": "5",
+                    "country": "Serbia",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "63' Milivojevic L. (Holding)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Luka Milivojevic"
+                },
+                {
+                    "hash": "l2uTD7Km",
+                    "name": "Pardo F.",
+                    "captain": "",
+                    "detail_link": "/player/pardo-felipe/l2uTD7Km/",
+                    "short_name": "Pardo",
+                    "shirt_number": "90",
+                    "country": "Colombia",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "67'",
+                            "description": "Hernani",
+                            "linked_player_hash": "WGV4qaf2"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Felipe Pardo"
+                },
+                {
+                    "hash": "QXXJtcQI",
+                    "name": "Seba",
+                    "captain": "",
+                    "detail_link": "/player/seba/QXXJtcQI/",
+                    "short_name": "Seba",
+                    "shirt_number": "92",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Seba"
+                },
+                {
+                    "hash": "WzHBybWs",
+                    "name": "Siovas D.",
+                    "captain": "",
+                    "detail_link": "/player/siovas-dimitrios/WzHBybWs/",
+                    "short_name": "Siovas",
+                    "shirt_number": "23",
+                    "country": "Greece",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Dimitrios Siovas"
+                },
+                {
+                    "hash": "SzCvIELK",
+                    "name": "Dominguez A.",
+                    "captain": "",
+                    "detail_link": "/player/dominguez-alejandro/SzCvIELK/",
+                    "short_name": "Dominguez",
+                    "shirt_number": "10",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Alejandro Dominguez"
+                },
+                {
+                    "hash": "6RjwNXt6",
+                    "name": "Finnbogason A.",
+                    "captain": "",
+                    "detail_link": "/player/finnbogason-alfred/6RjwNXt6/",
+                    "short_name": "Finnbogason",
+                    "shirt_number": "9",
+                    "country": "Iceland",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Alfred Finnbogason"
+                },
+                {
+                    "hash": "WIPOXg1o",
+                    "name": "Fortounis K.",
+                    "captain": "",
+                    "detail_link": "/player/fortounis-konstantinos/WIPOXg1o/",
+                    "short_name": "Fortounis",
+                    "shirt_number": "7",
+                    "country": "Greece",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "67'",
+                            "description": "Kasami P.",
+                            "linked_player_hash": "KrODGzyo"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Konstantinos Fortounis"
+                },
+                {
+                    "hash": "WGV4qaf2",
+                    "name": "Hernani",
+                    "captain": "",
+                    "detail_link": "/player/hernani/WGV4qaf2/",
+                    "short_name": "Hernani",
+                    "shirt_number": "77",
+                    "country": "Portugal",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "67'",
+                            "description": "Pardo F.",
+                            "linked_player_hash": "l2uTD7Km"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Hernani"
+                },
+                {
+                    "hash": "6Hc6XjrC",
+                    "name": "Kapino S.",
+                    "captain": "",
+                    "detail_link": "/player/kapino-stefanos/6Hc6XjrC/",
+                    "short_name": "Kapino",
+                    "shirt_number": "37",
+                    "country": "Greece",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Stefanos Kapino"
+                },
+                {
+                    "hash": "YH4CbOUu",
+                    "name": "Leandro Salino",
+                    "captain": "",
+                    "detail_link": "/player/salino-leandro/YH4CbOUu/",
+                    "short_name": "Leandro Salino",
+                    "shirt_number": "30",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "78'",
+                            "description": "Elabdellaoui O.",
+                            "linked_player_hash": "Gr7z9FSE"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Leandro Salino"
+                },
+                {
+                    "hash": "6y0lhADD",
+                    "name": "Maniatis G.",
+                    "captain": "",
+                    "detail_link": "/player/maniatis-giannis/6y0lhADD/",
+                    "short_name": "Maniatis",
+                    "shirt_number": "2",
+                    "country": "Greece",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Giannis Maniatis"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "GxXzVQFQ",
+                    "name": "Silva M.",
+                    "captain": "",
+                    "detail_link": "/player/silva-marco/GxXzVQFQ/",
+                    "short_name": "Silva M.",
+                    "shirt_number": "",
+                    "country": "Portugal",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marco Silva"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Eriksson J."
+    ],
+    "venue": [
+        "Allianz Arena (Munich)"
+    ],
+    "attendance": [
+        "70 000"
+    ],
+    "referee_matched": [
+        "Jonas Eriksson"
+    ],
+    "referee_found": [
+        "Jonas Eriksson"
+    ],
+    "coach_matched": [
+        "Marco Silva",
+        "Pep Guardiola"
+    ],
+    "gameHomeTeam": "Bayern Munich",
+    "home": {
+        "name": "Bayern Munich",
+        "detail_link": "/team/bayern-munich/nVp0wiqd",
+        "hash": "nVp0wiqd",
+        "names": [
+            "Bayern Munich",
+            "bayern munich"
+        ]
+    },
+    "gameAwayTeam": "Olympiakos Piraeus",
+    "away": {
+        "name": "Olympiakos Piraeus",
+        "detail_link": "/team/olympiacos-piraeus/hnzvnHPS",
+        "hash": "hnzvnHPS",
+        "names": [
+            "Olympiakos Piraeus",
+            "Olympiacos Piraeus",
+            "Olympiacos Piraeus (Gre)",
+            "olympiacos piraeus"
+        ]
+    },
+    "gameDate": "24/11/2015 - 20:45",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. Bayern Munich were better today and displayed masterful control and movement. The home side destroyed their opponents in every aspect of the game. The visitors offered very little going forward.",
+            "identified": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. [TEAM_] were better today and displayed masterful control and movement. The home side destroyed their opponents in every aspect of the game. The visitors offered very little going forward.",
+            "anonymized": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. [TEAM] were better today and displayed masterful control and movement. The home side destroyed their opponents in every aspect of the game. The visitors offered very little going forward.",
+            "visibility": "shown",
+            "position": "2879000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 47:01",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time.",
+            "identified": "Nothing more will happen in this game as the referee blows for full time.",
+            "anonymized": "Nothing more will happen in this game as the referee blows for full time.",
+            "visibility": "shown",
+            "position": "2821000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 46:45",
+            "label": "corner",
+            "description": "Thomas Muller (Bayern Munich) quickly takes the corner kick with a short pass.",
+            "identified": "[PLAYER_8KpOJV2B] ([TEAM_]) quickly takes the corner kick with a short pass.",
+            "anonymized": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass.",
+            "visibility": "shown",
+            "position": "2805000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 46:33",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) dribbles deep into the box and releases a strike towards the left side of the goal, but Roberto Jimenez makes a sensational reflex save and punches the ball onto the post. Superb goalkeeping! Bayern Munich win a corner.",
+            "identified": "[PLAYER_8KpOJV2B] ([TEAM_]) dribbles deep into the box and releases a strike towards the left side of the goal, but [PLAYER_bo57CU7b] makes a sensational reflex save and punches the ball onto the post. Superb goalkeeping! [TEAM_] win a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) dribbles deep into the box and releases a strike towards the left side of the goal, but [PLAYER] makes a sensational reflex save and punches the ball onto the post. Superb goalkeeping! [TEAM] win a corner.",
+            "visibility": "shown",
+            "position": "2793000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 45:51",
+            "label": "",
+            "description": "Olympiacos Piraeus are bossing possession at the moment by exchanging some precise passes from player to player.",
+            "identified": "[TEAM_] are bossing possession at the moment by exchanging some precise passes from player to player.",
+            "anonymized": "[TEAM] are bossing possession at the moment by exchanging some precise passes from player to player.",
+            "visibility": "shown",
+            "position": "2751000"
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "2 additional min. will be played.",
+            "identified": "2 additional min. will be played.",
+            "anonymized": "2 additional min. will be played.",
+            "visibility": "shown",
+            "position": "0"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 44:25",
+            "label": "",
+            "description": "Leandro Salino (Olympiacos Piraeus) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "identified": "[PLAYER_YH4CbOUu] ([TEAM_]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "anonymized": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "visibility": "shown",
+            "position": "2665000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:55",
+            "label": "",
+            "description": "The linesman signals that Thomas Muller (Bayern Munich) is offside and the referee confirms the decision.",
+            "identified": "The linesman signals that [PLAYER_8KpOJV2B] ([TEAM_]) is offside and the referee confirms the decision.",
+            "anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision.",
+            "visibility": "shown",
+            "position": "2575000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:47",
+            "label": "",
+            "description": "Chance! Philipp Lahm (Bayern Munich) was in a good position inside the box, but he couldn't connect with the pass as it was overhit.",
+            "identified": "Chance! [PLAYER_MB26hXLr] ([TEAM_]) was in a good position inside the box, but he couldn't connect with the pass as it was overhit.",
+            "anonymized": "Chance! [PLAYER] ([TEAM]) was in a good position inside the box, but he couldn't connect with the pass as it was overhit.",
+            "visibility": "shown",
+            "position": "2567000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 40:54",
+            "label": "",
+            "description": "Joshua Kimmich (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Roberto Jimenez is alert and denies him.",
+            "identified": "[PLAYER_MkMrkZLc] ([TEAM_]) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but [PLAYER_bo57CU7b] is alert and denies him.",
+            "anonymized": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but [PLAYER] is alert and denies him.",
+            "visibility": "shown",
+            "position": "2454000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 38:33",
+            "label": "corner",
+            "description": "Hernani (Olympiacos Piraeus) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "identified": "[PLAYER_WGV4qaf2] ([TEAM_]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "visibility": "shown",
+            "position": "2313000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 38:10",
+            "label": "",
+            "description": "Hernani (Olympiacos Piraeus) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee blows his whistle, Olympiacos Piraeus are awarded a corner kick.",
+            "identified": "[PLAYER_WGV4qaf2] ([TEAM_]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee blows his whistle, [TEAM_] are awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "2290000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 38:03",
+            "label": "attendance",
+            "description": "The attendance for today's match is 70000.",
+            "identified": "The attendance for today's match is 70000.",
+            "anonymized": "The attendance for today's match is 70000.",
+            "visibility": "shown",
+            "position": "2283000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:25",
+            "label": "",
+            "description": "Arthur Masuaku (Olympiacos Piraeus) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and Bayern Munich will have a goal kick.",
+            "identified": "[PLAYER_4YoV0hmC] ([TEAM_]) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and [TEAM_] will have a goal kick.",
+            "anonymized": "[PLAYER] ([TEAM]) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and [TEAM] will have a goal kick.",
+            "visibility": "shown",
+            "position": "2245000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:12",
+            "label": "",
+            "description": "Konstantinos Fortounis (Olympiacos Piraeus) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "identified": "[PLAYER_WIPOXg1o] ([TEAM_]) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "visibility": "shown",
+            "position": "2232000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 36:07",
+            "label": "funfact",
+            "description": "The up-to-date shots on target statistics \u2013 9:0.",
+            "identified": "The up-to-date shots on target statistics \u2013 9:0.",
+            "anonymized": "The up-to-date shots on target statistics \u2013 9:0.",
+            "visibility": "shown",
+            "position": "2167000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 35:45",
+            "label": "",
+            "description": "Luka Milivojevic (Olympiacos Piraeus) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch.",
+            "identified": "[PLAYER_KpPKefJh] ([TEAM_]) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch.",
+            "visibility": "shown",
+            "position": "2145000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 34:46",
+            "label": "",
+            "description": "Joshua Kimmich (Bayern Munich) jumps into a tackle and Jonas Eriksson blows his whistle for a foul. It's a free kick to Olympiacos Piraeus, but it's in no position for a direct shot on goal.",
+            "identified": "[PLAYER_MkMrkZLc] ([TEAM_]) jumps into a tackle and [REFEREE] blows his whistle for a foul. It's a free kick to [TEAM_], but it's in no position for a direct shot on goal.",
+            "anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul. It's a free kick to [TEAM], but it's in no position for a direct shot on goal.",
+            "visibility": "shown",
+            "position": "2086000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 34:30",
+            "label": "",
+            "description": "Neat passing move from Olympiacos Piraeus in order to create new attacking opportunities.",
+            "identified": "Neat passing move from [TEAM_] in order to create new attacking opportunities.",
+            "anonymized": "Neat passing move from [TEAM] in order to create new attacking opportunities.",
+            "visibility": "shown",
+            "position": "2070000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 32:50",
+            "label": "substitution",
+            "description": "We are about to witness a subsitution. Leandro Salino (Olympiacos Piraeus) for Omar Elabdellaoui.",
+            "identified": "We are about to witness a subsitution. [PLAYER_YH4CbOUu] ([TEAM_]) for [PLAYER_Gr7z9FSE].",
+            "anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER].",
+            "visibility": "shown",
+            "position": "1970000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:41",
+            "label": "",
+            "description": "Arturo Vidal (Bayern Munich) whips the ball in from the long-range free kick, but the first man gets it clear.",
+            "identified": "[PLAYER_jg1LwcpG] ([TEAM_]) whips the ball in from the long-range free kick, but the first man gets it clear.",
+            "anonymized": "[PLAYER] ([TEAM]) whips the ball in from the long-range free kick, but the first man gets it clear.",
+            "visibility": "shown",
+            "position": "1841000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 29:59",
+            "label": "",
+            "description": "Jonas Eriksson blows the whistle, Manuel da Costa (Olympiacos Piraeus) is penalised for a foul. Bayern Munich are given an advantage. They have a free kick.",
+            "identified": "[REFEREE] blows the whistle, [PLAYER_8C2gn9kg] ([TEAM_]) is penalised for a foul. [TEAM_] are given an advantage. They have a free kick.",
+            "anonymized": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul. [TEAM] are given an advantage. They have a free kick.",
+            "visibility": "shown",
+            "position": "1799000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:44",
+            "label": "corner",
+            "description": "Thomas Muller (Bayern Munich) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "identified": "[PLAYER_8KpOJV2B] ([TEAM_]) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "visibility": "shown",
+            "position": "1664000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:31",
+            "label": "",
+            "description": "Philipp Lahm (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Bayern Munich have been awarded a corner kick.",
+            "identified": "[PLAYER_MB26hXLr] ([TEAM_]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM_] have been awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "1651000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 26:13",
+            "label": "substitution",
+            "description": "Pep Guardiola has decided to make a change. Javi Martinez (Bayern Munich) replaces Douglas Costa.",
+            "identified": "[COACH_hxNijWrJ] has decided to make a change. [PLAYER_IiVRUCYs] ([TEAM_]) replaces [PLAYER_fPOJMEfo].",
+            "anonymized": "[COACH] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+            "visibility": "shown",
+            "position": "1573000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 23:59",
+            "label": "soccer-ball",
+            "description": "Goal! Thomas Muller finds Kingsley Coman (Bayern Munich) with a headed pass and the latter glances a header past the goalkeeper to make it 4:0.",
+            "identified": "Goal! [PLAYER_8KpOJV2B] finds [PLAYER_zHWLJOHq] ([TEAM_]) with a headed pass and the latter glances a header past the goalkeeper to make it 4:0.",
+            "anonymized": "Goal! [PLAYER] finds [PLAYER] ([TEAM]) with a headed pass and the latter glances a header past the goalkeeper to make it 4:0.",
+            "visibility": "shown",
+            "position": "1439000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 23:14",
+            "label": "",
+            "description": "Good defending. Konstantinos Fortounis (Olympiacos Piraeus) tries to find Brown Ideye inside the box, but the pass is cut out.",
+            "identified": "Good defending. [PLAYER_WIPOXg1o] ([TEAM_]) tries to find [PLAYER_hp8zk56r] inside the box, but the pass is cut out.",
+            "anonymized": "Good defending. [PLAYER] ([TEAM]) tries to find [PLAYER] inside the box, but the pass is cut out.",
+            "visibility": "shown",
+            "position": "1394000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 21:51",
+            "label": "substitution",
+            "description": "Marco Silva has decided to introduce fresh legs, with Hernani (Olympiacos Piraeus) replacing Felipe Pardo.",
+            "identified": "[COACH_GxXzVQFQ] has decided to introduce fresh legs, with [PLAYER_WGV4qaf2] ([TEAM_]) replacing [PLAYER_l2uTD7Km].",
+            "anonymized": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+            "visibility": "shown",
+            "position": "1311000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 21:42",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Pajtim Kasami as he is replaced by Konstantinos Fortounis (Olympiacos Piraeus).",
+            "identified": "It's time for a substitution. That's the last involvement from [PLAYER_KrODGzyo] as he is replaced by [PLAYER_WIPOXg1o] ([TEAM_]).",
+            "anonymized": "It's time for a substitution. That's the last involvement from [PLAYER] as he is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1302000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:55",
+            "label": "",
+            "description": "Bayern Munich are enjoying a spell of pressure at the moment, but one of the defenders gets it clear.",
+            "identified": "[TEAM_] are enjoying a spell of pressure at the moment, but one of the defenders gets it clear.",
+            "anonymized": "[TEAM] are enjoying a spell of pressure at the moment, but one of the defenders gets it clear.",
+            "visibility": "shown",
+            "position": "1195000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 17:55",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Luka Milivojevic (Olympiacos Piraeus). Jonas Eriksson doesn't hesitate at all to make this decision.",
+            "identified": "A yellow card for a tackle by [PLAYER_KpPKefJh] ([TEAM_]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "visibility": "shown",
+            "position": "1075000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:30",
+            "label": "funfact",
+            "description": "Here's the current ball possession statistics for both teams \u2013 65:35.",
+            "identified": "Here's the current ball possession statistics for both teams \u2013 65:35.",
+            "anonymized": "Here's the current ball possession statistics for both teams \u2013 65:35.",
+            "visibility": "shown",
+            "position": "930000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 13:50",
+            "label": "",
+            "description": "CHANCE! Brown Ideye (Olympiacos Piraeus) picks up a pass inside the box and has a sight of goal, but he blazes his shot well over the top.",
+            "identified": "CHANCE! [PLAYER_hp8zk56r] ([TEAM_]) picks up a pass inside the box and has a sight of goal, but he blazes his shot well over the top.",
+            "anonymized": "CHANCE! [PLAYER] ([TEAM]) picks up a pass inside the box and has a sight of goal, but he blazes his shot well over the top.",
+            "visibility": "shown",
+            "position": "830000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 13:30",
+            "label": "",
+            "description": "Great solo effort by Douglas Costa (Bayern Munich) as he tricks his way through two defenders before firing a drive from just outside of the box towards the roof of the net. The goalkeeper is ready and produces a stunning save.",
+            "identified": "Great solo effort by [PLAYER_fPOJMEfo] ([TEAM_]) as he tricks his way through two defenders before firing a drive from just outside of the box towards the roof of the net. The goalkeeper is ready and produces a stunning save.",
+            "anonymized": "Great solo effort by [PLAYER] ([TEAM]) as he tricks his way through two defenders before firing a drive from just outside of the box towards the roof of the net. The goalkeeper is ready and produces a stunning save.",
+            "visibility": "shown",
+            "position": "810000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 12:24",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) shoots at goal from the free kick from some 24 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) shoots at goal from the free kick from some 24 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) shoots at goal from the free kick from some 24 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post.",
+            "visibility": "shown",
+            "position": "744000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:25",
+            "label": "",
+            "description": "Dimitrios Siovas (Olympiacos Piraeus) is penalised for holding. Jonas Eriksson signals a set piece. That's a free kick to Bayern Munich.",
+            "identified": "[PLAYER_WzHBybWs] ([TEAM_]) is penalised for holding. [REFEREE] signals a set piece. That's a free kick to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece. That's a free kick to [TEAM].",
+            "visibility": "shown",
+            "position": "685000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:18",
+            "label": "corner",
+            "description": "Thomas Muller (Bayern Munich) takes a short corner kick.",
+            "identified": "[PLAYER_8KpOJV2B] ([TEAM_]) takes a short corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a short corner kick.",
+            "visibility": "shown",
+            "position": "678000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:49",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) tries to send a pass but it's blocked. The ball goes behind for a corner. Bayern Munich will have an opportunity to threaten the opposition's goal.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) tries to send a pass but it's blocked. The ball goes behind for a corner. [TEAM_] will have an opportunity to threaten the opposition's goal.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "visibility": "shown",
+            "position": "649000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 10:25",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Robert Lewandowski trots off the pitch and is replaced by Mehdi Benatia (Bayern Munich).",
+            "identified": "The referee stops play so that a substitution can be made and [PLAYER_MVC8zHZD] trots off the pitch and is replaced by [PLAYER_n7X30ymN] ([TEAM_]).",
+            "anonymized": "The referee stops play so that a substitution can be made and [PLAYER] trots off the pitch and is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "625000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:20",
+            "label": "corner",
+            "description": "The resulting corner, taken by Felipe Pardo (Olympiacos Piraeus), comes to nothing.",
+            "identified": "The resulting corner, taken by [PLAYER_l2uTD7Km] ([TEAM_]), comes to nothing.",
+            "anonymized": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing.",
+            "visibility": "shown",
+            "position": "560000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:58",
+            "label": "",
+            "description": "A poorly taken free kick by Arthur Masuaku (Olympiacos Piraeus)! He sends a shot from the edge of the box into the defensive wall. Olympiacos Piraeus force their opponents to concede a corner.",
+            "identified": "A poorly taken free kick by [PLAYER_4YoV0hmC] ([TEAM_])! He sends a shot from the edge of the box into the defensive wall. [TEAM_] force their opponents to concede a corner.",
+            "anonymized": "A poorly taken free kick by [PLAYER] ([TEAM])! He sends a shot from the edge of the box into the defensive wall. [TEAM] force their opponents to concede a corner.",
+            "visibility": "shown",
+            "position": "538000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 08:19",
+            "label": "",
+            "description": "Olympiacos Piraeus earn a free kick which could lead to a goal-scoring opportunity.",
+            "identified": "[TEAM_] earn a free kick which could lead to a goal-scoring opportunity.",
+            "anonymized": "[TEAM] earn a free kick which could lead to a goal-scoring opportunity.",
+            "visibility": "shown",
+            "position": "499000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 07:25",
+            "label": "r-card",
+            "description": "It's a foul from Holger Badstuber (Bayern Munich). Surprisingly, the referee comes and pulls out a red card. It was a very harsh one and Holger Badstuber (Bayern Munich) complains, but it's no use of course. The decision has been made.",
+            "identified": "It's a foul from [PLAYER_xIV0yRJ4] ([TEAM_]). Surprisingly, the referee comes and pulls out a red card. It was a very harsh one and [PLAYER_xIV0yRJ4] ([TEAM_]) complains, but it's no use of course. The decision has been made.",
+            "anonymized": "It's a foul from [PLAYER] ([TEAM]). Surprisingly, the referee comes and pulls out a red card. It was a very harsh one and [PLAYER] ([TEAM]) complains, but it's no use of course. The decision has been made.",
+            "visibility": "shown",
+            "position": "445000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 05:38",
+            "label": "",
+            "description": "Flag up against Douglas Costa (Bayern Munich). He had space to move into behind the defence, but he went too soon.",
+            "identified": "Flag up against [PLAYER_fPOJMEfo] ([TEAM_]). He had space to move into behind the defence, but he went too soon.",
+            "anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon.",
+            "visibility": "shown",
+            "position": "338000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 04:53",
+            "label": "",
+            "description": "The Bayern Munich players are exchanging some short passes.",
+            "identified": "The [TEAM_] players are exchanging some short passes.",
+            "anonymized": "The [TEAM] players are exchanging some short passes.",
+            "visibility": "shown",
+            "position": "293000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 03:41",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) is caught offside!",
+            "identified": "[PLAYER_8KpOJV2B] ([TEAM_]) is caught offside!",
+            "anonymized": "[PLAYER] ([TEAM]) is caught offside!",
+            "visibility": "shown",
+            "position": "221000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:50",
+            "label": "",
+            "description": "Flag goes up against Robert Lewandowski (Bayern Munich) and the referee blows his whistle for offside.",
+            "identified": "Flag goes up against [PLAYER_MVC8zHZD] ([TEAM_]) and the referee blows his whistle for offside.",
+            "anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside.",
+            "visibility": "shown",
+            "position": "170000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:37",
+            "label": "",
+            "description": "Joshua Kimmich (Bayern Munich) receives the ball from the set piece on the edge of the box, but fails to score because his shot is blocked.",
+            "identified": "[PLAYER_MkMrkZLc] ([TEAM_]) receives the ball from the set piece on the edge of the box, but fails to score because his shot is blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) receives the ball from the set piece on the edge of the box, but fails to score because his shot is blocked.",
+            "visibility": "shown",
+            "position": "157000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:18",
+            "label": "",
+            "description": "Arturo Vidal (Bayern Munich) takes a direct free kick.",
+            "identified": "[PLAYER_jg1LwcpG] ([TEAM_]) takes a direct free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a direct free kick.",
+            "visibility": "shown",
+            "position": "138000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 01:17",
+            "label": "",
+            "description": "Arthur Masuaku (Olympiacos Piraeus) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation. Bayern Munich have a free kick.",
+            "identified": "[PLAYER_4YoV0hmC] ([TEAM_]) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation. [TEAM_] have a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation. [TEAM] have a free kick.",
+            "visibility": "shown",
+            "position": "77000"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half gets underway.",
+            "identified": "The second half gets underway.",
+            "anonymized": "The second half gets underway.",
+            "visibility": "shown",
+            "position": "1000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. Bayern Munich dominated the opening period and easily created the most chances. The visitors have been very flat and lacked creativity in their attack. Let's see if they change something in the second period.",
+            "identified": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. [TEAM_] dominated the opening period and easily created the most chances. The visitors have been very flat and lacked creativity in their attack. Let's see if they change something in the second period.",
+            "anonymized": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. [TEAM] dominated the opening period and easily created the most chances. The visitors have been very flat and lacked creativity in their attack. Let's see if they change something in the second period.",
+            "visibility": "shown",
+            "position": "2759000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 45:51",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "identified": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "anonymized": "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",
+            "visibility": "shown",
+            "position": "2751000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:31",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) tries to find the head of a teammate in the box but overhits the cross.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) tries to find the head of a teammate in the box but overhits the cross.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to find the head of a teammate in the box but overhits the cross.",
+            "visibility": "shown",
+            "position": "2731000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 45:30",
+            "label": "",
+            "description": "Joshua Kimmich (Bayern Munich) releases Kingsley Coman, who latched on to his perfect through pass and can continue with his team's attack.",
+            "identified": "[PLAYER_MkMrkZLc] ([TEAM_]) releases [PLAYER_zHWLJOHq], who latched on to his perfect through pass and can continue with his team's attack.",
+            "anonymized": "[PLAYER] ([TEAM]) releases [PLAYER], who latched on to his perfect through pass and can continue with his team's attack.",
+            "visibility": "shown",
+            "position": "2730000"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:00",
+            "label": "time",
+            "description": "There will be a minimum of 1 min. of added time.",
+            "identified": "There will be a minimum of 1 min. of added time.",
+            "anonymized": "There will be a minimum of 1 min. of added time.",
+            "visibility": "shown",
+            "position": "0"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 43:54",
+            "label": "",
+            "description": "Luka Milivojevic (Olympiacos Piraeus) takes a shot from the free kick on the edge of the box and the ball sails inches wide of the right post. What a chance!",
+            "identified": "[PLAYER_KpPKefJh] ([TEAM_]) takes a shot from the free kick on the edge of the box and the ball sails inches wide of the right post. What a chance!",
+            "anonymized": "[PLAYER] ([TEAM]) takes a shot from the free kick on the edge of the box and the ball sails inches wide of the right post. What a chance!",
+            "visibility": "shown",
+            "position": "2634000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:22",
+            "label": "",
+            "description": "Olympiacos Piraeus are awarded a free kick from a dangerous position.",
+            "identified": "[TEAM_] are awarded a free kick from a dangerous position.",
+            "anonymized": "[TEAM] are awarded a free kick from a dangerous position.",
+            "visibility": "shown",
+            "position": "2542000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 41:59",
+            "label": "y-card",
+            "description": "Jerome Boateng (Bayern Munich) has tested the patience of referee Jonas Eriksson and goes into the book for a previous late challenge.",
+            "identified": "[PLAYER_0bDEBms3] ([TEAM_]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge.",
+            "anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge.",
+            "visibility": "shown",
+            "position": "2519000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 40:58",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) sends a cross into the box, but Roberto Jimenez comes off his line to gather the ball.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) sends a cross into the box, but [PLAYER_bo57CU7b] comes off his line to gather the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball.",
+            "visibility": "shown",
+            "position": "2458000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 39:50",
+            "label": "",
+            "description": "Bayern Munich are showing great team chemistry. They are passing it around beautifully. Excellent team work.",
+            "identified": "[TEAM_] are showing great team chemistry. They are passing it around beautifully. Excellent team work.",
+            "anonymized": "[TEAM] are showing great team chemistry. They are passing it around beautifully. Excellent team work.",
+            "visibility": "shown",
+            "position": "2390000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 37:09",
+            "label": "",
+            "description": "It's a weak and poor shot by Joshua Kimmich (Bayern Munich) as he flashes a first-time shot from the edge of the box. The ball flies well wide of the right post.",
+            "identified": "It's a weak and poor shot by [PLAYER_MkMrkZLc] ([TEAM_]) as he flashes a first-time shot from the edge of the box. The ball flies well wide of the right post.",
+            "anonymized": "It's a weak and poor shot by [PLAYER] ([TEAM]) as he flashes a first-time shot from the edge of the box. The ball flies well wide of the right post.",
+            "visibility": "shown",
+            "position": "2229000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:21",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "identified": "[PLAYER_fPOJMEfo] ([TEAM_]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "visibility": "shown",
+            "position": "2121000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 34:56",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. Good work from Bayern Munich as they win a corner.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. Good work from [TEAM_] as they win a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. Good work from [TEAM] as they win a corner.",
+            "visibility": "shown",
+            "position": "2096000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:41",
+            "label": "",
+            "description": "Felipe Pardo (Olympiacos Piraeus) times his run too early and the linesman raises his flag for offside.",
+            "identified": "[PLAYER_l2uTD7Km] ([TEAM_]) times his run too early and the linesman raises his flag for offside.",
+            "anonymized": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside.",
+            "visibility": "shown",
+            "position": "2081000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:26",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "identified": "[PLAYER_zHWLJOHq] ([TEAM_]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",
+            "visibility": "shown",
+            "position": "2006000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 32:14",
+            "label": "substitution",
+            "description": "Pep Guardiola is forced to make a change. Arjen Robben is unable to continue due to injury, Joshua Kimmich (Bayern Munich) comes on.",
+            "identified": "[COACH_hxNijWrJ] is forced to make a change. [PLAYER_tQAq3jaB] is unable to continue due to injury, [PLAYER_MkMrkZLc] ([TEAM_]) comes on.",
+            "anonymized": "[COACH] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on.",
+            "visibility": "shown",
+            "position": "1934000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 31:35",
+            "label": "",
+            "description": "Felipe Pardo (Olympiacos Piraeus) wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort.",
+            "identified": "[PLAYER_l2uTD7Km] ([TEAM_]) wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort.",
+            "anonymized": "[PLAYER] ([TEAM]) wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort.",
+            "visibility": "shown",
+            "position": "1895000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:55",
+            "label": "",
+            "description": "Bayern Munich try to maintain the tempo of the game by taking a quick free kick.",
+            "identified": "[TEAM_] try to maintain the tempo of the game by taking a quick free kick.",
+            "anonymized": "[TEAM] try to maintain the tempo of the game by taking a quick free kick.",
+            "visibility": "shown",
+            "position": "1855000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:48",
+            "label": "",
+            "description": "Manuel da Costa (Olympiacos Piraeus) was too fierce in his attempt to get the ball from his opponent and Jonas Eriksson blows for a foul. A free kick has been awarded to Bayern Munich.",
+            "identified": "[PLAYER_8C2gn9kg] ([TEAM_]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul. A free kick has been awarded to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul. A free kick has been awarded to [TEAM].",
+            "visibility": "shown",
+            "position": "1848000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:46",
+            "label": "",
+            "description": "Bayern Munich keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break.",
+            "identified": "[TEAM_] keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break.",
+            "anonymized": "[TEAM] keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break.",
+            "visibility": "shown",
+            "position": "1786000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:25",
+            "label": "",
+            "description": "Excellent touch by Thomas Muller (Bayern Munich)! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post.",
+            "identified": "Excellent touch by [PLAYER_8KpOJV2B] ([TEAM_])! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post.",
+            "anonymized": "Excellent touch by [PLAYER] ([TEAM])! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post.",
+            "visibility": "shown",
+            "position": "1645000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:23",
+            "label": "",
+            "description": "Jonas Eriksson couldn't ignore the rough tackle by Pajtim Kasami (Olympiacos Piraeus) and blew his whistle.",
+            "identified": "[REFEREE] couldn't ignore the rough tackle by [PLAYER_KrODGzyo] ([TEAM_]) and blew his whistle.",
+            "anonymized": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle.",
+            "visibility": "shown",
+            "position": "1583000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 25:24",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "identified": "[PLAYER_tQAq3jaB] ([TEAM_]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "anonymized": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "visibility": "shown",
+            "position": "1524000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 23:35",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies narrowly wide of the left post.",
+            "identified": "[PLAYER_MVC8zHZD] ([TEAM_]) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies narrowly wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies narrowly wide of the left post.",
+            "visibility": "shown",
+            "position": "1415000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:50",
+            "label": "",
+            "description": "Bayern Munich are passing the ball across the pitch and keep possession. However, an opponent intercepts a pass and the situation changes.",
+            "identified": "[TEAM_] are passing the ball across the pitch and keep possession. However, an opponent intercepts a pass and the situation changes.",
+            "anonymized": "[TEAM] are passing the ball across the pitch and keep possession. However, an opponent intercepts a pass and the situation changes.",
+            "visibility": "shown",
+            "position": "1370000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 19:42",
+            "label": "soccer-ball",
+            "description": "Goal! Arjen Robben gets to the ball and heads it over the defence to Thomas Muller (Bayern Munich), who meets it nicely and fires in into the back of the net. 3:0.",
+            "identified": "Goal! [PLAYER_tQAq3jaB] gets to the ball and heads it over the defence to [PLAYER_8KpOJV2B] ([TEAM_]), who meets it nicely and fires in into the back of the net. 3:0.",
+            "anonymized": "Goal! [PLAYER] gets to the ball and heads it over the defence to [PLAYER] ([TEAM]), who meets it nicely and fires in into the back of the net. 3:0.",
+            "visibility": "shown",
+            "position": "1182000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:59",
+            "label": "",
+            "description": "Some great controlled play and passing in the middle of the pitch from Bayern Munich.",
+            "identified": "Some great controlled play and passing in the middle of the pitch from [TEAM_].",
+            "anonymized": "Some great controlled play and passing in the middle of the pitch from [TEAM].",
+            "visibility": "shown",
+            "position": "1079000"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 15:35",
+            "label": "soccer-ball",
+            "description": "Goal! That was a fantastic finish by Robert Lewandowski (Bayern Munich) from just outside the box. He wasted little time in getting away a bullet of a shot that flew past the goalkeeper into the left side of the net.",
+            "identified": "Goal! That was a fantastic finish by [PLAYER_MVC8zHZD] ([TEAM_]) from just outside the box. He wasted little time in getting away a bullet of a shot that flew past the goalkeeper into the left side of the net.",
+            "anonymized": "Goal! That was a fantastic finish by [PLAYER] ([TEAM]) from just outside the box. He wasted little time in getting away a bullet of a shot that flew past the goalkeeper into the left side of the net.",
+            "visibility": "shown",
+            "position": "935000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:04",
+            "label": "",
+            "description": "Esteban Cambiasso (Olympiacos Piraeus) attempted to pick out a free teammate inside the box, but Manuel Neuer comes off the line to clear the ball away.",
+            "identified": "[PLAYER_8ptXjW8f] ([TEAM_]) attempted to pick out a free teammate inside the box, but [PLAYER_Sh5KwIo6] comes off the line to clear the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away.",
+            "visibility": "shown",
+            "position": "904000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:36",
+            "label": "",
+            "description": "A cross is clipped into the penalty area by Kingsley Coman (Bayern Munich) but poses no threat.",
+            "identified": "A cross is clipped into the penalty area by [PLAYER_zHWLJOHq] ([TEAM_]) but poses no threat.",
+            "anonymized": "A cross is clipped into the penalty area by [PLAYER] ([TEAM]) but poses no threat.",
+            "visibility": "shown",
+            "position": "816000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:12",
+            "label": "",
+            "description": "Jerome Boateng (Bayern Munich) shows his brilliant passing ability after picking out Kingsley Coman with a fine lofted pass.",
+            "identified": "[PLAYER_0bDEBms3] ([TEAM_]) shows his brilliant passing ability after picking out [PLAYER_zHWLJOHq] with a fine lofted pass.",
+            "anonymized": "[PLAYER] ([TEAM]) shows his brilliant passing ability after picking out [PLAYER] with a fine lofted pass.",
+            "visibility": "shown",
+            "position": "792000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:44",
+            "label": "corner",
+            "description": "Arturo Vidal (Bayern Munich) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "identified": "[PLAYER_jg1LwcpG] ([TEAM_]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "anonymized": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "visibility": "shown",
+            "position": "704000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:15",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The ball goes out of play. Bayern Munich are awarded a corner kick.",
+            "identified": "[PLAYER_8KpOJV2B] ([TEAM_]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The ball goes out of play. [TEAM_] are awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "675000"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:50",
+            "label": "",
+            "description": "The Bayern Munich players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "identified": "The [TEAM_] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "anonymized": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "visibility": "shown",
+            "position": "650000"
+        }
+    ]
+}

@@ -1,0 +1,855 @@
+{
+  "match_info": {
+    "timestamp": "2021-10-21 00:45:00",
+    "score": "1 - 0",
+    "home_team": "Barcelona",
+    "away_team": "Dyn. Kyiv",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Camp Nou (Barcelona)",
+    "capacity": "99 354",
+    "attendance": "45 968"
+  },
+  "referee_data": {
+    "short_name_country": "Turpin C. (Fra)",
+    "first_name": "Turpin",
+    "abbr_last_name": "C",
+    "country": "Fra",
+    "detected_name": "Clement Turpin"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Koeman R.",
+        "players_number": "",
+        "Full Name": "Ronald Koeman",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "coach",
+        "Age and Birthdate": "60,  (21.03.1963)",
+        "Market Value": "",
+        "unicode": "vHeYAvb2"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Araujo R.",
+        "players_number": "",
+        "Full Name": "Ronald Araujo",
+        "players_rating": "",
+        "Country": "Uruguay",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (07.03.1999)",
+        "Market Value": "€67.5m",
+        "unicode": "M3sbJix9"
+      },
+      {
+        "players_name": "Braithwaite M.",
+        "players_number": "",
+        "Full Name": "Martin Braithwaite",
+        "players_rating": "",
+        "Country": "Denmark",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (05.06.1991)",
+        "Market Value": "€3.3m",
+        "unicode": "IsfUI7H4"
+      },
+      {
+        "players_name": "Dembele O.",
+        "players_number": "",
+        "Full Name": "Ousmane Dembele",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (15.05.1997)",
+        "Market Value": "€61.3m",
+        "unicode": "zsMC2Ec0"
+      },
+      {
+        "players_name": "Garcia E.",
+        "players_number": "",
+        "Full Name": "Eric Garcia",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (09.01.2001)",
+        "Market Value": "€14.1m",
+        "unicode": "AyxD3I5C"
+      },
+      {
+        "players_name": "Pedri",
+        "players_number": "",
+        "Full Name": "Pedri",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (25.11.2002)",
+        "Market Value": "€88.1m",
+        "unicode": "baBG8QuI"
+      },
+      {
+        "players_name": "Wague M.",
+        "players_number": "",
+        "Full Name": "Moussa Wague",
+        "players_rating": "",
+        "Country": "Senegal",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (04.10.1998)",
+        "Market Value": "€726k",
+        "unicode": "rNqXaWzo"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Alba J.",
+        "players_number": "18",
+        "Full Name": "Jordi Alba",
+        "players_rating": 8.3,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (21.03.1989)",
+        "Market Value": "€3.0m",
+        "unicode": "42SIX9sl"
+      },
+      {
+        "players_name": "Busquets S. (C)",
+        "players_number": "5",
+        "Full Name": "Sergio Busquets",
+        "players_rating": 6.9,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (16.07.1988)",
+        "Market Value": "€2.9m",
+        "unicode": "CU4pL3ue"
+      },
+      {
+        "players_name": "de Jong F.",
+        "players_number": "21",
+        "Full Name": "Frenkie de Jong",
+        "players_rating": 6.7,
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (12.05.1997)",
+        "Market Value": "€80.6m",
+        "unicode": "A1F3rz9c"
+      },
+      {
+        "players_name": "de Jong L.",
+        "players_number": "17",
+        "Full Name": "Luuk de Jong",
+        "players_rating": 6.5,
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (27.08.1990)",
+        "Market Value": "€3.5m",
+        "unicode": "fVuRxt84"
+      },
+      {
+        "players_name": "Depay M.",
+        "players_number": "9",
+        "Full Name": "Memphis Depay",
+        "players_rating": 7.9,
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (13.02.1994)",
+        "Market Value": "€11.7m",
+        "unicode": "zo1h8MrD"
+      },
+      {
+        "players_name": "Dest S.",
+        "players_number": "2",
+        "Full Name": "Sergino Dest",
+        "players_rating": 7.3,
+        "Country": "USA",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (03.11.2000)",
+        "Market Value": "€17.6m",
+        "unicode": "lOQwOgTR"
+      },
+      {
+        "players_name": "Gavi",
+        "players_number": "30",
+        "Full Name": "Gavi",
+        "players_rating": 6.6,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "19, (05.08.2004)",
+        "Market Value": "€87.1m",
+        "unicode": "xrV9v8CU"
+      },
+      {
+        "players_name": "Lenglet C.",
+        "players_number": "15",
+        "Full Name": "Clement Lenglet",
+        "players_rating": 7.1,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (17.06.1995)",
+        "Market Value": "€7.8m",
+        "unicode": "rH0mL7ws"
+      },
+      {
+        "players_name": "Mingueza O.",
+        "players_number": "22",
+        "Full Name": "Oscar Mingueza",
+        "players_rating": 6.5,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (13.05.1999)",
+        "Market Value": "€5.7m",
+        "unicode": "YkHSwt2b"
+      },
+      {
+        "players_name": "Pique G.",
+        "players_number": "3",
+        "Full Name": "Gerard Pique",
+        "players_rating": 8.5,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (02.02.1987)",
+        "Market Value": "",
+        "unicode": "fRBrHCRh"
+      },
+      {
+        "players_name": "ter Stegen M. (G)",
+        "players_number": "1",
+        "Full Name": "Marc-Andre ter Stegen",
+        "players_rating": 6.6,
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (30.04.1992)",
+        "Market Value": "€33.8m",
+        "unicode": "byxc46yl"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Aguero S.",
+        "players_number": "19",
+        "Full Name": "Sergio Aguero",
+        "players_rating": 6.3,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (02.06.1988)",
+        "Market Value": "",
+        "unicode": "vw8ZV7HC"
+      },
+      {
+        "players_name": "Coutinho",
+        "players_number": "14",
+        "Full Name": "Philippe Coutinho",
+        "players_rating": 6.7,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (12.06.1992)",
+        "Market Value": "€8.6m",
+        "unicode": "QP6r8H7O"
+      },
+      {
+        "players_name": "Fati A.",
+        "players_number": "10",
+        "Full Name": "Ansu Fati",
+        "players_rating": 6.4,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (31.10.2002)",
+        "Market Value": "€27.4m",
+        "unicode": "dUPVnxzP"
+      },
+      {
+        "players_name": "Roberto S.",
+        "players_number": "20",
+        "Full Name": "Sergi Roberto",
+        "players_rating": 6.4,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (07.02.1992)",
+        "Market Value": "€2.9m",
+        "unicode": "W2R804U4"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Balde A.",
+        "players_number": "31",
+        "Full Name": "Alejandro Balde",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (18.10.2003)",
+        "Market Value": "€47.5m",
+        "unicode": "6c0CXHVM"
+      },
+      {
+        "players_name": "Demir Y.",
+        "players_number": "11",
+        "Full Name": "Yusuf Demir",
+        "players_rating": "",
+        "Country": "Austria",
+        "Role": "Forward",
+        "Age and Birthdate": "20, (02.06.2003)",
+        "Market Value": "€3.6m",
+        "unicode": "IuQr1OBb"
+      },
+      {
+        "players_name": "Neto (G)",
+        "players_number": "13",
+        "Full Name": "Neto",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "34, (19.07.1989)",
+        "Market Value": "€2.5m",
+        "unicode": "dbGArTGd"
+      },
+      {
+        "players_name": "Nico",
+        "players_number": "28",
+        "Full Name": "Nico",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (03.01.2002)",
+        "Market Value": "€8.6m",
+        "unicode": "ID3evg0L"
+      },
+      {
+        "players_name": "Pena I. (G)",
+        "players_number": "26",
+        "Full Name": "Inaki Pena",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "24, (02.03.1999)",
+        "Market Value": "30.06.2026",
+        "unicode": "M1W3ZQSs"
+      },
+      {
+        "players_name": "Puig R.",
+        "players_number": "6",
+        "Full Name": "Riqui Puig",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (13.08.1999)",
+        "Market Value": "€12.8m",
+        "unicode": "GxVEgL1o"
+      },
+      {
+        "players_name": "Umtiti S.",
+        "players_number": "23",
+        "Full Name": "Samuel Umtiti",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (14.11.1993)",
+        "Market Value": "€2.9m",
+        "unicode": "zsH7aMfI"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Lucescu M.",
+        "players_number": "",
+        "Full Name": "Mircea Lucescu",
+        "players_rating": "",
+        "Country": "Romania",
+        "Role": "coach",
+        "Age and Birthdate": "78,  (29.07.1945)",
+        "Market Value": "",
+        "unicode": "hY69tSGu"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Besedin A.",
+        "players_number": "",
+        "Full Name": "Artem Besedin",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (31.03.1996)",
+        "Market Value": "€865k",
+        "unicode": "2PFFRIPB"
+      },
+      {
+        "players_name": "Burda M.",
+        "players_number": "",
+        "Full Name": "Mykyta Burda",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (24.03.1995)",
+        "Market Value": "€519k",
+        "unicode": "W0mFLgFC"
+      },
+      {
+        "players_name": "Kulach V.",
+        "players_number": "",
+        "Full Name": "Vladyslav Kulach",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (07.05.1993)",
+        "Market Value": "30.06.2024",
+        "unicode": "l8CoCiQs"
+      },
+      {
+        "players_name": "Popov D.",
+        "players_number": "",
+        "Full Name": "Denys Popov",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (17.02.1999)",
+        "Market Value": "€2.4m",
+        "unicode": "2wokh7z1"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Bushchan G. (G)",
+        "players_number": "1",
+        "Full Name": "Georgi Bushchan",
+        "players_rating": 6.1,
+        "Country": "Ukraine",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "29, (31.05.1994)",
+        "Market Value": "€7.0m",
+        "unicode": "8ha43dqh"
+      },
+      {
+        "players_name": "Buyalskyy V.",
+        "players_number": "29",
+        "Full Name": "Vitaliy Buyalskyy",
+        "players_rating": 6.3,
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (06.01.1993)",
+        "Market Value": "€5.6m",
+        "unicode": "ldxy8lC9"
+      },
+      {
+        "players_name": "de Pena C.",
+        "players_number": "14",
+        "Full Name": "Carlos de Pena",
+        "players_rating": 6.4,
+        "Country": "Uruguay",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (11.03.1992)",
+        "Market Value": "€3.0m",
+        "unicode": "27hFTgOG"
+      },
+      {
+        "players_name": "Kedziora T.",
+        "players_number": "94",
+        "Full Name": "Tomasz Kedziora",
+        "players_rating": 6.5,
+        "Country": "Poland",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (11.06.1994)",
+        "Market Value": "€2.4m",
+        "unicode": "GIMY1k16"
+      },
+      {
+        "players_name": "Mykolenko V.",
+        "players_number": "16",
+        "Full Name": "Vitali Mykolenko",
+        "players_rating": 6.3,
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (29.05.1999)",
+        "Market Value": "€26.6m",
+        "unicode": "d0pgiRk7"
+      },
+      {
+        "players_name": "Shaparenko M.",
+        "players_number": "10",
+        "Full Name": "Mykola Shaparenko",
+        "players_rating": 7.1,
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (04.10.1998)",
+        "Market Value": "€5.5m",
+        "unicode": "nTsvOu9B"
+      },
+      {
+        "players_name": "Supryaga V.",
+        "players_number": "89",
+        "Full Name": "Vladyslav Supryaga",
+        "players_rating": 6.2,
+        "Country": "Ukraine",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (15.02.2000)",
+        "Market Value": "30.06.2026",
+        "unicode": "n1wMS0dg"
+      },
+      {
+        "players_name": "Sydorchuk S. (C)",
+        "players_number": "5",
+        "Full Name": "Sergiy Sydorchuk",
+        "players_rating": 7.0,
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (02.05.1991)",
+        "Market Value": "€2.1m",
+        "unicode": "0tMMdfYN"
+      },
+      {
+        "players_name": "Syrota O.",
+        "players_number": "34",
+        "Full Name": "Oleksandr Syrota",
+        "players_rating": 7.0,
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (11.06.2000)",
+        "Market Value": "€2.3m",
+        "unicode": "xMQ1O9b9"
+      },
+      {
+        "players_name": "Tsygankov V.",
+        "players_number": "15",
+        "Full Name": "Viktor Tsygankov",
+        "players_rating": 6.1,
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (15.11.1997)",
+        "Market Value": "€24.8m",
+        "unicode": "8l99epoQ"
+      },
+      {
+        "players_name": "Zabarnyi I.",
+        "players_number": "25",
+        "Full Name": "Ilya Zabarnyi",
+        "players_rating": 7.0,
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (01.09.2002)",
+        "Market Value": "€23.4m",
+        "unicode": "8SehvaqF"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Garmash D.",
+        "players_number": "19",
+        "Full Name": "Denys Garmash",
+        "players_rating": 6.5,
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "€570k, (19.04.1990)",
+        "Market Value": "30.06.2024",
+        "unicode": "zmfPRqa0"
+      },
+      {
+        "players_name": "Karavaev O.",
+        "players_number": "20",
+        "Full Name": "Oleksandr Karavaev",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (02.06.1992)",
+        "Market Value": "€1.9m",
+        "unicode": "02t9Q1HM"
+      },
+      {
+        "players_name": "Ramirez E.",
+        "players_number": "9",
+        "Full Name": "Eric Ramirez",
+        "players_rating": "",
+        "Country": "Venezuela",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (20.11.1998)",
+        "Market Value": "€814k",
+        "unicode": "88y3VSqm"
+      },
+      {
+        "players_name": "Tymchyk O.",
+        "players_number": "24",
+        "Full Name": "Oleksandr Tymchyk",
+        "players_rating": 6.1,
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (20.01.1997)",
+        "Market Value": "€2.8m",
+        "unicode": "fFlN38UI"
+      },
+      {
+        "players_name": "Vitinho",
+        "players_number": "22",
+        "Full Name": "Vitinho",
+        "players_rating": 6.3,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (01.04.1999)",
+        "Market Value": "€4.8m",
+        "unicode": "0zpwJHRu"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Andriyevski O.",
+        "players_number": "18",
+        "Full Name": "Olexander Andriyevski",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (25.06.1994)",
+        "Market Value": "€1.4m",
+        "unicode": "vDwWgnvs"
+      },
+      {
+        "players_name": "Boyko D. (G)",
+        "players_number": "71",
+        "Full Name": "Denys Boyko",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (29.01.1988)",
+        "Market Value": "€475k",
+        "unicode": "QgWxjcqD"
+      },
+      {
+        "players_name": "Lednev B.",
+        "players_number": "17",
+        "Full Name": "Bogdan Lednev",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (07.04.1998)",
+        "Market Value": "€749k",
+        "unicode": "rmRSDI8l"
+      },
+      {
+        "players_name": "Shabanov A.",
+        "players_number": "13",
+        "Full Name": "Artem Shabanov",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (07.03.1992)",
+        "Market Value": "30.06.2025",
+        "unicode": "WvSrtukn"
+      },
+      {
+        "players_name": "Shepelev V.",
+        "players_number": "8",
+        "Full Name": "Volodymyr Shepelev",
+        "players_rating": "",
+        "Country": "Ukraine",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (01.06.1997)",
+        "Market Value": "€1.8m",
+        "unicode": "jRaHRBMP"
+      },
+      {
+        "players_name": "Shkurin I.",
+        "players_number": "73",
+        "Full Name": "Ilya Shkurin",
+        "players_rating": "",
+        "Country": "Belarus",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (17.08.1999)",
+        "Market Value": "€1.2m",
+        "unicode": "KSnn3dEq"
+      },
+      {
+        "players_name": "Verbic B.",
+        "players_number": "7",
+        "Full Name": "Benjamin Verbic",
+        "players_rating": "",
+        "Country": "Slovenia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (27.11.1993)",
+        "Market Value": "€2.3m",
+        "unicode": "GEGLTR9i"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "12:40",
+      "comments_type": "corner",
+      "comments_text": "A cross from a corner kick by Barcelona is too strong and the ball goes well out of play.",
+      "comments_text_anonymized": "A cross from a corner kick by [TEAM] is too strong and the ball goes well out of play.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "14:37",
+      "comments_type": "corner",
+      "comments_text": "Barcelona take a short corner kick.",
+      "comments_text_anonymized": "[TEAM] take a short corner kick.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "19:43",
+      "comments_type": "corner",
+      "comments_text": "Gavi (Barcelona) quickly takes the corner kick with a short pass.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "20:50",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner, taken by Memphis Depay (Barcelona), comes to nothing.",
+      "comments_text_anonymized": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "24:21",
+      "comments_type": "corner",
+      "comments_text": "The referee points to the corner flag and Barcelona will take a corner.",
+      "comments_text_anonymized": "The referee points to the corner flag and [TEAM] will take a corner.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:43",
+      "comments_type": "corner",
+      "comments_text": "Barcelona take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "35:49",
+      "comments_type": "goal",
+      "comments_text": "Jordi Alba sends a precise lofted cross into the box. Gerard Pique (Barcelona) latches on to it and finishes with a quick shot into the middle of the goal. The goalkeeper had no chance. The score changes to 1:0.",
+      "comments_text_anonymized": "[PLAYER] sends a precise lofted cross into the box. [PLAYER] ([TEAM]) latches on to it and finishes with a quick shot into the middle of the goal. The goalkeeper had no chance. The score changes to 1:0.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "43:13",
+      "comments_type": "corner",
+      "comments_text": "Memphis Depay (Barcelona) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. The referee and his assistant both point at the corner flag. Barcelona will have an opportunity to threaten the opposition's goal.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "43:21",
+      "comments_type": "corner",
+      "comments_text": "Barcelona have been awarded a corner kick.",
+      "comments_text_anonymized": "[TEAM] have been awarded a corner kick.",
+      "index": 8
+    },
+    {
+      "half": 1,
+      "time_stamp": "45:27",
+      "comments_type": "corner",
+      "comments_text": "Memphis Depay (Barcelona) takes the corner which is cleared.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner which is cleared.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:20",
+      "comments_type": "substitution",
+      "comments_text": "The need to improve in the second half has brought about a change. Oscar Mingueza (Barcelona) comes off for Philippe Coutinho.",
+      "comments_text_anonymized": "The need to improve in the second half has brought about a change. [PLAYER] ([TEAM]) comes off for [PLAYER].",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:20",
+      "comments_type": "substitution",
+      "comments_text": "Ronald Koeman makes a switch. Ansu Fati is coming on in place of Luuk de Jong (Barcelona) at the start of the second period.",
+      "comments_text_anonymized": "[PLAYER] makes a switch. [PLAYER] is coming on in place of [PLAYER] ([TEAM]) at the start of the second period.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "02:28",
+      "comments_type": "corner",
+      "comments_text": "Barcelona quickly take a corner kick with a short pass.",
+      "comments_text_anonymized": "[TEAM] quickly take a corner kick with a short pass.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "06:25",
+      "comments_type": "corner",
+      "comments_text": "Barcelona take a short corner instead of sending the ball into the penalty area.",
+      "comments_text_anonymized": "[TEAM] take a short corner instead of sending the ball into the penalty area.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:53",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Vladyslav Supryaga is going off and Mircea Lucescu gives the last tactical orders to Denys Garmash (Dynamo Kyiv).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:37",
+      "comments_type": "substitution",
+      "comments_text": "It will be a substitution. Vitinho (Dynamo Kyiv) is ready to enter the pitch as Carlos de Pena walks off.",
+      "comments_text_anonymized": "It will be a substitution. [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:14",
+      "comments_type": "substitution",
+      "comments_text": "Gavi comes off the pitch to be replaced by Sergi Roberto (Barcelona).",
+      "comments_text_anonymized": "[PLAYER] comes off the pitch to be replaced by [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:52",
+      "comments_type": "corner",
+      "comments_text": "The referee points to the corner flag. It's a corner to Barcelona.",
+      "comments_text_anonymized": "The referee points to the corner flag. It's a corner to [TEAM].",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:45",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Sergio Aguero (Barcelona) replaces Memphis Depay.",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:26",
+      "comments_type": "substitution",
+      "comments_text": "Mircea Lucescu prepares a substitution. Tomasz Kedziora is replaced by Oleksandr Tymchyk (Dynamo Kyiv).",
+      "comments_text_anonymized": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:25",
+      "comments_type": "substitution",
+      "comments_text": "Today's match ends for Viktor Tsygankov who will be replaced by Oleksandr Karavaev (Dynamo Kyiv).",
+      "comments_text_anonymized": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:34",
+      "comments_type": "substitution",
+      "comments_text": "Mircea Lucescu has decided to introduce fresh legs, with Eric Ramirez (Dynamo Kyiv) replacing Vitaliy Buyalskyy.",
+      "comments_text_anonymized": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:17",
+      "comments_type": "yellow card",
+      "comments_text": "Frenkie de Jong (Barcelona) commits a foul and is shown a yellow card without any hesitation from the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card without any hesitation from the referee.",
+      "index": 22
+    }
+  ]
+}

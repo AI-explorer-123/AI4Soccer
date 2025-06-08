@@ -1,0 +1,853 @@
+{
+  "match_info": {
+    "timestamp": "2022-10-13 03:00:00",
+    "score": "0 - 3",
+    "home_team": "Bayer Leverkusen",
+    "away_team": "FC Porto",
+    "home_formation": "4 - 2 - 3 - 1",
+    "away_formation": "4 - 4 - 2",
+    "venue": "BayArena (Leverkusen)",
+    "capacity": "30 210",
+    "attendance": "30 210"
+  },
+  "referee_data": {
+    "short_name_country": "Kovacs I. (Rou)",
+    "first_name": "Kovacs",
+    "abbr_last_name": "I",
+    "country": "Rou",
+    "detected_name": "Istvan Kovacs"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Alonso X.",
+        "players_number": "",
+        "Full Name": "Xabi Alonso",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "coach",
+        "Age and Birthdate": "42,  (25.11.1981)",
+        "Market Value": "",
+        "unicode": "hAcTWKKN"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Andrich R.",
+        "players_number": "",
+        "Full Name": "Robert Andrich",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (22.09.1994)",
+        "Market Value": "€10.5m",
+        "unicode": "zDjAwp82"
+      },
+      {
+        "players_name": "Azmoun S.",
+        "players_number": "",
+        "Full Name": "Sardar Azmoun",
+        "players_rating": "",
+        "Country": "Iran",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (01.01.1995)",
+        "Market Value": "€9.6m",
+        "unicode": "6XEsobq8"
+      },
+      {
+        "players_name": "Bellarabi K.",
+        "players_number": "",
+        "Full Name": "Karim Bellarabi",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (08.04.1990)",
+        "Market Value": "",
+        "unicode": "p2FZf6PS"
+      },
+      {
+        "players_name": "Frimpong J.",
+        "players_number": "",
+        "Full Name": "Jeremie Frimpong",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (10.12.2000)",
+        "Market Value": "€49.6m",
+        "unicode": "SjJ6pCvC"
+      },
+      {
+        "players_name": "Palacios E.",
+        "players_number": "",
+        "Full Name": "Exequiel Palacios",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (05.10.1998)",
+        "Market Value": "€39.1m",
+        "unicode": "xEflXBhr"
+      },
+      {
+        "players_name": "Wirtz F.",
+        "players_number": "",
+        "Full Name": "Florian Wirtz",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (03.05.2003)",
+        "Market Value": "€102.1m",
+        "unicode": "0Q5gjImi"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Adli A.",
+        "players_number": "21",
+        "Full Name": "Amine Adli",
+        "players_rating": 5.5,
+        "Country": "Morocco",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (10.05.2000)",
+        "Market Value": "€24.8m",
+        "unicode": "82ETy0Me"
+      },
+      {
+        "players_name": "Aranguiz C.",
+        "players_number": "20",
+        "Full Name": "Charles Aranguiz",
+        "players_rating": 6.4,
+        "Country": "Chile",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (17.04.1989)",
+        "Market Value": "€1.8m",
+        "unicode": "EZc7f9C5"
+      },
+      {
+        "players_name": "Bakker M.",
+        "players_number": "5",
+        "Full Name": "Mitchel Bakker",
+        "players_rating": 7.8,
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (20.06.2000)",
+        "Market Value": "€7.5m",
+        "unicode": "zB5OlUKE"
+      },
+      {
+        "players_name": "Demirbay K.",
+        "players_number": "10",
+        "Full Name": "Kerem Demirbay",
+        "players_rating": 6.2,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (03.07.1993)",
+        "Market Value": "€4.7m",
+        "unicode": "bDxlhHxR"
+      },
+      {
+        "players_name": "Diaby M.",
+        "players_number": "19",
+        "Full Name": "Moussa Diaby",
+        "players_rating": 6.7,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (07.07.1999)",
+        "Market Value": "€57.9m",
+        "unicode": "GYjwX8oI"
+      },
+      {
+        "players_name": "Hincapie P.",
+        "players_number": "3",
+        "Full Name": "Piero Hincapie",
+        "players_rating": 7.1,
+        "Country": "Ecuador",
+        "Role": "Defender",
+        "Age and Birthdate": "22, (09.01.2002)",
+        "Market Value": "€34.3m",
+        "unicode": "2TTElOLP"
+      },
+      {
+        "players_name": "Hradecky L. (G) (C)",
+        "players_number": "1",
+        "Full Name": "Lukas Hradecky",
+        "players_rating": 5.9,
+        "Country": "Finland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "34, (24.11.1989)",
+        "Market Value": "€2.5m",
+        "unicode": "nRZtaBXj"
+      },
+      {
+        "players_name": "Hudson-Odoi C.",
+        "players_number": "17",
+        "Full Name": "Callum Hudson-Odoi",
+        "players_rating": 7.1,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (07.11.2000)",
+        "Market Value": "€11.4m",
+        "unicode": "dtU5eexQ"
+      },
+      {
+        "players_name": "Kossounou O.",
+        "players_number": "6",
+        "Full Name": "Odilon Kossounou",
+        "players_rating": 5.8,
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (04.01.2001)",
+        "Market Value": "€33.8m",
+        "unicode": "SzDIipZ9"
+      },
+      {
+        "players_name": "Schick P.",
+        "players_number": "14",
+        "Full Name": "Patrik Schick",
+        "players_rating": 6.0,
+        "Country": "Czech Republic",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (24.01.1996)",
+        "Market Value": "€21.2m",
+        "unicode": "WzQQSSfc"
+      },
+      {
+        "players_name": "Tah J.",
+        "players_number": "4",
+        "Full Name": "Jonathan Tah",
+        "players_rating": 6.6,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (11.02.1996)",
+        "Market Value": "€24.1m",
+        "unicode": "2yf8EcuE"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Fosu-Mensah T.",
+        "players_number": "24",
+        "Full Name": "Timothy Fosu-Mensah",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (02.01.1998)",
+        "Market Value": "€1.3m",
+        "unicode": "2sJ8He5E"
+      },
+      {
+        "players_name": "Hlozek A.",
+        "players_number": "23",
+        "Full Name": "Adam Hlozek",
+        "players_rating": 6.3,
+        "Country": "Czech Republic",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (25.07.2002)",
+        "Market Value": "€14.9m",
+        "unicode": "2FUsDXpd"
+      },
+      {
+        "players_name": "Paulinho",
+        "players_number": "7",
+        "Full Name": "Paulinho",
+        "players_rating": 6.4,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (15.07.2000)",
+        "Market Value": "€14.0m",
+        "unicode": "GExeArGJ"
+      },
+      {
+        "players_name": "Tapsoba E.",
+        "players_number": "12",
+        "Full Name": "Edmond Tapsoba",
+        "players_rating": 6.3,
+        "Country": "Burkina Faso",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (02.02.1999)",
+        "Market Value": "€39.1m",
+        "unicode": "d4z5zQ7g"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Amiri N.",
+        "players_number": "11",
+        "Full Name": "Nadiem Amiri",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (27.10.1996)",
+        "Market Value": "€4.2m",
+        "unicode": "b3H5VR8I"
+      },
+      {
+        "players_name": "Azhil A.",
+        "players_number": "32",
+        "Full Name": "Ayman Azhil",
+        "players_rating": "",
+        "Country": "Morocco",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (10.04.2001)",
+        "Market Value": "30.06.2025",
+        "unicode": "IXgIjfiR"
+      },
+      {
+        "players_name": "Lomb N. (G)",
+        "players_number": "36",
+        "Full Name": "Niklas Lomb",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "30, (28.07.1993)",
+        "Market Value": "€234k",
+        "unicode": "fB4FKbSB"
+      },
+      {
+        "players_name": "Lunev A. (G)",
+        "players_number": "40",
+        "Full Name": "Andrey Lunev",
+        "players_rating": "",
+        "Country": "Russia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (13.11.1991)",
+        "Market Value": "€943k",
+        "unicode": "xbp2N5Hs"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Conceicao S.",
+        "players_number": "",
+        "Full Name": "Sergio Conceicao",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "coach",
+        "Age and Birthdate": "49,  (15.11.1974)",
+        "Market Value": "",
+        "unicode": "O0EZjzoA"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Manafa W.",
+        "players_number": "",
+        "Full Name": "Wilson Manafa",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (23.07.1994)",
+        "Market Value": "€1.4m",
+        "unicode": "WrzlcYWq"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Cardoso F.",
+        "players_number": "2",
+        "Full Name": "Fabio Cardoso",
+        "players_rating": 7.5,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (19.04.1994)",
+        "Market Value": "€3.9m",
+        "unicode": "MNFUqpkd"
+      },
+      {
+        "players_name": "Carmo D.",
+        "players_number": "4",
+        "Full Name": "David Carmo",
+        "players_rating": 7.0,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (19.07.1999)",
+        "Market Value": "€13.5m",
+        "unicode": "4ANgblVo"
+      },
+      {
+        "players_name": "Costa D. (G)",
+        "players_number": "99",
+        "Full Name": "Diogo Costa",
+        "players_rating": 8.9,
+        "Country": "Portugal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "24, (19.09.1999)",
+        "Market Value": "€44.0m",
+        "unicode": "hC31Ab0c"
+      },
+      {
+        "players_name": "Eustaquio S.",
+        "players_number": "46",
+        "Full Name": "Stephen Eustaquio",
+        "players_rating": 7.1,
+        "Country": "Canada",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (21.12.1996)",
+        "Market Value": "€14.5m",
+        "unicode": "Uk00cWLU"
+      },
+      {
+        "players_name": "Galeno",
+        "players_number": "13",
+        "Full Name": "Galeno",
+        "players_rating": 9.1,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (22.10.1997)",
+        "Market Value": "€22.5m",
+        "unicode": "dWU8oVh8"
+      },
+      {
+        "players_name": "Joao Mario",
+        "players_number": "23",
+        "Full Name": "Joao Mario",
+        "players_rating": 6.2,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (03.01.2000)",
+        "Market Value": "€15.4m",
+        "unicode": "f5eFlQHh"
+      },
+      {
+        "players_name": "Otavio (C)",
+        "players_number": "25",
+        "Full Name": "Otavio",
+        "players_rating": 7.4,
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (09.02.1995)",
+        "Market Value": "€30.1m",
+        "unicode": "0rjCgsed"
+      },
+      {
+        "players_name": "Pepe",
+        "players_number": "11",
+        "Full Name": "Pepe",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "40, (26.02.1983)",
+        "Market Value": "€783k",
+        "unicode": "2y9qaipI"
+      },
+      {
+        "players_name": "Taremi M.",
+        "players_number": "9",
+        "Full Name": "Mehdi Taremi",
+        "players_rating": 8.4,
+        "Country": "Iran",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (18.07.1992)",
+        "Market Value": "€12.1m",
+        "unicode": "E9UW7Gv8"
+      },
+      {
+        "players_name": "Uribe M.",
+        "players_number": "8",
+        "Full Name": "Mateus Uribe",
+        "players_rating": 6.2,
+        "Country": "Colombia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (21.03.1991)",
+        "Market Value": "€5.0m",
+        "unicode": "bPIgR2Pn"
+      },
+      {
+        "players_name": "Zaidu",
+        "players_number": "12",
+        "Full Name": "Zaidu",
+        "players_rating": 6.9,
+        "Country": "Nigeria",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (13.07.1997)",
+        "Market Value": "€2.9m",
+        "unicode": "Wr0Iog1G"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Borges G.",
+        "players_number": "70",
+        "Full Name": "Goncalo Borges",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (29.03.2001)",
+        "Market Value": "€3.7m",
+        "unicode": "6uaJmpXb"
+      },
+      {
+        "players_name": "Danny Namaso",
+        "players_number": "19",
+        "Full Name": "Danny Namaso",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (28.08.2000)",
+        "Market Value": "€4.5m",
+        "unicode": "hCFyjZam"
+      },
+      {
+        "players_name": "Evanilson",
+        "players_number": "30",
+        "Full Name": "Evanilson",
+        "players_rating": 6.5,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (06.10.1999)",
+        "Market Value": "€25.2m",
+        "unicode": "lUqxFifa"
+      },
+      {
+        "players_name": "Folha B.",
+        "players_number": "87",
+        "Full Name": "Bernardo Folha",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (23.03.2002)",
+        "Market Value": "€738k",
+        "unicode": "fV6n2Ld9"
+      },
+      {
+        "players_name": "Martinez T.",
+        "players_number": "29",
+        "Full Name": "Toni Martinez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (30.06.1997)",
+        "Market Value": "€5.4m",
+        "unicode": "rw0nledT"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Bruno Costa",
+        "players_number": "28",
+        "Full Name": "Bruno Costa",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (19.04.1997)",
+        "Market Value": "",
+        "unicode": "6LUORNRa"
+      },
+      {
+        "players_name": "Claudio Ramos (G)",
+        "players_number": "14",
+        "Full Name": "Claudio Ramos",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "32, (16.11.1991)",
+        "Market Value": "€1.4m",
+        "unicode": "Myzz6wYk"
+      },
+      {
+        "players_name": "Conceicao R.",
+        "players_number": "17",
+        "Full Name": "Rodrigo Conceicao",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "24, (02.01.2000)",
+        "Market Value": "€964k",
+        "unicode": "4plIGu69"
+      },
+      {
+        "players_name": "Gabriel Veron",
+        "players_number": "7",
+        "Full Name": "Gabriel Veron",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (03.09.2002)",
+        "Market Value": "€7.6m",
+        "unicode": "4tWnQgWn"
+      },
+      {
+        "players_name": "Grujic M.",
+        "players_number": "16",
+        "Full Name": "Marko Grujic",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (13.04.1996)",
+        "Market Value": "€7.7m",
+        "unicode": "GOLg3K3h"
+      },
+      {
+        "players_name": "Marcano I.",
+        "players_number": "5",
+        "Full Name": "Ivan Marcano",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (23.06.1987)",
+        "Market Value": "€305k",
+        "unicode": "KtLO69NH"
+      },
+      {
+        "players_name": "Wendell",
+        "players_number": "22",
+        "Full Name": "Wendell",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (20.07.1993)",
+        "Market Value": "",
+        "unicode": "YsRt3zJE"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "05:47",
+      "comments_type": "goal",
+      "comments_text": "An amazing individual effort from Galeno (FC Porto) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom left corner and makes it 0:1. Lukas Hradecky was helpless.",
+      "comments_text_anonymized": "An amazing individual effort from [PLAYER] ([TEAM]) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom left corner and makes it 0:1. [PLAYER] was helpless.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "15:36",
+      "comments_type": "penalty",
+      "comments_text": "Kerem Demirbay (Bayer Leverkusen) is heading towards the penalty spot to take it.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "17:00",
+      "comments_type": "yellow card",
+      "comments_text": "Having seen unsporting behavior, Istvan Kovacs shows a yellow card to one of the players sitting on the bench. And Sergio Conceicao (FC Porto) is the recipient.",
+      "comments_text_anonymized": "Having seen unsporting behavior, [REFEREE] shows a yellow card to one of the players sitting on the bench. And [PLAYER] ([TEAM]) is the recipient.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "17:50",
+      "comments_type": "corner",
+      "comments_text": "A fantastic block by a defender means that the corner from FC Porto comes to nothing.",
+      "comments_text_anonymized": "A fantastic block by a defender means that the corner from [TEAM] comes to nothing.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "22:01",
+      "comments_type": "red card",
+      "comments_text": "It looks like Amine Adli (Bayer Leverkusen) saw red with that tackle. Istvan Kovacs won't tolerate such behaviour on the pitch and blows for a foul.",
+      "comments_text_anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "31:12",
+      "comments_type": "yellow card",
+      "comments_text": "Joao Mario (FC Porto) has tested the patience of referee Istvan Kovacs and goes into the book for a previous late challenge.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:23",
+      "comments_type": "corner",
+      "comments_text": "Bayer Leverkusen can’t profit from the corner as the defence clear the ball upfield.",
+      "comments_text_anonymized": "[TEAM] can’t profit from the corner as the defence clear the ball upfield.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:47",
+      "comments_type": "goal",
+      "comments_text": "Goal! Patrik Schick (Bayer Leverkusen) deflects a shot with his body past the goalkeeper. Here is an example of luck being on your side. 0:1.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) deflects a shot with his body past the goalkeeper. Here is an example of luck being on your side. 0:1.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "37:56",
+      "comments_type": "corner",
+      "comments_text": "The corner is swung in but Bayer Leverkusen can’t take advantage as a defender sweeps the ball away.",
+      "comments_text_anonymized": "The corner is swung in but [TEAM] can’t take advantage as a defender sweeps the ball away.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:10",
+      "comments_type": "substitution",
+      "comments_text": "Sergio Conceicao has made a change at the break. Evanilson (FC Porto) has come on in place of Joao Mario.",
+      "comments_text_anonymized": "[PLAYER] has made a change at the break. [PLAYER] ([TEAM]) has come on in place of [PLAYER].",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "03:31",
+      "comments_type": "corner",
+      "comments_text": "A good clearance by a defender means the corner comes to nothing for Bayer Leverkusen.",
+      "comments_text_anonymized": "A good clearance by a defender means the corner comes to nothing for [TEAM].",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "04:17",
+      "comments_type": "corner",
+      "comments_text": "A quickly taken corner by Bayer Leverkusen.",
+      "comments_text_anonymized": "A quickly taken corner by [TEAM].",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:20",
+      "comments_type": "penalty",
+      "comments_text": "Mehdi Taremi (FC Porto) is going to take the penalty!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is going to take the penalty!",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:45",
+      "comments_type": "goal",
+      "comments_text": "Mehdi Taremi (FC Porto) steps up to take the penalty and converts it with a shot into the middle of the goal.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the penalty and converts it with a shot into the middle of the goal.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "10:30",
+      "comments_type": "corner",
+      "comments_text": "Bayer Leverkusen fail to threaten from the corner kick as the opposition's goalkeeper plucks the ball out of the air. Corner kick. Bayer Leverkusen will have an opportunity.",
+      "comments_text_anonymized": "[TEAM] fail to threaten from the corner kick as the opposition's goalkeeper plucks the ball out of the air. Corner kick. [TEAM] will have an opportunity.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:30",
+      "comments_type": "corner",
+      "comments_text": "The resulting set piece from Bayer Leverkusen is comfortably intercepted by one of the defending players.",
+      "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:47",
+      "comments_type": "substitution",
+      "comments_text": "Here comes a substitution. Paulinho (Bayer Leverkusen) is brought on as a substitute for Amine Adli.",
+      "comments_text_anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:49",
+      "comments_type": "yellow card",
+      "comments_text": "Piero Hincapie (Bayer Leverkusen) is shown a deserved yellow card for saying too much to the referee.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is shown a deserved yellow card for saying too much to the referee.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:00",
+      "comments_type": "goal",
+      "comments_text": "Mehdi Taremi (FC Porto) gave the goalkeeper no chance from the penalty. Lukas Hradecky failed to reach the ball, which bounced off the post into the bottom left corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) gave the goalkeeper no chance from the penalty. [PLAYER] failed to reach the ball, which bounced off the post into the bottom left corner.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:36",
+      "comments_type": "yellow card",
+      "comments_text": "The referee shows a yellow card to Mitchel Bakker (Bayer Leverkusen). No wonder. A clear yellow for bad language.",
+      "comments_text_anonymized": "The referee shows a yellow card to [PLAYER] ([TEAM]). No wonder. A clear yellow for bad language.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:00",
+      "comments_type": "corner",
+      "comments_text": "Bayer Leverkusen fail to score from a corner as Diogo Costa (FC Porto) leaps to collect the ball.",
+      "comments_text_anonymized": "[TEAM] fail to score from a corner as [PLAYER] ([TEAM]) leaps to collect the ball.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:38",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Odilon Kossounou makes way for Edmond Tapsoba (Bayer Leverkusen).",
+      "comments_text_anonymized": "Substitution. [PLAYER] makes way for [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:34",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Callum Hudson-Odoi is going off and Xabi Alonso gives the last tactical orders to Adam Hlozek (Bayer Leverkusen).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:08",
+      "comments_type": "corner",
+      "comments_text": "Bayer Leverkusen failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:24",
+      "comments_type": "yellow card",
+      "comments_text": "Istvan Kovacs shows a yellow card to Paulinho (Bayer Leverkusen) for his blatant foul.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:11",
+      "comments_type": "substitution",
+      "comments_text": "Sergio Conceicao has decided to make a change. Goncalo Borges (FC Porto) replaces Galeno.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:51",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Mateus Uribe departs the field of play to be replaced by Bernardo Folha (FC Porto).",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM]).",
+      "index": 26
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:40",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals a substitution. Timothy Fosu-Mensah (Bayer Leverkusen) is brought on as a substitute for Moussa Diaby.",
+      "comments_text_anonymized": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+      "index": 27
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:50",
+      "comments_type": "substitution",
+      "comments_text": "Sergio Conceicao decides to make a substitution. Stephen Eustaquio will be replaced by Toni Martinez (FC Porto).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 28
+    },
+    {
+      "half": 2,
+      "time_stamp": "45:50",
+      "comments_type": "substitution",
+      "comments_text": "A substitution has been made. Mehdi Taremi is replaced by Daniel Loader (FC Porto).",
+      "comments_text_anonymized": "A substitution has been made. [PLAYER] is replaced by Daniel Loader ([TEAM]).",
+      "index": 29
+    },
+    {
+      "half": 2,
+      "time_stamp": "47:10",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Goncalo Borges (FC Porto) was quite harsh and Istvan Kovacs didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 30
+    }
+  ]
+}

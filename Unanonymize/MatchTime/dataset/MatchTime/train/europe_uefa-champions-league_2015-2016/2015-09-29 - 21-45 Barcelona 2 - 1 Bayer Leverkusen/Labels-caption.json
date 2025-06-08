@@ -1,0 +1,1895 @@
+{
+    "timestamp": "1443552300",
+    "score": "2 - 1",
+    "round": "2",
+    "teams": [
+        "Barcelona",
+        "Bayer Leverkusen"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-3-3",
+            "players": [
+                {
+                    "hash": "CU4pL3ue",
+                    "name": "Busquets S.",
+                    "captain": "",
+                    "detail_link": "/player/busquets-sergio/CU4pL3ue/",
+                    "short_name": "Busquets",
+                    "shirt_number": "5",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Sergio Busquets"
+                },
+                {
+                    "hash": "6m8LRsMC",
+                    "name": "Dani Alves",
+                    "captain": "",
+                    "detail_link": "/player/alves-dani/6m8LRsMC/",
+                    "short_name": "Dani Alves",
+                    "shirt_number": "6",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Dani Alves"
+                },
+                {
+                    "hash": "E7AksdFj",
+                    "name": "Iniesta A.",
+                    "captain": "(C)",
+                    "detail_link": "/player/iniesta-andres/E7AksdFj/",
+                    "short_name": "Iniesta",
+                    "shirt_number": "8",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "60'",
+                            "description": "Alba J.",
+                            "linked_player_hash": "42SIX9sl"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Andres Iniesta"
+                },
+                {
+                    "hash": "ns2Bmt54",
+                    "name": "Mascherano J.",
+                    "captain": "",
+                    "detail_link": "/player/mascherano-javier/ns2Bmt54/",
+                    "short_name": "Mascherano",
+                    "shirt_number": "14",
+                    "country": "Argentina",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "30' Mascherano J. (Roughing)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Javier Mascherano"
+                },
+                {
+                    "hash": "rmIQaghb",
+                    "name": "Mathieu J.",
+                    "captain": "",
+                    "detail_link": "/player/mathieu-jeremy/rmIQaghb/",
+                    "short_name": "Mathieu",
+                    "shirt_number": "24",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Jeremy Mathieu"
+                },
+                {
+                    "hash": "jNOPwl3h",
+                    "name": "Neymar",
+                    "captain": "",
+                    "detail_link": "/player/neymar/jNOPwl3h/",
+                    "short_name": "Neymar",
+                    "shirt_number": "11",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "37' Neymar (Diving)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Neymar"
+                },
+                {
+                    "hash": "fRBrHCRh",
+                    "name": "Pique G.",
+                    "captain": "",
+                    "detail_link": "/player/pique-gerard/fRBrHCRh/",
+                    "short_name": "Pique",
+                    "shirt_number": "3",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Gerard Pique"
+                },
+                {
+                    "hash": "pC6dfyG5",
+                    "name": "Rakitic I.",
+                    "captain": "",
+                    "detail_link": "/player/rakitic-ivan/pC6dfyG5/",
+                    "short_name": "Rakitic",
+                    "shirt_number": "4",
+                    "country": "Croatia",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "72'",
+                            "description": "Roberto S.",
+                            "linked_player_hash": "W2R804U4"
+                        }
+                    ],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Ivan Rakitic"
+                },
+                {
+                    "hash": "fapXP9VS",
+                    "name": "Ramirez S.",
+                    "captain": "",
+                    "detail_link": "/player/ramirez-sandro/fapXP9VS/",
+                    "short_name": "Ramirez",
+                    "shirt_number": "19",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "63'",
+                            "description": "Munir El Haddadi",
+                            "linked_player_hash": "CKYnnUEo"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Sandro Ramirez"
+                },
+                {
+                    "hash": "dUShzrBp",
+                    "name": "Suarez L.",
+                    "captain": "",
+                    "detail_link": "/player/suarez-luis/dUShzrBp/",
+                    "short_name": "Suarez",
+                    "shirt_number": "9",
+                    "country": "Uruguay",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "82' Suarez L. (Munir El Haddadi)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Luis Suarez"
+                },
+                {
+                    "hash": "byxc46yl",
+                    "name": "ter Stegen M.",
+                    "captain": "",
+                    "detail_link": "/player/ter-stegen-marc-andre/byxc46yl/",
+                    "short_name": "ter Stegen",
+                    "shirt_number": "1",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Marc-Andre ter Stegen"
+                },
+                {
+                    "hash": "42SIX9sl",
+                    "name": "Alba J.",
+                    "captain": "",
+                    "detail_link": "/player/alba-jordi/42SIX9sl/",
+                    "short_name": "Alba",
+                    "shirt_number": "18",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "60'",
+                            "description": "Iniesta A.",
+                            "linked_player_hash": "E7AksdFj"
+                        },
+                        {
+                            "type": "1",
+                            "time": "75' Alba J. (Unsportsmanlike conduct)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jordi Alba"
+                },
+                {
+                    "hash": "8K4WA9Gh",
+                    "name": "Bartra M.",
+                    "captain": "",
+                    "detail_link": "/player/bartra-marc/8K4WA9Gh/",
+                    "short_name": "Bartra",
+                    "shirt_number": "15",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Marc Bartra"
+                },
+                {
+                    "hash": "raqVZ405",
+                    "name": "Gumbau G.",
+                    "captain": "",
+                    "detail_link": "/player/gumbau-gerard/raqVZ405/",
+                    "short_name": "Gumbau",
+                    "shirt_number": "28",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Gerard Gumbau"
+                },
+                {
+                    "hash": "hA4JL8bD",
+                    "name": "Masip J.",
+                    "captain": "",
+                    "detail_link": "/player/masip-jordi/hA4JL8bD/",
+                    "short_name": "Masip",
+                    "shirt_number": "25",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jordi Masip"
+                },
+                {
+                    "hash": "CKYnnUEo",
+                    "name": "Munir El Haddadi",
+                    "captain": "",
+                    "detail_link": "/player/munir-el-haddadi/CKYnnUEo/",
+                    "short_name": "Munir El Haddadi",
+                    "shirt_number": "17",
+                    "country": "Morocco",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "63'",
+                            "description": "Ramirez S.",
+                            "linked_player_hash": "fapXP9VS"
+                        },
+                        {
+                            "type": "8",
+                            "time": "80' Roberto S. (Munir El Haddadi)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "82' Suarez L. (Munir El Haddadi)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Munir El Haddadi"
+                },
+                {
+                    "hash": "UuGeS7PS",
+                    "name": "Pereira D.",
+                    "captain": "",
+                    "detail_link": "/player/pereira-douglas/UuGeS7PS/",
+                    "short_name": "Pereira",
+                    "shirt_number": "2",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Douglas Pereira"
+                },
+                {
+                    "hash": "W2R804U4",
+                    "name": "Roberto S.",
+                    "captain": "",
+                    "detail_link": "/player/roberto-sergi/W2R804U4/",
+                    "short_name": "Roberto",
+                    "shirt_number": "20",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "72'",
+                            "description": "Rakitic I.",
+                            "linked_player_hash": "pC6dfyG5"
+                        },
+                        {
+                            "type": "3",
+                            "time": "80' Roberto S. (Munir El Haddadi)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sergi Roberto"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "8MdrBIUb",
+                    "name": "Enrique L.",
+                    "captain": "",
+                    "detail_link": "/player/enrique-luis/8MdrBIUb/",
+                    "short_name": "Enrique L.",
+                    "shirt_number": "",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Luis Enrique"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-4-2-3-1",
+            "players": [
+                {
+                    "hash": "p2FZf6PS",
+                    "name": "Bellarabi K.",
+                    "captain": "",
+                    "detail_link": "/player/bellarabi-karim/p2FZf6PS/",
+                    "short_name": "Bellarabi",
+                    "shirt_number": "38",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "66'",
+                            "description": "Brandt J.",
+                            "linked_player_hash": "hW5Goyrc"
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Karim Bellarabi"
+                },
+                {
+                    "hash": "hdb8KoFd",
+                    "name": "Bender L.",
+                    "captain": "(C)",
+                    "detail_link": "/player/bender-lars/hdb8KoFd/",
+                    "short_name": "Bender",
+                    "shirt_number": "8",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "41' Bender L. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Lars Bender"
+                },
+                {
+                    "hash": "IRQeP5FJ",
+                    "name": "Calhanoglu H.",
+                    "captain": "",
+                    "detail_link": "/player/calhanoglu-hakan/IRQeP5FJ/",
+                    "short_name": "Calhanoglu",
+                    "shirt_number": "10",
+                    "country": "Turkey",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "22' Papadopoulos K. (Calhanoglu H.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "64' Calhanoglu H. (Handling)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Hakan Calhanoglu"
+                },
+                {
+                    "hash": "O0EKKpNQ",
+                    "name": "Chicharito",
+                    "captain": "",
+                    "detail_link": "/player/chicharito/O0EKKpNQ/",
+                    "short_name": "Chicharito",
+                    "shirt_number": "7",
+                    "country": "Mexico",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "55'",
+                            "description": "Kiessling S.",
+                            "linked_player_hash": "Uejyxp9B"
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Chicharito"
+                },
+                {
+                    "hash": "z7ECMaKs",
+                    "name": "Donati G.",
+                    "captain": "",
+                    "detail_link": "/player/donati-giulio/z7ECMaKs/",
+                    "short_name": "Donati",
+                    "shirt_number": "26",
+                    "country": "Italy",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "76'",
+                            "description": "Hilbert R.",
+                            "linked_player_hash": "4fAq5BOl"
+                        }
+                    ],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Giulio Donati"
+                },
+                {
+                    "hash": "ttXwlOTi",
+                    "name": "Kampl K.",
+                    "captain": "",
+                    "detail_link": "/player/kampl-kevin/ttXwlOTi/",
+                    "short_name": "Kampl",
+                    "shirt_number": "44",
+                    "country": "Slovenia",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "89' Kampl K. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Kevin Kampl"
+                },
+                {
+                    "hash": "OKbPLxLj",
+                    "name": "Kramer Ch.",
+                    "captain": "",
+                    "detail_link": "/player/kramer-christoph/OKbPLxLj/",
+                    "short_name": "Kramer",
+                    "shirt_number": "23",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Christoph Kramer"
+                },
+                {
+                    "hash": "jwRV63z0",
+                    "name": "Leno B.",
+                    "captain": "",
+                    "detail_link": "/player/leno-bernd/jwRV63z0/",
+                    "short_name": "Leno",
+                    "shirt_number": "1",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Bernd Leno"
+                },
+                {
+                    "hash": "ETHRe3LJ",
+                    "name": "Papadopoulos K.",
+                    "captain": "",
+                    "detail_link": "/player/papadopoulos-kyriakos/ETHRe3LJ/",
+                    "short_name": "Papadopoulos",
+                    "shirt_number": "5",
+                    "country": "Greece",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "22' Papadopoulos K. (Calhanoglu H.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "68' Papadopoulos K. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Kyriakos Papadopoulos"
+                },
+                {
+                    "hash": "2yf8EcuE",
+                    "name": "Tah J.",
+                    "captain": "",
+                    "detail_link": "/player/tah-jonathan/2yf8EcuE/",
+                    "short_name": "Tah",
+                    "shirt_number": "4",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Jonathan Tah"
+                },
+                {
+                    "hash": "YsRt3zJE",
+                    "name": "Wendell",
+                    "captain": "",
+                    "detail_link": "/player/wendell/YsRt3zJE/",
+                    "short_name": "Wendell",
+                    "shirt_number": "18",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Wendell"
+                },
+                {
+                    "hash": "WjVDTkpK",
+                    "name": "Boenisch S.",
+                    "captain": "",
+                    "detail_link": "/player/boenisch-sebastian/WjVDTkpK/",
+                    "short_name": "Boenisch",
+                    "shirt_number": "17",
+                    "country": "Poland",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sebastian Boenisch"
+                },
+                {
+                    "hash": "hW5Goyrc",
+                    "name": "Brandt J.",
+                    "captain": "",
+                    "detail_link": "/player/brandt-julian/hW5Goyrc/",
+                    "short_name": "Brandt",
+                    "shirt_number": "19",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "66'",
+                            "description": "Bellarabi K.",
+                            "linked_player_hash": "p2FZf6PS"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Julian Brandt"
+                },
+                {
+                    "hash": "4fAq5BOl",
+                    "name": "Hilbert R.",
+                    "captain": "",
+                    "detail_link": "/player/hilbert-roberto/4fAq5BOl/",
+                    "short_name": "Hilbert",
+                    "shirt_number": "13",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "76'",
+                            "description": "Donati G.",
+                            "linked_player_hash": "z7ECMaKs"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Roberto Hilbert"
+                },
+                {
+                    "hash": "Uejyxp9B",
+                    "name": "Kiessling S.",
+                    "captain": "",
+                    "detail_link": "/player/kiessling-stefan/Uejyxp9B/",
+                    "short_name": "Kiessling",
+                    "shirt_number": "11",
+                    "country": "Germany",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "55'",
+                            "description": "Chicharito",
+                            "linked_player_hash": "O0EKKpNQ"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Stefan Kiessling"
+                },
+                {
+                    "hash": "OlY6fs4O",
+                    "name": "Kresic D.",
+                    "captain": "",
+                    "detail_link": "/player/kresic-dario/OlY6fs4O/",
+                    "short_name": "Kresic",
+                    "shirt_number": "25",
+                    "country": "Croatia",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Dario Kresic"
+                },
+                {
+                    "hash": "thLOM1e8",
+                    "name": "Mehmedi A.",
+                    "captain": "",
+                    "detail_link": "/player/mehmedi-admir/thLOM1e8/",
+                    "short_name": "Mehmedi",
+                    "shirt_number": "14",
+                    "country": "Switzerland",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Admir Mehmedi"
+                },
+                {
+                    "hash": "6e460XQL",
+                    "name": "Ramalho A.",
+                    "captain": "",
+                    "detail_link": "/player/andre-ramalho/6e460XQL/",
+                    "short_name": "Ramalho",
+                    "shirt_number": "2",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Andre Ramalho"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "GGZdyRmK",
+                    "name": "Schmidt R.",
+                    "captain": "",
+                    "detail_link": "/player/schmidt-roger/GGZdyRmK/",
+                    "short_name": "Schmidt R.",
+                    "shirt_number": "",
+                    "country": "Germany",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Roger Schmidt"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Atkinson M."
+    ],
+    "venue": [
+        "Camp Nou (Barcelona)"
+    ],
+    "attendance": [
+        "68 694"
+    ],
+    "referee_matched": [
+        "Martin Atkinson"
+    ],
+    "referee_found": [
+        "Martin Atkinson"
+    ],
+    "coach_matched": [
+        "Roger Schmidt",
+        "Luis Enrique"
+    ],
+    "gameHomeTeam": "Barcelona",
+    "home": {
+        "name": "Barcelona",
+        "detail_link": "/team/barcelona/SKbpVP5K",
+        "hash": "SKbpVP5K",
+        "names": [
+            "Barcelona",
+            "barcelona"
+        ]
+    },
+    "gameAwayTeam": "Bayer Leverkusen",
+    "away": {
+        "name": "Bayer Leverkusen",
+        "detail_link": "/team/bayer-leverkusen/4jcj2zMd",
+        "hash": "4jcj2zMd",
+        "names": [
+            "Bayer Leverkusen",
+            "Bayer Leverkusen (Ger)",
+            "bayer leverkusen"
+        ]
+    },
+    "gameDate": "29/09/2015 - 20:45",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "We have seen a great game today, let's hope the players will be able to maintain these high levels of play in order to keep fans entertained in future games. The game was pretty even. The home team tried to prevail using combination football unlike the away players who attempted to beat the opposition's defence using mostly counter-attacks.",
+            "identified": "We have seen a great game today, let's hope the players will be able to maintain these high levels of play in order to keep fans entertained in future games. The game was pretty even. The home team tried to prevail using combination football unlike the away players who attempted to beat the opposition's defence using mostly counter-attacks.",
+            "anonymized": "We have seen a great game today, let's hope the players will be able to maintain these high levels of play in order to keep fans entertained in future games. The game was pretty even. The home team tried to prevail using combination football unlike the away players who attempted to beat the opposition's defence using mostly counter-attacks.",
+            "visibility": "shown",
+            "position": "2939000",
+            "event_aligned_gameTime": "2 - 48:59",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 48:08",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match.",
+            "identified": "The referee checks his watch and blows his whistle to signal the end of this match.",
+            "anonymized": "The referee checks his watch and blows his whistle to signal the end of this match.",
+            "visibility": "shown",
+            "position": "2888000",
+            "event_aligned_gameTime": "2 - 48:08",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 47:04",
+            "label": "",
+            "description": "Neymar (Barcelona) takes the free kick and immediately restarts play with a short pass.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) takes the free kick and immediately restarts play with a short pass.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the free kick and immediately restarts play with a short pass.",
+            "visibility": "shown",
+            "position": "2824000",
+            "event_aligned_gameTime": "2 - 47:04",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 46:58",
+            "label": "",
+            "description": "Roberto Hilbert (Bayer Leverkusen) pulls the shirt of his opponent and the referee stops play for a foul. It's a free kick to Barcelona, but they probably won't attempt a direct shot on goal from here.",
+            "identified": "[PLAYER_4fAq5BOl] ([TEAM_]) pulls the shirt of his opponent and the referee stops play for a foul. It's a free kick to [TEAM_], but they probably won't attempt a direct shot on goal from here.",
+            "anonymized": "[PLAYER] ([TEAM]) pulls the shirt of his opponent and the referee stops play for a foul. It's a free kick to [TEAM], but they probably won't attempt a direct shot on goal from here.",
+            "visibility": "shown",
+            "position": "2818000",
+            "event_aligned_gameTime": "2 - 46:58",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 45:56",
+            "label": "",
+            "description": "Munir El Haddadi (Barcelona) commits a foul after unfairly pressing his opponent during an attacking move.",
+            "identified": "[PLAYER_CKYnnUEo] ([TEAM_]) commits a foul after unfairly pressing his opponent during an attacking move.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a foul after unfairly pressing his opponent during an attacking move.",
+            "visibility": "shown",
+            "position": "2756000",
+            "event_aligned_gameTime": "2 - 44:55",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "3 additional min. will be played.",
+            "identified": "3 additional min. will be played.",
+            "anonymized": "3 additional min. will be played.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:10",
+            "contrastive_aligned_gameTime": "2 - 45:00"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 43:04",
+            "label": "y-card",
+            "description": "Kevin Kampl (Bayer Leverkusen) sees a yellow card from Martin Atkinson after he sent one of the opposing players to the ground.",
+            "identified": "[PLAYER_ttXwlOTi] ([TEAM_]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground.",
+            "anonymized": "[PLAYER] ([TEAM]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground.",
+            "visibility": "shown",
+            "position": "2584000",
+            "event_aligned_gameTime": "2 - 43:00",
+            "contrastive_aligned_gameTime": "2 - 42:57"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:03",
+            "label": "",
+            "description": "The ball is cleared after Stefan Kiessling (Bayer Leverkusen) attempted to dribble past an opposing player.",
+            "identified": "The ball is cleared after [PLAYER_Uejyxp9B] ([TEAM_]) attempted to dribble past an opposing player.",
+            "anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player.",
+            "visibility": "shown",
+            "position": "2523000",
+            "event_aligned_gameTime": "2 - 42:00",
+            "contrastive_aligned_gameTime": "2 - 42:14"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:42",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) brings down his opponent with a very late tackle.",
+            "identified": "[PLAYER_ns2Bmt54] ([TEAM_]) brings down his opponent with a very late tackle.",
+            "anonymized": "[PLAYER] ([TEAM]) brings down his opponent with a very late tackle.",
+            "visibility": "shown",
+            "position": "2502000",
+            "event_aligned_gameTime": "2 - 41:40",
+            "contrastive_aligned_gameTime": "2 - 42:04"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 40:45",
+            "label": "",
+            "description": "What a chance that is! Munir El Haddadi (Barcelona) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post.",
+            "identified": "What a chance that is! [PLAYER_CKYnnUEo] ([TEAM_]) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post.",
+            "anonymized": "What a chance that is! [PLAYER] ([TEAM]) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post.",
+            "visibility": "shown",
+            "position": "2445000",
+            "event_aligned_gameTime": "2 - 40:45",
+            "contrastive_aligned_gameTime": "2 - 40:43"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 40:28",
+            "label": "",
+            "description": "Lars Bender (Bayer Leverkusen) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "identified": "[PLAYER_hdb8KoFd] ([TEAM_]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "visibility": "shown",
+            "position": "2428000",
+            "event_aligned_gameTime": "2 - 40:20",
+            "contrastive_aligned_gameTime": "2 - 39:46"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 39:25",
+            "label": "",
+            "description": "Poor challenge! Luis Suarez (Barcelona) is penalised for tripping and Martin Atkinson blows his whistle.",
+            "identified": "Poor challenge! [PLAYER_dUShzrBp] ([TEAM_]) is penalised for tripping and [REFEREE] blows his whistle.",
+            "anonymized": "Poor challenge! [PLAYER] ([TEAM]) is penalised for tripping and [REFEREE] blows his whistle.",
+            "visibility": "shown",
+            "position": "2365000",
+            "event_aligned_gameTime": "2 - 39:10",
+            "contrastive_aligned_gameTime": "2 - 39:21"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 36:45",
+            "label": "soccer-ball",
+            "description": "Luis Suarez (Barcelona) scores a goal! He picks up a sweet pass and coolly slots the ball into the top right corner.",
+            "identified": "[PLAYER_dUShzrBp] ([TEAM_]) scores a goal! He picks up a sweet pass and coolly slots the ball into the top right corner.",
+            "anonymized": "[PLAYER] ([TEAM]) scores a goal! He picks up a sweet pass and coolly slots the ball into the top right corner.",
+            "visibility": "shown",
+            "position": "2205000",
+            "event_aligned_gameTime": "2 - 36:30",
+            "contrastive_aligned_gameTime": "2 - 36:16"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 35:10",
+            "label": "",
+            "description": "Dani Alves (Barcelona) makes a slide tackle, but referee Martin Atkinson blows for a foul.",
+            "identified": "[PLAYER_6m8LRsMC] ([TEAM_]) makes a slide tackle, but referee [REFEREE] blows for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [REFEREE] blows for a foul.",
+            "visibility": "shown",
+            "position": "2110000",
+            "event_aligned_gameTime": "2 - 35:10",
+            "contrastive_aligned_gameTime": "2 - 35:37"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 34:50",
+            "label": "soccer-ball",
+            "description": "Goal! The rebound fell to Sergi Roberto (Barcelona) and he fired home from close range. The score is 1:1.",
+            "identified": "Goal! The rebound fell to [PLAYER_W2R804U4] ([TEAM_]) and he fired home from close range. The score is 1:1.",
+            "anonymized": "Goal! The rebound fell to [PLAYER] ([TEAM]) and he fired home from close range. The score is 1:1.",
+            "visibility": "shown",
+            "position": "2090000",
+            "event_aligned_gameTime": "2 - 34:50",
+            "contrastive_aligned_gameTime": "2 - 34:47"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 34:40",
+            "label": "",
+            "description": "Great touch by Munir El Haddadi (Barcelona) as he receives a precise pass deep inside the box and rips a shot goalwards, but the keeper pulls off an amazing save!",
+            "identified": "Great touch by [PLAYER_CKYnnUEo] ([TEAM_]) as he receives a precise pass deep inside the box and rips a shot goalwards, but the keeper pulls off an amazing save!",
+            "anonymized": "Great touch by [PLAYER] ([TEAM]) as he receives a precise pass deep inside the box and rips a shot goalwards, but the keeper pulls off an amazing save!",
+            "visibility": "shown",
+            "position": "2080000",
+            "event_aligned_gameTime": "2 - 34:10",
+            "contrastive_aligned_gameTime": "2 - 34:48"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:53",
+            "label": "",
+            "description": "Neymar (Barcelona) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "anonymized": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "visibility": "shown",
+            "position": "2033000",
+            "event_aligned_gameTime": "2 - 33:50",
+            "contrastive_aligned_gameTime": "2 - 34:22"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 33:16",
+            "label": "",
+            "description": "Flag goes up against Julian Brandt (Bayer Leverkusen) and the referee blows his whistle for offside.",
+            "identified": "Flag goes up against [PLAYER_hW5Goyrc] ([TEAM_]) and the referee blows his whistle for offside.",
+            "anonymized": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside.",
+            "visibility": "shown",
+            "position": "1996000",
+            "event_aligned_gameTime": "2 - 33:00",
+            "contrastive_aligned_gameTime": "2 - 33:33"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 32:41",
+            "label": "",
+            "description": "Munir El Haddadi (Barcelona) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "identified": "[PLAYER_CKYnnUEo] ([TEAM_]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "visibility": "shown",
+            "position": "1961000",
+            "event_aligned_gameTime": "2 - 32:40",
+            "contrastive_aligned_gameTime": "2 - 32:35"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 30:54",
+            "label": "",
+            "description": "Neymar (Barcelona) receives a well-played pass inside the penalty area and shoots. His effort sails well wide of the left post.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) receives a well-played pass inside the penalty area and shoots. His effort sails well wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a well-played pass inside the penalty area and shoots. His effort sails well wide of the left post.",
+            "visibility": "shown",
+            "position": "1854000",
+            "event_aligned_gameTime": "2 - 30:50",
+            "contrastive_aligned_gameTime": "2 - 30:54"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 30:22",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Roberto Hilbert (Bayer Leverkusen) comes onto the pitch so that Giulio Donati can be given a rest.",
+            "identified": "The referee signals that it is time for a substitution and [PLAYER_4fAq5BOl] ([TEAM_]) comes onto the pitch so that [PLAYER_z7ECMaKs] can be given a rest.",
+            "anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) comes onto the pitch so that [PLAYER] can be given a rest.",
+            "visibility": "shown",
+            "position": "1822000",
+            "event_aligned_gameTime": "2 - 30:20",
+            "contrastive_aligned_gameTime": "2 - 31:05"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 29:40",
+            "label": "y-card",
+            "description": "Jordi Alba (Barcelona) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Martin Atkinson ignores the protests.",
+            "identified": "[PLAYER_42SIX9sl] ([TEAM_]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests.",
+            "anonymized": "[PLAYER] ([TEAM]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests.",
+            "visibility": "shown",
+            "position": "1780000",
+            "event_aligned_gameTime": "2 - 29:30",
+            "contrastive_aligned_gameTime": "2 - 29:30"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 29:14",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "identified": "[PLAYER_42SIX9sl] ([TEAM_]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "anonymized": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "visibility": "shown",
+            "position": "1754000",
+            "event_aligned_gameTime": "2 - 29:10",
+            "contrastive_aligned_gameTime": "2 - 29:15"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 27:20",
+            "label": "",
+            "description": "Wow, what an escape. Neymar (Barcelona) has an effort from inside the box but it's brilliantly blocked.",
+            "identified": "Wow, what an escape. [PLAYER_jNOPwl3h] ([TEAM_]) has an effort from inside the box but it's brilliantly blocked.",
+            "anonymized": "Wow, what an escape. [PLAYER] ([TEAM]) has an effort from inside the box but it's brilliantly blocked.",
+            "visibility": "shown",
+            "position": "1640000",
+            "event_aligned_gameTime": "2 - 27:10",
+            "contrastive_aligned_gameTime": "2 - 27:43"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 26:23",
+            "label": "substitution",
+            "description": "Here comes a substitution. Sergi Roberto (Barcelona) is brought on as a substitute for Ivan Rakitic.",
+            "identified": "Here comes a substitution. [PLAYER_W2R804U4] ([TEAM_]) is brought on as a substitute for [PLAYER_pC6dfyG5].",
+            "anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+            "visibility": "shown",
+            "position": "1583000",
+            "event_aligned_gameTime": "2 - 25:40",
+            "contrastive_aligned_gameTime": "2 - 25:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:29",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) rises above the opponent's defence and heads a precise cross towards the middle of the goal. His effort, however, is blocked by Bernd Leno, who pulls off a comfortable save!",
+            "identified": "[PLAYER_fRBrHCRh] ([TEAM_]) rises above the opponent's defence and heads a precise cross towards the middle of the goal. His effort, however, is blocked by [PLAYER_jwRV63z0], who pulls off a comfortable save!",
+            "anonymized": "[PLAYER] ([TEAM]) rises above the opponent's defence and heads a precise cross towards the middle of the goal. His effort, however, is blocked by [PLAYER], who pulls off a comfortable save!",
+            "visibility": "shown",
+            "position": "1529000",
+            "event_aligned_gameTime": "2 - 25:20",
+            "contrastive_aligned_gameTime": "2 - 26:03"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:11",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "visibility": "shown",
+            "position": "1511000",
+            "event_aligned_gameTime": "2 - 25:10",
+            "contrastive_aligned_gameTime": "2 - 25:05"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 24:49",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. Barcelona have a corner.",
+            "identified": "[PLAYER_dUShzrBp] ([TEAM_]) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. [TEAM_] have a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. [TEAM] have a corner.",
+            "visibility": "shown",
+            "position": "1489000",
+            "event_aligned_gameTime": "2 - 24:49",
+            "contrastive_aligned_gameTime": "2 - 24:51"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 23:32",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) is flagged for offside.",
+            "identified": "[PLAYER_dUShzrBp] ([TEAM_]) is flagged for offside.",
+            "anonymized": "[PLAYER] ([TEAM]) is flagged for offside.",
+            "visibility": "shown",
+            "position": "1412000",
+            "event_aligned_gameTime": "2 - 23:30",
+            "contrastive_aligned_gameTime": "2 - 24:09"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 23:18",
+            "label": "",
+            "description": "Another attempt to send the ball beyond the defence by Hakan Calhanoglu (Bayer Leverkusen) is thwarted and cleared to safety.",
+            "identified": "Another attempt to send the ball beyond the defence by [PLAYER_IRQeP5FJ] ([TEAM_]) is thwarted and cleared to safety.",
+            "anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety.",
+            "visibility": "shown",
+            "position": "1398000",
+            "event_aligned_gameTime": "2 - 23:10",
+            "contrastive_aligned_gameTime": "2 - 23:08"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 22:37",
+            "label": "y-card",
+            "description": "Kyriakos Papadopoulos (Bayer Leverkusen) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Martin Atkinson didn't think twice about pulling it out of his pocket.",
+            "identified": "[PLAYER_ETHRe3LJ] ([TEAM_]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket.",
+            "anonymized": "[PLAYER] ([TEAM]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket.",
+            "visibility": "shown",
+            "position": "1357000",
+            "event_aligned_gameTime": "2 - 22:30",
+            "contrastive_aligned_gameTime": "2 - 22:03"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:01",
+            "label": "",
+            "description": "Stefan Kiessling (Bayer Leverkusen) looks to break free, but an opposing player clears the ball away.",
+            "identified": "[PLAYER_Uejyxp9B] ([TEAM_]) looks to break free, but an opposing player clears the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away.",
+            "visibility": "shown",
+            "position": "1261000",
+            "event_aligned_gameTime": "2 - 20:50",
+            "contrastive_aligned_gameTime": "2 - 21:35"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 20:12",
+            "label": "substitution",
+            "description": "Roger Schmidt prepares a substitution. Karim Bellarabi is replaced by Julian Brandt (Bayer Leverkusen).",
+            "identified": "[COACH_GGZdyRmK] prepares a substitution. [PLAYER_p2FZf6PS] is replaced by [PLAYER_hW5Goyrc] ([TEAM_]).",
+            "anonymized": "[COACH] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1212000",
+            "event_aligned_gameTime": "2 - 19:50",
+            "contrastive_aligned_gameTime": "2 - 20:13"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:00",
+            "label": "",
+            "description": "Close! Neymar (Barcelona) takes the resulting free kick from a promising positon, but his effort flies inches wide of the right post.",
+            "identified": "Close! [PLAYER_jNOPwl3h] ([TEAM_]) takes the resulting free kick from a promising positon, but his effort flies inches wide of the right post.",
+            "anonymized": "Close! [PLAYER] ([TEAM]) takes the resulting free kick from a promising positon, but his effort flies inches wide of the right post.",
+            "visibility": "shown",
+            "position": "1140000",
+            "event_aligned_gameTime": "2 - 18:50",
+            "contrastive_aligned_gameTime": "2 - 18:51"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 18:09",
+            "label": "y-card",
+            "description": "A yellow card is awarded to Hakan Calhanoglu (Bayer Leverkusen).",
+            "identified": "A yellow card is awarded to [PLAYER_IRQeP5FJ] ([TEAM_]).",
+            "anonymized": "A yellow card is awarded to [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1089000",
+            "event_aligned_gameTime": "2 - 18:00",
+            "contrastive_aligned_gameTime": "2 - 18:25"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 17:22",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Munir El Haddadi (Barcelona) coming on for Sandro Ramirez.",
+            "identified": "The manager makes a subsitution with [PLAYER_CKYnnUEo] ([TEAM_]) coming on for [PLAYER_fapXP9VS].",
+            "anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER].",
+            "visibility": "shown",
+            "position": "1042000",
+            "event_aligned_gameTime": "2 - 17:20",
+            "contrastive_aligned_gameTime": "2 - 16:59"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:55",
+            "label": "",
+            "description": "Neymar (Barcelona) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",
+            "anonymized": "[PLAYER] ([TEAM]) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",
+            "visibility": "shown",
+            "position": "955000",
+            "event_aligned_gameTime": "2 - 15:20",
+            "contrastive_aligned_gameTime": "2 - 15:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:41",
+            "label": "",
+            "description": "Wendell (Bayer Leverkusen) jumps into a tackle and Martin Atkinson blows his whistle for a foul. Barcelona earn a free kick.",
+            "identified": "[PLAYER_YsRt3zJE] ([TEAM_]) jumps into a tackle and [REFEREE] blows his whistle for a foul. [TEAM_] earn a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul. [TEAM] earn a free kick.",
+            "visibility": "shown",
+            "position": "941000",
+            "event_aligned_gameTime": "2 - 15:40",
+            "contrastive_aligned_gameTime": "2 - 15:29"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 14:03",
+            "label": "substitution",
+            "description": "Problems for Luis Enrique as Andres Iniesta is not able to play anymore. His injury is too serious and Jordi Alba (Barcelona) replaces him.",
+            "identified": "Problems for [COACH_8MdrBIUb] as [PLAYER_E7AksdFj] is not able to play anymore. His injury is too serious and [PLAYER_42SIX9sl] ([TEAM_]) replaces him.",
+            "anonymized": "Problems for [COACH] as [PLAYER] is not able to play anymore. His injury is too serious and [PLAYER] ([TEAM]) replaces him.",
+            "visibility": "shown",
+            "position": "843000",
+            "event_aligned_gameTime": "2 - 14:00",
+            "contrastive_aligned_gameTime": "2 - 14:32"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 12:51",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "visibility": "shown",
+            "position": "771000",
+            "event_aligned_gameTime": "2 - 12:50",
+            "contrastive_aligned_gameTime": "2 - 12:51"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 12:42",
+            "label": "",
+            "description": "Barcelona play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass. The ball goes out of play and Barcelona have been awarded a corner kick.",
+            "identified": "[TEAM_] play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass. The ball goes out of play and [TEAM_] have been awarded a corner kick.",
+            "anonymized": "[TEAM] play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass. The ball goes out of play and [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "762000",
+            "event_aligned_gameTime": "2 - 12:40",
+            "contrastive_aligned_gameTime": "2 - 12:04"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 12:25",
+            "label": "",
+            "description": "Neymar (Barcelona) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post.",
+            "visibility": "shown",
+            "position": "745000",
+            "event_aligned_gameTime": "2 - 11:40",
+            "contrastive_aligned_gameTime": "2 - 11:08"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 11:12",
+            "label": "",
+            "description": "The defence had a hard time blocking out the strike from Ivan Rakitic (Barcelona). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",
+            "identified": "The defence had a hard time blocking out the strike from [PLAYER_pC6dfyG5] ([TEAM_]). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",
+            "anonymized": "The defence had a hard time blocking out the strike from [PLAYER] ([TEAM]). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",
+            "visibility": "shown",
+            "position": "672000",
+            "event_aligned_gameTime": "2 - 11:10",
+            "contrastive_aligned_gameTime": "2 - 11:32"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:45",
+            "label": "",
+            "description": "Another attempt to send the ball beyond the defence by Andres Iniesta (Barcelona) is thwarted and cleared to safety.",
+            "identified": "Another attempt to send the ball beyond the defence by [PLAYER_E7AksdFj] ([TEAM_]) is thwarted and cleared to safety.",
+            "anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety.",
+            "visibility": "shown",
+            "position": "645000",
+            "event_aligned_gameTime": "2 - 10:10",
+            "contrastive_aligned_gameTime": "2 - 10:45"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:30",
+            "label": "",
+            "description": "A lofted cross from Jeremy Mathieu (Barcelona) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+            "identified": "A lofted cross from [PLAYER_rmIQaghb] ([TEAM_]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+            "anonymized": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+            "visibility": "shown",
+            "position": "630000",
+            "event_aligned_gameTime": "2 - 10:10",
+            "contrastive_aligned_gameTime": "2 - 10:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:44",
+            "label": "",
+            "description": "The ball is cleared after Kevin Kampl (Bayer Leverkusen) attempted to dribble past an opposing player.",
+            "identified": "The ball is cleared after [PLAYER_ttXwlOTi] ([TEAM_]) attempted to dribble past an opposing player.",
+            "anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player.",
+            "visibility": "shown",
+            "position": "584000",
+            "event_aligned_gameTime": "2 - 09:40",
+            "contrastive_aligned_gameTime": "2 - 10:04"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 09:06",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Chicharito leaves the pitch and Stefan Kiessling (Bayer Leverkusen) comes on.",
+            "identified": "The referee stops play so that a substitution can be made and [PLAYER_O0EKKpNQ] leaves the pitch and [PLAYER_Uejyxp9B] ([TEAM_]) comes on.",
+            "anonymized": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+            "visibility": "shown",
+            "position": "546000",
+            "event_aligned_gameTime": "2 - 08:40",
+            "contrastive_aligned_gameTime": "2 - 09:03"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 07:38",
+            "label": "",
+            "description": "Marc-Andre ter Stegen is alert and has a clear sight of a long through ball from Kevin Kampl (Bayer Leverkusen). Easy save!",
+            "identified": "[PLAYER_byxc46yl] is alert and has a clear sight of a long through ball from [PLAYER_ttXwlOTi] ([TEAM_]). Easy save!",
+            "anonymized": "[PLAYER] is alert and has a clear sight of a long through ball from [PLAYER] ([TEAM]). Easy save!",
+            "visibility": "shown",
+            "position": "458000",
+            "event_aligned_gameTime": "2 - 07:40",
+            "contrastive_aligned_gameTime": "2 - 08:20"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 06:31",
+            "label": "",
+            "description": "Close! Sandro Ramirez (Barcelona) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post.",
+            "identified": "Close! [PLAYER_fapXP9VS] ([TEAM_]) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post.",
+            "anonymized": "Close! [PLAYER] ([TEAM]) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post.",
+            "visibility": "shown",
+            "position": "391000",
+            "event_aligned_gameTime": "2 - 06:30",
+            "contrastive_aligned_gameTime": "2 - 06:32"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 05:41",
+            "label": "",
+            "description": "Martin Atkinson interrupts the game for a tactical foul by Karim Bellarabi (Bayer Leverkusen).",
+            "identified": "[REFEREE] interrupts the game for a tactical foul by [PLAYER_p2FZf6PS] ([TEAM_]).",
+            "anonymized": "[REFEREE] interrupts the game for a tactical foul by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "341000",
+            "event_aligned_gameTime": "2 - 05:10",
+            "contrastive_aligned_gameTime": "2 - 04:44"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 04:28",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) latches on to an accurate pass inside the box and immediately unleashes a shot towards goal, but it goes high over the crossbar.",
+            "identified": "[PLAYER_O0EKKpNQ] ([TEAM_]) latches on to an accurate pass inside the box and immediately unleashes a shot towards goal, but it goes high over the crossbar.",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to an accurate pass inside the box and immediately unleashes a shot towards goal, but it goes high over the crossbar.",
+            "visibility": "shown",
+            "position": "268000",
+            "event_aligned_gameTime": "2 - 04:28",
+            "contrastive_aligned_gameTime": "2 - 04:30"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:20",
+            "label": "",
+            "description": "Andres Iniesta (Barcelona) attempts to slip the ball through the defence, but is unable to find any of his teammates.",
+            "identified": "[PLAYER_E7AksdFj] ([TEAM_]) attempts to slip the ball through the defence, but is unable to find any of his teammates.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates.",
+            "visibility": "shown",
+            "position": "140000",
+            "event_aligned_gameTime": "2 - 01:50",
+            "contrastive_aligned_gameTime": "2 - 01:24"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 01:03",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger.",
+            "identified": "[PLAYER_dUShzrBp] ([TEAM_]) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger.",
+            "anonymized": "[PLAYER] ([TEAM]) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger.",
+            "visibility": "shown",
+            "position": "63000",
+            "event_aligned_gameTime": "2 - 00:50",
+            "contrastive_aligned_gameTime": "2 - 01:24"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Martin Atkinson blows his whistle and the second half starts.",
+            "identified": "[REFEREE] blows his whistle and the second half starts.",
+            "anonymized": "[REFEREE] blows his whistle and the second half starts.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:20",
+            "contrastive_aligned_gameTime": "2 - 00:01"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 47:59",
+            "label": "",
+            "description": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. The game is quite balanced. The home players have grown in confidence and started to string some passes together. The visiting side have relied on their defence and counter-attacks.",
+            "identified": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. The game is quite balanced. The home players have grown in confidence and started to string some passes together. The visiting side have relied on their defence and counter-attacks.",
+            "anonymized": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. The game is quite balanced. The home players have grown in confidence and started to string some passes together. The visiting side have relied on their defence and counter-attacks.",
+            "visibility": "shown",
+            "position": "2879000",
+            "event_aligned_gameTime": "1 - 47:59",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 47:08",
+            "label": "whistle",
+            "description": "The match has reached half-time.",
+            "identified": "The match has reached half-time.",
+            "anonymized": "The match has reached half-time.",
+            "visibility": "shown",
+            "position": "2828000",
+            "event_aligned_gameTime": "1 - 47:08",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 46:11",
+            "label": "",
+            "description": "Neymar (Barcelona) slides a pass forward, but one of the defenders cuts it out.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) slides a pass forward, but one of the defenders cuts it out.",
+            "anonymized": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out.",
+            "visibility": "shown",
+            "position": "2771000",
+            "event_aligned_gameTime": "1 - 46:11",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 00:00",
+            "label": "time",
+            "description": "2 min. of stoppage-time to be played.",
+            "identified": "2 min. of stoppage-time to be played.",
+            "anonymized": "2 min. of stoppage-time to be played.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "2 - 00:10",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 44:32",
+            "label": "",
+            "description": "Kevin Kampl (Bayer Leverkusen) sends a long ball in, but Marc-Andre ter Stegen comfortably gathers the ball.",
+            "identified": "[PLAYER_ttXwlOTi] ([TEAM_]) sends a long ball in, but [PLAYER_byxc46yl] comfortably gathers the ball.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball.",
+            "visibility": "shown",
+            "position": "2672000",
+            "event_aligned_gameTime": "1 - 44:10",
+            "contrastive_aligned_gameTime": "1 - 44:38"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:36",
+            "label": "",
+            "description": "Neymar (Barcelona) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "anonymized": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "visibility": "shown",
+            "position": "2556000",
+            "event_aligned_gameTime": "1 - 42:30",
+            "contrastive_aligned_gameTime": "1 - 42:35"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 42:05",
+            "label": "",
+            "description": "An opponent rises to his feet after being downed by Jonathan Tah (Bayer Leverkusen). Martin Atkinson saw the sliding tackle and blows for a foul.",
+            "identified": "An opponent rises to his feet after being downed by [PLAYER_2yf8EcuE] ([TEAM_]). [REFEREE] saw the sliding tackle and blows for a foul.",
+            "anonymized": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [REFEREE] saw the sliding tackle and blows for a foul.",
+            "visibility": "shown",
+            "position": "2525000",
+            "event_aligned_gameTime": "1 - 41:50",
+            "contrastive_aligned_gameTime": "1 - 41:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 41:28",
+            "label": "",
+            "description": "Bernd Leno reacts well to deny a long-range free kick from Ivan Rakitic (Barcelona) towards the top left corner.",
+            "identified": "[PLAYER_jwRV63z0] reacts well to deny a long-range free kick from [PLAYER_pC6dfyG5] ([TEAM_]) towards the top left corner.",
+            "anonymized": "[PLAYER] reacts well to deny a long-range free kick from [PLAYER] ([TEAM]) towards the top left corner.",
+            "visibility": "shown",
+            "position": "2488000",
+            "event_aligned_gameTime": "1 - 41:10",
+            "contrastive_aligned_gameTime": "1 - 41:18"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 40:12",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Lars Bender (Bayer Leverkusen). Martin Atkinson doesn't hesitate at all to make this decision.",
+            "identified": "A yellow card for a tackle by [PLAYER_hdb8KoFd] ([TEAM_]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "visibility": "shown",
+            "position": "2412000",
+            "event_aligned_gameTime": "1 - 40:10",
+            "contrastive_aligned_gameTime": "1 - 39:59"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 39:21",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) takes the corner but fails to find any of his teammates.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) takes the corner but fails to find any of his teammates.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates.",
+            "visibility": "shown",
+            "position": "2361000",
+            "event_aligned_gameTime": "1 - 39:10",
+            "contrastive_aligned_gameTime": "1 - 38:43"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 39:06",
+            "label": "",
+            "description": "Sandro Ramirez (Barcelona) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. Good work from Barcelona as they win a corner.",
+            "identified": "[PLAYER_fapXP9VS] ([TEAM_]) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. Good work from [TEAM_] as they win a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. Good work from [TEAM] as they win a corner.",
+            "visibility": "shown",
+            "position": "2346000",
+            "event_aligned_gameTime": "1 - 39:10",
+            "contrastive_aligned_gameTime": "1 - 39:04"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 38:19",
+            "label": "",
+            "description": "Neymar (Barcelona) expertly controls a neat clever pass inside the box, but his effort crashes against the right post! What an opportunity that was!",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) expertly controls a neat clever pass inside the box, but his effort crashes against the right post! What an opportunity that was!",
+            "anonymized": "[PLAYER] ([TEAM]) expertly controls a neat clever pass inside the box, but his effort crashes against the right post! What an opportunity that was!",
+            "visibility": "shown",
+            "position": "2299000",
+            "event_aligned_gameTime": "1 - 38:10",
+            "contrastive_aligned_gameTime": "1 - 38:48"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 36:39",
+            "label": "y-card",
+            "description": "Neymar (Barcelona) picks up a yellow card.",
+            "identified": "[PLAYER_jNOPwl3h] ([TEAM_]) picks up a yellow card.",
+            "anonymized": "[PLAYER] ([TEAM]) picks up a yellow card.",
+            "visibility": "shown",
+            "position": "2199000",
+            "event_aligned_gameTime": "1 - 36:30",
+            "contrastive_aligned_gameTime": "1 - 36:17"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 35:49",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) unleashes a promising shot towards the roof of the net after his wonderful solo run, but Marc-Andre ter Stegen thwarts the effort with a fabulous save. The score remains the same.",
+            "identified": "[PLAYER_p2FZf6PS] ([TEAM_]) unleashes a promising shot towards the roof of the net after his wonderful solo run, but [PLAYER_byxc46yl] thwarts the effort with a fabulous save. The score remains the same.",
+            "anonymized": "[PLAYER] ([TEAM]) unleashes a promising shot towards the roof of the net after his wonderful solo run, but [PLAYER] thwarts the effort with a fabulous save. The score remains the same.",
+            "visibility": "shown",
+            "position": "2149000",
+            "event_aligned_gameTime": "1 - 35:49",
+            "contrastive_aligned_gameTime": "1 - 35:47"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 35:10",
+            "label": "",
+            "description": "The linesman signals that Neymar (Barcelona) is offside and the referee confirms the decision.",
+            "identified": "The linesman signals that [PLAYER_jNOPwl3h] ([TEAM_]) is offside and the referee confirms the decision.",
+            "anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision.",
+            "visibility": "shown",
+            "position": "2110000",
+            "event_aligned_gameTime": "1 - 35:10",
+            "contrastive_aligned_gameTime": "1 - 35:29"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:44",
+            "label": "",
+            "description": "A long pass, executed by Karim Bellarabi (Bayer Leverkusen), missed the precision to reach his teammates.",
+            "identified": "A long pass, executed by [PLAYER_p2FZf6PS] ([TEAM_]), missed the precision to reach his teammates.",
+            "anonymized": "A long pass, executed by [PLAYER] ([TEAM]), missed the precision to reach his teammates.",
+            "visibility": "shown",
+            "position": "2084000",
+            "event_aligned_gameTime": "1 - 34:10",
+            "contrastive_aligned_gameTime": "1 - 33:55"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 33:25",
+            "label": "",
+            "description": "Wendell (Bayer Leverkusen) has picked up a minor injury, but it looks like he will be able to continue.",
+            "identified": "[PLAYER_YsRt3zJE] ([TEAM_]) has picked up a minor injury, but it looks like he will be able to continue.",
+            "anonymized": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue.",
+            "visibility": "shown",
+            "position": "2005000",
+            "event_aligned_gameTime": "1 - 33:30",
+            "contrastive_aligned_gameTime": "1 - 32:52"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:24",
+            "label": "injury",
+            "description": "Wendell (Bayer Leverkusen) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "identified": "[PLAYER_YsRt3zJE] ([TEAM_]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "anonymized": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "visibility": "shown",
+            "position": "1944000",
+            "event_aligned_gameTime": "1 - 32:20",
+            "contrastive_aligned_gameTime": "1 - 32:25"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 30:53",
+            "label": "",
+            "description": "Sandro Ramirez (Barcelona) races towards goal but the defender gets back well to make a challenge.",
+            "identified": "[PLAYER_fapXP9VS] ([TEAM_]) races towards goal but the defender gets back well to make a challenge.",
+            "anonymized": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge.",
+            "visibility": "shown",
+            "position": "1853000",
+            "event_aligned_gameTime": "1 - 30:50",
+            "contrastive_aligned_gameTime": "1 - 30:50"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 29:55",
+            "label": "y-card",
+            "description": "The foul by Javier Mascherano (Barcelona) is worthy of a card and a yellow is duly shown by Martin Atkinson.",
+            "identified": "The foul by [PLAYER_ns2Bmt54] ([TEAM_]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+            "anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+            "visibility": "shown",
+            "position": "1795000",
+            "event_aligned_gameTime": "1 - 29:55",
+            "contrastive_aligned_gameTime": "1 - 29:25"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:32",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) is moving okay again after that injury scare.",
+            "identified": "[PLAYER_ns2Bmt54] ([TEAM_]) is moving okay again after that injury scare.",
+            "anonymized": "[PLAYER] ([TEAM]) is moving okay again after that injury scare.",
+            "visibility": "shown",
+            "position": "1772000",
+            "event_aligned_gameTime": "1 - 28:50",
+            "contrastive_aligned_gameTime": "1 - 28:05"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:23",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) seems to be alright and is okay to carry on.",
+            "identified": "[PLAYER_p2FZf6PS] ([TEAM_]) seems to be alright and is okay to carry on.",
+            "anonymized": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on.",
+            "visibility": "shown",
+            "position": "1763000",
+            "event_aligned_gameTime": "1 - 29:20",
+            "contrastive_aligned_gameTime": "1 - 28:39"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:26",
+            "label": "injury",
+            "description": "The game is interrupted now, Javier Mascherano (Barcelona) picks up a knock and the physio has to come on.",
+            "identified": "The game is interrupted now, [PLAYER_ns2Bmt54] ([TEAM_]) picks up a knock and the physio has to come on.",
+            "anonymized": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on.",
+            "visibility": "shown",
+            "position": "1706000",
+            "event_aligned_gameTime": "1 - 28:20",
+            "contrastive_aligned_gameTime": "1 - 27:54"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:04",
+            "label": "injury",
+            "description": "Karim Bellarabi (Bayer Leverkusen) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "identified": "[PLAYER_p2FZf6PS] ([TEAM_]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "anonymized": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "visibility": "shown",
+            "position": "1684000",
+            "event_aligned_gameTime": "1 - 27:30",
+            "contrastive_aligned_gameTime": "1 - 27:49"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:19",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) tries to send a pass but it's blocked.",
+            "identified": "[PLAYER_O0EKKpNQ] ([TEAM_]) tries to send a pass but it's blocked.",
+            "anonymized": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked.",
+            "visibility": "shown",
+            "position": "1639000",
+            "event_aligned_gameTime": "1 - 27:10",
+            "contrastive_aligned_gameTime": "1 - 27:05"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 26:12",
+            "label": "",
+            "description": "Martin Atkinson blows his whistle and it's Karim Bellarabi (Bayer Leverkusen) who is penalised for an offensive foul. Good decision by the referee.",
+            "identified": "[REFEREE] blows his whistle and it's [PLAYER_p2FZf6PS] ([TEAM_]) who is penalised for an offensive foul. Good decision by the referee.",
+            "anonymized": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee.",
+            "visibility": "shown",
+            "position": "1572000",
+            "event_aligned_gameTime": "1 - 26:10",
+            "contrastive_aligned_gameTime": "1 - 26:09"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 24:54",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) is caught offside!",
+            "identified": "[PLAYER_p2FZf6PS] ([TEAM_]) is caught offside!",
+            "anonymized": "[PLAYER] ([TEAM]) is caught offside!",
+            "visibility": "shown",
+            "position": "1494000",
+            "event_aligned_gameTime": "1 - 24:50",
+            "contrastive_aligned_gameTime": "1 - 25:32"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:30",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) is adjudged to have been offside when making his run.",
+            "identified": "[PLAYER_O0EKKpNQ] ([TEAM_]) is adjudged to have been offside when making his run.",
+            "anonymized": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run.",
+            "visibility": "shown",
+            "position": "1410000",
+            "event_aligned_gameTime": "1 - 23:10",
+            "contrastive_aligned_gameTime": "1 - 23:24"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 21:21",
+            "label": "soccer-ball",
+            "description": "Kyriakos Papadopoulos (Bayer Leverkusen) jumped highest to meet a perfectly executed corner kick by Hakan Calhanoglu. His header was precise and ended up in the back of the net, leaving the goalkeeper flapping in the wind. The score is 0:0.",
+            "identified": "[PLAYER_ETHRe3LJ] ([TEAM_]) jumped highest to meet a perfectly executed corner kick by [PLAYER_IRQeP5FJ]. His header was precise and ended up in the back of the net, leaving the goalkeeper flapping in the wind. The score is 0:0.",
+            "anonymized": "[PLAYER] ([TEAM]) jumped highest to meet a perfectly executed corner kick by [PLAYER]. His header was precise and ended up in the back of the net, leaving the goalkeeper flapping in the wind. The score is 0:0.",
+            "visibility": "shown",
+            "position": "1281000",
+            "event_aligned_gameTime": "1 - 21:20",
+            "contrastive_aligned_gameTime": "1 - 21:42"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 21:10",
+            "label": "corner",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) takes the ball to the corner flag and sends it into the box.",
+            "identified": "[PLAYER_IRQeP5FJ] ([TEAM_]) takes the ball to the corner flag and sends it into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the ball to the corner flag and sends it into the box.",
+            "visibility": "shown",
+            "position": "1270000",
+            "event_aligned_gameTime": "1 - 21:00",
+            "contrastive_aligned_gameTime": "1 - 21:31"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 21:03",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Karim Bellarabi (Bayer Leverkusen). The ball goes out of play. Bayer Leverkusen are awarded a corner kick.",
+            "identified": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER_p2FZf6PS] ([TEAM_]). The ball goes out of play. [TEAM_] are awarded a corner kick.",
+            "anonymized": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]). The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "visibility": "shown",
+            "position": "1263000",
+            "event_aligned_gameTime": "1 - 21:00",
+            "contrastive_aligned_gameTime": "1 - 21:42"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 20:33",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",
+            "identified": "[PLAYER_dUShzrBp] ([TEAM_]) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",
+            "anonymized": "[PLAYER] ([TEAM]) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",
+            "visibility": "shown",
+            "position": "1233000",
+            "event_aligned_gameTime": "1 - 20:10",
+            "contrastive_aligned_gameTime": "1 - 19:45"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 19:23",
+            "label": "",
+            "description": "Another attempt to send the ball beyond the defence by Andres Iniesta (Barcelona) is thwarted and cleared to safety.",
+            "identified": "Another attempt to send the ball beyond the defence by [PLAYER_E7AksdFj] ([TEAM_]) is thwarted and cleared to safety.",
+            "anonymized": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety.",
+            "visibility": "shown",
+            "position": "1163000",
+            "event_aligned_gameTime": "1 - 19:10",
+            "contrastive_aligned_gameTime": "1 - 19:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:52",
+            "label": "",
+            "description": "Kevin Kampl (Bayer Leverkusen) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "identified": "[PLAYER_ttXwlOTi] ([TEAM_]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "visibility": "shown",
+            "position": "1132000",
+            "event_aligned_gameTime": "1 - 18:10",
+            "contrastive_aligned_gameTime": "1 - 18:08"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:12",
+            "label": "",
+            "description": "Kevin Kampl (Bayer Leverkusen) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post.",
+            "identified": "[PLAYER_ttXwlOTi] ([TEAM_]) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post.",
+            "visibility": "shown",
+            "position": "1092000",
+            "event_aligned_gameTime": "1 - 18:10",
+            "contrastive_aligned_gameTime": "1 - 18:34"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:29",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) commits a foul and Martin Atkinson immediately signals a free kick.",
+            "identified": "[PLAYER_p2FZf6PS] ([TEAM_]) commits a foul and [REFEREE] immediately signals a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick.",
+            "visibility": "shown",
+            "position": "1049000",
+            "event_aligned_gameTime": "1 - 17:20",
+            "contrastive_aligned_gameTime": "1 - 17:11"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:12",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "identified": "[PLAYER_O0EKKpNQ] ([TEAM_]) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "anonymized": "[PLAYER] ([TEAM]) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "visibility": "shown",
+            "position": "1032000",
+            "event_aligned_gameTime": "1 - 17:10",
+            "contrastive_aligned_gameTime": "1 - 17:13"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 15:36",
+            "label": "",
+            "description": "Christoph Kramer (Bayer Leverkusen) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "identified": "[PLAYER_OKbPLxLj] ([TEAM_]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "anonymized": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "visibility": "shown",
+            "position": "936000",
+            "event_aligned_gameTime": "1 - 15:20",
+            "contrastive_aligned_gameTime": "1 - 15:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:40",
+            "label": "",
+            "description": "The game is interrupted as Chicharito (Bayer Leverkusen) is flagged offside.",
+            "identified": "The game is interrupted as [PLAYER_O0EKKpNQ] ([TEAM_]) is flagged offside.",
+            "anonymized": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside.",
+            "visibility": "shown",
+            "position": "880000",
+            "event_aligned_gameTime": "1 - 14:10",
+            "contrastive_aligned_gameTime": "1 - 14:05"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:03",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) attempted to pick out a free teammate inside the box, but Bernd Leno comes off the line to clear the ball away.",
+            "identified": "[PLAYER_dUShzrBp] ([TEAM_]) attempted to pick out a free teammate inside the box, but [PLAYER_jwRV63z0] comes off the line to clear the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away.",
+            "visibility": "shown",
+            "position": "843000",
+            "event_aligned_gameTime": "1 - 13:50",
+            "contrastive_aligned_gameTime": "1 - 13:49"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:31",
+            "label": "",
+            "description": "Half-chance! Luis Suarez (Barcelona) plays a pass into the box, but Bernd Leno reacts well to snuff out the attack.",
+            "identified": "Half-chance! [PLAYER_dUShzrBp] ([TEAM_]) plays a pass into the box, but [PLAYER_jwRV63z0] reacts well to snuff out the attack.",
+            "anonymized": "Half-chance! [PLAYER] ([TEAM]) plays a pass into the box, but [PLAYER] reacts well to snuff out the attack.",
+            "visibility": "shown",
+            "position": "811000",
+            "event_aligned_gameTime": "1 - 13:30",
+            "contrastive_aligned_gameTime": "1 - 12:57"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 12:38",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) receives a precise pass on the edge of the box and has an effort on goal. Unfortunately for him, his strike flies inches high over the bar.",
+            "identified": "[PLAYER_p2FZf6PS] ([TEAM_]) receives a precise pass on the edge of the box and has an effort on goal. Unfortunately for him, his strike flies inches high over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and has an effort on goal. Unfortunately for him, his strike flies inches high over the bar.",
+            "visibility": "shown",
+            "position": "758000",
+            "event_aligned_gameTime": "1 - 12:30",
+            "contrastive_aligned_gameTime": "1 - 12:26"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 11:24",
+            "label": "",
+            "description": "Dani Alves (Barcelona) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "identified": "[PLAYER_6m8LRsMC] ([TEAM_]) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "anonymized": "[PLAYER] ([TEAM]) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "visibility": "shown",
+            "position": "684000",
+            "event_aligned_gameTime": "1 - 11:20",
+            "contrastive_aligned_gameTime": "1 - 10:48"
+        }
+    ]
+}

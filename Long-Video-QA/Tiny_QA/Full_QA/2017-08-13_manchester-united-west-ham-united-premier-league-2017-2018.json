@@ -1,0 +1,913 @@
+[
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Romelu Lukaku",
+      "B. Anthony Martial",
+      "C. Paul Pogba",
+      "D. Marcus Rashford"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      8
+    ],
+    "current_event_index": 8,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals has Romelu Lukaku scored so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      8,
+      12
+    ],
+    "current_event_index": 12,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team has scored more goals up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opponent Team",
+      "C. Both teams have scored equally",
+      "D. No goals have been scored"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      8,
+      12
+    ],
+    "current_event_index": 12,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored the last goal in the match?",
+    "choices": [
+      "A. Romelu Lukaku",
+      "B. Anthony Martial",
+      "C. Paul Pogba",
+      "D. Henrikh Mkhitaryan"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      8,
+      12,
+      24,
+      26
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      8,
+      12,
+      24,
+      26
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had the most goals in the match?",
+    "choices": [
+      "A. Manchester United",
+      "B. Opponent Team",
+      "C. Both teams have scored equally",
+      "D. No goals have been scored"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      8,
+      12,
+      24,
+      26
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      24,
+      26
+    ],
+    "current_event_index": 12,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next goal?",
+    "choices": [
+      "A. Romelu Lukaku",
+      "B. Anthony Martial",
+      "C. Paul Pogba",
+      "D. Henrikh Mkhitaryan"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      24
+    ],
+    "current_event_index": 12,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will Romelu Lukaku be involved in another goal?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 12,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      10
+    ],
+    "current_event_index": 10,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. West Ham",
+      "C. Both teams have the same",
+      "D. No yellow cards yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      10
+    ],
+    "current_event_index": 10,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who received the first yellow card?",
+    "choices": [
+      "A. Eric Bailly",
+      "B. Pablo Zabaleta",
+      "C. Antonio Valencia",
+      "D. Angelo Ogbonna"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      10
+    ],
+    "current_event_index": 10,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      10,
+      11
+    ],
+    "current_event_index": 11,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. West Ham",
+      "C. Both teams have the same",
+      "D. No yellow cards yet"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      10,
+      11
+    ],
+    "current_event_index": 11,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who received the second yellow card?",
+    "choices": [
+      "A. Eric Bailly",
+      "B. Pablo Zabaleta",
+      "C. Antonio Valencia",
+      "D. Angelo Ogbonna"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      10,
+      11
+    ],
+    "current_event_index": 11,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      10,
+      11,
+      13
+    ],
+    "current_event_index": 13,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. West Ham",
+      "C. Both teams have the same",
+      "D. No yellow cards yet"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      10,
+      11,
+      13
+    ],
+    "current_event_index": 13,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who received the third yellow card?",
+    "choices": [
+      "A. Eric Bailly",
+      "B. Pablo Zabaleta",
+      "C. Antonio Valencia",
+      "D. Angelo Ogbonna"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      10,
+      11,
+      13
+    ],
+    "current_event_index": 13,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      10,
+      11,
+      13,
+      19
+    ],
+    "current_event_index": 19,
+    "index": 9,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. West Ham",
+      "C. Both teams have the same",
+      "D. No yellow cards yet"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      10,
+      11,
+      13,
+      19
+    ],
+    "current_event_index": 19,
+    "index": 10,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who received the fourth yellow card?",
+    "choices": [
+      "A. Eric Bailly",
+      "B. Pablo Zabaleta",
+      "C. Antonio Valencia",
+      "D. Angelo Ogbonna"
+    ],
+    "answer": "D",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      10,
+      11,
+      13,
+      19
+    ],
+    "current_event_index": 19,
+    "index": 11,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      10,
+      11,
+      13,
+      19
+    ],
+    "current_event_index": null,
+    "index": 12,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "In which half were more yellow cards awarded?",
+    "choices": [
+      "A. First half",
+      "B. Second half",
+      "C. Both halves had the same",
+      "D. No yellow cards"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      10,
+      11,
+      13,
+      19
+    ],
+    "current_event_index": null,
+    "index": 13,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Manchester United",
+      "B. West Ham",
+      "C. Both teams had the same",
+      "D. No yellow cards"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      10,
+      11,
+      13,
+      19
+    ],
+    "current_event_index": null,
+    "index": 14,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Did both teams have yellow cards in both halves?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Only in the first half",
+      "D. Only in the second half"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      10,
+      11,
+      13,
+      19
+    ],
+    "current_event_index": null,
+    "index": 15,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player was involved in the most yellow cards?",
+    "choices": [
+      "A. Eric Bailly",
+      "B. Pablo Zabaleta",
+      "C. Antonio Valencia",
+      "D. Angelo Ogbonna"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      10,
+      11,
+      13,
+      19
+    ],
+    "current_event_index": null,
+    "index": 16,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in yellow cards?",
+    "choices": [
+      "A. Eric Bailly, Pablo Zabaleta",
+      "B. Eric Bailly, Pablo Zabaleta, Antonio Valencia",
+      "C. Eric Bailly, Pablo Zabaleta, Antonio Valencia, Angelo Ogbonna",
+      "D. No players"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      10,
+      11,
+      13,
+      19
+    ],
+    "current_event_index": null,
+    "index": 17,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      11,
+      13,
+      19
+    ],
+    "current_event_index": 10,
+    "index": 18,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Manchester United",
+      "B. West Ham",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      11
+    ],
+    "current_event_index": 10,
+    "index": 19,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will player X be involved in another yellow card?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      13
+    ],
+    "current_event_index": 10,
+    "index": 20,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      13,
+      19
+    ],
+    "current_event_index": 11,
+    "index": 21,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Manchester United",
+      "B. West Ham",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      13
+    ],
+    "current_event_index": 11,
+    "index": 22,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will player X be involved in another yellow card?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      19
+    ],
+    "current_event_index": 11,
+    "index": 23,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      19
+    ],
+    "current_event_index": 13,
+    "index": 24,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Manchester United",
+      "B. West Ham",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      19
+    ],
+    "current_event_index": 13,
+    "index": 25,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will player X be involved in another yellow card?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 13,
+    "index": 26,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 3",
+      "B. 5",
+      "C. 7",
+      "D. 9"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9
+    ],
+    "current_event_index": 9,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Manchester United",
+      "B. West Ham",
+      "C. Both teams have taken equal corners",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9
+    ],
+    "current_event_index": 9,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Daley Blind",
+      "B. Juan Manuel Mata",
+      "C. Diafra Sakho",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      9
+    ],
+    "current_event_index": 9,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 10",
+      "B. 12",
+      "C. 14",
+      "D. 16"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      16,
+      17,
+      18,
+      20
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Manchester United",
+      "B. West Ham",
+      "C. Both teams had equal corners",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      16,
+      17,
+      18,
+      20
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Daley Blind",
+      "B. Juan Manuel Mata",
+      "C. Diafra Sakho",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      16,
+      17,
+      18,
+      20
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. It's uncertain",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      16,
+      17,
+      18,
+      20
+    ],
+    "current_event_index": 9,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Manchester United",
+      "B. West Ham",
+      "C. Both teams are equally likely",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      16,
+      17,
+      18,
+      20
+    ],
+    "current_event_index": 9,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Daley Blind",
+      "B. Juan Manuel Mata",
+      "C. Diafra Sakho",
+      "D. None of the above"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      20
+    ],
+    "current_event_index": 9,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

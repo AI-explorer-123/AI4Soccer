@@ -1,0 +1,742 @@
+{
+  "match_info": {
+    "timestamp": "2019-12-12 04:00:00",
+    "score": "5 - 0",
+    "home_team": "PSG",
+    "away_team": "Galatasaray",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 3 - 3",
+    "venue": "Parc des Princes (Paris)",
+    "capacity": "48 229",
+    "attendance": "46 509"
+  },
+  "referee_data": {
+    "short_name_country": "Kovacs I. (Rou)",
+    "first_name": "Kovacs",
+    "abbr_last_name": "I",
+    "country": "Rou",
+    "detected_name": "Istvan Kovacs"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Terim F.",
+        "players_number": "",
+        "Full Name": "Fatih Terim",
+        "players_rating": "",
+        "Country": "Turkey",
+        "Role": "coach",
+        "Age and Birthdate": "70,  (04.09.1953)",
+        "Market Value": "",
+        "unicode": "dxUHcsAt"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Andone F.",
+        "players_number": "",
+        "Full Name": "Florin Andone",
+        "players_rating": "",
+        "Country": "Romania",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (11.04.1993)",
+        "Market Value": "€726k",
+        "unicode": "lzPpT87f"
+      },
+      {
+        "players_name": "Babel R.",
+        "players_number": "",
+        "Full Name": "Ryan Babel",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "€145k, (19.12.1986)",
+        "Market Value": "30.06.2024",
+        "unicode": "Ywb7lMkb"
+      },
+      {
+        "players_name": "Buyuk A.",
+        "players_number": "",
+        "Full Name": "Adem Buyuk",
+        "players_rating": "",
+        "Country": "Turkey",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (30.08.1987)",
+        "Market Value": "€145k",
+        "unicode": "p0tr0WYL"
+      },
+      {
+        "players_name": "Feghouli S.",
+        "players_number": "",
+        "Full Name": "Sofiane Feghouli",
+        "players_rating": "",
+        "Country": "Algeria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (26.12.1989)",
+        "Market Value": "€421k",
+        "unicode": "G2eHULFU"
+      },
+      {
+        "players_name": "Luyindama C.",
+        "players_number": "",
+        "Full Name": "Christian Luyindama",
+        "players_rating": "",
+        "Country": "DR Congo",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (08.01.1994)",
+        "Market Value": "",
+        "unicode": "v7lCRnLe"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Bayram O.",
+        "players_number": "19",
+        "Full Name": "Omer Bayram",
+        "players_rating": 6.6,
+        "Country": "Turkey",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (27.07.1991)",
+        "Market Value": "€73k",
+        "unicode": "lvSDR5zA"
+      },
+      {
+        "players_name": "Belhanda Y.",
+        "players_number": "10",
+        "Full Name": "Younes Belhanda",
+        "players_rating": 6.3,
+        "Country": "Morocco",
+        "Role": "Midfielder",
+        "Age and Birthdate": "€1.7m, (25.02.1990)",
+        "Market Value": "30.06.2024",
+        "unicode": "4O9g2qH0"
+      },
+      {
+        "players_name": "Donk R.",
+        "players_number": "15",
+        "Full Name": "Ryan Donk",
+        "players_rating": 5.1,
+        "Country": "Suriname",
+        "Role": "Defender",
+        "Age and Birthdate": "37, (30.03.1986)",
+        "Market Value": "",
+        "unicode": "CMCTeMxS"
+      },
+      {
+        "players_name": "Lemina M.",
+        "players_number": "99",
+        "Full Name": "Mario Lemina",
+        "players_rating": 6.4,
+        "Country": "Gabon",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (01.09.1993)",
+        "Market Value": "€9.5m",
+        "unicode": "dYDkA1lR"
+      },
+      {
+        "players_name": "Marcao",
+        "players_number": "45",
+        "Full Name": "Marcao",
+        "players_rating": 5.9,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (05.06.1996)",
+        "Market Value": "€4.8m",
+        "unicode": "OOFwBfsT"
+      },
+      {
+        "players_name": "Mariano",
+        "players_number": "22",
+        "Full Name": "Mariano",
+        "players_rating": 6.5,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "37, (23.06.1986)",
+        "Market Value": "€287k",
+        "unicode": "4SOTAaN0"
+      },
+      {
+        "players_name": "Mor E.",
+        "players_number": "97",
+        "Full Name": "Emre Mor",
+        "players_rating": 6.6,
+        "Country": "Turkey",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (24.07.1997)",
+        "Market Value": "€2.4m",
+        "unicode": "Kd02fMXo"
+      },
+      {
+        "players_name": "Muslera F. (G) (C)",
+        "players_number": "1",
+        "Full Name": "Fernando Muslera",
+        "players_rating": 6.1,
+        "Country": "Uruguay",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (16.06.1986)",
+        "Market Value": "€1.5m",
+        "unicode": "65awSbS3"
+      },
+      {
+        "players_name": "N'Zonzi S.",
+        "players_number": "92",
+        "Full Name": "Steven N'Zonzi",
+        "players_rating": 5.7,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (15.12.1988)",
+        "Market Value": "€1.4m",
+        "unicode": "OUq8hfI7"
+      },
+      {
+        "players_name": "Nagatomo Y.",
+        "players_number": "55",
+        "Full Name": "Yuto Nagatomo",
+        "players_rating": 5.8,
+        "Country": "Japan",
+        "Role": "Defender",
+        "Age and Birthdate": "37, (12.09.1986)",
+        "Market Value": "€274k",
+        "unicode": "hprzBx6h"
+      },
+      {
+        "players_name": "Seri J. M.",
+        "players_number": "6",
+        "Full Name": "Jean Michael Seri",
+        "players_rating": 6.1,
+        "Country": "Ivory Coast",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (19.07.1991)",
+        "Market Value": "€1.2m",
+        "unicode": "fq8rAzEM"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Falcao R.",
+        "players_number": "9",
+        "Full Name": "Radamel Falcao",
+        "players_rating": 6.5,
+        "Country": "Colombia",
+        "Role": "Forward",
+        "Age and Birthdate": "37, (10.02.1986)",
+        "Market Value": "€1.1m",
+        "unicode": "2oMimkAU"
+      },
+      {
+        "players_name": "Inan S.",
+        "players_number": "8",
+        "Full Name": "Selcuk Inan",
+        "players_rating": 6.1,
+        "Country": "Turkey",
+        "Role": "Midfielder",
+        "Age and Birthdate": "38, (10.02.1985)",
+        "Market Value": "",
+        "unicode": "0Y5mZX7o"
+      },
+      {
+        "players_name": "Ozbayrakli S.",
+        "players_number": "2",
+        "Full Name": "Sener Ozbayrakli",
+        "players_rating": 6.2,
+        "Country": "Turkey",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (23.01.1990)",
+        "Market Value": "",
+        "unicode": "xQnSuYWa"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Akgun Y.",
+        "players_number": "17",
+        "Full Name": "Yunus Akgun",
+        "players_rating": "",
+        "Country": "Turkey",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (07.07.2000)",
+        "Market Value": "€5.8m",
+        "unicode": "GMMnzfim"
+      },
+      {
+        "players_name": "Bayram E.",
+        "players_number": "40",
+        "Full Name": "Emin Bayram",
+        "players_rating": "",
+        "Country": "Turkey",
+        "Role": "Defender",
+        "Age and Birthdate": "20, (02.04.2003)",
+        "Market Value": "€1.5m",
+        "unicode": "lYZyU3c1"
+      },
+      {
+        "players_name": "Kocuk O. (G)",
+        "players_number": "34",
+        "Full Name": "Okan Kocuk",
+        "players_rating": "",
+        "Country": "Turkey",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (27.07.1995)",
+        "Market Value": "€726k",
+        "unicode": "pdib6j6N"
+      },
+      {
+        "players_name": "Yardimci E.",
+        "players_number": "41",
+        "Full Name": "Erencan Yardimci",
+        "players_rating": "",
+        "Country": "Turkey",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (04.02.2002)",
+        "Market Value": "€1.3m",
+        "unicode": "OKTOpvGO"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Tuchel T.",
+        "players_number": "",
+        "Full Name": "Thomas Tuchel",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "50,  (29.08.1973)",
+        "Market Value": "",
+        "unicode": "CQTUFgPk"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Gueye I.",
+        "players_number": "",
+        "Full Name": "Idrissa Gueye",
+        "players_rating": "",
+        "Country": "Senegal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (26.09.1989)",
+        "Market Value": "€3.9m",
+        "unicode": "f12b2WQA"
+      },
+      {
+        "players_name": "Herrera A.",
+        "players_number": "",
+        "Full Name": "Ander Herrera",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (14.08.1989)",
+        "Market Value": "€2.4m",
+        "unicode": "jyzWX8yk"
+      },
+      {
+        "players_name": "Kimpembe P.",
+        "players_number": "",
+        "Full Name": "Presnel Kimpembe",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (13.08.1995)",
+        "Market Value": "€18.7m",
+        "unicode": "dMyiR1D8"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Bernat J.",
+        "players_number": "14",
+        "Full Name": "Juan Bernat",
+        "players_rating": 7.3,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (01.03.1993)",
+        "Market Value": "€5.7m",
+        "unicode": "Cd1ieN88"
+      },
+      {
+        "players_name": "Diallo A.",
+        "players_number": "22",
+        "Full Name": "Abdou Diallo",
+        "players_rating": 6.4,
+        "Country": "Senegal",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (04.05.1996)",
+        "Market Value": "€8.7m",
+        "unicode": "M5WugaXi"
+      },
+      {
+        "players_name": "Icardi M.",
+        "players_number": "18",
+        "Full Name": "Mauro Icardi",
+        "players_rating": 7.0,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (19.02.1993)",
+        "Market Value": "€21.0m",
+        "unicode": "xKyjFkf6"
+      },
+      {
+        "players_name": "Kurzawa L.",
+        "players_number": "20",
+        "Full Name": "Layvin Kurzawa",
+        "players_rating": 7.1,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (04.09.1992)",
+        "Market Value": "€2.2m",
+        "unicode": "joeqPtde"
+      },
+      {
+        "players_name": "Marquinhos (C)",
+        "players_number": "5",
+        "Full Name": "Marquinhos",
+        "players_rating": 7.4,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (14.05.1994)",
+        "Market Value": "€58.7m",
+        "unicode": "UFfev8HP"
+      },
+      {
+        "players_name": "Mbappe K.",
+        "players_number": "7",
+        "Full Name": "Kylian Mbappe",
+        "players_rating": 9.0,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (20.12.1998)",
+        "Market Value": "€204.2m",
+        "unicode": "Wn6E2SED"
+      },
+      {
+        "players_name": "Neymar",
+        "players_number": "10",
+        "Full Name": "Neymar",
+        "players_rating": 9.4,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (05.02.1992)",
+        "Market Value": "€49.6m",
+        "unicode": "jNOPwl3h"
+      },
+      {
+        "players_name": "Nianzou T.",
+        "players_number": "35",
+        "Full Name": "Tanguy Nianzou",
+        "players_rating": 7.3,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (07.06.2002)",
+        "Market Value": "€4.8m",
+        "unicode": "zHxpGqc8"
+      },
+      {
+        "players_name": "Paredes L.",
+        "players_number": "8",
+        "Full Name": "Leandro Paredes",
+        "players_rating": 7.7,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (29.06.1994)",
+        "Market Value": "€7.7m",
+        "unicode": "lbNnSBiA"
+      },
+      {
+        "players_name": "Rico S. (G)",
+        "players_number": "16",
+        "Full Name": "Sergio Rico",
+        "players_rating": 6.5,
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "30, (01.09.1993)",
+        "Market Value": "30.06.2024",
+        "unicode": "OYp32022"
+      },
+      {
+        "players_name": "Sarabia P.",
+        "players_number": "19",
+        "Full Name": "Pablo Sarabia",
+        "players_rating": 8.6,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (11.05.1992)",
+        "Market Value": "€11.2m",
+        "unicode": "lSX6pGT4"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Cavani E.",
+        "players_number": "9",
+        "Full Name": "Edinson Cavani",
+        "players_rating": 7.1,
+        "Country": "Uruguay",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (14.02.1987)",
+        "Market Value": "€1.8m",
+        "unicode": "Qgx2trzH"
+      },
+      {
+        "players_name": "Kehrer T.",
+        "players_number": "4",
+        "Full Name": "Thilo Kehrer",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (21.09.1996)",
+        "Market Value": "€8.3m",
+        "unicode": "UXQPdpOB"
+      },
+      {
+        "players_name": "Verratti M.",
+        "players_number": "6",
+        "Full Name": "Marco Verratti",
+        "players_rating": 6.7,
+        "Country": "Italy",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (05.11.1992)",
+        "Market Value": "€24.8m",
+        "unicode": "fmn5agXI"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Choupo-Moting E. M.",
+        "players_number": "17",
+        "Full Name": "Eric Maxim Choupo-Moting",
+        "players_rating": "",
+        "Country": "Cameroon",
+        "Role": "Forward",
+        "Age and Birthdate": "34, (23.03.1989)",
+        "Market Value": "€2.9m",
+        "unicode": "YBBM9RBF"
+      },
+      {
+        "players_name": "Draxler J.",
+        "players_number": "23",
+        "Full Name": "Julian Draxler",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (20.09.1993)",
+        "Market Value": "€4.9m",
+        "unicode": "plO3S4gF"
+      },
+      {
+        "players_name": "Navas K. (G)",
+        "players_number": "1",
+        "Full Name": "Keylor Navas",
+        "players_rating": "",
+        "Country": "Costa Rica",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (15.12.1986)",
+        "Market Value": "€2.0m",
+        "unicode": "dQEusiKl"
+      },
+      {
+        "players_name": "Silva T.",
+        "players_number": "2",
+        "Full Name": "Thiago Silva",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "39, (22.09.1984)",
+        "Market Value": "€2.0m",
+        "unicode": "xAsJbgXA"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "04:10",
+      "comments_type": "corner",
+      "comments_text": "Neymar (Paris SG) swings in the corner, but it's comfortably cleared away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "17:50",
+      "comments_type": "corner",
+      "comments_text": "Neymar (Paris SG) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "24:08",
+      "comments_type": "corner",
+      "comments_text": "Neymar (Paris SG) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "31:57",
+      "comments_type": "goal",
+      "comments_text": "Goal! Kylian Mbappe feeds Mauro Icardi (Paris SG), who taps the ball into an empty net. He makes it 1:0.",
+      "comments_text_anonymized": "Goal! [PLAYER] feeds [PLAYER] ([TEAM]), who taps the ball into an empty net. He makes it 1:0.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:26",
+      "comments_type": "goal",
+      "comments_text": "GOAL! Superb work from Neymar, who plays a vital role in the build-up. He squares it to Pablo Sarabia (Paris SG), who beats Fernando Muslera with a brilliant shot into the bottom left corner. 2:0.",
+      "comments_text_anonymized": "GOAL! Superb work from [PLAYER], who plays a vital role in the build-up. He squares it to [PLAYER] ([TEAM]), who beats [PLAYER] with a brilliant shot into the bottom left corner. 2:0.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:42",
+      "comments_type": "substitution",
+      "comments_text": "Fatih Terim is forced to make a change. Jean Michael Seri is not able to carry on due to injury. He is replaced by Selcuk Inan (Galatasaray).",
+      "comments_text_anonymized": "[PLAYER] is forced to make a change. [PLAYER] is not able to carry on due to injury. He is replaced by [PLAYER] ([TEAM]).",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "44:10",
+      "comments_type": "yellow card",
+      "comments_text": "Istvan Kovacs shows a yellow card to Layvin Kurzawa (Paris SG) for his blatant foul.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "01:00",
+      "comments_type": "goal",
+      "comments_text": "Goal Neymar (Paris SG)! Neymar (Paris SG) was put through by Kylian Mbappe and he showed brilliant composure inside the box to fire into the bottom right corner. 3:0.",
+      "comments_text_anonymized": "Goal [PLAYER] ([TEAM])! [PLAYER] ([TEAM]) was put through by [PLAYER] and he showed brilliant composure inside the box to fire into the bottom right corner. 3:0.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "04:02",
+      "comments_type": "yellow card",
+      "comments_text": "Younes Belhanda (Galatasaray) is booked after bringing down an opponent. Istvan Kovacs had an easy-decision to make.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:33",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Steven N'Zonzi (Galatasaray) was quite harsh and Istvan Kovacs didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:40",
+      "comments_type": "corner",
+      "comments_text": "Mariano (Galatasaray) sends the ball into the box from the side of the pitch, but his cross is blocked. The referee and one of his assistants signal for a corner kick to Galatasaray.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) sends the ball into the box from the side of the pitch, but his cross is blocked. The referee and one of his assistants signal for a corner kick to [TEAM].",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:31",
+      "comments_type": "substitution",
+      "comments_text": "We are about to witness a subsitution. Falcao (Galatasaray) for Emre Mor.",
+      "comments_text_anonymized": "We are about to witness a subsitution. [PLAYER] ([TEAM]) for [PLAYER].",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:58",
+      "comments_type": "corner",
+      "comments_text": "Selcuk Inan (Galatasaray) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "17:45",
+      "comments_type": "goal",
+      "comments_text": "Goal! Neymar slips a clever pass through to Kylian Mbappe (Paris SG), who moves inside the box and sends a measured shot beyond the keeper and into the bottom left corner. 4:0.",
+      "comments_text_anonymized": "Goal! [PLAYER] slips a clever pass through to [PLAYER] ([TEAM]), who moves inside the box and sends a measured shot beyond the keeper and into the bottom left corner. 4:0.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:18",
+      "comments_type": "substitution",
+      "comments_text": "A substitution has been made. Mauro Icardi goes off and Edinson Cavani (Paris SG) comes on.",
+      "comments_text_anonymized": "A substitution has been made. [PLAYER] goes off and [PLAYER] ([TEAM]) comes on.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:36",
+      "comments_type": "substitution",
+      "comments_text": "The referee signals that it is time for a substitution and Sener Ozbayrakli (Galatasaray) comes onto the pitch so that Steven N'Zonzi can be given a rest.",
+      "comments_text_anonymized": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) comes onto the pitch so that [PLAYER] can be given a rest.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:22",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Juan Bernat is going off and Thomas Tuchel gives the last tactical orders to Thilo Kehrer (Paris SG).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:22",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Tanguy Kouassi leaves the pitch and Marco Verratti (Paris SG) comes on.",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and Tanguy Kouassi leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "35:58",
+      "comments_type": "yellow card",
+      "comments_text": "Falcao (Galatasaray) is booked after bringing down an opponent. Istvan Kovacs had an easy-decision to make.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:51",
+      "comments_type": "yellow card",
+      "comments_text": "The referee shows a yellow card to Fernando Muslera (Galatasaray). No wonder. A clear yellow for bad language.",
+      "comments_text_anonymized": "The referee shows a yellow card to [PLAYER] ([TEAM]). No wonder. A clear yellow for bad language.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:20",
+      "comments_type": "penalty",
+      "comments_text": "Edinson Cavani (Paris SG) is heading towards the penalty spot to take it.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:17",
+      "comments_type": "goal",
+      "comments_text": "Goal! Edinson Cavani (Paris SG) wins the battle of wills and sends an unstoppable penalty past Fernando Muslera into the bottom right corner.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) wins the battle of wills and sends an unstoppable penalty past [PLAYER] into the bottom right corner.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:10",
+      "comments_type": "yellow card",
+      "comments_text": "Whoa! Such gestures are commonly penalised and Selcuk Inan (Galatasaray) duly receives a yellow card.",
+      "comments_text_anonymized": "Whoa! Such gestures are commonly penalised and [PLAYER] ([TEAM]) duly receives a yellow card.",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "40:01",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Mario Lemina (Galatasaray) was quite harsh and Istvan Kovacs didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 23
+    }
+  ]
+}

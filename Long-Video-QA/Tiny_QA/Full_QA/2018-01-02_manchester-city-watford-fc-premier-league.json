@@ -1,0 +1,614 @@
+[
+  {
+    "question": "Who scored the first goal in the match?",
+    "choices": [
+      "A. Raheem Sterling",
+      "B. Christian Kabasele",
+      "C. Sergio Aguero",
+      "D. Andre Gray"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 0,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the first goal?",
+    "choices": [
+      "A. Manchester City",
+      "B. Watford"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0
+    ],
+    "current_event_index": 0,
+    "index": 1,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many goals have occurred by the 13th minute?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 2,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored an own goal in the first half?",
+    "choices": [
+      "A. Raheem Sterling",
+      "B. Christian Kabasele",
+      "C. Sergio Aguero",
+      "D. Andre Gray"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team had more goals by halftime?",
+    "choices": [
+      "A. Manchester City",
+      "B. Watford"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      4
+    ],
+    "current_event_index": 4,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who scored Manchester City's third goal?",
+    "choices": [
+      "A. Raheem Sterling",
+      "B. Christian Kabasele",
+      "C. Sergio Aguero",
+      "D. Andre Gray"
+    ],
+    "answer": "C",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      14
+    ],
+    "current_event_index": 14,
+    "index": 5,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the last goal of the match?",
+    "choices": [
+      "A. Manchester City",
+      "B. Watford"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      20
+    ],
+    "current_event_index": 20,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many total goals occurred in the match?",
+    "choices": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      4,
+      14,
+      20
+    ],
+    "current_event_index": null,
+    "index": 7,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team scored the most goals in the match?",
+    "choices": [
+      "A. Manchester City",
+      "B. Watford"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      4,
+      14,
+      20
+    ],
+    "current_event_index": null,
+    "index": 8,
+    "event_type": "goal"
+  },
+  {
+    "question": "Who were all the players involved in goals?",
+    "choices": [
+      "A. Sterling, Kabasele, Aguero",
+      "B. Sterling, Kabasele, Gray",
+      "C. Sterling, Kabasele, Aguero, Gray",
+      "D. Sterling, Aguero, Gray"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      0,
+      4,
+      14,
+      20
+    ],
+    "current_event_index": null,
+    "index": 9,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more goals after the 18th minute of the second half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      20
+    ],
+    "current_event_index": 14,
+    "index": 10,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to score next after the first goal?",
+    "choices": [
+      "A. Manchester City",
+      "B. Watford"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 0,
+    "index": 11,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will Raheem Sterling score another goal after his first?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [],
+    "current_event_index": 0,
+    "index": 12,
+    "event_type": "goal"
+  },
+  {
+    "question": "How many yellow cards have occurred so far?",
+    "choices": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 0,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team has received more yellow cards up to now?",
+    "choices": [
+      "A. Manchester City",
+      "B. Watford",
+      "C. Both teams have the same",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player received the last yellow card?",
+    "choices": [
+      "A. David Silva",
+      "B. Roberto Pereyra",
+      "C. None",
+      "D. Both"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      5
+    ],
+    "current_event_index": 5,
+    "index": 2,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many total yellow cards occurred in the match?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      5,
+      22
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team had the most yellow cards in the match?",
+    "choices": [
+      "A. Manchester City",
+      "B. Watford",
+      "C. Both teams have the same",
+      "D. Neither team"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      5,
+      22
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Who were all the players involved in yellow cards?",
+    "choices": [
+      "A. David Silva",
+      "B. Roberto Pereyra",
+      "C. Both A and B",
+      "D. None"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      5,
+      22
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Will there be more yellow cards in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      22
+    ],
+    "current_event_index": 5,
+    "index": 6,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. Manchester City",
+      "B. Watford",
+      "C. Both",
+      "D. Neither"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      22
+    ],
+    "current_event_index": 5,
+    "index": 7,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next yellow card?",
+    "choices": [
+      "A. David Silva",
+      "B. Roberto Pereyra",
+      "C. None",
+      "D. Both"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      22
+    ],
+    "current_event_index": 5,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many corners have occurred so far?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      2,
+      3
+    ],
+    "current_event_index": 3,
+    "index": 0,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has taken more corners up to now?",
+    "choices": [
+      "A. Manchester City",
+      "B. Watford",
+      "C. Both teams have taken the same number",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "current_event_index": 6,
+    "index": 1,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who took the last corner kick?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. Marvin Zeegelaar",
+      "C. David Silva",
+      "D. Sergio Aguero"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "current_event_index": 6,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "How many total corners occurred in the match?",
+    "choices": [
+      "A. 5",
+      "B. 7",
+      "C. 9",
+      "D. 11"
+    ],
+    "answer": "C",
+    "type": "full",
+    "question_level": "match",
+    "related_event_index": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      8,
+      9,
+      10,
+      13,
+      16,
+      19
+    ],
+    "current_event_index": null,
+    "index": 3,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team had the most corners in the match?",
+    "choices": [
+      "A. Manchester City",
+      "B. Watford",
+      "C. Both teams had the same number",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "team",
+    "related_event_index": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      8,
+      9,
+      10,
+      13,
+      16,
+      19
+    ],
+    "current_event_index": null,
+    "index": 4,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player was involved in the most corners?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. David Silva",
+      "C. Marvin Zeegelaar",
+      "D. Sergio Aguero"
+    ],
+    "answer": "A",
+    "type": "full",
+    "question_level": "player",
+    "related_event_index": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      8,
+      9,
+      10,
+      13,
+      16,
+      19
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "corner"
+  },
+  {
+    "question": "Will there be more corners in this match?",
+    "choices": [
+      "A. Yes",
+      "B. No",
+      "C. Maybe",
+      "D. Not sure"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      7,
+      8,
+      9,
+      10,
+      13,
+      16,
+      19
+    ],
+    "current_event_index": 6,
+    "index": 6,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team is more likely to get the next corner?",
+    "choices": [
+      "A. Manchester City",
+      "B. Watford",
+      "C. Both teams equally",
+      "D. None"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      7,
+      8,
+      9,
+      10,
+      13,
+      16,
+      19
+    ],
+    "current_event_index": 6,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which player is most likely to be involved in the next corner?",
+    "choices": [
+      "A. Kevin De Bruyne",
+      "B. David Silva",
+      "C. Marvin Zeegelaar",
+      "D. Sergio Aguero"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "player",
+    "related_event_index": [
+      7,
+      8,
+      9,
+      10,
+      13,
+      16,
+      19
+    ],
+    "current_event_index": 6,
+    "index": 8,
+    "event_type": "corner"
+  }
+]

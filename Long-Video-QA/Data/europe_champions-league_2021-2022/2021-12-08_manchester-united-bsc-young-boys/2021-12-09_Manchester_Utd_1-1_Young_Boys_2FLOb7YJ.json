@@ -1,0 +1,798 @@
+{
+  "match_info": {
+    "timestamp": "2021-12-09 04:00:00",
+    "score": "1 - 1",
+    "home_team": "Manchester Utd",
+    "away_team": "Young Boys",
+    "home_formation": "4 - 4 - 2",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Old Trafford (Manchester)",
+    "capacity": "75 635",
+    "attendance": "73 156"
+  },
+  "referee_data": {
+    "short_name_country": "Bastien B. (Fra)",
+    "first_name": "Bastien",
+    "abbr_last_name": "B",
+    "country": "Fra",
+    "detected_name": "Benoit Bastien"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Rangnick R.",
+        "players_number": "",
+        "Full Name": "Ralf Rangnick",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "65,  (29.06.1958)",
+        "Market Value": "",
+        "unicode": "4E1uDB0F"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Cavani E.",
+        "players_number": "",
+        "Full Name": "Edinson Cavani",
+        "players_rating": "",
+        "Country": "Uruguay",
+        "Role": "Forward",
+        "Age and Birthdate": "36, (14.02.1987)",
+        "Market Value": "€1.8m",
+        "unicode": "Qgx2trzH"
+      },
+      {
+        "players_name": "Martial A.",
+        "players_number": "",
+        "Full Name": "Anthony Martial",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (05.12.1995)",
+        "Market Value": "€14.3m",
+        "unicode": "GrS6Vr75"
+      },
+      {
+        "players_name": "Pogba P.",
+        "players_number": "",
+        "Full Name": "Paul Pogba",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (15.03.1993)",
+        "Market Value": "€13.7m",
+        "unicode": "MTNGv0hT"
+      },
+      {
+        "players_name": "Varane R.",
+        "players_number": "",
+        "Full Name": "Raphael Varane",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (25.04.1993)",
+        "Market Value": "€24.1m",
+        "unicode": "t20vQIvC"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Bailly E.",
+        "players_number": "3",
+        "Full Name": "Eric Bailly",
+        "players_rating": 7.5,
+        "Country": "Ivory Coast",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (12.04.1994)",
+        "Market Value": "€3.1m",
+        "unicode": "G8VcNrxU"
+      },
+      {
+        "players_name": "Diallo A.",
+        "players_number": "16",
+        "Full Name": "Amad Diallo",
+        "players_rating": 6.6,
+        "Country": "Ivory Coast",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (11.07.2002)",
+        "Market Value": "€16.8m",
+        "unicode": "I5Rhq1WL"
+      },
+      {
+        "players_name": "Elanga A.",
+        "players_number": "36",
+        "Full Name": "Anthony Elanga",
+        "players_rating": 6.6,
+        "Country": "Sweden",
+        "Role": "Forward",
+        "Age and Birthdate": "21, (27.04.2002)",
+        "Market Value": "€17.6m",
+        "unicode": "dOlRWlZ6"
+      },
+      {
+        "players_name": "Greenwood M.",
+        "players_number": "11",
+        "Full Name": "Mason Greenwood",
+        "players_rating": 8.0,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (01.10.2001)",
+        "Market Value": "€7.4m",
+        "unicode": "hxe108Jl"
+      },
+      {
+        "players_name": "Henderson D. (G)",
+        "players_number": "26",
+        "Full Name": "Dean Henderson",
+        "players_rating": 7.1,
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "26, (12.03.1997)",
+        "Market Value": "€11.6m",
+        "unicode": "OpFOJojt"
+      },
+      {
+        "players_name": "Lingard J.",
+        "players_number": "14",
+        "Full Name": "Jesse Lingard",
+        "players_rating": 7.3,
+        "Country": "England",
+        "Role": "Midfielder",
+        "Age and Birthdate": "€5.5m, (15.12.1992)",
+        "Market Value": "",
+        "unicode": "xpqeeiSB"
+      },
+      {
+        "players_name": "Mata J.",
+        "players_number": "8",
+        "Full Name": "Juan Manuel Mata",
+        "players_rating": 7.0,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (28.04.1988)",
+        "Market Value": "€908k",
+        "unicode": "nHlv2UfS"
+      },
+      {
+        "players_name": "Matic N. (C)",
+        "players_number": "31",
+        "Full Name": "Nemanja Matic",
+        "players_rating": 6.3,
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (01.08.1988)",
+        "Market Value": "€3.4m",
+        "unicode": "Kty10JVG"
+      },
+      {
+        "players_name": "Shaw L.",
+        "players_number": "23",
+        "Full Name": "Luke Shaw",
+        "players_rating": 6.5,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (12.07.1995)",
+        "Market Value": "€37.2m",
+        "unicode": "88iLXV0O"
+      },
+      {
+        "players_name": "van de Beek D.",
+        "players_number": "34",
+        "Full Name": "Donny van de Beek",
+        "players_rating": 7.0,
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (18.04.1997)",
+        "Market Value": "€7.9m",
+        "unicode": "bs2gvblF"
+      },
+      {
+        "players_name": "Wan-Bissaka A.",
+        "players_number": "29",
+        "Full Name": "Aaron Wan-Bissaka",
+        "players_rating": 7.5,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (26.11.1997)",
+        "Market Value": "€19.6m",
+        "unicode": "faGmGOOh"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Heaton T. (G)",
+        "players_number": "22",
+        "Full Name": "Tom Heaton",
+        "players_rating": 6.1,
+        "Country": "England",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "37, (15.04.1986)",
+        "Market Value": "€262k",
+        "unicode": "MoaXS53r"
+      },
+      {
+        "players_name": "Iqbal Z.",
+        "players_number": "73",
+        "Full Name": "Zidane Iqbal",
+        "players_rating": "",
+        "Country": "Iraq",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (27.04.2003)",
+        "Market Value": "€922k",
+        "unicode": "KvvBRDjg"
+      },
+      {
+        "players_name": "Mengi T.",
+        "players_number": "43",
+        "Full Name": "Teden Mengi",
+        "players_rating": 6.5,
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (30.04.2002)",
+        "Market Value": "€6.7m",
+        "unicode": "pzv2zXZs"
+      },
+      {
+        "players_name": "Savage C.",
+        "players_number": "72",
+        "Full Name": "Charlie Savage",
+        "players_rating": "",
+        "Country": "Wales",
+        "Role": "Midfielder",
+        "Age and Birthdate": "20, (02.05.2003)",
+        "Market Value": "€562k",
+        "unicode": "dUPprmAb"
+      },
+      {
+        "players_name": "Shoretire S.",
+        "players_number": "47",
+        "Full Name": "Shola Shoretire",
+        "players_rating": 6.3,
+        "Country": "England",
+        "Role": "Forward",
+        "Age and Birthdate": "19, (02.02.2004)",
+        "Market Value": "€3.9m",
+        "unicode": "buyC4RMo"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Hardley B.",
+        "players_number": "64",
+        "Full Name": "Bjorn Hardley",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "21, (19.12.2002)",
+        "Market Value": "€88k",
+        "unicode": "nitJoSZO"
+      },
+      {
+        "players_name": "Kovar M. (G)",
+        "players_number": "51",
+        "Full Name": "Matej Kovar",
+        "players_rating": "",
+        "Country": "Czech Republic",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "23, (17.05.2000)",
+        "Market Value": "€5.0m",
+        "unicode": "tIXuiy4C"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Wagner D.",
+        "players_number": "",
+        "Full Name": "David Wagner",
+        "players_rating": "",
+        "Country": "USA",
+        "Role": "coach",
+        "Age and Birthdate": "52,  (19.10.1971)",
+        "Market Value": "",
+        "unicode": "OS3AwgCU"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Fassnacht C.",
+        "players_number": "",
+        "Full Name": "Christian Fassnacht",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (11.11.1993)",
+        "Market Value": "€2.4m",
+        "unicode": "CvP8jG9B"
+      },
+      {
+        "players_name": "Garcia U.",
+        "players_number": "",
+        "Full Name": "Ulisses Garcia",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (11.01.1996)",
+        "Market Value": "€3.0m",
+        "unicode": "2Rrnmrcp"
+      },
+      {
+        "players_name": "Mambimbi F.",
+        "players_number": "",
+        "Full Name": "Felix Mambimbi",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (18.01.2001)",
+        "Market Value": "€726k",
+        "unicode": "GlumWsgi"
+      },
+      {
+        "players_name": "Monteiro J.",
+        "players_number": "",
+        "Full Name": "Joel Monteiro",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (05.08.1999)",
+        "Market Value": "€1.9m",
+        "unicode": "xWWsgVFf"
+      },
+      {
+        "players_name": "Nsame J.",
+        "players_number": "",
+        "Full Name": "Jean-Pierre Nsame",
+        "players_rating": "",
+        "Country": "Cameroon",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (01.05.1993)",
+        "Market Value": "€3.0m",
+        "unicode": "C2XaJWk3"
+      },
+      {
+        "players_name": "Petignat E.",
+        "players_number": "",
+        "Full Name": "Esteban Petignat",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (17.05.2000)",
+        "Market Value": "30.06.2024",
+        "unicode": "SUXXj1b0"
+      },
+      {
+        "players_name": "von Ballmoos D.",
+        "players_number": "",
+        "Full Name": "David von Ballmoos",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "29, (30.12.1994)",
+        "Market Value": "€1.5m",
+        "unicode": "nLy6P9JG"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Aebischer M.",
+        "players_number": "20",
+        "Full Name": "Michel Aebischer",
+        "players_rating": 7.0,
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (06.01.1997)",
+        "Market Value": "€5.4m",
+        "unicode": "MiXFJwit"
+      },
+      {
+        "players_name": "Camara M.",
+        "players_number": "4",
+        "Full Name": "Mohamed Camara",
+        "players_rating": 6.8,
+        "Country": "Guinea",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (28.08.1997)",
+        "Market Value": "€4.1m",
+        "unicode": "IXR4Otot"
+      },
+      {
+        "players_name": "Elia M.",
+        "players_number": "15",
+        "Full Name": "Meschack Elia",
+        "players_rating": 6.6,
+        "Country": "DR Congo",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (06.08.1996)",
+        "Market Value": "€5.9m",
+        "unicode": "bThRZIx6"
+      },
+      {
+        "players_name": "Faivre G. (G)",
+        "players_number": "91",
+        "Full Name": "Guillaume Faivre",
+        "players_rating": 7.3,
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "36, (20.02.1987)",
+        "Market Value": "",
+        "unicode": "f3uUKla0"
+      },
+      {
+        "players_name": "Lefort J.",
+        "players_number": "25",
+        "Full Name": "Jordan Lefort",
+        "players_rating": 6.6,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (09.08.1993)",
+        "Market Value": "€932k",
+        "unicode": "ADepyvio"
+      },
+      {
+        "players_name": "Lustenberger F. (C)",
+        "players_number": "28",
+        "Full Name": "Fabian Lustenberger",
+        "players_rating": 6.7,
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (02.05.1988)",
+        "Market Value": "€98k",
+        "unicode": "6T3XjsFC"
+      },
+      {
+        "players_name": "Maceiras Q.",
+        "players_number": "24",
+        "Full Name": "Quentin Maceiras",
+        "players_rating": 6.6,
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (10.10.1995)",
+        "Market Value": "€479k",
+        "unicode": "0twNNd9F"
+      },
+      {
+        "players_name": "Martins Pereira C.",
+        "players_number": "35",
+        "Full Name": "Christopher Martins Pereira",
+        "players_rating": 7.2,
+        "Country": "Luxembourg",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (19.02.1997)",
+        "Market Value": "€4.4m",
+        "unicode": "WYKZcEDH"
+      },
+      {
+        "players_name": "Moumi Ngamaleu N.",
+        "players_number": "13",
+        "Full Name": "Nicolas Moumi Ngamaleu",
+        "players_rating": 7.4,
+        "Country": "Cameroon",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (09.07.1994)",
+        "Market Value": "€3.5m",
+        "unicode": "AgsD65DC"
+      },
+      {
+        "players_name": "Rieder F.",
+        "players_number": "32",
+        "Full Name": "Fabian Rieder",
+        "players_rating": 7.3,
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "21, (16.02.2002)",
+        "Market Value": "€14.5m",
+        "unicode": "GQOPPSgM"
+      },
+      {
+        "players_name": "Siebatcheu J.",
+        "players_number": "17",
+        "Full Name": "Jordan Siebatcheu",
+        "players_rating": 6.4,
+        "Country": "USA",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (26.04.1996)",
+        "Market Value": "€5.6m",
+        "unicode": "K6XFTXqT"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Hefti S.",
+        "players_number": "36",
+        "Full Name": "Silvan Hefti",
+        "players_rating": 6.7,
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (25.10.1997)",
+        "Market Value": "€2.4m",
+        "unicode": "bPpZBqLi"
+      },
+      {
+        "players_name": "Kanga W.",
+        "players_number": "9",
+        "Full Name": "Wilfried Kanga",
+        "players_rating": 6.2,
+        "Country": "Ivory Coast",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (21.02.1998)",
+        "Market Value": "€3.6m",
+        "unicode": "EgY8lAGh"
+      },
+      {
+        "players_name": "Lauper S.",
+        "players_number": "30",
+        "Full Name": "Sandro Lauper",
+        "players_rating": 6.2,
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (25.10.1996)",
+        "Market Value": "€950k",
+        "unicode": "fX5Kx1hf"
+      },
+      {
+        "players_name": "Maier N.",
+        "players_number": "22",
+        "Full Name": "Nico Maier",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (02.07.2000)",
+        "Market Value": "",
+        "unicode": "K8xyDrLJ"
+      },
+      {
+        "players_name": "Sierro V.",
+        "players_number": "8",
+        "Full Name": "Vincent Sierro",
+        "players_rating": 6.7,
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (08.10.1995)",
+        "Market Value": "30.06.2026",
+        "unicode": "ILJ8o9a3"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Burgy N.",
+        "players_number": "14",
+        "Full Name": "Nicolas Burgy",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (07.08.1995)",
+        "Market Value": "€723k",
+        "unicode": "lE1smRGe"
+      },
+      {
+        "players_name": "Jankewitz A.",
+        "players_number": "11",
+        "Full Name": "Alexandre Jankewitz",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "22, (25.12.2001)",
+        "Market Value": "€726k",
+        "unicode": "dtlFH2g4"
+      },
+      {
+        "players_name": "Laidani A. (G)",
+        "players_number": "68",
+        "Full Name": "Abdullah Laidani",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "20, (26.04.2003)",
+        "Market Value": "30.06.2025",
+        "unicode": "tpSkcCFF"
+      },
+      {
+        "players_name": "Sulejmani M.",
+        "players_number": "10",
+        "Full Name": "Miralem Sulejmani",
+        "players_rating": "",
+        "Country": "Serbia",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (05.12.1988)",
+        "Market Value": "",
+        "unicode": "rLNH8kQ7"
+      },
+      {
+        "players_name": "Toure Y.",
+        "players_number": "29",
+        "Full Name": "Yannick Toure",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (29.09.2000)",
+        "Market Value": "€227k",
+        "unicode": "KIB5qpfh"
+      },
+      {
+        "players_name": "Zbinden L. (G)",
+        "players_number": "61",
+        "Full Name": "Leandro Zbinden",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "21, (30.07.2002)",
+        "Market Value": "30.06.2024",
+        "unicode": "G2SUv4al"
+      },
+      {
+        "players_name": "Zesiger C.",
+        "players_number": "5",
+        "Full Name": "Cedric Zesiger",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (24.06.1998)",
+        "Market Value": "€7.1m",
+        "unicode": "AZjCvCIn"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "08:31",
+      "comments_type": "goal",
+      "comments_text": "What a GOAL! The lofted pass into the box is expertly and acrobatically dispatched into the net by Mason Greenwood (Manchester United). 1:0.",
+      "comments_text_anonymized": "What a GOAL! The lofted pass into the box is expertly and acrobatically dispatched into the net by [PLAYER] ([TEAM]). 1:0.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "19:41",
+      "comments_type": "corner",
+      "comments_text": "The corner from Juan Manuel Mata (Manchester United) is intercepted by Guillaume Faivre.",
+      "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is intercepted by [PLAYER].",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:00",
+      "comments_type": "corner",
+      "comments_text": "Juan Manuel Mata (Manchester United) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "40:22",
+      "comments_type": "corner",
+      "comments_text": "Michel Aebischer (Young Boys) launches a cross from the corner, but Dean Henderson is alert to thwart the effort.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches a cross from the corner, but [PLAYER] is alert to thwart the effort.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "42:19",
+      "comments_type": "goal",
+      "comments_text": "GOAL! Fabian Rieder (Young Boys) gets to the ball on the edge of the box after a huge mistake by an opponent and slams it into the back of the net. He makes it 1:1.",
+      "comments_text_anonymized": "GOAL! [PLAYER] ([TEAM]) gets to the ball on the edge of the box after a huge mistake by an opponent and slams it into the back of the net. He makes it 1:1.",
+      "index": 4
+    },
+    {
+      "half": 2,
+      "time_stamp": "12:14",
+      "comments_type": "red card",
+      "comments_text": "It looks like Eric Bailly (Manchester United) saw red with that tackle. Benoit Bastien won't tolerate such behaviour on the pitch and blows for a foul.",
+      "comments_text_anonymized": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul.",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:28",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Teden Mengi (Manchester United) receives a signal from the referee and is now allowed to enter the pitch as Luke Shaw walks off.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER] walks off.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:33",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Michel Aebischer is going off and David Wagner gives the last tactical orders to Vincent Sierro (Young Boys).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:32",
+      "comments_type": "substitution",
+      "comments_text": "Today's match ends for Fabian Rieder who will be replaced by Silvan Hefti (Young Boys).",
+      "comments_text_anonymized": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM]).",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "16:50",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Wilfried Kanga (Young Boys) replaces Jordan Siebatcheu.",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:03",
+      "comments_type": "corner",
+      "comments_text": "Vincent Sierro (Young Boys) takes the ball to the corner flag and sends it into the box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the ball to the corner flag and sends it into the box.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:03",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Tom Heaton (Manchester United) on for Dean Henderson.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) on for [PLAYER].",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:39",
+      "comments_type": "substitution",
+      "comments_text": "Ralf Rangnick has decided to make a change. Shola Shoretire (Manchester United) replaces Amad Diallo.",
+      "comments_text_anonymized": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:07",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Sandro Lauper (Young Boys) has come on for Mohamed Camara.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER].",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:50",
+      "comments_type": "yellow card",
+      "comments_text": "Shola Shoretire (Manchester United) makes a bad challenge and receives a yellow card. The referee had no doubt.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) makes a bad challenge and receives a yellow card. The referee had no doubt.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:00",
+      "comments_type": "substitution",
+      "comments_text": "We are about to witness a substitution. Nico Maier (Young Boys) is replacing Elia Meschack.",
+      "comments_text_anonymized": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER] Meschack.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:36",
+      "comments_type": "substitution",
+      "comments_text": "Ralf Rangnick has decided to substitute Jesse Lingard and he is replaced by Zidane Iqbal (Manchester United).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:39",
+      "comments_type": "substitution",
+      "comments_text": "The substitution is prepared. Charlie Savage (Manchester United) joins the action as a substitute, replacing Juan Manuel Mata.",
+      "comments_text_anonymized": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER].",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:21",
+      "comments_type": "corner",
+      "comments_text": "Vincent Sierro (Young Boys) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "46:51",
+      "comments_type": "corner",
+      "comments_text": "Vincent Sierro (Young Boys) decides to take a short corner instead of crossing into the box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box.",
+      "index": 19
+    }
+  ]
+}

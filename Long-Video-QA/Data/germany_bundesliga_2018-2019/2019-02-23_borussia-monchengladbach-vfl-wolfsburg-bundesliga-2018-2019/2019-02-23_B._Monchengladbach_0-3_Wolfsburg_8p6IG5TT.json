@@ -1,0 +1,783 @@
+{
+  "match_info": {
+    "timestamp": "2019-02-23 22:30:00",
+    "score": "0 - 3",
+    "home_team": "B. Monchengladbach",
+    "away_team": "Wolfsburg",
+    "home_formation": "4 - 3 - 3",
+    "away_formation": "4 - 3 - 3",
+    "venue": "Borussia-Park (Mönchengladbach)",
+    "capacity": "54 042",
+    "attendance": "48 041"
+  },
+  "referee_data": {
+    "short_name_country": "Kampka R. (Ger)",
+    "first_name": "Kampka",
+    "abbr_last_name": "R",
+    "country": "Ger",
+    "detected_name": "Robert Kampka"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Hecking D.",
+        "players_number": "",
+        "Full Name": "Dieter Hecking",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "59,  (12.09.1964)",
+        "Market Value": "",
+        "unicode": "MuTxye1F"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Bennetts K.",
+        "players_number": "",
+        "Full Name": "Keanan Bennetts",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (09.03.1999)",
+        "Market Value": "€454k",
+        "unicode": "dl42atT3"
+      },
+      {
+        "players_name": "Cuisance M.",
+        "players_number": "",
+        "Full Name": "Mickael Cuisance",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (16.08.1999)",
+        "Market Value": "€1.4m",
+        "unicode": "QNd9XJHR"
+      },
+      {
+        "players_name": "Doucoure M.",
+        "players_number": "",
+        "Full Name": "Mamadou Doucoure",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (21.05.1998)",
+        "Market Value": "30.06.2024",
+        "unicode": "2cJApqO5"
+      },
+      {
+        "players_name": "Mayer F.",
+        "players_number": "",
+        "Full Name": "Florian Mayer",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "€69k, (04.03.1998)",
+        "Market Value": "30.06.2025",
+        "unicode": "YqE9NfG5"
+      },
+      {
+        "players_name": "Raffael",
+        "players_number": "",
+        "Full Name": "Raffael",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "38, (28.03.1985)",
+        "Market Value": "",
+        "unicode": "vkCw5cKl"
+      },
+      {
+        "players_name": "Traore I.",
+        "players_number": "",
+        "Full Name": "Ibrahima Traore",
+        "players_rating": "",
+        "Country": "Guinea",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (21.04.1988)",
+        "Market Value": "",
+        "unicode": "MPeb9OUt"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Elvedi N.",
+        "players_number": "30",
+        "Full Name": "Nico Elvedi",
+        "players_rating": 6.1,
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (30.09.1996)",
+        "Market Value": "€13.9m",
+        "unicode": "fZO9OHIM"
+      },
+      {
+        "players_name": "Ginter M.",
+        "players_number": "28",
+        "Full Name": "Matthias Ginter",
+        "players_rating": 5.8,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (19.01.1994)",
+        "Market Value": "€14.9m",
+        "unicode": "27fpNoQk"
+      },
+      {
+        "players_name": "Hazard T.",
+        "players_number": "10",
+        "Full Name": "Thorgan Hazard",
+        "players_rating": 6.6,
+        "Country": "Belgium",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (29.03.1993)",
+        "Market Value": "€5.8m",
+        "unicode": "KOq0yhLo"
+      },
+      {
+        "players_name": "Herrmann P.",
+        "players_number": "7",
+        "Full Name": "Patrick Herrmann",
+        "players_rating": 6.3,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (12.02.1991)",
+        "Market Value": "€894k",
+        "unicode": "df2eQNM7"
+      },
+      {
+        "players_name": "Johnson F.",
+        "players_number": "19",
+        "Full Name": "Fabian Johnson",
+        "players_rating": 6.2,
+        "Country": "USA",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (11.12.1987)",
+        "Market Value": "",
+        "unicode": "j9cppQ1t"
+      },
+      {
+        "players_name": "Kramer Ch.",
+        "players_number": "6",
+        "Full Name": "Christoph Kramer",
+        "players_rating": 7.0,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (19.02.1991)",
+        "Market Value": "€1.8m",
+        "unicode": "OKbPLxLj"
+      },
+      {
+        "players_name": "Neuhaus F.",
+        "players_number": "32",
+        "Full Name": "Florian Neuhaus",
+        "players_rating": 6.1,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (16.03.1997)",
+        "Market Value": "€8.4m",
+        "unicode": "ALwvJeYD"
+      },
+      {
+        "players_name": "Sommer Y. (G)",
+        "players_number": "1",
+        "Full Name": "Yann Sommer",
+        "players_rating": 5.4,
+        "Country": "Switzerland",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (17.12.1988)",
+        "Market Value": "€4.9m",
+        "unicode": "4zA5n1UG"
+      },
+      {
+        "players_name": "Stindl L. (C)",
+        "players_number": "13",
+        "Full Name": "Lars Stindl",
+        "players_rating": 6.7,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (26.08.1988)",
+        "Market Value": "€986k",
+        "unicode": "COipysWk"
+      },
+      {
+        "players_name": "Wendt O.",
+        "players_number": "17",
+        "Full Name": "Oscar Wendt",
+        "players_rating": 5.8,
+        "Country": "Sweden",
+        "Role": "Defender",
+        "Age and Birthdate": "38, (24.10.1985)",
+        "Market Value": "€289k",
+        "unicode": "IuB7l6zM"
+      },
+      {
+        "players_name": "Zakaria D.",
+        "players_number": "8",
+        "Full Name": "Denis Zakaria",
+        "players_rating": 6.4,
+        "Country": "Switzerland",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (20.11.1996)",
+        "Market Value": "€21.2m",
+        "unicode": "d23lOQrL"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Drmic J.",
+        "players_number": "18",
+        "Full Name": "Josip Drmic",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (08.08.1992)",
+        "Market Value": "€1.4m",
+        "unicode": "vN7cIkFq"
+      },
+      {
+        "players_name": "Hofmann J.",
+        "players_number": "23",
+        "Full Name": "Jonas Hofmann",
+        "players_rating": 6.5,
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (14.07.1992)",
+        "Market Value": "€12.5m",
+        "unicode": "xvCz3Gwd"
+      },
+      {
+        "players_name": "Plea A.",
+        "players_number": "14",
+        "Full Name": "Alassane Plea",
+        "players_rating": 5.9,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (10.03.1993)",
+        "Market Value": "€7.8m",
+        "unicode": "0rfLpu2t"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Jantschke T.",
+        "players_number": "24",
+        "Full Name": "Tony Jantschke",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (07.04.1990)",
+        "Market Value": "€372k",
+        "unicode": "8MBvC2Mq"
+      },
+      {
+        "players_name": "Lang M.",
+        "players_number": "3",
+        "Full Name": "Michael Lang",
+        "players_rating": "",
+        "Country": "Switzerland",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (08.02.1991)",
+        "Market Value": "€186k",
+        "unicode": "lWPHOoaP"
+      },
+      {
+        "players_name": "Sippel T. (G)",
+        "players_number": "21",
+        "Full Name": "Tobias Sippel",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "35, (22.03.1988)",
+        "Market Value": "€281k",
+        "unicode": "l0BIl6gP"
+      },
+      {
+        "players_name": "Strobl T.",
+        "players_number": "5",
+        "Full Name": "Tobias Strobl",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (12.05.1990)",
+        "Market Value": "",
+        "unicode": "p0gxkJv0"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Labbadia B.",
+        "players_number": "",
+        "Full Name": "Bruno Labbadia",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "coach",
+        "Age and Birthdate": "57,  (08.02.1966)",
+        "Market Value": "",
+        "unicode": "8KXZkQi1"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Azzaoui I.",
+        "players_number": "",
+        "Full Name": "Ismail Azzaoui",
+        "players_rating": "",
+        "Country": "Belgium",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (06.01.1998)",
+        "Market Value": "€391k",
+        "unicode": "EXjOK4d8"
+      },
+      {
+        "players_name": "Camacho I.",
+        "players_number": "",
+        "Full Name": "Ignacio Camacho",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (04.05.1990)",
+        "Market Value": "",
+        "unicode": "fXAxixSo"
+      },
+      {
+        "players_name": "Ginczek D.",
+        "players_number": "",
+        "Full Name": "Daniel Ginczek",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (13.04.1991)",
+        "Market Value": "€468k",
+        "unicode": "pIoJRqFB"
+      },
+      {
+        "players_name": "Jung S.",
+        "players_number": "",
+        "Full Name": "Sebastian Jung",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (22.06.1990)",
+        "Market Value": "€285k",
+        "unicode": "fqw6h4xG"
+      },
+      {
+        "players_name": "Yeboah J.",
+        "players_number": "",
+        "Full Name": "John Yeboah",
+        "players_rating": "",
+        "Country": "Ecuador",
+        "Role": "Midfielder",
+        "Age and Birthdate": "23, (23.06.2000)",
+        "Market Value": "€1.4m",
+        "unicode": "jHriw9D2"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Arnold M.",
+        "players_number": "27",
+        "Full Name": "Maximilian Arnold",
+        "players_rating": 7.3,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (27.05.1994)",
+        "Market Value": "€9.9m",
+        "unicode": "pUChj7Xb"
+      },
+      {
+        "players_name": "Brekalo J.",
+        "players_number": "7",
+        "Full Name": "Josip Brekalo",
+        "players_rating": 6.2,
+        "Country": "Croatia",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (23.06.1998)",
+        "Market Value": "€4.1m",
+        "unicode": "QcPvNKjR"
+      },
+      {
+        "players_name": "Brooks J. A.",
+        "players_number": "25",
+        "Full Name": "John Anthony Brooks",
+        "players_rating": 8.2,
+        "Country": "USA",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (28.01.1993)",
+        "Market Value": "€2.0m",
+        "unicode": "vc4uJdid"
+      },
+      {
+        "players_name": "Casteels K. (G)",
+        "players_number": "1",
+        "Full Name": "Koen Casteels",
+        "players_rating": 8.2,
+        "Country": "Belgium",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (25.06.1992)",
+        "Market Value": "€7.8m",
+        "unicode": "21GK3tIU"
+      },
+      {
+        "players_name": "Gerhardt Y.",
+        "players_number": "13",
+        "Full Name": "Yannick Gerhardt",
+        "players_rating": 7.9,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (13.03.1994)",
+        "Market Value": "€4.8m",
+        "unicode": "rZTSn6gr"
+      },
+      {
+        "players_name": "Guilavogui J. (C)",
+        "players_number": "23",
+        "Full Name": "Josuha Guilavogui",
+        "players_rating": 7.0,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (19.09.1990)",
+        "Market Value": "€922k",
+        "unicode": "SG71CJdB"
+      },
+      {
+        "players_name": "Knoche R.",
+        "players_number": "31",
+        "Full Name": "Robin Knoche",
+        "players_rating": 7.7,
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (22.05.1992)",
+        "Market Value": "€4.9m",
+        "unicode": "AaXC2DTB"
+      },
+      {
+        "players_name": "Roussillon J.",
+        "players_number": "15",
+        "Full Name": "Jerome Roussillon",
+        "players_rating": 7.8,
+        "Country": "Guadeloupe",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (06.01.1993)",
+        "Market Value": "€2.3m",
+        "unicode": "fVThrU8C"
+      },
+      {
+        "players_name": "Steffen R.",
+        "players_number": "8",
+        "Full Name": "Renato Steffen",
+        "players_rating": 6.6,
+        "Country": "Switzerland",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (03.11.1991)",
+        "Market Value": "€964k",
+        "unicode": "ImK5HeCc"
+      },
+      {
+        "players_name": "Weghorst W.",
+        "players_number": "9",
+        "Full Name": "Wout Weghorst",
+        "players_rating": 7.3,
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "31, (07.08.1992)",
+        "Market Value": "€8.6m",
+        "unicode": "tpWMDFoL"
+      },
+      {
+        "players_name": "William",
+        "players_number": "2",
+        "Full Name": "William",
+        "players_rating": 7.2,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (03.04.1995)",
+        "Market Value": "€1.8m",
+        "unicode": "t8ncOlds"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Klaus F.",
+        "players_number": "11",
+        "Full Name": "Felix Klaus",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (13.09.1992)",
+        "Market Value": "€806k",
+        "unicode": "WIZ6iQEQ"
+      },
+      {
+        "players_name": "Mehmedi A.",
+        "players_number": "14",
+        "Full Name": "Admir Mehmedi",
+        "players_rating": 7.7,
+        "Country": "Switzerland",
+        "Role": "Forward",
+        "Age and Birthdate": "32, (16.03.1991)",
+        "Market Value": "",
+        "unicode": "thLOM1e8"
+      },
+      {
+        "players_name": "Rexhbecaj E.",
+        "players_number": "37",
+        "Full Name": "Elvis Rexhbecaj",
+        "players_rating": 6.0,
+        "Country": "Germany",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (01.11.1997)",
+        "Market Value": "€3.3m",
+        "unicode": "dEsUd870"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Malli Y.",
+        "players_number": "10",
+        "Full Name": "Yunus Malli",
+        "players_rating": "",
+        "Country": "Turkey",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (24.02.1992)",
+        "Market Value": "€134k",
+        "unicode": "ChFv5s5C"
+      },
+      {
+        "players_name": "Pervan P. (G)",
+        "players_number": "12",
+        "Full Name": "Pavao Pervan",
+        "players_rating": "",
+        "Country": "Austria",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "36, (13.11.1987)",
+        "Market Value": "€363k",
+        "unicode": "xEPMBYfQ"
+      },
+      {
+        "players_name": "Uduokhai F.",
+        "players_number": "17",
+        "Full Name": "Felix Uduokhai",
+        "players_rating": "",
+        "Country": "Germany",
+        "Role": "Defender",
+        "Age and Birthdate": "26, (09.09.1997)",
+        "Market Value": "€6.7m",
+        "unicode": "lnDbiKv8"
+      },
+      {
+        "players_name": "Verhaegh P.",
+        "players_number": "3",
+        "Full Name": "Paul Verhaegh",
+        "players_rating": "",
+        "Country": "Netherlands",
+        "Role": "Defender",
+        "Age and Birthdate": "40, (01.09.1983)",
+        "Market Value": "",
+        "unicode": "YqNscPb8"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "07:19",
+      "comments_type": "corner",
+      "comments_text": "Patrick Herrmann (B. Monchengladbach) launches an inaccurate corner kick into the penalty area.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches an inaccurate corner kick into the penalty area.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "26:49",
+      "comments_type": "corner",
+      "comments_text": "Thorgan Hazard (B. Monchengladbach) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:18",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from William (Wolfsburg) is cleared.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) is cleared.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "37:55",
+      "comments_type": "goal",
+      "comments_text": "It's 0:1! Jerome Roussillon feeds Yannick Gerhardt (Wolfsburg) inside the box, who is unmarked and buries the ball in the bottom right corner.",
+      "comments_text_anonymized": "It's 0:1! [PLAYER] feeds [PLAYER] ([TEAM]) inside the box, who is unmarked and buries the ball in the bottom right corner.",
+      "index": 3
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:10",
+      "comments_type": "substitution",
+      "comments_text": "Dieter Hecking has made a change at the break. Jonas Hofmann (B. Monchengladbach) has come on in place of Denis Zakaria.",
+      "comments_text_anonymized": "[PLAYER] has made a change at the break. [PLAYER] ([TEAM]) has come on in place of [PLAYER].",
+      "index": 4
+    },
+    {
+      "half": 2,
+      "time_stamp": "12:49",
+      "comments_type": "yellow card",
+      "comments_text": "The foul by Josip Brekalo (Wolfsburg) is worthy of a card and a yellow is duly shown by Robert Kampka.",
+      "comments_text_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:58",
+      "comments_type": "corner",
+      "comments_text": "Thorgan Hazard (B. Monchengladbach) whips in a cross from the corner, but Koen Casteels is well positioned and punches the ball away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) whips in a cross from the corner, but [PLAYER] is well positioned and punches the ball away.",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:00",
+      "comments_type": "corner",
+      "comments_text": "Jonas Hofmann (B. Monchengladbach) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "15:20",
+      "comments_type": "yellow card",
+      "comments_text": "Robert Kampka shows a yellow card to Florian Neuhaus (B. Monchengladbach), who isn't surprised as the tackle was really hard and late.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:00",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Josip Brekalo trots off the pitch and is replaced by Admir Mehmedi (Wolfsburg).",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] trots off the pitch and is replaced by [PLAYER] ([TEAM]).",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:41",
+      "comments_type": "corner",
+      "comments_text": "The resulting set piece from B. Monchengladbach is comfortably intercepted by one of the defending players.",
+      "comments_text_anonymized": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:40",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Thorgan Hazard (B. Monchengladbach) only finds one of the defenders, who heads it out of danger.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger.",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:56",
+      "comments_type": "substitution",
+      "comments_text": "Here comes a substitution. Alassane Plea (B. Monchengladbach) is brought on as a substitute for Patrick Herrmann.",
+      "comments_text_anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:10",
+      "comments_type": "goal",
+      "comments_text": "Goal! Admir Mehmedi (Wolfsburg) pounced on a loose ball inside the box and beats the goalkeeper with a shot into the bottom left corner. He makes it 0:2.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) pounced on a loose ball inside the box and beats the goalkeeper with a shot into the bottom left corner. He makes it 0:2.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "26:00",
+      "comments_type": "corner",
+      "comments_text": "Jonas Hofmann (B. Monchengladbach) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:07",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner from Thorgan Hazard (B. Monchengladbach) comes to nothing.",
+      "comments_text_anonymized": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "32:37",
+      "comments_type": "substitution",
+      "comments_text": "Bruno Labbadia decides to make a substitution. Renato Steffen will be replaced by Elvis Rexhbecaj (Wolfsburg).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:34",
+      "comments_type": "substitution",
+      "comments_text": "Here comes a substitution. Florian Neuhaus is given a rest as he is replaced by Josip Drmic (B. Monchengladbach).",
+      "comments_text_anonymized": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by [PLAYER] ([TEAM]).",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:01",
+      "comments_type": "goal",
+      "comments_text": "Goal! Admir Mehmedi (Wolfsburg) meets a headed pass from John Brooks and puts the ball into the net with a powerful header. He makes it 0:3.",
+      "comments_text_anonymized": "Goal! [PLAYER] ([TEAM]) meets a headed pass from John [PLAYER] and puts the ball into the net with a powerful header. He makes it 0:3.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "38:30",
+      "comments_type": "substitution",
+      "comments_text": "Bruno Labbadia has decided to substitute Wout Weghorst and he is replaced by Felix Klaus (Wolfsburg).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "39:32",
+      "comments_type": "corner",
+      "comments_text": "B. Monchengladbach take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "comments_text_anonymized": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:09",
+      "comments_type": "yellow card",
+      "comments_text": "Robert Kampka shows the yellow card to Lars Stindl (B. Monchengladbach) for a heavy challenge.",
+      "comments_text_anonymized": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "41:34",
+      "comments_type": "corner",
+      "comments_text": "A dangerous looking corner kick from Admir Mehmedi (Wolfsburg) is cleared to safety by the defence.",
+      "comments_text_anonymized": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence.",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:29",
+      "comments_type": "corner",
+      "comments_text": "Thorgan Hazard (B. Monchengladbach) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "47:55",
+      "comments_type": "corner",
+      "comments_text": "B. Monchengladbach take a short corner kick.",
+      "comments_text_anonymized": "[TEAM] take a short corner kick.",
+      "index": 24
+    }
+  ]
+}

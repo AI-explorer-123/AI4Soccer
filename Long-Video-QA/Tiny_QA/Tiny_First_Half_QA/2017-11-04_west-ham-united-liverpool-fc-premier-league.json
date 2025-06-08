@@ -1,0 +1,143 @@
+[
+  {
+    "question": "Which team has received more cards in the first half up to now?",
+    "choices": [
+      "A. West Ham",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 1,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "How many goals have occurred so far in the first half up to the second goal?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "type": "past",
+    "question_level": "match",
+    "related_event_index": [
+      0,
+      3
+    ],
+    "current_event_index": 3,
+    "index": 3,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which team is more likely to get the next corner after the 20:48 mark?",
+    "choices": [
+      "A. West Ham",
+      "B. Liverpool",
+      "C. Both teams are equally likely",
+      "D. Neither team will get another corner"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [
+      2,
+      5
+    ],
+    "current_event_index": 1,
+    "index": 7,
+    "event_type": "corner"
+  },
+  {
+    "question": "Who was the first player to receive a yellow card in the first half?",
+    "choices": [
+      "A. Mark Noble",
+      "B. Player B",
+      "C. Player C",
+      "D. Player D"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      4
+    ],
+    "current_event_index": 4,
+    "index": 3,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which team is more likely to get the next yellow card?",
+    "choices": [
+      "A. West Ham",
+      "B. Opponent Team",
+      "C. Both teams",
+      "D. Neither team"
+    ],
+    "answer": "D",
+    "type": "future",
+    "question_level": "team",
+    "related_event_index": [],
+    "current_event_index": 4,
+    "index": 8,
+    "event_type": "yellow card"
+  },
+  {
+    "question": "Which player took the first corner in the first half?",
+    "choices": [
+      "A. Manuel Lanzini",
+      "B. Mohamed Salah",
+      "C. No corners have been taken yet",
+      "D. Both players took a corner"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "player",
+    "related_event_index": [
+      1
+    ],
+    "current_event_index": 1,
+    "index": 2,
+    "event_type": "corner"
+  },
+  {
+    "question": "Which team has scored more goals in the first half up to the second goal?",
+    "choices": [
+      "A. Liverpool",
+      "B. Opponent",
+      "C. Both teams have scored equally",
+      "D. Neither team has scored"
+    ],
+    "answer": "A",
+    "type": "past",
+    "question_level": "team",
+    "related_event_index": [
+      0,
+      3
+    ],
+    "current_event_index": 3,
+    "index": 4,
+    "event_type": "goal"
+  },
+  {
+    "question": "Will there be more yellow cards in the first half?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "B",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [],
+    "current_event_index": 4,
+    "index": 7,
+    "event_type": "yellow card"
+  }
+]

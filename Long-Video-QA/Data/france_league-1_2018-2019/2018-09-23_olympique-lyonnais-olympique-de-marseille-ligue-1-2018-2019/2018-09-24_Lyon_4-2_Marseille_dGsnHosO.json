@@ -1,0 +1,733 @@
+{
+  "match_info": {
+    "timestamp": "2018-09-24 03:00:00",
+    "score": "4 - 2",
+    "home_team": "Lyon",
+    "away_team": "Marseille",
+    "home_formation": "4 - 4 - 1 - 1",
+    "away_formation": "4 - 2 - 3 - 1",
+    "venue": "Parc Olympique Lyonnais (Lyon)",
+    "capacity": "59 186",
+    "attendance": "57 287"
+  },
+  "referee_data": {
+    "short_name_country": "Turpin C. (Fra)",
+    "first_name": "Turpin",
+    "abbr_last_name": "C",
+    "country": "Fra",
+    "detected_name": "Clement Turpin"
+  },
+  "players_data": {
+    "home_coaches": [
+      {
+        "players_name": "Genesio B.",
+        "players_number": "",
+        "Full Name": "Bruno Genesio",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "coach",
+        "Age and Birthdate": "57,  (01.09.1966)",
+        "Market Value": "",
+        "unicode": "nVS1TlC4"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Gouiri A.",
+        "players_number": "",
+        "Full Name": "Amine Gouiri",
+        "players_rating": "",
+        "Country": "Algeria",
+        "Role": "Forward",
+        "Age and Birthdate": "23, (16.02.2000)",
+        "Market Value": "€27.0m",
+        "unicode": "K0zFVdU8"
+      },
+      {
+        "players_name": "Marcal",
+        "players_number": "",
+        "Full Name": "Marcal",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (19.02.1989)",
+        "Market Value": "€919k",
+        "unicode": "EusknHOI"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Aouar H.",
+        "players_number": "8",
+        "Full Name": "Houssem Aouar",
+        "players_rating": 7.8,
+        "Country": "Algeria",
+        "Role": "Midfielder",
+        "Age and Birthdate": "25, (30.06.1998)",
+        "Market Value": "€12.0m",
+        "unicode": "E7gaowFp"
+      },
+      {
+        "players_name": "Cheikh P.",
+        "players_number": "24",
+        "Full Name": "Pape Cheikh",
+        "players_rating": 5.9,
+        "Country": "Senegal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (08.08.1997)",
+        "Market Value": "",
+        "unicode": "GArB5kuJ"
+      },
+      {
+        "players_name": "Denayer J.",
+        "players_number": "5",
+        "Full Name": "Jason Denayer",
+        "players_rating": 6.9,
+        "Country": "Belgium",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (28.06.1995)",
+        "Market Value": "€3.2m",
+        "unicode": "pj0IHOI1"
+      },
+      {
+        "players_name": "Depay M.",
+        "players_number": "11",
+        "Full Name": "Memphis Depay",
+        "players_rating": 6.3,
+        "Country": "Netherlands",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (13.02.1994)",
+        "Market Value": "€11.7m",
+        "unicode": "zo1h8MrD"
+      },
+      {
+        "players_name": "Dubois L.",
+        "players_number": "14",
+        "Full Name": "Leo Dubois",
+        "players_rating": 6.7,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (14.09.1994)",
+        "Market Value": "€3.4m",
+        "unicode": "KUybYEfM"
+      },
+      {
+        "players_name": "Fekir N. (C)",
+        "players_number": "18",
+        "Full Name": "Nabil Fekir",
+        "players_rating": 8.9,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (18.07.1993)",
+        "Market Value": "€11.2m",
+        "unicode": "xG1QmowQ"
+      },
+      {
+        "players_name": "Lopes A. (G)",
+        "players_number": "1",
+        "Full Name": "Anthony Lopes",
+        "players_rating": 6.3,
+        "Country": "Portugal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (01.10.1990)",
+        "Market Value": "€4.9m",
+        "unicode": "dKmI2jJT"
+      },
+      {
+        "players_name": "Marcelo",
+        "players_number": "6",
+        "Full Name": "Marcelo",
+        "players_rating": 6.9,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "36, (20.05.1987)",
+        "Market Value": "€695k",
+        "unicode": "hfN9pT8t"
+      },
+      {
+        "players_name": "Mendy F.",
+        "players_number": "22",
+        "Full Name": "Ferland Mendy",
+        "players_rating": 7.0,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (08.06.1995)",
+        "Market Value": "€19.3m",
+        "unicode": "KnytnSKl"
+      },
+      {
+        "players_name": "Ndombele T.",
+        "players_number": "28",
+        "Full Name": "Tanguy Ndombele",
+        "players_rating": 7.8,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (28.12.1996)",
+        "Market Value": "€14.3m",
+        "unicode": "GEIWE1pD"
+      },
+      {
+        "players_name": "Traore B.",
+        "players_number": "10",
+        "Full Name": "Bertrand Traore",
+        "players_rating": 10.0,
+        "Country": "Burkina Faso",
+        "Role": "Forward",
+        "Age and Birthdate": "28, (06.09.1995)",
+        "Market Value": "€9.6m",
+        "unicode": "MwckEcbf"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Dembele M.",
+        "players_number": "9",
+        "Full Name": "Moussa Dembele",
+        "players_rating": 6.2,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (12.07.1996)",
+        "Market Value": "€11.2m",
+        "unicode": "jBP2q6F0"
+      },
+      {
+        "players_name": "Terrier M.",
+        "players_number": "7",
+        "Full Name": "Martin Terrier",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (04.03.1997)",
+        "Market Value": "€22.8m",
+        "unicode": "xlu6948L"
+      },
+      {
+        "players_name": "Tousart L.",
+        "players_number": "29",
+        "Full Name": "Lucas Tousart",
+        "players_rating": 6.3,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (29.04.1997)",
+        "Market Value": "€6.6m",
+        "unicode": "YJUO3rKf"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Cornet M.",
+        "players_number": "27",
+        "Full Name": "Maxwel Cornet",
+        "players_rating": "",
+        "Country": "Ivory Coast",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (27.09.1996)",
+        "Market Value": "€9.4m",
+        "unicode": "IuMQIrXk"
+      },
+      {
+        "players_name": "Gorgelin M. (G)",
+        "players_number": "30",
+        "Full Name": "Mathieu Gorgelin",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "33, (05.08.1990)",
+        "Market Value": "€199k",
+        "unicode": "jevYFpy7"
+      },
+      {
+        "players_name": "Morel J.",
+        "players_number": "15",
+        "Full Name": "Jeremy Morel",
+        "players_rating": "",
+        "Country": "Madagascar",
+        "Role": "Defender",
+        "Age and Birthdate": "39, (02.04.1984)",
+        "Market Value": "",
+        "unicode": "AyBm2cIA"
+      },
+      {
+        "players_name": "Rafael",
+        "players_number": "4",
+        "Full Name": "Rafael",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (09.07.1990)",
+        "Market Value": "€579k",
+        "unicode": "K2lhc6jE"
+      }
+    ],
+    "away_coaches": [
+      {
+        "players_name": "Garcia R.",
+        "players_number": "",
+        "Full Name": "Rudi Garcia",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "coach",
+        "Age and Birthdate": "59,  (20.02.1964)",
+        "Market Value": "",
+        "unicode": "bHMAdJc7"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Mandanda S.",
+        "players_number": "",
+        "Full Name": "Steve Mandanda",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "38, (28.03.1985)",
+        "Market Value": "€950k",
+        "unicode": "A5YHqogH"
+      },
+      {
+        "players_name": "Rami A.",
+        "players_number": "",
+        "Full Name": "Adil Rami",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "38, (27.12.1985)",
+        "Market Value": "",
+        "unicode": "A3B4vScD"
+      },
+      {
+        "players_name": "Rolando",
+        "players_number": "",
+        "Full Name": "Rolando",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "38, (31.08.1985)",
+        "Market Value": "",
+        "unicode": "rLTjQUEm"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Amavi J.",
+        "players_number": "18",
+        "Full Name": "Jordan Amavi",
+        "players_rating": 5.9,
+        "Country": "France",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (09.03.1994)",
+        "Market Value": "€1.3m",
+        "unicode": "xQENPIHR"
+      },
+      {
+        "players_name": "Caleta-Car D.",
+        "players_number": "15",
+        "Full Name": "Duje Caleta-Car",
+        "players_rating": 4.9,
+        "Country": "Croatia",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (17.09.1996)",
+        "Market Value": "€6.6m",
+        "unicode": "K44QNA2A"
+      },
+      {
+        "players_name": "Luiz Gustavo",
+        "players_number": "19",
+        "Full Name": "Luiz Gustavo",
+        "players_rating": 5.7,
+        "Country": "Brazil",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (23.07.1987)",
+        "Market Value": "€482k",
+        "unicode": "fq5jJElg"
+      },
+      {
+        "players_name": "Mitroglou K.",
+        "players_number": "11",
+        "Full Name": "Konstantinos Mitroglou",
+        "players_rating": 5.9,
+        "Country": "Greece",
+        "Role": "Forward",
+        "Age and Birthdate": "35, (12.03.1988)",
+        "Market Value": "",
+        "unicode": "23FjIMq7"
+      },
+      {
+        "players_name": "Ocampos L.",
+        "players_number": "5",
+        "Full Name": "Lucas Ocampos",
+        "players_rating": 6.7,
+        "Country": "Argentina",
+        "Role": "Forward",
+        "Age and Birthdate": "29, (11.07.1994)",
+        "Market Value": "€11.7m",
+        "unicode": "2s2ATpKI"
+      },
+      {
+        "players_name": "Payet D. (C)",
+        "players_number": "10",
+        "Full Name": "Dimitri Payet",
+        "players_rating": 8.0,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "36, (29.03.1987)",
+        "Market Value": "€1.6m",
+        "unicode": "8QcadiBC"
+      },
+      {
+        "players_name": "Pele Y. (G)",
+        "players_number": "16",
+        "Full Name": "Yohann Pele",
+        "players_rating": 5.3,
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "41, (04.11.1982)",
+        "Market Value": "",
+        "unicode": "dAlKUxig"
+      },
+      {
+        "players_name": "Sakai H.",
+        "players_number": "2",
+        "Full Name": "Hiroki Sakai",
+        "players_rating": 6.4,
+        "Country": "Japan",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (12.04.1990)",
+        "Market Value": "€1.4m",
+        "unicode": "OdZIpjH2"
+      },
+      {
+        "players_name": "Sanson M.",
+        "players_number": "8",
+        "Full Name": "Morgan Sanson",
+        "players_rating": 6.3,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (18.08.1994)",
+        "Market Value": "€7.0m",
+        "unicode": "n5LaWeHr"
+      },
+      {
+        "players_name": "Strootman K.",
+        "players_number": "12",
+        "Full Name": "Kevin Strootman",
+        "players_rating": 5.5,
+        "Country": "Netherlands",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (13.02.1990)",
+        "Market Value": "€979k",
+        "unicode": "A14AM8L1"
+      },
+      {
+        "players_name": "Thauvin F.",
+        "players_number": "26",
+        "Full Name": "Florian Thauvin",
+        "players_rating": 7.1,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (26.01.1993)",
+        "Market Value": "€2.9m",
+        "unicode": "SMbMSc26"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Germain V.",
+        "players_number": "28",
+        "Full Name": "Valere Germain",
+        "players_rating": 5.8,
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "33, (17.04.1990)",
+        "Market Value": "€1.2m",
+        "unicode": "bkc0Ms81"
+      },
+      {
+        "players_name": "Kamara B.",
+        "players_number": "4",
+        "Full Name": "Boubacar Kamara",
+        "players_rating": 6.5,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (23.11.1999)",
+        "Market Value": "€35.6m",
+        "unicode": "bcI1EvBk"
+      },
+      {
+        "players_name": "N'Jie C.",
+        "players_number": "14",
+        "Full Name": "Clinton N'Jie",
+        "players_rating": 6.9,
+        "Country": "Cameroon",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (15.08.1993)",
+        "Market Value": "€1.1m",
+        "unicode": "ILiUNFfP"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Escales F. (G)",
+        "players_number": "40",
+        "Full Name": "Florian Escales",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "27, (03.02.1996)",
+        "Market Value": "€675k",
+        "unicode": "YkTI15a3"
+      },
+      {
+        "players_name": "Lopez M.",
+        "players_number": "27",
+        "Full Name": "Maxime Lopez",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (04.12.1997)",
+        "Market Value": "€9.4m",
+        "unicode": "4QFT6q49"
+      },
+      {
+        "players_name": "Sarr B.",
+        "players_number": "17",
+        "Full Name": "Bouna Sarr",
+        "players_rating": "",
+        "Country": "Senegal",
+        "Role": "Defender",
+        "Age and Birthdate": "31, (31.01.1992)",
+        "Market Value": "€1.9m",
+        "unicode": "MDuWBWXr"
+      },
+      {
+        "players_name": "Sertic G.",
+        "players_number": "22",
+        "Full Name": "Gregory Sertic",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (08.05.1989)",
+        "Market Value": "",
+        "unicode": "6Bxxhbca"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "01:10",
+      "comments_type": "corner",
+      "comments_text": "A quickly taken corner by Lyon.",
+      "comments_text_anonymized": "A quickly taken corner by [TEAM].",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "06:03",
+      "comments_type": "corner",
+      "comments_text": "Dimitri Payet (Marseille) takes the corner but it's cleared.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "15:20",
+      "comments_type": "corner",
+      "comments_text": "Corner kick. Marseille will have an opportunity.",
+      "comments_text_anonymized": "Corner kick. [TEAM] will have an opportunity.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "24:28",
+      "comments_type": "corner",
+      "comments_text": "There's an opportunity for Dimitri Payet (Marseille) to deliver the ball into the box from a corner.",
+      "comments_text_anonymized": "There's an opportunity for [PLAYER] ([TEAM]) to deliver the ball into the box from a corner.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "27:00",
+      "comments_type": "goal",
+      "comments_text": "An amazing individual effort from Houssem Aouar (Lyon) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom right corner and makes it 1:0. Yohann Pele was helpless.",
+      "comments_text_anonymized": "An amazing individual effort from [PLAYER] ([TEAM]) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom right corner and makes it 1:0. [PLAYER] was helpless.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "29:10",
+      "comments_type": "yellow card",
+      "comments_text": "Pape Diop (Lyon) is booked after bringing down an opponent. Clement Turpin had an easy-decision to make.",
+      "comments_text_anonymized": "Pape Diop ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+      "index": 5
+    },
+    {
+      "half": 1,
+      "time_stamp": "32:00",
+      "comments_type": "corner",
+      "comments_text": "Dimitri Payet (Marseille) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+      "index": 6
+    },
+    {
+      "half": 1,
+      "time_stamp": "34:45",
+      "comments_type": "yellow card",
+      "comments_text": "Kevin Strootman (Marseille) is booked.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked.",
+      "index": 7
+    },
+    {
+      "half": 1,
+      "time_stamp": "38:34",
+      "comments_type": "goal",
+      "comments_text": "Goal! A great through ball by Dimitri Payet sets up Florian Thauvin (Marseille) inside the box, and he makes no mistake and bangs the ball into the bottom left corner. 1:1.",
+      "comments_text_anonymized": "Goal! A great through ball by [PLAYER] sets up [PLAYER] ([TEAM]) inside the box, and he makes no mistake and bangs the ball into the bottom left corner. 1:1.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "05:40",
+      "comments_type": "goal",
+      "comments_text": "It's in the back of the net! Tanguy Ndombele slips the ball through to Bertrand Traore (Lyon), and he darts into the box to unleash a magnificent shot into the bottom left corner. He makes it 2:1.",
+      "comments_text_anonymized": "It's in the back of the net! [PLAYER] slips the ball through to [PLAYER] ([TEAM]), and he darts into the box to unleash a magnificent shot into the bottom left corner. He makes it 2:1.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:10",
+      "comments_type": "corner",
+      "comments_text": "Dimitri Payet (Marseille) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "13:10",
+      "comments_type": "substitution",
+      "comments_text": "That will be all from Memphis Depay who is being replaced by the fresh legs of Moussa Dembele (Lyon).",
+      "comments_text_anonymized": "That will be all from [PLAYER] who is being replaced by the fresh legs of [PLAYER] ([TEAM]).",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "14:57",
+      "comments_type": "goal",
+      "comments_text": "Goal! Tanguy Ndombele plays a pass to the feet of Bertrand Traore (Lyon), and he shoots into the bottom right corner from inside the box. It's 3:1.",
+      "comments_text_anonymized": "Goal! [PLAYER] plays a pass to the feet of [PLAYER] ([TEAM]), and he shoots into the bottom right corner from inside the box. It's 3:1.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:36",
+      "comments_type": "substitution",
+      "comments_text": "Rudi Garcia has decided to substitute Konstantinos Mitroglou and he is replaced by Valere Germain (Marseille).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:46",
+      "comments_type": "substitution",
+      "comments_text": "The referee stops play so that a substitution can be made and Lucas Ocampos leaves the pitch and Boubacar Kamara (Marseille) comes on.",
+      "comments_text_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:50",
+      "comments_type": "corner",
+      "comments_text": "The referee blows his whistle, Lyon are awarded a corner kick.",
+      "comments_text_anonymized": "The referee blows his whistle, [TEAM] are awarded a corner kick.",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:42",
+      "comments_type": "yellow card",
+      "comments_text": "Is that a yellow card in the referee's hand? It is! Luiz Gustavo (Marseille) gets booked.",
+      "comments_text_anonymized": "Is that a yellow card in the referee's hand? It is! [PLAYER] ([TEAM]) gets booked.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "22:30",
+      "comments_type": "corner",
+      "comments_text": "Florian Thauvin (Marseille) swings in the corner, but it's comfortably cleared away.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:21",
+      "comments_type": "corner",
+      "comments_text": "Nabil Fekir (Lyon) looks like he will be the one to take the corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to take the corner kick.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:40",
+      "comments_type": "penalty",
+      "comments_text": "Nabil Fekir (Lyon) is heading towards the penalty spot to take it.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:53",
+      "comments_type": "goal",
+      "comments_text": "Nabil Fekir (Lyon) brilliantly executes the penalty kick, sending the ball in off the right post! No chance for Yohann Pele to stop this shot.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) brilliantly executes the penalty kick, sending the ball in off the right post! No chance for [PLAYER] to stop this shot.",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "29:31",
+      "comments_type": "substitution",
+      "comments_text": "That's the end of the game for Pape Diop, who is replaced by Lucas Tousart (Lyon).",
+      "comments_text_anonymized": "That's the end of the game for Pape Diop, who is replaced by [PLAYER] ([TEAM]).",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "30:11",
+      "comments_type": "substitution",
+      "comments_text": "Here is a change. Kevin Strootman is going off and Rudi Garcia gives the last tactical orders to Clinton N'Jie (Marseille).",
+      "comments_text_anonymized": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:10",
+      "comments_type": "goal",
+      "comments_text": "It's in the back of the net! Dimitri Payet slips the ball through to Clinton N'Jie (Marseille), and he darts into the box to unleash a magnificent shot into the bottom right corner. He makes it 4:2.",
+      "comments_text_anonymized": "It's in the back of the net! [PLAYER] slips the ball through to [PLAYER] ([TEAM]), and he darts into the box to unleash a magnificent shot into the bottom right corner. He makes it 4:2.",
+      "index": 23
+    },
+    {
+      "half": 2,
+      "time_stamp": "37:29",
+      "comments_type": "red card",
+      "comments_text": "Duje Caleta-Car (Marseille) must think that he is playing a different sport because his behaviour has nothing to do with football and the referee has no choice but to show him a straight red card!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) must think that he is playing a different sport because his behaviour has nothing to do with football and the referee has no choice but to show him a straight red card!",
+      "index": 24
+    },
+    {
+      "half": 2,
+      "time_stamp": "42:27",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Martin Terrier (Lyon) has come on for Nabil Fekir.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) has come on for [PLAYER].",
+      "index": 25
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:40",
+      "comments_type": "corner",
+      "comments_text": "The ball is out of play and Marseille manage to earn a corner.",
+      "comments_text_anonymized": "The ball is out of play and [TEAM] manage to earn a corner.",
+      "index": 26
+    }
+  ]
+}

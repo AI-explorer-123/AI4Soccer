@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Will there be more goals in the first half after the 35:55 mark?",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ],
+    "answer": "A",
+    "type": "future",
+    "question_level": "match",
+    "related_event_index": [
+      7
+    ],
+    "current_event_index": 5,
+    "index": 6,
+    "event_type": "goal"
+  },
+  {
+    "question": "Which Arsenal players were booked in the first half?",
+    "choices": [
+      "A. Granit Xhaka only",
+      "B. Alexis Sanchez only",
+      "C. Both Granit Xhaka and Alexis Sanchez",
+      "D. No Arsenal players booked"
+    ],
+    "answer": "C",
+    "type": "half",
+    "question_level": "player",
+    "related_event_index": [
+      4,
+      6
+    ],
+    "current_event_index": null,
+    "index": 5,
+    "event_type": "yellow card"
+  }
+]

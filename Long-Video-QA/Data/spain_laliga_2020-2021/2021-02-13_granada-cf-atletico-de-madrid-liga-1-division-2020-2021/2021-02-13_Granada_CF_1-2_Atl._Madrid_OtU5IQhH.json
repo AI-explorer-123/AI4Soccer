@@ -1,0 +1,808 @@
+{
+  "match_info": {
+    "timestamp": "2021-02-13 21:00:00",
+    "score": "1 - 2",
+    "home_team": "Granada CF",
+    "away_team": "Atl. Madrid",
+    "home_formation": "5 - 4 - 1",
+    "away_formation": "3 - 1 - 4 - 2",
+    "venue": "Estadio Nuevo Los Cármenes (Granada)",
+    "capacity": "22 524",
+    "attendance": ""
+  },
+  "referee_data": {
+    "short_name_country": "Lahoz A. (Esp)",
+    "first_name": "Lahoz",
+    "abbr_last_name": "A",
+    "country": "Esp",
+    "detected_name": "Antonio Mateu Lahoz"
+  },
+  "players_data": {
+    "away_coaches": [
+      {
+        "players_name": "Simeone D.",
+        "players_number": "",
+        "Full Name": "Diego Simeone",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "coach",
+        "Age and Birthdate": "53,  (28.04.1970)",
+        "Market Value": "",
+        "unicode": "AZ18LjKN"
+      }
+    ],
+    "away_missing_players": [
+      {
+        "players_name": "Dembele M.",
+        "players_number": "",
+        "Full Name": "Moussa Dembele",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (12.07.1996)",
+        "Market Value": "€11.2m",
+        "unicode": "jBP2q6F0"
+      },
+      {
+        "players_name": "Gimenez J. M.",
+        "players_number": "",
+        "Full Name": "Jose Maria Gimenez",
+        "players_rating": "",
+        "Country": "Uruguay",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (20.01.1995)",
+        "Market Value": "€28.9m",
+        "unicode": "IgRLzKhM"
+      },
+      {
+        "players_name": "Herrera H.",
+        "players_number": "",
+        "Full Name": "Hector Herrera",
+        "players_rating": "",
+        "Country": "Mexico",
+        "Role": "Midfielder",
+        "Age and Birthdate": "33, (19.04.1990)",
+        "Market Value": "€2.5m",
+        "unicode": "QssIzJ9S"
+      },
+      {
+        "players_name": "Joao Felix",
+        "players_number": "",
+        "Full Name": "Joao Felix",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (10.11.1999)",
+        "Market Value": "€39.7m",
+        "unicode": "KI3YXMhi"
+      },
+      {
+        "players_name": "Lemar T.",
+        "players_number": "",
+        "Full Name": "Thomas Lemar",
+        "players_rating": "",
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (12.11.1995)",
+        "Market Value": "€11.2m",
+        "unicode": "jX8PENMO"
+      },
+      {
+        "players_name": "Trippier K.",
+        "players_number": "",
+        "Full Name": "Kieran Trippier",
+        "players_rating": "",
+        "Country": "England",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (19.09.1990)",
+        "Market Value": "€11.1m",
+        "unicode": "GMqWRFGS"
+      }
+    ],
+    "away_starting_lineups": [
+      {
+        "players_name": "Carrasco Y.",
+        "players_number": "21",
+        "Full Name": "Yannick Carrasco",
+        "players_rating": 6.7,
+        "Country": "Belgium",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (04.09.1993)",
+        "Market Value": "€18.3m",
+        "unicode": "lzccuuAC"
+      },
+      {
+        "players_name": "Correa A.",
+        "players_number": "10",
+        "Full Name": "Angel Correa",
+        "players_rating": 8.5,
+        "Country": "Argentina",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (09.03.1995)",
+        "Market Value": "€18.4m",
+        "unicode": "McWkid34"
+      },
+      {
+        "players_name": "Felipe",
+        "players_number": "18",
+        "Full Name": "Felipe",
+        "players_rating": 7.3,
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (16.05.1989)",
+        "Market Value": "€1.4m",
+        "unicode": "I36MmA04"
+      },
+      {
+        "players_name": "Hermoso M.",
+        "players_number": "22",
+        "Full Name": "Mario Hermoso",
+        "players_rating": 7.0,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (18.06.1995)",
+        "Market Value": "€25.2m",
+        "unicode": "OUjnz4Ab"
+      },
+      {
+        "players_name": "Koke (C)",
+        "players_number": "6",
+        "Full Name": "Koke",
+        "players_rating": 7.8,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "32, (08.01.1992)",
+        "Market Value": "€13.3m",
+        "unicode": "v9hLv1xJ"
+      },
+      {
+        "players_name": "Kondogbia G.",
+        "players_number": "4",
+        "Full Name": "Geoffrey Kondogbia",
+        "players_rating": 6.9,
+        "Country": "Central African Republic",
+        "Role": "Midfielder",
+        "Age and Birthdate": "30, (15.02.1993)",
+        "Market Value": "€14.7m",
+        "unicode": "nZs03zT2"
+      },
+      {
+        "players_name": "Llorente M.",
+        "players_number": "14",
+        "Full Name": "Marcos Llorente",
+        "players_rating": 7.9,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "28, (30.01.1995)",
+        "Market Value": "€28.5m",
+        "unicode": "z3D5zvbD"
+      },
+      {
+        "players_name": "Niguez S.",
+        "players_number": "8",
+        "Full Name": "Saul Niguez",
+        "players_rating": 7.5,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (21.11.1994)",
+        "Market Value": "€11.4m",
+        "unicode": "hSbvVwW7"
+      },
+      {
+        "players_name": "Oblak J. (G)",
+        "players_number": "13",
+        "Full Name": "Jan Oblak",
+        "players_rating": 6.3,
+        "Country": "Slovenia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "31, (07.01.1993)",
+        "Market Value": "€32.8m",
+        "unicode": "SYy8ZHN9"
+      },
+      {
+        "players_name": "Savic S.",
+        "players_number": "15",
+        "Full Name": "Stefan Savic",
+        "players_rating": 6.9,
+        "Country": "Montenegro",
+        "Role": "Defender",
+        "Age and Birthdate": "33, (08.01.1991)",
+        "Market Value": "€4.8m",
+        "unicode": "rXcV9ZCT"
+      },
+      {
+        "players_name": "Suarez L.",
+        "players_number": "9",
+        "Full Name": "Luis Suarez",
+        "players_rating": "",
+        "Country": "Colombia",
+        "Role": "Forward",
+        "Age and Birthdate": "26, (02.12.1997)",
+        "Market Value": "€7.7m",
+        "unicode": "fV4fAvB8"
+      }
+    ],
+    "away_substituted_players": [
+      {
+        "players_name": "Vrsaljko S.",
+        "players_number": "24",
+        "Full Name": "Sime Vrsaljko",
+        "players_rating": 6.7,
+        "Country": "Croatia",
+        "Role": "Defender",
+        "Age and Birthdate": "32, (10.01.1992)",
+        "Market Value": "",
+        "unicode": "QeDP63jB"
+      }
+    ],
+    "away_substitutes": [
+      {
+        "players_name": "Alvaro Garcia",
+        "players_number": "28",
+        "Full Name": "Alvaro Garcia",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (01.06.2000)",
+        "Market Value": "€143k",
+        "unicode": "EmcnL6L9"
+      },
+      {
+        "players_name": "Camello S.",
+        "players_number": "27",
+        "Full Name": "Sergio Camello",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "22, (10.02.2001)",
+        "Market Value": "€3.7m",
+        "unicode": "fFlZRkvF"
+      },
+      {
+        "players_name": "Grbic I. (G)",
+        "players_number": "1",
+        "Full Name": "Ivo Grbic",
+        "players_rating": "",
+        "Country": "Croatia",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (18.01.1996)",
+        "Market Value": "€3.4m",
+        "unicode": "xtH6Sx9F"
+      },
+      {
+        "players_name": "Lodi R.",
+        "players_number": "12",
+        "Full Name": "Renan Lodi",
+        "players_rating": "",
+        "Country": "Brazil",
+        "Role": "Defender",
+        "Age and Birthdate": "25, (08.04.1998)",
+        "Market Value": "€18.7m",
+        "unicode": "6cYKHEPT"
+      },
+      {
+        "players_name": "Torreira L.",
+        "players_number": "5",
+        "Full Name": "Lucas Torreira",
+        "players_rating": "",
+        "Country": "Uruguay",
+        "Role": "Midfielder",
+        "Age and Birthdate": "27, (11.02.1996)",
+        "Market Value": "€15.9m",
+        "unicode": "YDRDxdU6"
+      }
+    ],
+    "home_coaches": [
+      {
+        "players_name": "Martinez D.",
+        "players_number": "",
+        "Full Name": "Diego Martinez",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "coach",
+        "Age and Birthdate": "43,  (16.12.1980)",
+        "Market Value": "",
+        "unicode": "tI57YghG"
+      }
+    ],
+    "home_missing_players": [
+      {
+        "players_name": "Lozano N.",
+        "players_number": "",
+        "Full Name": "Neyder Lozano",
+        "players_rating": "",
+        "Country": "Colombia",
+        "Role": "Defender",
+        "Age and Birthdate": "29, (04.03.1994)",
+        "Market Value": "€187k",
+        "unicode": "CQelthKC"
+      },
+      {
+        "players_name": "Milla L.",
+        "players_number": "",
+        "Full Name": "Luis Milla",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (07.10.1994)",
+        "Market Value": "€2.4m",
+        "unicode": "jwhHdRF0"
+      },
+      {
+        "players_name": "Quini",
+        "players_number": "",
+        "Full Name": "Quini",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "34, (24.09.1989)",
+        "Market Value": "€386k",
+        "unicode": "xbO28nA3"
+      },
+      {
+        "players_name": "Soldado R.",
+        "players_number": "",
+        "Full Name": "Roberto Soldado",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "38, (27.05.1985)",
+        "Market Value": "",
+        "unicode": "ttgS4CUb"
+      }
+    ],
+    "home_starting_lineups": [
+      {
+        "players_name": "Duarte D.",
+        "players_number": "22",
+        "Full Name": "Domingos Duarte",
+        "players_rating": 6.2,
+        "Country": "Portugal",
+        "Role": "Defender",
+        "Age and Birthdate": "28, (10.03.1995)",
+        "Market Value": "€2.8m",
+        "unicode": "bDpj7xEB"
+      },
+      {
+        "players_name": "Eteki Y.",
+        "players_number": "8",
+        "Full Name": "Yan Eteki",
+        "players_rating": 6.2,
+        "Country": "Cameroon",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (26.08.1997)",
+        "Market Value": "€645k",
+        "unicode": "bghCG8ct"
+      },
+      {
+        "players_name": "Foulquier D.",
+        "players_number": "2",
+        "Full Name": "Dimitri Foulquier",
+        "players_rating": 6.1,
+        "Country": "Guadeloupe",
+        "Role": "Defender",
+        "Age and Birthdate": "30, (23.03.1993)",
+        "Market Value": "€2.3m",
+        "unicode": "65F8DTep"
+      },
+      {
+        "players_name": "Kenedy",
+        "players_number": "24",
+        "Full Name": "Kenedy",
+        "players_rating": 6.7,
+        "Country": "Brazil",
+        "Role": "Forward",
+        "Age and Birthdate": "27, (08.02.1996)",
+        "Market Value": "€1.8m",
+        "unicode": "Crwqppk9"
+      },
+      {
+        "players_name": "Machis D.",
+        "players_number": "11",
+        "Full Name": "Darwin Machis",
+        "players_rating": 6.4,
+        "Country": "Venezuela",
+        "Role": "Forward",
+        "Age and Birthdate": "30, (07.02.1993)",
+        "Market Value": "€2.4m",
+        "unicode": "nBtLrBRF"
+      },
+      {
+        "players_name": "Molina J.",
+        "players_number": "23",
+        "Full Name": "Jorge Molina",
+        "players_rating": 6.4,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "41, (22.04.1982)",
+        "Market Value": "",
+        "unicode": "M5LMtR16"
+      },
+      {
+        "players_name": "Montoro A.",
+        "players_number": "19",
+        "Full Name": "Angel Montoro",
+        "players_rating": 6.7,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "35, (25.06.1988)",
+        "Market Value": "€190k",
+        "unicode": "vBVt0u90"
+      },
+      {
+        "players_name": "Neva C.",
+        "players_number": "15",
+        "Full Name": "Carlos Neva",
+        "players_rating": 6.4,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (12.06.1996)",
+        "Market Value": "€2.4m",
+        "unicode": "n5JmutJP"
+      },
+      {
+        "players_name": "Sanchez G. (C)",
+        "players_number": "6",
+        "Full Name": "German Sanchez",
+        "players_rating": 5.8,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "37, (12.12.1986)",
+        "Market Value": "€193k",
+        "unicode": "MoKcD7d3"
+      },
+      {
+        "players_name": "Silva R. (G)",
+        "players_number": "1",
+        "Full Name": "Rui Silva",
+        "players_rating": 5.9,
+        "Country": "Portugal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "29, (07.02.1994)",
+        "Market Value": "€14.5m",
+        "unicode": "GErUsMSq"
+      },
+      {
+        "players_name": "Vallejo J.",
+        "players_number": "20",
+        "Full Name": "Jesus Vallejo",
+        "players_rating": 6.2,
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (05.01.1997)",
+        "Market Value": "€1.3m",
+        "unicode": "WSRdoQ7I"
+      }
+    ],
+    "home_substituted_players": [
+      {
+        "players_name": "Gonalons M.",
+        "players_number": "4",
+        "Full Name": "Maxime Gonalons",
+        "players_rating": 6.3,
+        "Country": "France",
+        "Role": "Midfielder",
+        "Age and Birthdate": "34, (10.03.1989)",
+        "Market Value": "€760k",
+        "unicode": "46YCiQYc"
+      },
+      {
+        "players_name": "Herrera Y.",
+        "players_number": "21",
+        "Full Name": "Yangel Herrera",
+        "players_rating": 6.7,
+        "Country": "Venezuela",
+        "Role": "Midfielder",
+        "Age and Birthdate": "26, (07.01.1998)",
+        "Market Value": "€19.6m",
+        "unicode": "tzwJ3As6"
+      },
+      {
+        "players_name": "Puertas A.",
+        "players_number": "10",
+        "Full Name": "Antonio Puertas",
+        "players_rating": 6.2,
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "31, (21.02.1992)",
+        "Market Value": "€2.3m",
+        "unicode": "SMRPNG5i"
+      },
+      {
+        "players_name": "Quina D.",
+        "players_number": "12",
+        "Full Name": "Domingos Quina",
+        "players_rating": 6.3,
+        "Country": "Portugal",
+        "Role": "Midfielder",
+        "Age and Birthdate": "24, (18.11.1999)",
+        "Market Value": "€1.6m",
+        "unicode": "QVY6ZjML"
+      },
+      {
+        "players_name": "Soro A.",
+        "players_number": "26",
+        "Full Name": "Alberto Soro",
+        "players_rating": 6.1,
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "24, (09.03.1999)",
+        "Market Value": "€738k",
+        "unicode": "GSHQdFjI"
+      }
+    ],
+    "home_substitutes": [
+      {
+        "players_name": "Costa J. (G)",
+        "players_number": "35",
+        "Full Name": "Joao Costa",
+        "players_rating": "",
+        "Country": "Portugal",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "27, (02.02.1996)",
+        "Market Value": "30.06.2025",
+        "unicode": "WSapzIdB"
+      },
+      {
+        "players_name": "Diaz V.",
+        "players_number": "16",
+        "Full Name": "Victor Diaz",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "35, (12.06.1988)",
+        "Market Value": "€454k",
+        "unicode": "vggY6s7b"
+      },
+      {
+        "players_name": "Escandell A. (G)",
+        "players_number": "13",
+        "Full Name": "Aaron Escandell",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Goalkeeper",
+        "Age and Birthdate": "28, (27.09.1995)",
+        "Market Value": "€993k",
+        "unicode": "lA1Qa7LH"
+      },
+      {
+        "players_name": "Fede",
+        "players_number": "14",
+        "Full Name": "Fede",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Midfielder",
+        "Age and Birthdate": "29, (04.07.1994)",
+        "Market Value": "€922k",
+        "unicode": "pvQfqaE5"
+      },
+      {
+        "players_name": "Marin A.",
+        "players_number": "18",
+        "Full Name": "Adrian Marin",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Defender",
+        "Age and Birthdate": "27, (09.01.1997)",
+        "Market Value": "€1.4m",
+        "unicode": "CSI5eTAP"
+      },
+      {
+        "players_name": "Perez N.",
+        "players_number": "3",
+        "Full Name": "Nehuen Perez",
+        "players_rating": "",
+        "Country": "Argentina",
+        "Role": "Defender",
+        "Age and Birthdate": "23, (24.06.2000)",
+        "Market Value": "€9.6m",
+        "unicode": "4nmFi4El"
+      },
+      {
+        "players_name": "Plomer D.",
+        "players_number": "38",
+        "Full Name": "Daniel Plomer",
+        "players_rating": "",
+        "Country": "Spain",
+        "Role": "Forward",
+        "Age and Birthdate": "25, (30.11.1998)",
+        "Market Value": "30.06.2024",
+        "unicode": "pEG2tMO7"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "half": 1,
+      "time_stamp": "13:07",
+      "comments_type": "corner",
+      "comments_text": "Kenedy (Granada CF) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+      "index": 0
+    },
+    {
+      "half": 1,
+      "time_stamp": "28:45",
+      "comments_type": "corner",
+      "comments_text": "The corner from Angel Correa (Atl. Madrid) is hurriedly cleared.",
+      "comments_text_anonymized": "The corner from [PLAYER] ([TEAM]) is hurriedly cleared.",
+      "index": 1
+    },
+    {
+      "half": 1,
+      "time_stamp": "33:20",
+      "comments_type": "corner",
+      "comments_text": "Darwin Machis (Granada CF) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+      "index": 2
+    },
+    {
+      "half": 1,
+      "time_stamp": "36:46",
+      "comments_type": "corner",
+      "comments_text": "Angel Correa (Atl. Madrid) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+      "index": 3
+    },
+    {
+      "half": 1,
+      "time_stamp": "39:04",
+      "comments_type": "yellow card",
+      "comments_text": "Luis Suarez (Atl. Madrid) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+      "index": 4
+    },
+    {
+      "half": 1,
+      "time_stamp": "42:07",
+      "comments_type": "yellow card",
+      "comments_text": "This yellow card was deserved. The tackle by Saul (Atl. Madrid) was quite harsh and Antonio Mateu Lahoz didn't hesitate to show him a yellow card.",
+      "comments_text_anonymized": "This yellow card was deserved. The tackle by Saul ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+      "index": 5
+    },
+    {
+      "half": 2,
+      "time_stamp": "00:10",
+      "comments_type": "substitution",
+      "comments_text": "There will be a change on the pitch for the second half. Diego Simeone probably wasn't satisfied with the performance of Geoffrey Kondogbia (Atl. Madrid). He is replaced by Sime Vrsaljko.",
+      "comments_text_anonymized": "There will be a change on the pitch for the second half. [PLAYER] probably wasn't satisfied with the performance of [PLAYER] ([TEAM]). He is replaced by [PLAYER].",
+      "index": 6
+    },
+    {
+      "half": 2,
+      "time_stamp": "07:36",
+      "comments_type": "corner",
+      "comments_text": "Kenedy (Granada CF) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+      "index": 7
+    },
+    {
+      "half": 2,
+      "time_stamp": "11:40",
+      "comments_type": "substitution",
+      "comments_text": "Yan Brice Eteki goes off the pitch and Yangel Herrera (Granada CF) comes on.",
+      "comments_text_anonymized": "Yan Brice [PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on.",
+      "index": 8
+    },
+    {
+      "half": 2,
+      "time_stamp": "14:07",
+      "comments_type": "corner",
+      "comments_text": "The resulting corner, taken by Angel Correa (Atl. Madrid), comes to nothing.",
+      "comments_text_anonymized": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing.",
+      "index": 9
+    },
+    {
+      "half": 2,
+      "time_stamp": "18:40",
+      "comments_type": "goal",
+      "comments_text": "Marcos Llorente (Atl. Madrid) breaks through before collecting a brilliant pass and producing a precise strike to beat the goalkeeper. The ball went into the bottom right corner.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) breaks through before collecting a brilliant pass and producing a precise strike to beat the goalkeeper. The ball went into the bottom right corner.",
+      "index": 10
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:49",
+      "comments_type": "corner",
+      "comments_text": "Granada CF failed to take advantage of the corner as the opposition's defence was alert and averted the threat. The referee and one of his assistants signal for a corner kick to Granada CF.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat. The referee and one of his assistants signal for a corner kick to [TEAM].",
+      "index": 11
+    },
+    {
+      "half": 2,
+      "time_stamp": "19:52",
+      "comments_type": "corner",
+      "comments_text": "Corner kick. Kenedy (Granada CF) is ready to send the ball into the box.",
+      "comments_text_anonymized": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box.",
+      "index": 12
+    },
+    {
+      "half": 2,
+      "time_stamp": "20:09",
+      "comments_type": "goal",
+      "comments_text": "It's in the back of the net! Yangel Herrera (Granada CF) tries his luck from the edge of the box and his shot takes a deflection and goes past the stranded Jan Oblak. He makes it 1:1.",
+      "comments_text_anonymized": "It's in the back of the net! [PLAYER] ([TEAM]) tries his luck from the edge of the box and his shot takes a deflection and goes past the stranded [PLAYER]. He makes it 1:1.",
+      "index": 13
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:22",
+      "comments_type": "substitution",
+      "comments_text": "The manager makes a subsitution with Antonio Puertas (Granada CF) coming on for Kenedy.",
+      "comments_text_anonymized": "The manager makes a subsitution with [PLAYER] ([TEAM]) coming on for [PLAYER].",
+      "index": 14
+    },
+    {
+      "half": 2,
+      "time_stamp": "23:10",
+      "comments_type": "substitution",
+      "comments_text": "Diego Martinez decides to make a substitution. Angel Montoro will be replaced by Maxime Gonalons (Granada CF).",
+      "comments_text_anonymized": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+      "index": 15
+    },
+    {
+      "half": 2,
+      "time_stamp": "25:25",
+      "comments_type": "corner",
+      "comments_text": "Granada CF failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "comments_text_anonymized": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+      "index": 16
+    },
+    {
+      "half": 2,
+      "time_stamp": "28:15",
+      "comments_type": "goal",
+      "comments_text": "Goal! Marcos Llorente plays it to Angel Correa (Atl. Madrid), whose deflected shot from inside the box goes past the helpless Rui Silva. 1:2.",
+      "comments_text_anonymized": "Goal! [PLAYER] plays it to [PLAYER] ([TEAM]), whose deflected shot from inside the box goes past the helpless [PLAYER]. 1:2.",
+      "index": 17
+    },
+    {
+      "half": 2,
+      "time_stamp": "31:54",
+      "comments_type": "yellow card",
+      "comments_text": "Antonio Mateu Lahoz shows a yellow card to Stefan Savic (Atl. Madrid) for his blatant foul.",
+      "comments_text_anonymized": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul.",
+      "index": 18
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:28",
+      "comments_type": "substitution",
+      "comments_text": "Substitution. Alberto Soro (Granada CF) receives a signal from the referee and is now allowed to enter the pitch as Darwin Machis walks off.",
+      "comments_text_anonymized": "Substitution. [PLAYER] ([TEAM]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER] walks off.",
+      "index": 19
+    },
+    {
+      "half": 2,
+      "time_stamp": "33:30",
+      "comments_type": "substitution",
+      "comments_text": "Diego Martinez has decided to substitute Dimitri Foulquier and he is replaced by Domingos Quina (Granada CF).",
+      "comments_text_anonymized": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+      "index": 20
+    },
+    {
+      "half": 2,
+      "time_stamp": "36:57",
+      "comments_type": "corner",
+      "comments_text": "Granada CF have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "comments_text_anonymized": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+      "index": 21
+    },
+    {
+      "half": 2,
+      "time_stamp": "43:33",
+      "comments_type": "yellow card",
+      "comments_text": "Koke (Atl. Madrid) argues strongly with the referee and is awarded a yellow card. A needless yellow card!",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) argues strongly with the referee and is awarded a yellow card. A needless yellow card!",
+      "index": 22
+    },
+    {
+      "half": 2,
+      "time_stamp": "44:21",
+      "comments_type": "yellow card",
+      "comments_text": "Yannick Carrasco (Atl. Madrid) is booked.",
+      "comments_text_anonymized": "[PLAYER] ([TEAM]) is booked.",
+      "index": 23
+    }
+  ]
+}

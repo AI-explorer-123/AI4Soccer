@@ -1,0 +1,1638 @@
+{
+    "timestamp": "1471709700",
+    "score": "6 - 2",
+    "round": "1",
+    "teams": [
+        "Barcelona",
+        "Betis"
+    ],
+    "lineup": {
+        "home": {
+            "tactic": "1-4-3-3",
+            "players": [
+                {
+                    "hash": "42SIX9sl",
+                    "name": "Alba J.",
+                    "captain": "",
+                    "detail_link": "/player/alba-jordi/42SIX9sl/",
+                    "short_name": "Alba",
+                    "shirt_number": "18",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "6' Turan A. (Alba J.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "6",
+                            "time": "76'",
+                            "description": "Digne L.",
+                            "linked_player_hash": "v9Ux4sua"
+                        }
+                    ],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "Jordi Alba"
+                },
+                {
+                    "hash": "8nVXP7xE",
+                    "name": "Bravo C.",
+                    "captain": "",
+                    "detail_link": "/player/bravo-claudio/8nVXP7xE/",
+                    "short_name": "Bravo",
+                    "shirt_number": "13",
+                    "country": "Chile",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Claudio Bravo"
+                },
+                {
+                    "hash": "CU4pL3ue",
+                    "name": "Busquets S.",
+                    "captain": "",
+                    "detail_link": "/player/busquets-sergio/CU4pL3ue/",
+                    "short_name": "Busquets",
+                    "shirt_number": "5",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Sergio Busquets"
+                },
+                {
+                    "hash": "vgOOdZbd",
+                    "name": "Messi L.",
+                    "captain": "(C)",
+                    "detail_link": "/player/messi-lionel/vgOOdZbd/",
+                    "short_name": "Messi",
+                    "shirt_number": "10",
+                    "country": "Argentina",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "37' Messi L. (Roberto S.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "56' Suarez L. (Messi L.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "3",
+                            "time": "57' Messi L. (Turan A.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Lionel Messi"
+                },
+                {
+                    "hash": "fRBrHCRh",
+                    "name": "Pique G.",
+                    "captain": "",
+                    "detail_link": "/player/pique-gerard/fRBrHCRh/",
+                    "short_name": "Pique",
+                    "shirt_number": "3",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Gerard Pique"
+                },
+                {
+                    "hash": "pC6dfyG5",
+                    "name": "Rakitic I.",
+                    "captain": "",
+                    "detail_link": "/player/rakitic-ivan/pC6dfyG5/",
+                    "short_name": "Rakitic",
+                    "shirt_number": "4",
+                    "country": "Croatia",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Ivan Rakitic"
+                },
+                {
+                    "hash": "W2R804U4",
+                    "name": "Roberto S.",
+                    "captain": "",
+                    "detail_link": "/player/roberto-sergi/W2R804U4/",
+                    "short_name": "Roberto",
+                    "shirt_number": "20",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "8",
+                            "time": "37' Messi L. (Roberto S.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "42' Suarez L. (Roberto S.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Sergi Roberto"
+                },
+                {
+                    "hash": "xWwucZ71",
+                    "name": "Suarez D.",
+                    "captain": "",
+                    "detail_link": "/player/suarez-denis/xWwucZ71/",
+                    "short_name": "Suarez",
+                    "shirt_number": "6",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "70'",
+                            "description": "Munir El Haddadi",
+                            "linked_player_hash": "CKYnnUEo"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Denis Suarez"
+                },
+                {
+                    "hash": "dUShzrBp",
+                    "name": "Suarez L.",
+                    "captain": "",
+                    "detail_link": "/player/suarez-luis/dUShzrBp/",
+                    "short_name": "Suarez",
+                    "shirt_number": "9",
+                    "country": "Uruguay",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "42' Suarez L. (Roberto S.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "3",
+                            "time": "56' Suarez L. (Messi L.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "62' Suarez L. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "3",
+                            "time": "82' Suarez L.",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Luis Suarez"
+                },
+                {
+                    "hash": "K0HKnqmK",
+                    "name": "Turan A.",
+                    "captain": "",
+                    "detail_link": "/player/turan-arda/K0HKnqmK/",
+                    "short_name": "Turan",
+                    "shirt_number": "7",
+                    "country": "Turkey",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "6' Turan A. (Alba J.)",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "8",
+                            "time": "57' Messi L. (Turan A.)",
+                            "description": "Assistance",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Arda Turan"
+                },
+                {
+                    "hash": "zsH7aMfI",
+                    "name": "Umtiti S.",
+                    "captain": "",
+                    "detail_link": "/player/umtiti-samuel/zsH7aMfI/",
+                    "short_name": "Umtiti",
+                    "shirt_number": "23",
+                    "country": "France",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Samuel Umtiti"
+                },
+                {
+                    "hash": "v9Ux4sua",
+                    "name": "Digne L.",
+                    "captain": "",
+                    "detail_link": "/player/digne-lucas/v9Ux4sua/",
+                    "short_name": "Digne",
+                    "shirt_number": "19",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "76'",
+                            "description": "Alba J.",
+                            "linked_player_hash": "42SIX9sl"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Lucas Digne"
+                },
+                {
+                    "hash": "KlpHYSG7",
+                    "name": "Kaptoum W.",
+                    "captain": "",
+                    "detail_link": "/player/kaptoum-wilfrid/KlpHYSG7/",
+                    "short_name": "Kaptoum",
+                    "shirt_number": "27",
+                    "country": "Cameroon",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Wilfrid Kaptoum"
+                },
+                {
+                    "hash": "hA4JL8bD",
+                    "name": "Masip J.",
+                    "captain": "",
+                    "detail_link": "/player/masip-jordi/hA4JL8bD/",
+                    "short_name": "Masip",
+                    "shirt_number": "25",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jordi Masip"
+                },
+                {
+                    "hash": "CKYnnUEo",
+                    "name": "Munir El Haddadi",
+                    "captain": "",
+                    "detail_link": "/player/munir-el-haddadi/CKYnnUEo/",
+                    "short_name": "Munir El Haddadi",
+                    "shirt_number": "17",
+                    "country": "Morocco",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "70'",
+                            "description": "Suarez D.",
+                            "linked_player_hash": "xWwucZ71"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Munir El Haddadi"
+                },
+                {
+                    "hash": "UuGeS7PS",
+                    "name": "Pereira D.",
+                    "captain": "",
+                    "detail_link": "/player/pereira-douglas/UuGeS7PS/",
+                    "short_name": "Pereira",
+                    "shirt_number": "2",
+                    "country": "Brazil",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Douglas Pereira"
+                },
+                {
+                    "hash": "M1U7TiW3",
+                    "name": "Samper S.",
+                    "captain": "",
+                    "detail_link": "/player/samper-sergi/M1U7TiW3/",
+                    "short_name": "Samper",
+                    "shirt_number": "16",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Sergi Samper"
+                },
+                {
+                    "hash": "46cDKzxB",
+                    "name": "Vidal A.",
+                    "captain": "",
+                    "detail_link": "/player/vidal-aleix/46cDKzxB/",
+                    "short_name": "Vidal",
+                    "shirt_number": "22",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Aleix Vidal"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "8MdrBIUb",
+                    "name": "Enrique L.",
+                    "captain": "",
+                    "detail_link": "/player/enrique-luis/8MdrBIUb/",
+                    "short_name": "Enrique L.",
+                    "shirt_number": "",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Luis Enrique"
+                }
+            ]
+        },
+        "away": {
+            "tactic": "1-5-3-2",
+            "players": [
+                {
+                    "hash": "tbjcsOoa",
+                    "name": "Adan A.",
+                    "captain": "",
+                    "detail_link": "/player/adan-antonio/tbjcsOoa/",
+                    "short_name": "Adan",
+                    "shirt_number": "13",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 1,
+                    "starting": true,
+                    "long_name": "Antonio Adan"
+                },
+                {
+                    "hash": "Am1OnaHH",
+                    "name": "Castro R.",
+                    "captain": "",
+                    "detail_link": "/player/castro-ruben/Am1OnaHH/",
+                    "short_name": "Castro",
+                    "shirt_number": "24",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "3",
+                            "time": "21' Castro R.",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "1",
+                            "time": "77' Castro R. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        },
+                        {
+                            "type": "3",
+                            "time": "84' Castro R.",
+                            "description": "Goal",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 11,
+                    "starting": true,
+                    "long_name": "Ruben Castro"
+                },
+                {
+                    "hash": "SEMyNX6C",
+                    "name": "Cejudo A.",
+                    "captain": "",
+                    "detail_link": "/player/cejudo-alvaro/SEMyNX6C/",
+                    "short_name": "Cejudo",
+                    "shirt_number": "16",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "1",
+                            "time": "45' Cejudo A. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": 2,
+                    "starting": true,
+                    "long_name": "Alvaro Cejudo"
+                },
+                {
+                    "hash": "vs0CxsNf",
+                    "name": "Durmisi R.",
+                    "captain": "",
+                    "detail_link": "/player/durmisi-riza/vs0CxsNf/",
+                    "short_name": "Durmisi",
+                    "shirt_number": "14",
+                    "country": "Denmark",
+                    "facts": [],
+                    "lineup": 6,
+                    "starting": true,
+                    "long_name": "Riza Durmisi"
+                },
+                {
+                    "hash": "xM8OEZ0o",
+                    "name": "Gonzalez B.",
+                    "captain": "",
+                    "detail_link": "/player/gonzalez-bruno/xM8OEZ0o/",
+                    "short_name": "Gonzalez",
+                    "shirt_number": "4",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": 3,
+                    "starting": true,
+                    "long_name": "Bruno Gonzalez"
+                },
+                {
+                    "hash": "dGNzC3kp",
+                    "name": "Gutierrez F.",
+                    "captain": "",
+                    "detail_link": "/player/gutierrez-felipe/dGNzC3kp/",
+                    "short_name": "Gutierrez",
+                    "shirt_number": "6",
+                    "country": "Chile",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "55'",
+                            "description": "Musonda C.",
+                            "linked_player_hash": "8jhtnJwj"
+                        }
+                    ],
+                    "lineup": 9,
+                    "starting": true,
+                    "long_name": "Felipe Gutierrez"
+                },
+                {
+                    "hash": "0hxFjbCm",
+                    "name": "Mandi A.",
+                    "captain": "",
+                    "detail_link": "/player/mandi-aissa/0hxFjbCm/",
+                    "short_name": "Mandi",
+                    "shirt_number": "23",
+                    "country": "Algeria",
+                    "facts": [],
+                    "lineup": 4,
+                    "starting": true,
+                    "long_name": "Aissa Mandi"
+                },
+                {
+                    "hash": "tQMgOwhG",
+                    "name": "Martin J.",
+                    "captain": "",
+                    "detail_link": "/player/martin-jonas/tQMgOwhG/",
+                    "short_name": "Martin",
+                    "shirt_number": "8",
+                    "country": "France",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "36'",
+                            "description": "Ceballos D.",
+                            "linked_player_hash": "zPYmze7F"
+                        }
+                    ],
+                    "lineup": 7,
+                    "starting": true,
+                    "long_name": "Jonas Martin"
+                },
+                {
+                    "hash": "0GHXKCzN",
+                    "name": "Petros",
+                    "captain": "",
+                    "detail_link": "/player/petros/0GHXKCzN/",
+                    "short_name": "Petros",
+                    "shirt_number": "5",
+                    "country": "Brazil",
+                    "facts": [
+                        {
+                            "type": "6",
+                            "time": "59'",
+                            "description": "Ruiz F.",
+                            "linked_player_hash": "l6HSH2Uo"
+                        }
+                    ],
+                    "lineup": 8,
+                    "starting": true,
+                    "long_name": "Petros"
+                },
+                {
+                    "hash": "dIpXfWsl",
+                    "name": "Pezzella G.",
+                    "captain": "",
+                    "detail_link": "/player/pezzella-german/dIpXfWsl/",
+                    "short_name": "Pezzella",
+                    "shirt_number": "20",
+                    "country": "Argentina",
+                    "facts": [],
+                    "lineup": 5,
+                    "starting": true,
+                    "long_name": "German Pezzella"
+                },
+                {
+                    "hash": "jNePUJ0b",
+                    "name": "Sanabria A.",
+                    "captain": "",
+                    "detail_link": "/player/sanabria-antonio/jNePUJ0b/",
+                    "short_name": "Sanabria",
+                    "shirt_number": "9",
+                    "country": "Paraguay",
+                    "facts": [],
+                    "lineup": 10,
+                    "starting": true,
+                    "long_name": "Antonio Sanabria"
+                },
+                {
+                    "hash": "tGO3DKQq",
+                    "name": "Alegria A.",
+                    "captain": "",
+                    "detail_link": "/player/alegria-alex/tGO3DKQq/",
+                    "short_name": "Alegria",
+                    "shirt_number": "19",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Alex Alegria"
+                },
+                {
+                    "hash": "lKxFqF4p",
+                    "name": "Carlos J.",
+                    "captain": "",
+                    "detail_link": "/player/ramirez-jose-carlos/lKxFqF4p/",
+                    "short_name": "Carlos",
+                    "shirt_number": "55",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Jose Carlos"
+                },
+                {
+                    "hash": "zPYmze7F",
+                    "name": "Ceballos D.",
+                    "captain": "",
+                    "detail_link": "/player/ceballos-dani/zPYmze7F/",
+                    "short_name": "Ceballos",
+                    "shirt_number": "10",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "36'",
+                            "description": "Martin J.",
+                            "linked_player_hash": "tQMgOwhG"
+                        },
+                        {
+                            "type": "1",
+                            "time": "68' Ceballos D. (Tripping)",
+                            "description": "Yellow Card",
+                            "linked_player_hash": ""
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Daniel Ceballos"
+                },
+                {
+                    "hash": "r7HW6knF",
+                    "name": "Gimenez D.",
+                    "captain": "",
+                    "detail_link": "/player/gimenez-daniel/r7HW6knF/",
+                    "short_name": "Gimenez",
+                    "shirt_number": "1",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Daniel Gimenez"
+                },
+                {
+                    "hash": "I3ySbl3q",
+                    "name": "Joaquin",
+                    "captain": "",
+                    "detail_link": "/player/joaquin/I3ySbl3q/",
+                    "short_name": "Joaquin",
+                    "shirt_number": "17",
+                    "country": "Spain",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Joaquin"
+                },
+                {
+                    "hash": "8jhtnJwj",
+                    "name": "Musonda C.",
+                    "captain": "",
+                    "detail_link": "/player/musonda-charly/8jhtnJwj/",
+                    "short_name": "Musonda",
+                    "shirt_number": "7",
+                    "country": "Belgium",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "55'",
+                            "description": "Gutierrez F.",
+                            "linked_player_hash": "dGNzC3kp"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Charly Jr. Musonda"
+                },
+                {
+                    "hash": "l6HSH2Uo",
+                    "name": "Ruiz F.",
+                    "captain": "",
+                    "detail_link": "/player/ruiz-fabian/l6HSH2Uo/",
+                    "short_name": "Ruiz",
+                    "shirt_number": "21",
+                    "country": "Spain",
+                    "facts": [
+                        {
+                            "type": "7",
+                            "time": "59'",
+                            "description": "Petros",
+                            "linked_player_hash": "0GHXKCzN"
+                        }
+                    ],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Fabian Ruiz"
+                }
+            ],
+            "coach": [
+                {
+                    "hash": "StDXWE3E",
+                    "name": "Poyet G.",
+                    "captain": "",
+                    "detail_link": "/player/poyet-gustavo/StDXWE3E/",
+                    "short_name": "Poyet G.",
+                    "shirt_number": "",
+                    "country": "Uruguay",
+                    "facts": [],
+                    "lineup": null,
+                    "starting": false,
+                    "long_name": "Gustavo Poyet"
+                }
+            ]
+        }
+    },
+    "referee": [
+        "Mallenco A."
+    ],
+    "venue": [
+        "Camp Nou (Barcelona)"
+    ],
+    "attendance": [
+        "65 731"
+    ],
+    "referee_matched": [
+        "Alberto Undiano Mallenco"
+    ],
+    "referee_found": [
+        "Alberto Undiano Mallenco"
+    ],
+    "coach_matched": [
+        "Gustavo Poyet"
+    ],
+    "gameHomeTeam": "Barcelona",
+    "home": {
+        "name": "Barcelona",
+        "detail_link": "/team/barcelona/SKbpVP5K",
+        "hash": "SKbpVP5K",
+        "names": [
+            "Barcelona",
+            "barcelona"
+        ]
+    },
+    "gameAwayTeam": "Betis",
+    "away": {
+        "name": "Betis",
+        "detail_link": "/team/betis/vJbTeCGP",
+        "hash": "vJbTeCGP",
+        "names": [
+            "Betis",
+            "betis"
+        ]
+    },
+    "gameDate": "20/08/2016 - 18:15",
+    "annotations": [
+        {
+            "important": false,
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "It was an attractive offensive game and the fans have no reason to be upset. The host team were better throughout the game. Both sides adopted slow build-up play tactics today.",
+            "identified": "It was an attractive offensive game and the fans have no reason to be upset. The host team were better throughout the game. Both sides adopted slow build-up play tactics today.",
+            "anonymized": "It was an attractive offensive game and the fans have no reason to be upset. The host team were better throughout the game. Both sides adopted slow build-up play tactics today.",
+            "visibility": "shown",
+            "position": "2879000",
+            "event_aligned_gameTime": "2 - 47:59",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 47:07",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match.",
+            "identified": "The referee blows his whistle for the final time to end this match.",
+            "anonymized": "The referee blows his whistle for the final time to end this match.",
+            "visibility": "shown",
+            "position": "2827000",
+            "event_aligned_gameTime": "2 - 47:07",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 46:47",
+            "label": "",
+            "description": "Excellent touch by Daniel Ceballos (Betis)! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post.",
+            "identified": "Excellent touch by [PLAYER_zPYmze7F] ([TEAM_])! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post.",
+            "anonymized": "Excellent touch by [PLAYER] ([TEAM])! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post.",
+            "visibility": "shown",
+            "position": "2807000",
+            "event_aligned_gameTime": "2 - 46:47",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": false,
+            "gameTime": "3 - 00:00",
+            "label": "time",
+            "description": "Fourth official shows 2 min. of added time.",
+            "identified": "Fourth official shows 2 min. of added time.",
+            "anonymized": "Fourth official shows 2 min. of added time.",
+            "visibility": "shown",
+            "position": "0",
+            "event_aligned_gameTime": "3 - 00:10",
+            "contrastive_aligned_gameTime": "2 - 45:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 44:10",
+            "label": "corner",
+            "description": "The resulting corner from Lionel Messi (Barcelona) comes to nothing.",
+            "identified": "The resulting corner from [PLAYER_vgOOdZbd] ([TEAM_]) comes to nothing.",
+            "anonymized": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing.",
+            "visibility": "shown",
+            "position": "2650000",
+            "event_aligned_gameTime": "2 - 44:10",
+            "contrastive_aligned_gameTime": "2 - 43:50"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 43:47",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",
+            "anonymized": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",
+            "visibility": "shown",
+            "position": "2627000",
+            "event_aligned_gameTime": "2 - 43:30",
+            "contrastive_aligned_gameTime": "2 - 44:08"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 43:32",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) takes the corner, but it's intercepted by the defender.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) takes the corner, but it's intercepted by the defender.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner, but it's intercepted by the defender.",
+            "visibility": "shown",
+            "position": "2612000",
+            "event_aligned_gameTime": "2 - 42:40",
+            "contrastive_aligned_gameTime": "2 - 42:58"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 43:12",
+            "label": "",
+            "description": "That was a nice football moment. Ivan Rakitic (Barcelona) receives an amazing defence-splitting low pass on the edge of the box and blasts the ball towards the roof of the net. Antonio Adan guesses his intention and dives superbly to deny him with a remarkable save! Barcelona get a corner.",
+            "identified": "That was a nice football moment. [PLAYER_pC6dfyG5] ([TEAM_]) receives an amazing defence-splitting low pass on the edge of the box and blasts the ball towards the roof of the net. [PLAYER_tbjcsOoa] guesses his intention and dives superbly to deny him with a remarkable save! [TEAM_] get a corner.",
+            "anonymized": "That was a nice football moment. [PLAYER] ([TEAM]) receives an amazing defence-splitting low pass on the edge of the box and blasts the ball towards the roof of the net. [PLAYER] guesses his intention and dives superbly to deny him with a remarkable save! [TEAM] get a corner.",
+            "visibility": "shown",
+            "position": "2592000",
+            "event_aligned_gameTime": "2 - 42:40",
+            "contrastive_aligned_gameTime": "2 - 42:10"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 42:26",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) takes a short corner kick.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) takes a short corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a short corner kick.",
+            "visibility": "shown",
+            "position": "2546000",
+            "event_aligned_gameTime": "2 - 42:40",
+            "contrastive_aligned_gameTime": "2 - 43:06"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 41:52",
+            "label": "",
+            "description": "Lucas Digne (Barcelona) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. Antonio Adan is alert and denies him with a nice save. Barcelona force their opponents to concede a corner.",
+            "identified": "[PLAYER_v9Ux4sua] ([TEAM_]) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. [PLAYER_tbjcsOoa] is alert and denies him with a nice save. [TEAM_] force their opponents to concede a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. [PLAYER] is alert and denies him with a nice save. [TEAM] force their opponents to concede a corner.",
+            "visibility": "shown",
+            "position": "2512000",
+            "event_aligned_gameTime": "2 - 41:50",
+            "contrastive_aligned_gameTime": "2 - 42:10"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 38:54",
+            "label": "soccer-ball",
+            "description": "Goal! Ruben Castro (Betis) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 6:2.",
+            "identified": "Goal! [PLAYER_Am1OnaHH] ([TEAM_]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 6:2.",
+            "anonymized": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 6:2.",
+            "visibility": "shown",
+            "position": "2334000",
+            "event_aligned_gameTime": "2 - 38:30",
+            "contrastive_aligned_gameTime": "2 - 38:13"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 38:20",
+            "label": "",
+            "description": "Ruben Castro (Betis) receives the ball inside the box from the resulting free kick, but fails to score as his shot is blocked by one of the defenders.",
+            "identified": "[PLAYER_Am1OnaHH] ([TEAM_]) receives the ball inside the box from the resulting free kick, but fails to score as his shot is blocked by one of the defenders.",
+            "anonymized": "[PLAYER] ([TEAM]) receives the ball inside the box from the resulting free kick, but fails to score as his shot is blocked by one of the defenders.",
+            "visibility": "shown",
+            "position": "2300000",
+            "event_aligned_gameTime": "2 - 38:20",
+            "contrastive_aligned_gameTime": "2 - 38:34"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 38:10",
+            "label": "",
+            "description": "Alvaro Cejudo (Betis) takes the ball and sets it for the free kick.",
+            "identified": "[PLAYER_SEMyNX6C] ([TEAM_]) takes the ball and sets it for the free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the ball and sets it for the free kick.",
+            "visibility": "shown",
+            "position": "2290000",
+            "event_aligned_gameTime": "2 - 38:10",
+            "contrastive_aligned_gameTime": "2 - 38:10"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 37:50",
+            "label": "",
+            "description": "One of the Barcelona players unfairly tackled his opponent and conceded a foul. A free kick has been awarded to Betis.",
+            "identified": "One of the [TEAM_] players unfairly tackled his opponent and conceded a foul. A free kick has been awarded to [TEAM_].",
+            "anonymized": "One of the [TEAM] players unfairly tackled his opponent and conceded a foul. A free kick has been awarded to [TEAM].",
+            "visibility": "shown",
+            "position": "2270000",
+            "event_aligned_gameTime": "2 - 37:50",
+            "contrastive_aligned_gameTime": "2 - 38:08"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 36:48",
+            "label": "soccer-ball",
+            "description": "Luis Suarez (Barcelona) can showcase his brilliant free kick ability, particularly from a distance like this. He hits the ball perfectly and it ends up inside the left post.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) can showcase his brilliant free kick ability, particularly from a distance like this. He hits the ball perfectly and it ends up inside the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) can showcase his brilliant free kick ability, particularly from a distance like this. He hits the ball perfectly and it ends up inside the left post.",
+            "visibility": "shown",
+            "position": "2208000",
+            "event_aligned_gameTime": "2 - 36:40",
+            "contrastive_aligned_gameTime": "2 - 36:08"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 35:30",
+            "label": "",
+            "description": "Alberto Undiano Mallenco blows the whistle, Fabian Ruiz (Betis) is penalised for a foul. Barcelona are awarded a free kick.",
+            "identified": "[REFEREE] blows the whistle, [PLAYER_l6HSH2Uo] ([TEAM_]) is penalised for a foul. [TEAM_] are awarded a free kick.",
+            "anonymized": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul. [TEAM] are awarded a free kick.",
+            "visibility": "shown",
+            "position": "2130000",
+            "event_aligned_gameTime": "2 - 35:30",
+            "contrastive_aligned_gameTime": "2 - 35:13"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 34:51",
+            "label": "",
+            "description": "Referee Alberto Undiano Mallenco sees the trip by Riza Durmisi (Betis) and doesn't hesitate to blow his whistle. Barcelona will take a free kick near the side line.",
+            "identified": "Referee [REFEREE] sees the trip by [PLAYER_vs0CxsNf] ([TEAM_]) and doesn't hesitate to blow his whistle. [TEAM_] will take a free kick near the side line.",
+            "anonymized": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle. [TEAM] will take a free kick near the side line.",
+            "visibility": "shown",
+            "position": "2091000",
+            "event_aligned_gameTime": "2 - 34:50",
+            "contrastive_aligned_gameTime": "2 - 35:21"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 31:32",
+            "label": "y-card",
+            "description": "Ruben Castro (Betis) takes his opponent down and receives a yellow card from the referee.",
+            "identified": "[PLAYER_Am1OnaHH] ([TEAM_]) takes his opponent down and receives a yellow card from the referee.",
+            "anonymized": "[PLAYER] ([TEAM]) takes his opponent down and receives a yellow card from the referee.",
+            "visibility": "shown",
+            "position": "1892000",
+            "event_aligned_gameTime": "2 - 31:30",
+            "contrastive_aligned_gameTime": "2 - 31:10"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 30:39",
+            "label": "substitution",
+            "description": "Here comes a substitution. Lucas Digne (Barcelona) is brought on as a substitute for Jordi Alba.",
+            "identified": "Here comes a substitution. [PLAYER_v9Ux4sua] ([TEAM_]) is brought on as a substitute for [PLAYER_42SIX9sl].",
+            "anonymized": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+            "visibility": "shown",
+            "position": "1839000",
+            "event_aligned_gameTime": "2 - 30:30",
+            "contrastive_aligned_gameTime": "2 - 30:30"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 29:47",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) decides to take a short corner instead of crossing into the box.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) decides to take a short corner instead of crossing into the box.",
+            "anonymized": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box.",
+            "visibility": "shown",
+            "position": "1787000",
+            "event_aligned_gameTime": "2 - 29:40",
+            "contrastive_aligned_gameTime": "2 - 29:28"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 29:37",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) latches on to a precise pass and one-on-one with the keeper slams the ball towards the middle of the goal. Antonio Adan is alert, though, and makes an easy save to deny him. It will be a corner kick for Barcelona.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) latches on to a precise pass and one-on-one with the keeper slams the ball towards the middle of the goal. [PLAYER_tbjcsOoa] is alert, though, and makes an easy save to deny him. It will be a corner kick for [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a precise pass and one-on-one with the keeper slams the ball towards the middle of the goal. [PLAYER] is alert, though, and makes an easy save to deny him. It will be a corner kick for [TEAM].",
+            "visibility": "shown",
+            "position": "1777000",
+            "event_aligned_gameTime": "2 - 29:37",
+            "contrastive_aligned_gameTime": "2 - 29:06"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:46",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) connects with the ball from the corner kick on the edge of the penalty box and plants a low header to the middle of the target. However, the ball is cleared away by one of the defenders. Great reaction.",
+            "identified": "[PLAYER_fRBrHCRh] ([TEAM_]) connects with the ball from the corner kick on the edge of the penalty box and plants a low header to the middle of the target. However, the ball is cleared away by one of the defenders. Great reaction.",
+            "anonymized": "[PLAYER] ([TEAM]) connects with the ball from the corner kick on the edge of the penalty box and plants a low header to the middle of the target. However, the ball is cleared away by one of the defenders. Great reaction.",
+            "visibility": "shown",
+            "position": "1726000",
+            "event_aligned_gameTime": "2 - 28:40",
+            "contrastive_aligned_gameTime": "2 - 28:40"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:28",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) is about to take a corner kick.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) is about to take a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) is about to take a corner kick.",
+            "visibility": "shown",
+            "position": "1708000",
+            "event_aligned_gameTime": "2 - 28:28",
+            "contrastive_aligned_gameTime": "2 - 28:34"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 28:10",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) delivers a promising cross into the box, but it's cleared. The ball goes out for a corner. Barcelona can continue in their attacking effort.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) delivers a promising cross into the box, but it's cleared. The ball goes out for a corner. [TEAM_] can continue in their attacking effort.",
+            "anonymized": "[PLAYER] ([TEAM]) delivers a promising cross into the box, but it's cleared. The ball goes out for a corner. [TEAM] can continue in their attacking effort.",
+            "visibility": "shown",
+            "position": "1690000",
+            "event_aligned_gameTime": "2 - 28:10",
+            "contrastive_aligned_gameTime": "2 - 28:00"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 25:13",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",
+            "anonymized": "[PLAYER] ([TEAM]) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",
+            "visibility": "shown",
+            "position": "1513000",
+            "event_aligned_gameTime": "2 - 25:10",
+            "contrastive_aligned_gameTime": "2 - 25:02"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 24:11",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Denis Suarez as he is replaced by Munir El Haddadi (Barcelona).",
+            "identified": "It's time for a substitution. That's the last involvement from [PLAYER_xWwucZ71] as he is replaced by [PLAYER_CKYnnUEo] ([TEAM_]).",
+            "anonymized": "It's time for a substitution. That's the last involvement from [PLAYER] as he is replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1451000",
+            "event_aligned_gameTime": "2 - 24:10",
+            "contrastive_aligned_gameTime": "2 - 24:12"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 22:29",
+            "label": "y-card",
+            "description": "Daniel Ceballos (Betis) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+            "identified": "[PLAYER_zPYmze7F] ([TEAM_]) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+            "anonymized": "[PLAYER] ([TEAM]) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+            "visibility": "shown",
+            "position": "1349000",
+            "event_aligned_gameTime": "2 - 22:20",
+            "contrastive_aligned_gameTime": "2 - 22:31"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 21:23",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "anonymized": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "visibility": "shown",
+            "position": "1283000",
+            "event_aligned_gameTime": "2 - 20:50",
+            "contrastive_aligned_gameTime": "2 - 21:05"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 20:17",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) fails to convert the free kick from the edge of the box. His shot goes right into the stands. High, wide and not at all handsome.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) fails to convert the free kick from the edge of the box. His shot goes right into the stands. High, wide and not at all handsome.",
+            "anonymized": "[PLAYER] ([TEAM]) fails to convert the free kick from the edge of the box. His shot goes right into the stands. High, wide and not at all handsome.",
+            "visibility": "shown",
+            "position": "1217000",
+            "event_aligned_gameTime": "2 - 20:10",
+            "contrastive_aligned_gameTime": "2 - 19:34"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 19:14",
+            "label": "",
+            "description": "Alberto Undiano Mallenco interrupts the game for a tactical foul by Alvaro Cejudo (Betis). A free kick to Barcelona.",
+            "identified": "[REFEREE] interrupts the game for a tactical foul by [PLAYER_SEMyNX6C] ([TEAM_]). A free kick to [TEAM_].",
+            "anonymized": "[REFEREE] interrupts the game for a tactical foul by [PLAYER] ([TEAM]). A free kick to [TEAM].",
+            "visibility": "shown",
+            "position": "1154000",
+            "event_aligned_gameTime": "2 - 19:10",
+            "contrastive_aligned_gameTime": "2 - 18:48"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 16:57",
+            "label": "y-card",
+            "description": "Yellow card. Luis Suarez (Barcelona) goes into the book for a bad tackle on his opponent.",
+            "identified": "Yellow card. [PLAYER_xWwucZ71] ([TEAM_]) goes into the book for a bad tackle on his opponent.",
+            "anonymized": "Yellow card. [PLAYER] ([TEAM]) goes into the book for a bad tackle on his opponent.",
+            "visibility": "shown",
+            "position": "1017000",
+            "event_aligned_gameTime": "2 - 16:50",
+            "contrastive_aligned_gameTime": "2 - 16:34"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:20",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "visibility": "shown",
+            "position": "920000",
+            "event_aligned_gameTime": "2 - 15:20",
+            "contrastive_aligned_gameTime": "2 - 16:05"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:10",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) attempted to curl the ball over the defensive wall from the free kick, but with no success. The ball goes out of play and Barcelona have been awarded a corner kick.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) attempted to curl the ball over the defensive wall from the free kick, but with no success. The ball goes out of play and [TEAM_] have been awarded a corner kick.",
+            "anonymized": "[PLAYER] ([TEAM]) attempted to curl the ball over the defensive wall from the free kick, but with no success. The ball goes out of play and [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "910000",
+            "event_aligned_gameTime": "2 - 15:10",
+            "contrastive_aligned_gameTime": "2 - 14:26"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 15:01",
+            "label": "",
+            "description": "Antonio Sanabria (Betis) brings an opponent down and Alberto Undiano Mallenco interrupts the game. Barcelona earn a free kick.",
+            "identified": "[PLAYER_jNePUJ0b] ([TEAM_]) brings an opponent down and [REFEREE] interrupts the game. [TEAM_] earn a free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) brings an opponent down and [REFEREE] interrupts the game. [TEAM] earn a free kick.",
+            "visibility": "shown",
+            "position": "901000",
+            "event_aligned_gameTime": "2 - 15:00",
+            "contrastive_aligned_gameTime": "2 - 14:30"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 13:42",
+            "label": "substitution",
+            "description": "Gustavo Poyet has decided to introduce fresh legs, with Fabian Ruiz (Betis) replacing Petros.",
+            "identified": "[COACH_StDXWE3E] has decided to introduce fresh legs, with [PLAYER_l6HSH2Uo] ([TEAM_]) replacing [PLAYER_0GHXKCzN].",
+            "anonymized": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+            "visibility": "shown",
+            "position": "822000",
+            "event_aligned_gameTime": "2 - 13:30",
+            "contrastive_aligned_gameTime": "2 - 13:24"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 11:49",
+            "label": "soccer-ball",
+            "description": "Lionel Messi (Barcelona) takes a great first touch to control a killer pass on the edge of the box and drills a shot into the bottom right corner in trademark fashion.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) takes a great first touch to control a killer pass on the edge of the box and drills a shot into the bottom right corner in trademark fashion.",
+            "anonymized": "[PLAYER] ([TEAM]) takes a great first touch to control a killer pass on the edge of the box and drills a shot into the bottom right corner in trademark fashion.",
+            "visibility": "shown",
+            "position": "709000",
+            "event_aligned_gameTime": "2 - 11:50",
+            "contrastive_aligned_gameTime": "2 - 11:44"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 10:50",
+            "label": "soccer-ball",
+            "description": "It's in the back of the net! Lionel Messi sprays a pass out to Luis Suarez (Barcelona), and he has an easy job to slot the ball into an empty net. The score is 4:1.",
+            "identified": "It's in the back of the net! [PLAYER_vgOOdZbd] sprays a pass out to [PLAYER_xWwucZ71] ([TEAM_]), and he has an easy job to slot the ball into an empty net. The score is 4:1.",
+            "anonymized": "It's in the back of the net! [PLAYER] sprays a pass out to [PLAYER] ([TEAM]), and he has an easy job to slot the ball into an empty net. The score is 4:1.",
+            "visibility": "shown",
+            "position": "650000",
+            "event_aligned_gameTime": "2 - 10:50",
+            "contrastive_aligned_gameTime": "2 - 10:31"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 10:04",
+            "label": "corner",
+            "description": "Alvaro Cejudo (Betis) takes the corner but it's cleared.",
+            "identified": "[PLAYER_SEMyNX6C] ([TEAM_]) takes the corner but it's cleared.",
+            "anonymized": "[PLAYER] ([TEAM]) takes the corner but it's cleared.",
+            "visibility": "shown",
+            "position": "604000",
+            "event_aligned_gameTime": "2 - 10:00",
+            "contrastive_aligned_gameTime": "2 - 10:06"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 09:47",
+            "label": "",
+            "description": "The ball is cleared after Charly Junior Musonda (Betis) attempted to dribble past an opposing player. Betis have been awarded a corner kick.",
+            "identified": "The ball is cleared after [PLAYER_8jhtnJwj] ([TEAM_]) attempted to dribble past an opposing player. [TEAM_] have been awarded a corner kick.",
+            "anonymized": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. [TEAM] have been awarded a corner kick.",
+            "visibility": "shown",
+            "position": "587000",
+            "event_aligned_gameTime": "2 - 09:30",
+            "contrastive_aligned_gameTime": "2 - 09:43"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 09:12",
+            "label": "substitution",
+            "description": "Felipe Gutierrez goes off the pitch and Charly Junior Musonda (Betis) comes on.",
+            "identified": "[PLAYER_dGNzC3kp] goes off the pitch and [PLAYER_8jhtnJwj] ([TEAM_]) comes on.",
+            "anonymized": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on.",
+            "visibility": "shown",
+            "position": "552000",
+            "event_aligned_gameTime": "2 - 09:10",
+            "contrastive_aligned_gameTime": "2 - 09:05"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 08:38",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger.",
+            "anonymized": "[PLAYER] ([TEAM]) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger.",
+            "visibility": "shown",
+            "position": "518000",
+            "event_aligned_gameTime": "2 - 08:30",
+            "contrastive_aligned_gameTime": "2 - 08:34"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 05:51",
+            "label": "",
+            "description": "Denis Suarez (Barcelona)'s poor effort is easily saved by Antonio Adan. He connects well with a cross, but mistimes it a little, and it heads towards the middle of the target and straight into the grateful hands of the goalkeeper.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_])'s poor effort is easily saved by [PLAYER_tbjcsOoa]. He connects well with a cross, but mistimes it a little, and it heads towards the middle of the target and straight into the grateful hands of the goalkeeper.",
+            "anonymized": "[PLAYER] ([TEAM])'s poor effort is easily saved by [PLAYER]. He connects well with a cross, but mistimes it a little, and it heads towards the middle of the target and straight into the grateful hands of the goalkeeper.",
+            "visibility": "shown",
+            "position": "351000",
+            "event_aligned_gameTime": "2 - 05:10",
+            "contrastive_aligned_gameTime": "2 - 05:43"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 04:39",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) latches on to a pass on the edge of the box, but he can't get any power into the shot and fails to trouble Antonio Adan.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) latches on to a pass on the edge of the box, but he can't get any power into the shot and fails to trouble [PLAYER_tbjcsOoa].",
+            "anonymized": "[PLAYER] ([TEAM]) latches on to a pass on the edge of the box, but he can't get any power into the shot and fails to trouble [PLAYER].",
+            "visibility": "shown",
+            "position": "279000",
+            "event_aligned_gameTime": "2 - 04:40",
+            "contrastive_aligned_gameTime": "2 - 04:32"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 04:07",
+            "label": "",
+            "description": "Goal! No, wait. It's disallowed for a foul by Arda Turan (Barcelona).",
+            "identified": "Goal! No, wait. It's disallowed for a foul by [PLAYER_K0HKnqmK] ([TEAM_]).",
+            "anonymized": "Goal! No, wait. It's disallowed for a foul by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "247000",
+            "event_aligned_gameTime": "2 - 04:10",
+            "contrastive_aligned_gameTime": "2 - 03:58"
+        },
+        {
+            "important": false,
+            "gameTime": "2 - 02:07",
+            "label": "",
+            "description": "An attempted cross from Sergi Roberto (Barcelona) is cleared.",
+            "identified": "An attempted cross from [PLAYER_W2R804U4] ([TEAM_]) is cleared.",
+            "anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared.",
+            "visibility": "shown",
+            "position": "127000",
+            "event_aligned_gameTime": "2 - 01:50",
+            "contrastive_aligned_gameTime": "2 - 02:12"
+        },
+        {
+            "important": true,
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle to signal the start of the second half.",
+            "identified": "The referee blows his whistle to signal the start of the second half.",
+            "anonymized": "The referee blows his whistle to signal the start of the second half.",
+            "visibility": "shown",
+            "position": "1000",
+            "event_aligned_gameTime": "2 - 00:10",
+            "contrastive_aligned_gameTime": "2 - 00:01"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "The fans must be pleased so far with the entertainment on the pitch. Let's hope the players don't lose their passion and determination during the half-time break. The home side were more active and dominant in the first half. The opposition found it tough to keep up. The home team makes a lot of passes and attempts to maintain possession. The same goes for the away side.",
+            "identified": "The fans must be pleased so far with the entertainment on the pitch. Let's hope the players don't lose their passion and determination during the half-time break. The home side were more active and dominant in the first half. The opposition found it tough to keep up. The home team makes a lot of passes and attempts to maintain possession. The same goes for the away side.",
+            "anonymized": "The fans must be pleased so far with the entertainment on the pitch. Let's hope the players don't lose their passion and determination during the half-time break. The home side were more active and dominant in the first half. The opposition found it tough to keep up. The home team makes a lot of passes and attempts to maintain possession. The same goes for the away side.",
+            "visibility": "shown",
+            "position": "2819000",
+            "event_aligned_gameTime": "1 - 45:55",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 46:06",
+            "label": "whistle",
+            "description": "The end of the first half.",
+            "identified": "The end of the first half.",
+            "anonymized": "The end of the first half.",
+            "visibility": "shown",
+            "position": "2766000",
+            "event_aligned_gameTime": "1 - 45:50",
+            "contrastive_aligned_gameTime": ""
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 44:45",
+            "label": "y-card",
+            "description": "What was Alvaro Cejudo (Betis) thinking? He will not get away with that. The referee shows him a yellow card.",
+            "identified": "What was [PLAYER_SEMyNX6C] ([TEAM_]) thinking? He will not get away with that. The referee shows him a yellow card.",
+            "anonymized": "What was [PLAYER] ([TEAM]) thinking? He will not get away with that. The referee shows him a yellow card.",
+            "visibility": "shown",
+            "position": "2685000",
+            "event_aligned_gameTime": "1 - 44:30",
+            "contrastive_aligned_gameTime": "1 - 44:46"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 43:54",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) is penalised after knocking an opponent down.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) is penalised after knocking an opponent down.",
+            "anonymized": "[PLAYER] ([TEAM]) is penalised after knocking an opponent down.",
+            "visibility": "shown",
+            "position": "2634000",
+            "event_aligned_gameTime": "1 - 43:40",
+            "contrastive_aligned_gameTime": "1 - 43:13"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 41:50",
+            "label": "soccer-ball",
+            "description": "Goal! Sergi Roberto plays a pass to the feet of Luis Suarez (Barcelona), and he shoots into the bottom left corner from inside the box. It's 3:1.",
+            "identified": "Goal! [PLAYER_W2R804U4] plays a pass to the feet of [PLAYER_xWwucZ71] ([TEAM_]), and he shoots into the bottom left corner from inside the box. It's 3:1.",
+            "anonymized": "Goal! [PLAYER] plays a pass to the feet of [PLAYER] ([TEAM]), and he shoots into the bottom left corner from inside the box. It's 3:1.",
+            "visibility": "shown",
+            "position": "2510000",
+            "event_aligned_gameTime": "1 - 41:40",
+            "contrastive_aligned_gameTime": "1 - 41:41"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 39:58",
+            "label": "",
+            "description": "A pass from Sergi Roberto (Barcelona) is intercepted by Antonio Adan and the move breaks down.",
+            "identified": "A pass from [PLAYER_W2R804U4] ([TEAM_]) is intercepted by [PLAYER_tbjcsOoa] and the move breaks down.",
+            "anonymized": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down.",
+            "visibility": "shown",
+            "position": "2398000",
+            "event_aligned_gameTime": "1 - 39:50",
+            "contrastive_aligned_gameTime": "1 - 39:34"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 36:50",
+            "label": "soccer-ball",
+            "description": "Lionel Messi (Barcelona) collected a pass and decided to shoot from about 21 metres out. He hit it perfectly! The ball zoomed around the goalkeeper and ended up inside the left post.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) collected a pass and decided to shoot from about 21 metres out. He hit it perfectly! The ball zoomed around the goalkeeper and ended up inside the left post.",
+            "anonymized": "[PLAYER] ([TEAM]) collected a pass and decided to shoot from about 21 metres out. He hit it perfectly! The ball zoomed around the goalkeeper and ended up inside the left post.",
+            "visibility": "shown",
+            "position": "2210000",
+            "event_aligned_gameTime": "1 - 36:50",
+            "contrastive_aligned_gameTime": "1 - 36:43"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 35:26",
+            "label": "substitution",
+            "description": "The manager has been forced to make a substitution and the injured Jonas Martin leaves the pitch to be replaced by Daniel Ceballos (Betis).",
+            "identified": "The manager has been forced to make a substitution and the injured [PLAYER_tQMgOwhG] leaves the pitch to be replaced by [PLAYER_zPYmze7F] ([TEAM_]).",
+            "anonymized": "The manager has been forced to make a substitution and the injured [PLAYER] leaves the pitch to be replaced by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "2126000",
+            "event_aligned_gameTime": "1 - 35:30",
+            "contrastive_aligned_gameTime": "1 - 34:56"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 34:16",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) robs an opponent of the ball and explodes in anger when Alberto Undiano Mallenco blows for a foul.",
+            "identified": "[PLAYER_42SIX9sl] ([TEAM_]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul.",
+            "anonymized": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul.",
+            "visibility": "shown",
+            "position": "2056000",
+            "event_aligned_gameTime": "1 - 34:10",
+            "contrastive_aligned_gameTime": "1 - 33:32"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 32:31",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) commits a rough challenge and Alberto Undiano Mallenco blows his whistle for an infringement.",
+            "identified": "[PLAYER_fRBrHCRh] ([TEAM_]) commits a rough challenge and [REFEREE] blows his whistle for an infringement.",
+            "anonymized": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for an infringement.",
+            "visibility": "shown",
+            "position": "1951000",
+            "event_aligned_gameTime": "1 - 32:30",
+            "contrastive_aligned_gameTime": "1 - 33:10"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 29:31",
+            "label": "",
+            "description": "What a chance that is! Lionel Messi (Barcelona) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the crossbar!",
+            "identified": "What a chance that is! [PLAYER_vgOOdZbd] ([TEAM_]) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the crossbar!",
+            "anonymized": "What a chance that is! [PLAYER] ([TEAM]) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the crossbar!",
+            "visibility": "shown",
+            "position": "1771000",
+            "event_aligned_gameTime": "1 - 29:30",
+            "contrastive_aligned_gameTime": "1 - 29:37"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 29:14",
+            "label": "corner",
+            "description": "The resulting corner, taken by Ivan Rakitic (Barcelona), comes to nothing.",
+            "identified": "The resulting corner, taken by [PLAYER_pC6dfyG5] ([TEAM_]), comes to nothing.",
+            "anonymized": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing.",
+            "visibility": "shown",
+            "position": "1754000",
+            "event_aligned_gameTime": "1 - 28:40",
+            "contrastive_aligned_gameTime": "1 - 28:26"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:57",
+            "label": "",
+            "description": "Samuel Umtiti (Barcelona) gets himself onto the end of the corner, but his header is blocked. Barcelona earn a corner.",
+            "identified": "[PLAYER_zsH7aMfI] ([TEAM_]) gets himself onto the end of the corner, but his header is blocked. [TEAM_] earn a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) gets himself onto the end of the corner, but his header is blocked. [TEAM] earn a corner.",
+            "visibility": "shown",
+            "position": "1737000",
+            "event_aligned_gameTime": "1 - 28:40",
+            "contrastive_aligned_gameTime": "1 - 28:52"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:32",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "anonymized": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "visibility": "shown",
+            "position": "1712000",
+            "event_aligned_gameTime": "1 - 28:30",
+            "contrastive_aligned_gameTime": "1 - 28:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 28:11",
+            "label": "",
+            "description": "This shall not pass! Denis Suarez (Barcelona) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. Barcelona have a corner.",
+            "identified": "This shall not pass! [PLAYER_xWwucZ71] ([TEAM_]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. [TEAM_] have a corner.",
+            "anonymized": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. [TEAM] have a corner.",
+            "visibility": "shown",
+            "position": "1691000",
+            "event_aligned_gameTime": "1 - 28:10",
+            "contrastive_aligned_gameTime": "1 - 27:58"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 27:52",
+            "label": "",
+            "description": "One of the Betis players tripped an opponent and conceded a foul.",
+            "identified": "One of the [TEAM_] players tripped an opponent and conceded a foul.",
+            "anonymized": "One of the [TEAM] players tripped an opponent and conceded a foul.",
+            "visibility": "shown",
+            "position": "1672000",
+            "event_aligned_gameTime": "1 - 27:40",
+            "contrastive_aligned_gameTime": "1 - 27:50"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 25:34",
+            "label": "",
+            "description": "Sergi Roberto slides a brilliant pass into Arda Turan (Barcelona), but his shot from inside the box goes a whisker wide of the right post.",
+            "identified": "[PLAYER_W2R804U4] slides a brilliant pass into [PLAYER_K0HKnqmK] ([TEAM_]), but his shot from inside the box goes a whisker wide of the right post.",
+            "anonymized": "[PLAYER] slides a brilliant pass into [PLAYER] ([TEAM]), but his shot from inside the box goes a whisker wide of the right post.",
+            "visibility": "shown",
+            "position": "1534000",
+            "event_aligned_gameTime": "1 - 25:10",
+            "contrastive_aligned_gameTime": "1 - 25:29"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 23:12",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) rises highest from the corner to head at goal, but his effort towards the underside of the crossbar is brilliantly kept out by the goalkeeper.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) rises highest from the corner to head at goal, but his effort towards the underside of the crossbar is brilliantly kept out by the goalkeeper.",
+            "anonymized": "[PLAYER] ([TEAM]) rises highest from the corner to head at goal, but his effort towards the underside of the crossbar is brilliantly kept out by the goalkeeper.",
+            "visibility": "shown",
+            "position": "1392000",
+            "event_aligned_gameTime": "1 - 23:10",
+            "contrastive_aligned_gameTime": "1 - 23:10"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:45",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) will take the corner.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) will take the corner.",
+            "anonymized": "[PLAYER] ([TEAM]) will take the corner.",
+            "visibility": "shown",
+            "position": "1365000",
+            "event_aligned_gameTime": "1 - 22:30",
+            "contrastive_aligned_gameTime": "1 - 22:48"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 22:30",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders. The ball is out of play and Barcelona manage to earn a corner.",
+            "identified": "[PLAYER_42SIX9sl] ([TEAM_]) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders. The ball is out of play and [TEAM_] manage to earn a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders. The ball is out of play and [TEAM] manage to earn a corner.",
+            "visibility": "shown",
+            "position": "1350000",
+            "event_aligned_gameTime": "1 - 22:00",
+            "contrastive_aligned_gameTime": "1 - 21:45"
+        },
+        {
+            "important": true,
+            "gameTime": "1 - 20:40",
+            "label": "soccer-ball",
+            "description": "Ruben Castro (Betis) sets the ball for the free kick and fires in a beautiful strike, which nestles exactly in the top right corner.",
+            "identified": "[PLAYER_Am1OnaHH] ([TEAM_]) sets the ball for the free kick and fires in a beautiful strike, which nestles exactly in the top right corner.",
+            "anonymized": "[PLAYER] ([TEAM]) sets the ball for the free kick and fires in a beautiful strike, which nestles exactly in the top right corner.",
+            "visibility": "shown",
+            "position": "1240000",
+            "event_aligned_gameTime": "1 - 20:30",
+            "contrastive_aligned_gameTime": "1 - 20:30"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 20:10",
+            "label": "",
+            "description": "Ruben Castro (Betis) will take the free kick.",
+            "identified": "[PLAYER_Am1OnaHH] ([TEAM_]) will take the free kick.",
+            "anonymized": "[PLAYER] ([TEAM]) will take the free kick.",
+            "visibility": "shown",
+            "position": "1210000",
+            "event_aligned_gameTime": "1 - 19:30",
+            "contrastive_aligned_gameTime": "1 - 19:36"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 19:27",
+            "label": "",
+            "description": "Denis Suarez (Barcelona) brings his opponent down with a tackle and Alberto Undiano Mallenco blows his whistle for a foul. A free kick is awarded to Betis.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul. A free kick is awarded to [TEAM_].",
+            "anonymized": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul. A free kick is awarded to [TEAM].",
+            "visibility": "shown",
+            "position": "1167000",
+            "event_aligned_gameTime": "1 - 19:20",
+            "contrastive_aligned_gameTime": "1 - 18:53"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 18:40",
+            "label": "",
+            "description": "Alvaro Cejudo (Betis) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",
+            "identified": "[PLAYER_SEMyNX6C] ([TEAM_]) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",
+            "anonymized": "[PLAYER] ([TEAM]) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",
+            "visibility": "shown",
+            "position": "1120000",
+            "event_aligned_gameTime": "1 - 18:30",
+            "contrastive_aligned_gameTime": "1 - 18:32"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 17:07",
+            "label": "",
+            "description": "The game is interrupted, a clear handball by Sergi Roberto (Barcelona).",
+            "identified": "The game is interrupted, a clear handball by [PLAYER_W2R804U4] ([TEAM_]).",
+            "anonymized": "The game is interrupted, a clear handball by [PLAYER] ([TEAM]).",
+            "visibility": "shown",
+            "position": "1027000",
+            "event_aligned_gameTime": "1 - 17:00",
+            "contrastive_aligned_gameTime": "1 - 16:48"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 14:21",
+            "label": "",
+            "description": "Great ball in from Lionel Messi. Luis Suarez (Barcelona) should really have done better with a close-range header, but he heads it a whisker wide of the left post.",
+            "identified": "Great ball in from [PLAYER_vgOOdZbd]. [PLAYER_xWwucZ71] ([TEAM_]) should really have done better with a close-range header, but he heads it a whisker wide of the left post.",
+            "anonymized": "Great ball in from [PLAYER]. [PLAYER] ([TEAM]) should really have done better with a close-range header, but he heads it a whisker wide of the left post.",
+            "visibility": "shown",
+            "position": "861000",
+            "event_aligned_gameTime": "1 - 13:30",
+            "contrastive_aligned_gameTime": "1 - 14:09"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 13:48",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "identified": "[PLAYER_pC6dfyG5] ([TEAM_]) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "anonymized": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "visibility": "shown",
+            "position": "828000",
+            "event_aligned_gameTime": "1 - 13:20",
+            "contrastive_aligned_gameTime": "1 - 13:39"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:19",
+            "label": "corner",
+            "description": "Lionel Messi (Barcelona) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "identified": "[PLAYER_vgOOdZbd] ([TEAM_]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "anonymized": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "visibility": "shown",
+            "position": "619000",
+            "event_aligned_gameTime": "1 - 10:10",
+            "contrastive_aligned_gameTime": "1 - 09:45"
+        },
+        {
+            "important": false,
+            "gameTime": "1 - 10:00",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. The ball is out of play. Barcelona will have a chance to score from a corner.",
+            "identified": "[PLAYER_xWwucZ71] ([TEAM_]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. The ball is out of play. [TEAM_] will have a chance to score from a corner.",
+            "anonymized": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. The ball is out of play. [TEAM] will have a chance to score from a corner.",
+            "visibility": "shown",
+            "position": "600000",
+            "event_aligned_gameTime": "1 - 10:00",
+            "contrastive_aligned_gameTime": "1 - 09:36"
+        }
+    ]
+}
